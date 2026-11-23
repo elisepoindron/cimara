@@ -6,6 +6,7 @@ import { saveTrack } from '../../db/track.ts'
 import { activityOf } from '../../domain/activities/index.ts'
 import { gradeBoundsOf, type Part } from '../../domain/facts.ts'
 import type { OsmRow } from './source.ts'
+import { osmItineraryId } from './stable-id.ts'
 import {
   translateOsm, type BoulderMember, type DemoPlace, type OsmRefusal, type OsmTranslated, type OsmVocabulary, type WrittenParts,
 } from './translate.ts'
@@ -81,7 +82,8 @@ const CLIMBING = new Set(['falesia', 'multipitch', 'bouldering'])
 async function write(db: Db, t: Extract<OsmTranslated, { ok: true }>): Promise<void> {
   const it = t.itinerary!
   await db.tx(async () => {
-    const id = crypto.randomUUID()
+    // The same on every build, so the page's address survives a rebuild.
+    const id = osmItineraryId(t.place.osm)
     await insertItinerary(db, { id, ...it })
     const parts: Part[] = t.parts.map(p => ({ ...p, id: crypto.randomUUID() }))
     for (const part of parts) {

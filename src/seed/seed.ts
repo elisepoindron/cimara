@@ -112,6 +112,12 @@ export interface SeedOptions {
   readonly photosDir?: string
   /** The folder the seed's GPX tracks are read from. */
   readonly tracksDir?: string
+  /**
+   * The id a new route is given, by its key, where the caller has one to give:
+   * the demo's build gives each route an id that is the same on every build.
+   * Without one, or for a key it does not know, a route's id is drawn.
+   */
+  readonly itineraryId?: (key: string) => string | undefined
 }
 
 /** The most photos one report holds, the same six a gita may carry (migration 010). */
@@ -271,7 +277,7 @@ export async function seed(db: Db, dirs?: string | readonly string[], options: S
         resolveFacts(activityOf(it.activity), it.facts ?? {}, parts)
         resolveAccessFacts(activityOf(it.activity), it.facts ?? {}, parts)
 
-        const id = crypto.randomUUID()
+        const id = options.itineraryId?.(it.key) ?? crypto.randomUUID()
         await insertItinerary(db, {
           id, activity: it.activity, placeId, name: it.name,
           lat: it.lat ?? null, lon: it.lon ?? null,
