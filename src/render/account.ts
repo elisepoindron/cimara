@@ -101,6 +101,21 @@ export interface SignInOpts {
   readonly next?: string
 }
 
+/**
+ * The public demonstration's way in: no address, no password, one button into
+ * the account every visitor shares, and what that means said beside it.
+ */
+export function visitorSignInPage(opts: { readonly csrf: string; readonly next?: string | undefined }): string {
+  return page('Accedi', 'Entra come visitatore', html`<form method="post" action="/accedi">
+    <input type="hidden" name="csrf" value="${opts.csrf}">
+    ${opts.next ? html`<input type="hidden" name="next" value="${opts.next}">` : null}
+    <p class="acc__note">Un solo account, condiviso da chi visita ${brand().name}: scrivi una relazione con le foto, ritirala, salva gli itinerari che vuoi fare.</p>
+    <button type="submit">Entra come visitatore</button>
+  </form>`, html`<h2>Una dimostrazione</h2>
+  <p class="acc__note">Quello che scrivi lo leggono tutti, e si cancella a ogni riavvio. Non scrivere dati personali.</p>
+  <p class="acc__note">Le relazioni e le ricerche che ${brand().name} non capisce sono lette da un modello di Anthropic, nei limiti di un budget orario.</p>`)
+}
+
 export function signInPage(opts: SignInOpts): string {
   return page('Accedi', 'Entra nel tuo account', html`<form method="post" action="/accedi" novalidate>
     <input type="hidden" name="csrf" value="${opts.csrf}">

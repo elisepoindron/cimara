@@ -15,6 +15,13 @@ export interface NewAccount {
 }
 
 /**
+ * The public demonstration's one account, shared by every visitor: no one
+ * signs up there, and nobody's address is kept. An `.invalid` address, which
+ * can never be anybody's.
+ */
+export const VISITOR_EMAIL = 'visitatore@demo.invalid'
+
+/**
  * An address is not case-sensitive, and the unique index compares the strings it
  * was given — so normalising here is what actually stops Elise@ and elise@
  * becoming two accounts.
@@ -72,11 +79,14 @@ export async function recentSignInFailures(
 }
 
 /**
- * Whether anybody holds an account here, or ever filed a gita. A demo build
- * has neither; an archive people use has both. The OpenStreetMap importer asks
+ * Whether anybody holds an account here, or ever filed a gita, the public
+ * demonstration's shared visitor aside. A demo build has neither; an archive
+ * people use has both. The OpenStreetMap importer asks
  * before it writes anything (src/import/osm/guard.ts).
  */
 export async function holdsPeople(db: Db): Promise<boolean> {
-  return (await db.get('select 1 from account limit 1')) !== undefined
-    || (await db.get('select 1 from gita limit 1')) !== undefined
+  // The demonstration's shared visitor is nobody: a demo it wrote into is still a demo.
+  return (await db.get('select 1 from account where email <> ? limit 1', [VISITOR_EMAIL])) !== undefined
+    || (await db.get(`select 1 from gita where account_id not in (select id from account where email = ?) limit 1`,
+      [VISITOR_EMAIL])) !== undefined
 }

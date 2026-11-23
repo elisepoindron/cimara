@@ -2,7 +2,7 @@ import { randomBytes } from 'node:crypto'
 import type { Db } from '../db/open.ts'
 import {
   findAccountByEmail, findAccountById, insertAccount, recordSignInFailure,
-  recentSignInFailures, type AccountRow,
+  recentSignInFailures, VISITOR_EMAIL, type AccountRow,
 } from '../db/account.ts'
 import {
   insertSession, findLiveSession, deleteSession, type NewSession,
@@ -108,6 +108,28 @@ export async function signIn(
   await insertSession(db, session)
 
   return { ok: true, accountId: account.id, session }
+}
+
+/** The name every visitor of the public demonstration writes under. */
+export const VISITOR_NAME = 'Visitatore'
+
+/**
+ * Signs a visitor of the public demonstration into its one shared account,
+ * made the first time anyone enters. Its password is random and never kept,
+ * so this is the only way in: nobody can sign in to it by address.
+ */
+export async function visitorSignIn(db: Db, now: Date): Promise<{ readonly accountId: string; readonly session: NewSession }> {
+  let account = await findAccountByEmail(db, VISITOR_EMAIL)
+  if (!account) {
+    await insertAccount(db, {
+      id: crypto.randomUUID(), email: VISITOR_EMAIL,
+      passwordHash: await hashPassword(randomBytes(32).toString('hex')), displayName: VISITOR_NAME,
+    })
+    account = (await findAccountByEmail(db, VISITOR_EMAIL))!
+  }
+  const session = newSession(account.id, now)
+  await insertSession(db, session)
+  return { accountId: account.id, session }
 }
 
 export async function signOut(db: Db, sessionId: string): Promise<void> {

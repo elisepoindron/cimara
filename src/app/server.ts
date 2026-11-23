@@ -21,7 +21,7 @@ import { giteListPage } from '../render/gite-list-page.ts'
 import { findPage } from '../render/find-page.ts'
 import { homePage } from '../render/home-page.ts'
 import { homeRoutes } from './home.ts'
-import { signUpPage, signInPage } from '../render/account.ts'
+import { signUpPage, signInPage, visitorSignInPage } from '../render/account.ts'
 import { html, render } from '../render/html.ts'
 import { ALT_TOLERANCE_M, MAP_NEIGHBOUR_RADIUS_M, NEIGHBOUR_RADIUS_M } from './conditions.ts'
 import { fileFromForm, retract, dayOf, sweepExpiredPendingPhotos, uploadPendingPhotos } from './gite.ts'
@@ -41,7 +41,8 @@ import {
   BodyTooLarge, SESSION_COOKIE, secureCookies, readMultipartBody, MAX_PHOTO_BODY_BYTES,
   type UploadedFile,
 } from './http.ts'
-import { signUp, signIn, signOut, accountForSession, SESSION_DAYS } from './accounts.ts'
+import { signUp, signIn, signOut, accountForSession, visitorSignIn, SESSION_DAYS } from './accounts.ts'
+import { budget, type Budget, type Limits } from './model-budget.ts'
 import type { AccountRow } from '../db/account.ts'
 import type { PhotoStore } from './photo-store.ts'
 import { filesystemPhotoStore, mimeForExt } from './photo-store.ts'
@@ -57,7 +58,7 @@ import { trackFor } from '../db/track.ts'
 import { synthesisFor } from '../db/synthesis.ts'
 import { accessTokenOf, type AccessGate } from './access.ts'
 import { brand, configureSite, site } from '../render/site.ts'
-import { readOnlyPage } from '../render/read-only-page.ts'
+import { demoBusyPage } from '../render/demo-pages.ts'
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..', '..')
 const TYPES: Record<string, string> = {
@@ -99,6 +100,9 @@ export function createServer(
   versionAssets(VERSIONS)
   // Every page this server draws says whether it is the demonstration.
   configureSite({ demo: options.publicDemo === true })
+  const demo: DemoState | null = options.publicDemo === true
+    ? { reports: budget(options.demoLimits?.reports ?? DEMO_REPORTS), photos: budget(options.demoLimits?.photos ?? DEMO_PHOTOS) }
+    : null
   return http.createServer(async (req, res) => {
     try {
       // Before anything else, static files included: a deploy behind
@@ -107,7 +111,7 @@ export function createServer(
         return send(res, 403, HTML, render(html`<html lang="it"><title>Accesso riservato</title>
           <p>Questa versione di ${brand().name} è riservata a chi è stato invitato.</p>`))
       }
-      await route(db, photos, pendingPhotos, callModel, fetchWeather, rewriteLine, fetchTrail, req, res)
+      await route(db, photos, pendingPhotos, callModel, fetchWeather, rewriteLine, fetchTrail, req, res, demo)
     } catch (err) {
       console.error(err)
       // A throw after headers are already on the wire (a partial send, then an
@@ -121,17 +125,29 @@ export function createServer(
 export interface ServerOptions {
   /**
    * The public demonstration (`PUBLIC_DEMO=1`): every page says what is
-   * invented, and nothing is taken in — no account, no report, no star.
+   * invented; nobody signs up, every visitor enters one shared account
+   * (`visitorSignIn`), and what they write is kept only until a restart.
    */
   readonly publicDemo?: boolean
+  /** The demonstration's ceilings on reports filed and photos sent; tests set their own. */
+  readonly demoLimits?: { readonly reports?: Limits; readonly photos?: Limits }
 }
 
 /**
- * Where the archive takes something in. In the demonstration each answers
- * with a page saying it is only for reading: to a GET, as any page; to a
- * post, the same page refused, since nothing was done.
+ * Paid model calls on the demonstration, Find's and the report reading's
+ * together: a reading can take three (read, merge, check), a rewrite one.
  */
-const WRITES = /^\/(?:registrati|accedi|esci|gita(?:\/.*)?|preferiti(?:\/.*)?)$/
+const DEMO_MODEL_CALLS: Limits = { perMinute: 6, perHour: 40, perDay: 150 }
+
+/** What strangers may write on the demonstration before it asks them to come back later. */
+const DEMO_REPORTS: Limits = { perMinute: 5, perHour: 30, perDay: 150 }
+/** Each upload carries up to six photos of up to 8 MB, on the container's own disk. */
+const DEMO_PHOTOS: Limits = { perMinute: 3, perHour: 15, perDay: 60 }
+
+interface DemoState {
+  readonly reports: Budget
+  readonly photos: Budget
+}
 
 /** Who — if anyone — a request's session cookie authenticates, plus the pieces
  * every account-route handler needs: the database, the photo store, the
@@ -173,7 +189,7 @@ const ROUTES: Record<string, RouteDef> = {
 async function route(
   db: Db, photos: PhotoStore, pendingPhotos: PhotoStore, callModel: CallModel | null,
   fetchWeather: FetchWeather | null, rewriteLine: RewriteLine | null, fetchTrail: FetchTrail | null,
-  req: http.IncomingMessage, res: http.ServerResponse,
+  req: http.IncomingMessage, res: http.ServerResponse, demo: DemoState | null = null,
 ) {
   const url = new URL(req.url ?? '/', 'http://localhost')
   const path = url.pathname
@@ -190,7 +206,16 @@ async function route(
 
   const ctx: Ctx = { db, photos, pendingPhotos, callModel, fetchWeather, rewriteLine, fetchTrail, req, res, url, account, csrf }
 
-  if (site().demo && WRITES.test(path)) return send(res, method === 'GET' ? 200 : 403, HTML, readOnlyPage())
+  if (demo) {
+    // Nobody signs up on the demonstration: there is one account, entered here.
+    if (path === '/registrati') return redirect(res, 303, '/accedi')
+    if (path === '/accedi') {
+      if (method === 'GET') return getVisitorSignIn(ctx)
+      if (method === 'POST') return postVisitorSignIn(ctx)
+    }
+    if (method === 'POST' && path === '/gita' && !demo.reports.take()) return send(res, 429, HTML, demoBusyPage())
+    if (method === 'POST' && path === '/gita/foto' && !demo.photos.take()) return send(res, 429, HTML, demoBusyPage())
+  }
 
   const known = ROUTES[path]
   if (known) {
@@ -385,6 +410,20 @@ async function postSignIn(ctx: Ctx) {
 
   ctx.res.appendHeader('Set-Cookie', sessionCookieHeader(result.session.id))
   redirect(ctx.res, 303, next)
+}
+
+async function getVisitorSignIn(ctx: Ctx) {
+  const next = safeNext(ctx.url.searchParams.get('next'))
+  send(ctx.res, 200, HTML, visitorSignInPage({ csrf: ctx.csrf, next: next === '/' ? undefined : next }))
+}
+
+async function postVisitorSignIn(ctx: Ctx) {
+  const parsed = await parseBody(ctx.req)
+  if (!parsed.ok) return errorPage(ctx.res, parsed.status)
+  if (!csrfOk(ctx.req, parsed.fields)) return errorPage(ctx.res, 403)
+  const { session } = await visitorSignIn(ctx.db, new Date())
+  ctx.res.appendHeader('Set-Cookie', sessionCookieHeader(session.id))
+  redirect(ctx.res, 303, safeNext(parsed.fields.get('next')))
 }
 
 async function postSignOut(ctx: Ctx) {
@@ -941,7 +980,14 @@ if (import.meta.filename === process.argv[1]) {
   // The public demonstration must never be the private archive opened to all.
   const publicDemo = process.env.PUBLIC_DEMO === '1'
   if (publicDemo) publicDemoSet()
-  if (publicDemo) console.log(`public demonstration: read-only, as ${brand().name}`)
+  if (publicDemo) {
+    console.log(`public demonstration, as ${brand().name}: one shared visitor account, everything written kept until a restart`)
+    // Strangers spend the key here: Find's rewriting and the report reading share one ceiling.
+    const { limitCallModel, limitRewriteLine } = await import('./model-budget.ts')
+    const models = budget(DEMO_MODEL_CALLS)
+    if (callModel) callModel = limitCallModel(callModel, models)
+    if (rewriteLine) rewriteLine = limitRewriteLine(rewriteLine, models)
+  }
 
   const port = Number(process.env.PORT ?? 3000)
   createServer(db, photoStore, pendingPhotoStore, callModel, realFetchWeather, rewriteLine, realFetchTrail, access, { publicDemo })
@@ -951,6 +997,10 @@ if (import.meta.filename === process.argv[1]) {
   // filing ever regenerated. After listen, never awaited: requests do not wait
   // on it, and until it reaches a route the page says its themes are not yet
   // gathered, exactly as it did before.
-  backfillSyntheses(db, callModel, () => new Date())
-    .catch(err => console.error('synthesis backfill failed:', err))
+  // Not on the demonstration, whose build read every report it holds: what
+  // its budget allows is for what visitors write.
+  if (!publicDemo) {
+    backfillSyntheses(db, callModel, () => new Date())
+      .catch(err => console.error('synthesis backfill failed:', err))
+  }
 }

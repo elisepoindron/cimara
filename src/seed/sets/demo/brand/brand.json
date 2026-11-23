@@ -15,9 +15,12 @@
     ]
   },
   "privacy": {
-    "line": "Un cookie tecnico, nessun account, nessuna pubblicità.",
+    "line": "Un account condiviso, due cookie tecnici, nessuna pubblicità.",
     "paragraphs": [
-      "Questa dimostrazione usa un solo cookie tecnico, che protegge i moduli da richieste inviate da altri siti. Non ci sono account, cookie di profilazione o pubblicità.",
+      "Questa dimostrazione non chiede a nessuno di registrarsi: chi vuole scrivere entra come visitatore, in un solo account condiviso da tutti. Non conserva indirizzi email né password.",
+      "Usa due cookie tecnici: uno protegge i moduli da richieste inviate da altri siti, l'altro tiene aperta la sessione da visitatore, se ci entri. Nessun cookie di profilazione, nessuna pubblicità.",
+      "Le relazioni, le foto e i preferiti che i visitatori lasciano li vedono tutti, e si cancellano a ogni riavvio del servizio. Non scrivere dati personali e non caricare foto di persone riconoscibili.",
+      "Il testo delle relazioni scritte qui e le ricerche che Trova non capisce sono inviati ad Anthropic, che li legge con un modello per raccoglierne i temi e riformulare la ricerca.",
       "Le mappe sono disegnate dal tuo browser con tessere di servizi esterni (OpenFreeMap, Mapterhorn, OpenTopoMap), che ricevono il tuo indirizzo IP come ogni sito che visiti."
     ]
   }
