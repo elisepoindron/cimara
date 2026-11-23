@@ -35,6 +35,7 @@ import { readExtract, type OsmRow } from '../import/osm/source.ts'
 import { tellNamesApart } from '../import/osm/names.ts'
 import { importOsm, osmVocabulary, type OsmImportResult } from '../import/osm/run.ts'
 import { translateOsm, type DemoPlace } from '../import/osm/translate.ts'
+import { osmItineraryId } from '../import/osm/stable-id.ts'
 import { compose, readContent, type ContentFile, type DemoItinerary } from './content.ts'
 import { replayedModel } from './replayed-model.ts'
 
@@ -192,7 +193,13 @@ export async function buildDemo(db: Db, input: DemoBuildInput): Promise<DemoBuil
     try {
       await writeFile(join(dir, 'content.json'), JSON.stringify({ itineraries: toWrite.map(w => w.itinerary) }))
       // The gazetteer again, beside the content: the seed resolves a comune's key from the files it reads.
-      add(await seed(db, [dir, sharedDir], { photos: input.photos ?? null, ...(input.photosDir ? { photosDir: input.photosDir } : {}) }))
+      // Each route's id from its OpenStreetMap id, as the importer gives the rest:
+      // a page's address is the same on every build.
+      const osmOf = new Map(toWrite.map(w => [w.itinerary.key, w.content.osm]))
+      add(await seed(db, [dir, sharedDir], {
+        photos: input.photos ?? null, ...(input.photosDir ? { photosDir: input.photosDir } : {}),
+        itineraryId: key => { const osm = osmOf.get(key); return osm === undefined ? undefined : osmItineraryId(osm) },
+      }))
     } finally {
       await rm(dir, { recursive: true, force: true })
     }

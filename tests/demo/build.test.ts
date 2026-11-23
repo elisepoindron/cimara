@@ -15,6 +15,7 @@ import { READING } from '../../src/app/synthesis.ts'
 import { buildDemo, demoReportOf, DemoContentError, selectionFromTiers } from '../../src/demo/build.ts'
 import { compose, readContent, type ContentFile } from '../../src/demo/content.ts'
 import type { DemoPlace } from '../../src/import/osm/translate.ts'
+import { osmItineraryId } from '../../src/import/osm/stable-id.ts'
 
 const OSM = fileURLToPath(new URL('../fixtures/osm/', import.meta.url))
 const CONTENT = fileURLToPath(new URL('../fixtures/demo/content/', import.meta.url))
@@ -277,4 +278,15 @@ test('the build script never replaces a database people use', async () => {
   } finally {
     await rm(dir, { recursive: true, force: true })
   }
+})
+
+test('every page keeps its address from one build to the next', async () => {
+  const first = await build(), second = await build()
+  const ids = async (db: typeof first.db) => (await allItineraries(db)).map(i => `${i.name} ${i.id}`).sort()
+  assert.deepEqual(await ids(second.db), await ids(first.db))
+  // Each id is its place's OpenStreetMap id, through osmItineraryId: with content or measured alone.
+  const byName = new Map((await allItineraries(first.db)).map(i => [i.name, i.id]))
+  const places = [...first.result.withContent, ...first.result.measured.written]
+  assert.ok(first.result.withContent.length > 0 && first.result.measured.written.length > 0)
+  for (const p of places) assert.equal(byName.get(p.name), osmItineraryId(p.osm), p.name)
 })

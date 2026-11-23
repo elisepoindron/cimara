@@ -7,7 +7,7 @@ taken from OpenStreetMap; the descriptions, the crags' routes and every report a
 for the demo, and say nothing about the real conditions of any place. The interface is in
 Italian, because the archive is written for Italian climbers.
 
-**Live demo:** _(link to come)_
+**Live demo:** [cimara-production.up.railway.app](https://cimara-production.up.railway.app/)
 
 ## The idea
 
@@ -39,16 +39,16 @@ A climber reads the rest better than any formula.
 
 Ten places carry the most content, one or more per activity. Start with them:
 
-- [Corno di Machaby](#) — falesia, Arnad
-- [Palestra di roccia di Traversella](#) — falesia, Traversella
-- [El Coup de Roure](#) — falesia, Sampeyre
-- [Via Yoghi](#) — multipitch, Ceresole Reale
-- [Pietra Alta](#) — bouldering, Caselette
-- [Via Ferrata Carlo Giorda](#) — via ferrata, Sant'Ambrogio di Torino
-- [Rifugio Deffeyes – Tête du Rutor](#) — sci alpinismo, La Thuile
-- [Alta Via n. 2 della Valle d'Aosta – Tappa 10](#) — escursionismo, Cogne
-- [Via Francigena – 01 Valle d'Aosta](#) — escursionismo, Saint-Oyen
-- [Jafferau](#) — mountain bike, Bardonecchia
+- [Corno di Machaby](https://cimara-production.up.railway.app/itinerario/578a22ee-871f-5876-9cc2-ac415e0bd31c) — falesia, Arnad
+- [Palestra di roccia di Traversella](https://cimara-production.up.railway.app/itinerario/4b295c96-b4f9-59b7-9b22-609a7903a4b4) — falesia, Traversella
+- [El Coup de Roure](https://cimara-production.up.railway.app/itinerario/75c0f391-ae54-582b-b26f-f9cb1d7a26dc) — falesia, Sampeyre
+- [Via Yoghi](https://cimara-production.up.railway.app/itinerario/74e5a4ab-e96a-5ddd-9096-98c433afa211) — multipitch, Ceresole Reale
+- [Pietra Alta](https://cimara-production.up.railway.app/itinerario/c63fe45e-9a74-54ba-9f6d-390f56a36ee4) — bouldering, Caselette
+- [Via Ferrata Carlo Giorda](https://cimara-production.up.railway.app/itinerario/1b8bed77-b96a-572d-afbb-75c9fb5fbf56) — via ferrata, Sant'Ambrogio di Torino
+- [Rifugio Deffeyes – Tête du Rutor](https://cimara-production.up.railway.app/itinerario/84621fcc-645f-5bd1-97e0-35141354f025) — sci alpinismo, La Thuile
+- [Alta Via n. 2 della Valle d'Aosta – Tappa 10](https://cimara-production.up.railway.app/itinerario/8d5c330c-4ef5-5127-9379-5556e0052fb5) — escursionismo, Cogne
+- [Via Francigena – 01 Valle d'Aosta](https://cimara-production.up.railway.app/itinerario/6078a9b0-88ba-59ef-8082-5e4e7cd9e62c) — escursionismo, Saint-Oyen
+- [Jafferau](https://cimara-production.up.railway.app/itinerario/4e90d092-dc24-5e43-b8ff-657b6f7c873b) — mountain bike, Bardonecchia
 
 ## How it is built
 
