@@ -911,7 +911,7 @@ if (import.meta.filename === process.argv[1]) {
   const { realCallModel, realRewriteLine } = await import('./ai-client.ts')
   const { realFetchWeather } = await import('./weather-client.ts')
   const { realFetchTrail } = await import('./trail-client.ts')
-  const { DEFAULT_SET, currentSet, databaseFile } = await import('../seed/brand.ts')
+  const { databaseFile, publicDemoSet } = await import('../seed/brand.ts')
 
   const db = openDb(databaseFile())
   await migrate(db)
@@ -940,9 +940,7 @@ if (import.meta.filename === process.argv[1]) {
 
   // The public demonstration must never be the private archive opened to all.
   const publicDemo = process.env.PUBLIC_DEMO === '1'
-  if (publicDemo && currentSet() === DEFAULT_SET) {
-    throw new Error('PUBLIC_DEMO=1 needs SEED_SET to name the public data set')
-  }
+  if (publicDemo) publicDemoSet()
   if (publicDemo) console.log(`public demonstration: read-only, as ${brand().name}`)
 
   const port = Number(process.env.PORT ?? 3000)
