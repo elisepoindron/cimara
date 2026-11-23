@@ -1,0 +1,260 @@
+{
+  "osm": "w914671438",
+  "invented": [
+    "difficolta",
+    "vetta",
+    "esposizione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "bettolina-gressoney",
+    "activity": "sci_alpinismo",
+    "place": "comune-007032",
+    "name": "Bettolina",
+    "lat": 45.87009,
+    "lon": 7.78251,
+    "aspect": "S",
+    "facts": {
+      "difficolta": "MS",
+      "vetta": 2731,
+      "esposizione": "S",
+      "localita_partenza": "Gressoney-La-Trinité",
+      "come_arrivare": "Da Gressoney-La-Trinité si arriva agli impianti e si prosegue con le pelli sul versante della Bettolina."
+    },
+    "sections": {
+      "descrizione": "Una gita semplice e soleggiata sul versante di Gressoney che guarda verso la zona della Bettolina. Parte alta e aperta, pendii larghi di media pendenza, senza passaggi tecnici: è tra le più indicate per chi vuole assaggiare lo scialpinismo senza impegnarsi troppo.\n\nSi sale con le pelli dalla fine degli impianti e si segue il fianco della montagna, in vista della zona della Bettolina. La salita si fa in poco più di un'ora; la discesa riprende lo stesso itinerario, con un'ampia scelta di linee lungo i pendii aperti.\n\nBeneficia di molta luce, perché guarda a sud: la neve cambia in fretta, dura al mattino, molle e pesante nel pomeriggio.",
+      "note": "Terreno aperto, quindi soggetto a vento e a scaricamenti di neve dopo le nevicate. ARTVA, pala e sonda sempre, e il bollettino valanghe del giorno. A sud, la neve in primavera si trasforma presto."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-03-05",
+        "words": "Salita facile, tutto al sole. Una gita dolce, soleggiata e senza passaggi difficili, perfetta per far provare le pelli a chi viene con noi."
+      },
+      {
+        "observedAt": "2022-03-27",
+        "words": "Giorno bello e caldo, neve molle a mezzogiorno. Dopo mezzogiorno la neve pesava tanto che curvare era faticoso. Meglio presto."
+      },
+      {
+        "observedAt": "2022-12-17",
+        "words": "Prima neve della stagione, ancora poca ma ben distribuita. Per iniziare l'inverno non c'era di meglio, nessun pericolo. Eravamo in cinque."
+      },
+      {
+        "observedAt": "2023-01-14",
+        "words": "Neve fredda e secca, il sole faceva solo bene. Pochi sciatori in zona. Dalla cima si vede tutto il fondovalle e le montagne attorno, una vista di quelle."
+      },
+      {
+        "observedAt": "2023-02-08",
+        "words": "Mercoledì, aria tersa. Gita veloce di mezza mattina prima di tornare al lavoro. In settimana si trova la montagna quasi vuota, davvero un piacere."
+      },
+      {
+        "observedAt": "2023-03-04",
+        "words": "Salito con pelli, sceso con sci larghi. Verso le tre la neve era diventata una zuppa. Non partite tardi."
+      },
+      {
+        "observedAt": "2023-03-31",
+        "words": "Venerdì, cielo senza una nuvola. La neve in basso già finita, abbiamo dovuto camminare con gli sci in spalla per cinquecento metri. In alto bellissimo."
+      },
+      {
+        "observedAt": "2023-04-16",
+        "words": "Giro di Pasqua con bambini che hanno già un po' di esperienza. Con i ragazzi è andata benissimo, pendenza dolce e nessuna sorpresa."
+      },
+      {
+        "observedAt": "2024-01-21",
+        "words": "Dopo la nevicata del giorno prima c'era polvere. Polvere fino ai ginocchi nei pendii alti, una discesa da ricordare. Attenzione al bollettino però."
+      },
+      {
+        "observedAt": "2024-02-24",
+        "words": "Nebbia in alto nella prima parte, poi si è aperto. È stata aperta una nuova pista di collegamento vicino alla partenza che accorcia l'attacco. Comoda per chi arriva dagli impianti."
+      },
+      {
+        "observedAt": "2024-03-13",
+        "words": "Mercoledì, cielo azzurro e vento leggero. Salita in un'ora e dieci, nessuno incontrato. Abbiamo sciato fino quasi al limite del bosco. Una passeggiata sugli sci con il sole in faccia."
+      },
+      {
+        "observedAt": "2024-04-07",
+        "words": "Tardi di stagione, ma la neve in alto c'era. Il tratto basso era già pelato, solo erba e sassi. Abbiamo portato gli sci a spalla."
+      },
+      {
+        "observedAt": "2025-01-25",
+        "words": "Giornata fredda e limpida, perfetta per una prima gita dell'anno nuovo. La vista sul Rosa dalla cima ripaga subito. Abbiamo mangiato sandwich seduti sullo zaino."
+      },
+      {
+        "observedAt": "2025-02-19",
+        "words": "Un mercoledì di febbraio con neve ancora assestata, una pausa dal lavoro. Il pendio alto è un posto dove il vento accumula spesso e conviene sempre controllare il bollettino prima di scendere."
+      },
+      {
+        "observedAt": "2025-03-15",
+        "words": "Incontrato un gruppo scolastico di sci alpinismo con gli istruttori. Tutto in ordine e in sicurezza, le guide spiegavano come leggere il pendio ai ragazzi. Bello vedere."
+      },
+      {
+        "observedAt": "2025-04-06",
+        "words": "Gita di primavera con firn la mattina. Ancora soddisfazione per un pendio così semplice, il pomeriggio è già troppo tardi. Sveglia presto!"
+      },
+      {
+        "observedAt": "2026-03-01",
+        "words": "Una domenica di fine inverno con il tempo che cambiava. Hanno piantato dei pali con bandierine per segnare il rientro verso gli impianti. Utili quando c'è poca visibilità."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Gita facile e soleggiata",
+          "quote": "Una gita dolce, soleggiata e senza passaggi difficili"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve pesante nel pomeriggio",
+          "quote": "Dopo mezzogiorno la neve pesava tanto che curvare era faticoso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gita facile e soleggiata",
+          "quote": "Per iniziare l'inverno non c'era di meglio, nessun pericolo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama aperto",
+          "quote": "Dalla cima si vede tutto il fondovalle e le montagne attorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "In settimana si trova la montagna quasi vuota"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve pesante nel pomeriggio",
+          "quote": "Verso le tre la neve era diventata una zuppa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto basso senza neve",
+          "quote": "abbiamo dovuto camminare con gli sci in spalla per cinquecento metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gita con bambini",
+          "quote": "Con i ragazzi è andata benissimo, pendenza dolce e nessuna sorpresa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Polvere dopo la nevicata",
+          "quote": "Polvere fino ai ginocchi nei pendii alti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuova pista di collegamento",
+          "kind": "novita",
+          "quote": "È stata aperta una nuova pista di collegamento vicino alla partenza che accorcia l'attacco"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Gita facile e soleggiata",
+          "quote": "Una passeggiata sugli sci con il sole in faccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto basso senza neve",
+          "quote": "Il tratto basso era già pelato, solo erba e sassi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama aperto",
+          "quote": "La vista sul Rosa dalla cima ripaga subito"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Accumuli di vento sul pendio alto",
+          "kind": "attenzione",
+          "quote": "Il pendio alto è un posto dove il vento accumula spesso e conviene sempre controllare il bollettino prima di scendere"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Corso o gruppi guidati",
+          "quote": "le guide spiegavano come leggere il pendio ai ragazzi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve pesante nel pomeriggio",
+          "quote": "il pomeriggio è già troppo tardi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnalazione nuova per il rientro",
+          "kind": "novita",
+          "quote": "Hanno piantato dei pali con bandierine per segnare il rientro verso gli impianti"
+        }
+      ]
+    }
+  ]
+}

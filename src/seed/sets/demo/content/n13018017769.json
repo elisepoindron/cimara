@@ -1,0 +1,305 @@
+{
+  "osm": "n13018017769",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "localita_partenza"
+  ],
+  "itinerary": {
+    "key": "falesia-di-moiola-settore-primo-volo",
+    "activity": "falesia",
+    "place": "comune-004123",
+    "name": "Falesia di Moiola settore Primo Volo",
+    "lat": 44.32558,
+    "lon": 7.38835,
+    "aspect": "S",
+    "altMax": 893,
+    "facts": {
+      "esposizione": "S",
+      "quota_base": 893,
+      "avvicinamento": 8,
+      "localita_partenza": "Moiola"
+    },
+    "sections": {
+      "note": "Il settore Primo Volo è il più dolce dei tre di Moiola: sei vie dal 5b al 6b+ su un dorso di calcare a 890 metri, esposto a sud e poco ripido, quasi un tetto verde di prati sotto la fascia di roccia. Il sole c'è dalla tarda mattina fino a sera, quindi in estate si va solo all'alba o dopo cena.\n\nLa roccia è chiara, a grana fine, con tacche e canalette; la chiodatura è moderna, distanziata ma sempre sicura. Tutte le soste hanno catene e due anelli. Il nome ricorda i primi voli su corda che molti ci hanno fatto, perché i tiri non sono troppo severi nelle cadute.",
+      "avvicinamento": "Dal sentiero in costa che parte dalla sterrata si arriva in otto minuti, su traccia chiara, al prato sotto la fascia."
+    },
+    "parts": [
+      {
+        "group": "Primo Volo",
+        "fields": {
+          "nome": "Decollo",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Primo Volo",
+        "fields": {
+          "nome": "Aria Leggera",
+          "grado": "5b+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Primo Volo",
+        "fields": {
+          "nome": "Il Salto",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Primo Volo",
+        "fields": {
+          "nome": "Atterraggio",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Primo Volo",
+        "fields": {
+          "nome": "Piuma e Piombo",
+          "grado": "6a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Primo Volo",
+        "fields": {
+          "nome": "Ultimo Giro",
+          "grado": "6b+",
+          "lunghezza": 24
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-04-03",
+        "words": "Ho fatto il mio primo volo vero qui: un metro e mezzo su Il Salto, niente di grave e le cadute sono pulite sotto lo strapiombino. Aria calda, sole sul prato."
+      },
+      {
+        "observedAt": "2022-06-02",
+        "words": "Giornata di lavoro, fuga a mezzogiorno. Alle undici il sole picchia sulla fascia, ma c'è una bella brezza dal basso. Abbiamo fatto tre vie e un caffè."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Giornata di tardo settembre, tutto asciutto e sole fino alle sei. La grana fine della roccia dà grande attrito. Aria Leggera è una placca bellissima."
+      },
+      {
+        "observedAt": "2022-11-20",
+        "words": "Ultime foglie e sole dolce di novembre sulla roccia, che si riscalda bene. Eravamo solo in due. Ultimo Giro è duro all'inizio, poi si addolcisce."
+      },
+      {
+        "observedAt": "2023-03-18",
+        "words": "Prima uscita dopo l'inverno: un po' di erba alle partenze, qualche foglia sul sentiero. Ho riparato un appiglio di muschio con la spazzola e ho provato Atterraggio due volte."
+      },
+      {
+        "observedAt": "2023-05-03",
+        "words": "Mattinata di sole e tranquillità, aria tesa dopo la pioggia. Abbiamo fatto le sei vie in ordine, passeggiando fra una e l'altra come in una palestra al coperto."
+      },
+      {
+        "observedAt": "2023-07-01",
+        "words": "Siamo partiti alle sei di mattina perché dopo le nove la fascia è un forno. Il prato sotto è già pieno di cavallette."
+      },
+      {
+        "observedAt": "2023-10-08",
+        "words": "Siamo venuti in coppia con un bambino piccolo: il prato è comodo, le vie corte. Quella di sinistra, Decollo, è un 5b da fare per scaldarsi. Un picnic sotto la roccia è stato il vero scopo."
+      },
+      {
+        "observedAt": "2024-02-10",
+        "words": "Giornata dolcissima di inizio febbraio, sole sulla fascia dalle dieci, giacca in zaino. Ci siamo scaldati con Decollo e poi tentato Ultimo Giro."
+      },
+      {
+        "observedAt": "2024-04-05",
+        "words": "Un venerdì libero, traffico zero. Una caduta pulita su Piuma e Piombo ha messo alla prova la sicurezza della sosta: tutto tiene."
+      },
+      {
+        "observedAt": "2024-06-22",
+        "words": "Troppo tardi per partire: alle otto era già caldo. Un pino caduto ha bloccato il sentiero in costa, si passa sopra il tronco."
+      },
+      {
+        "observedAt": "2024-09-01",
+        "words": "Il sentiero è pulito ora: il pino è stato rimosso e le segnalazioni sono ridipinte. Il pino caduto è stato tolto e il passaggio è libero. Belle vie, belle voci di cicale."
+      },
+      {
+        "observedAt": "2024-11-02",
+        "words": "Autunno inoltrato, tutto giallo. Il sole tramonta presto, ma sulla fascia arriva fino alle quattro. Ho riprovato Aria Leggera con le dita fredde."
+      },
+      {
+        "observedAt": "2025-03-03",
+        "words": "Un lunedì di marzo con vento caldo. Il prato era pieno di primule, la roccia asciutta. Gli unici rumori erano gli uccelli."
+      },
+      {
+        "observedAt": "2025-05-10",
+        "words": "Tre ragazzi alle prime armi sulle vie facili, due cordate esperte sulle altre. Nessun problema di spazio perché il settore è piccolo ma ben distribuito, la gente è educata."
+      },
+      {
+        "observedAt": "2025-08-17",
+        "words": "Ci siamo svegliati presto, quindi alle sette eravamo già sulla fascia: dopo le dieci non si tocca la roccia. Un tuffo al fiume nel pomeriggio."
+      },
+      {
+        "observedAt": "2025-10-18",
+        "words": "Giornata di inizio ottobre, sole bello e sapore di funghi nell'aria. È comparso un cartello con i nomi dei tre settori all'imbocco del sentiero."
+      },
+      {
+        "observedAt": "2026-04-06",
+        "words": "Quasi estate in anticipo, la fascia era già calda alle dieci. Decollo e Atterraggio sono diventati un classico per allenarsi a leggere i passaggi."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Cadute pulite",
+          "quote": "le cadute sono pulite"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole fino a sera",
+          "quote": "il sole picchia sulla fascia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole fino a sera",
+          "quote": "sole fino alle sei"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "sole dolce di novembre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "la fascia è un forno"
+        },
+        {
+          "label": "Prato con cavallette",
+          "quote": "Il prato sotto è già pieno di cavallette"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Picnic sotto la roccia",
+          "quote": "Un picnic sotto la roccia è stato il vero scopo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "sole sulla fascia dalle dieci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cadute pulite",
+          "quote": "caduta pulita su Piuma e Piombo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Albero sul sentiero",
+          "kind": "attenzione",
+          "quote": "Un pino caduto ha bloccato il sentiero in costa, si passa sopra il tronco"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Albero sul sentiero",
+          "kind": "attenzione",
+          "quote": "Il pino caduto è stato tolto e il passaggio è libero"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole fino a sera",
+          "quote": "Il sole tramonta presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Primule sul prato",
+          "quote": "Il prato era pieno di primule"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "dopo le dieci non si tocca la roccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuovo cartello di settore",
+          "kind": "novita",
+          "quote": "È comparso un cartello con i nomi dei tre settori all'imbocco del sentiero"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

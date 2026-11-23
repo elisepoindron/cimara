@@ -1,0 +1,266 @@
+{
+  "osm": "r9772194",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-red-r143",
+    "activity": "escursionismo",
+    "place": "comune-004233",
+    "name": "Via Alpina Red R143",
+    "lat": 44.19081,
+    "lon": 7.31347,
+    "facts": {
+      "difficolta": "EE",
+      "localita_partenza": "Rifugio Morelli-Buzzi",
+      "come_arrivare": "Il Rifugio Morelli-Buzzi è raggiungibile solo a piedi dall'alta valle di Valdieri. L'arrivo al Rifugio Ellena-Soria si raggiunge anch'esso solo a piedi; per il rientro serve organizzare un trasferimento."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Rossa tra due rifugi delle Alpi Marittime: dal Morelli-Buzzi all'Ellena-Soria, nel parco, su un percorso di mezza costa che attraversa vallette, colli e pietraie. È una tappa di sentiero impegnativo, con saliscendi continui e pochi tratti pianeggianti.\n\nIl fondo alterna sentiero di terra e pietrame; alcuni passaggi richiedono mani e attenzione. L'ambiente è di roccia calcarea, con laghi nascosti nelle conche e pareti chiare. Gli animali selvatici sono frequenti, soprattutto camosci e stambecchi.\n\nIl periodo è da luglio a ottobre. È una giornata lunga e piena, adatta a chi ha già le gambe allenate."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-17",
+        "words": "Lasciato il Morelli-Buzzi alle sette, sentiero a mezza costa tutto saliscendi. Dopo due ore le gambe hanno capito."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Camosci a gruppi di cinque o sei ovunque, indifferenti alla nostra presenza. Il parco è questo: sentirsi ospiti."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Un passaggio un po' esposto su roccia levigata, con una corda fissa un po' consumata. Con prudenza si supera facilmente."
+      },
+      {
+        "observedAt": "2023-07-13",
+        "words": "Mercoledì con nuvole alte, tutto il giorno senza vedere nessuno. Solo i fischi delle marmotte e il vento."
+      },
+      {
+        "observedAt": "2023-08-06",
+        "words": "Il laghetto nascosto in una conca, a metà tappa, è una sorpresa. Abbiamo mangiato qui con la roccia chiara intorno."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Tappa lunga, con tante piccole salite e discese che sommano dislivello senza che te ne accorga. Arrivo alle quattro con le gambe di piombo."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Una pietraia dopo l'altra: ho contato quattro tratti di sfasciumi. Occorre andare piano e guardare dove si mette il piede."
+      },
+      {
+        "observedAt": "2024-07-17",
+        "words": "Giovedì feriale, un temporale nel pomeriggio ci ha colti sull'ultima salita. Per fortuna il rifugio era vicino."
+      },
+      {
+        "observedAt": "2024-08-18",
+        "words": "Alba sul crinale, con i primi raggi sulle pareti calcaree. Le nuvole basse nella valle sotto sembravano un lago bianco."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Stambecco maschio con le corna enormi a pochi passi dal sentiero. Ci ha guardati senza muoversi."
+      },
+      {
+        "observedAt": "2025-07-13",
+        "words": "Il rifugio d'arrivo ha una bella terrazza sul vallone e un gestore che racconta storie di montagna. Cena abbondante."
+      },
+      {
+        "observedAt": "2025-08-06",
+        "words": "Nevaio a inizio luglio ancora duro in un canale sul versante nord. Abbiamo attraversato con attenzione, i bastoncini ben piantati."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "La corda fissa è stata sostituita con una nuova in acciaio: ora il passaggio esposto si fa con meno tensione."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Dopo il temporale di agosto una colata di sassi ha sepolto il sentiero in un canale: si attraversa su una traccia battuta di recente, ma con cautela."
+      },
+      {
+        "observedAt": "2026-07-18",
+        "words": "Lunedì di nebbia e freddo, con un po' di pioggia sottile. Seguire i segni rossi uno per uno richiede concentrazione."
+      },
+      {
+        "observedAt": "2026-08-06",
+        "words": "Un branco di cervi nella parte bassa, vicino al bosco finale. Un incontro inatteso, in quota di solito non ce ne sono."
+      },
+      {
+        "observedAt": "2026-08-30",
+        "words": "Luce incredibile al tramonto vicino al rifugio. Il fotografo che era con noi ha scattato quasi trecento immagini."
+      },
+      {
+        "observedAt": "2026-09-26",
+        "words": "Tappa che è un concentrato di Alpi Marittime: laghi, animali, pietraie, fatica. Da non sottovalutare ma da fare."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Saliscendi continui",
+          "quote": "sentiero a mezza costa tutto saliscendi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna del parco",
+          "quote": "Camosci a gruppi di cinque o sei ovunque"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passaggi esposti con corda",
+          "quote": "con una corda fissa un po' consumata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Percorso poco frequentato",
+          "quote": "tutto il giorno senza vedere nessuno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Laghetti nelle conche",
+          "quote": "Il laghetto nascosto in una conca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Saliscendi continui",
+          "quote": "tante piccole salite e discese"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie e sfasciumi",
+          "quote": "quattro tratti di sfasciumi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "un temporale nel pomeriggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Luce del mattino sulle pareti",
+          "quote": "i primi raggi sulle pareti calcaree"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna del parco",
+          "quote": "Stambecco maschio con le corna enormi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Ellena-Soria",
+          "quote": "Il rifugio d'arrivo ha una bella terrazza sul vallone"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio estate",
+          "quote": "Nevaio a inizio luglio ancora duro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passaggi esposti con corda",
+          "quote": "La corda fissa è stata sostituita con una nuova in acciaio"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Corda fissa nuova sul passaggio esposto",
+          "kind": "novita",
+          "quote": "La corda fissa è stata sostituita con una nuova in acciaio"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Colata di sassi in un canale",
+          "kind": "attenzione",
+          "quote": "una colata di sassi ha sepolto il sentiero in un canale"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia in quota",
+          "quote": "un po' di pioggia sottile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Luce del mattino sulle pareti",
+          "quote": "Luce incredibile al tramonto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie e sfasciumi",
+          "quote": "pietraie"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

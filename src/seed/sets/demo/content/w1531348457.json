@@ -1,0 +1,316 @@
+{
+  "osm": "w1531348457",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-degli-angeli-settore-water-front",
+    "activity": "falesia",
+    "place": "comune-004248",
+    "name": "Falesia degli Angeli settore Water Front",
+    "lat": 44.21066,
+    "lon": 7.19477,
+    "aspect": "SO",
+    "altMax": 2126,
+    "facts": {
+      "quota_base": 2126,
+      "esposizione": "SO",
+      "avvicinamento": 25,
+      "localita_partenza": "Vinadio"
+    },
+    "sections": {
+      "note": "Water Front è il settore più basso della falesia degli Angeli, a 2125 metri, su una placca di gneiss rivolta a sud-ovest. Dieci vie dal 4c al 5c+, lunghe fino a 25 metri, tutte con soste a catena: gradi facili, ottimi per cominciare o per scaldarsi.\n\nLa base è spesso umida a inizio stagione, per l'acqua di fusione che scende lì vicino; il resto dell'anno è comoda e ombreggiata nel primo mattino. Il sole arriva tardi e resta fino a sera.\n\nSi può unire con Grand Falaise e Specialist: sono tutti raggiungibili a piedi in pochi minuti.",
+      "avvicinamento": "Dal parcheggio si segue il sentiero verso la falesia per venticinque minuti; Water Front è il primo settore che si incontra, prima di salire verso gli altri."
+    },
+    "parts": [
+      {
+        "group": "Water Front",
+        "fields": {
+          "nome": "Goccia a Goccia",
+          "grado": "4c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Water Front",
+        "fields": {
+          "nome": "La Sorgente",
+          "grado": "5a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Water Front",
+        "fields": {
+          "nome": "Riva Sinistra",
+          "grado": "5a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Water Front",
+        "fields": {
+          "nome": "Onda Lunga",
+          "grado": "5a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Water Front",
+        "fields": {
+          "nome": "Il Ruscello",
+          "grado": "5b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Water Front",
+        "fields": {
+          "nome": "Sponda Destra",
+          "grado": "5b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Water Front",
+        "fields": {
+          "nome": "Marea Alta",
+          "grado": "5b+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Water Front",
+        "fields": {
+          "nome": "Fronte d'Acqua",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Water Front",
+        "fields": {
+          "nome": "Controcorrente",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Water Front",
+        "fields": {
+          "nome": "Foce",
+          "grado": "5c+",
+          "lunghezza": 25
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Primo settore che si incontra: venticinque minuti e si è già sotto la parete. Roccia umida alla base ma salendo si asciuga. Vie facili, ottime per scaldarsi prima di Specialist."
+      },
+      {
+        "observedAt": "2022-08-03",
+        "words": "Mercoledì pomeriggio con nuvole sparse. Un amico alle prime armi ha fatto sette vie in due ore, tutte tranquille e ben chiodate. Tornare con più corde e più sole."
+      },
+      {
+        "observedAt": "2022-08-27",
+        "words": "Sabato di agosto e il settore era il più affollato dei sei, comprensibile visto che è il più comodo. Coda alle prime due vie, poi si dirada. Il Ruscello è una bella 5b."
+      },
+      {
+        "observedAt": "2022-09-18",
+        "words": "L'acqua che scende dalla base si è fermata: il terreno è asciutto e la roccia pulita. Mattina all'ombra, poi sole forte alle undici. Giornata ideale, le mani non sudano."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Ancora fango sotto la parete dopo il disgelo e un po' di acqua che scorre vicino alla base. Abbiamo messo le scarpe vecchie e stiamo bene. Una volta in parete è tutto asciutto e piacevole."
+      },
+      {
+        "observedAt": "2023-08-09",
+        "words": "Mercoledì tranquillo, io e un cane. Ho fatto tutte e dieci le vie in giornata, una dopo l'altra, in ordine di grado. Le soste a catena sono comode anche per chi fa molte calate."
+      },
+      {
+        "observedAt": "2023-09-03",
+        "words": "Un blocco di gneiss grosso come un pallone si è staccato dalla sommità sopra Marea Alta. Non è caduto su nessuno ma la via è meno pulita: salire con casco e occhi aperti."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Cielo grigio, quasi nessuno e piove a sprazzi. Ma la roccia asciuga subito e siamo riusciti a fare quattro vie senza bagnarci troppo. Il gneiss con l'umidità aderisce di più."
+      },
+      {
+        "observedAt": "2024-07-14",
+        "words": "Settore perfetto per portare gli scout: quattordici persone in sicurezza su dieci vie. Istruttori molto pazienti e soste che permettono di calare in coppia. Un po' di rumore ma nessuno si lamenta."
+      },
+      {
+        "observedAt": "2024-08-01",
+        "words": "Giovedì di mezzo agosto, sole fortissimo e roccia già tiepida alle dieci. Foce a 5c+ è la più dura e anche la più bella. Dopo, tutti sotto l'ombra di un masso con un panino."
+      },
+      {
+        "observedAt": "2024-08-31",
+        "words": "Nuove placchette inox sono state montate sulle prime tre vie a sinistra, al posto dei vecchi spit arrugginiti. Si vede il lavoro fatto bene. Salire adesso dà più fiducia."
+      },
+      {
+        "observedAt": "2024-09-22",
+        "words": "Prima giornata fresca dell'autunno e finalmente il sole rendeva piacevole stare in parete. Salita facile con i bimbi, venticinque minuti con zainetti leggeri."
+      },
+      {
+        "observedAt": "2025-07-18",
+        "words": "Venerdì e lavoro finito presto: qui alle quattro con il sole che scende. Base ancora umida dopo i temporali, ma pochissimi insetti. Controcorrente mi ha dato più filo da torcere del previsto."
+      },
+      {
+        "observedAt": "2025-08-24",
+        "words": "Domenica di fine agosto, una giornata di nuvole. Zero code, mentre di solito qui si fa fila. Le dieci vie sono state salite tutte da noi due in quattro ore."
+      },
+      {
+        "observedAt": "2025-09-14",
+        "words": "Sentiero in parte danneggiato dall'acqua: i primi dieci metri dopo il parcheggio sono scavati e scivolosi. Chi viene deve camminare con cautela e con i bastoni."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Base umida",
+          "quote": "Roccia umida alla base"
+        },
+        {
+          "label": "Gradi facili",
+          "quote": "Vie facili, ottime per scaldarsi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gradi facili",
+          "quote": "tutte tranquille e ben chiodate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Più frequentato dei sei",
+          "quote": "il più affollato dei sei"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Base umida",
+          "quote": "L'acqua che scende dalla base"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Base umida",
+          "quote": "fango sotto la parete dopo il disgelo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Mercoledì tranquillo"
+        },
+        {
+          "label": "Soste comode",
+          "quote": "Le soste a catena sono comode"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Blocco staccato su Marea Alta",
+          "kind": "attenzione",
+          "quote": "Un blocco di gneiss grosso come un pallone si è staccato dalla sommità sopra Marea Alta."
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gradi facili",
+          "quote": "perfetto per portare gli scout"
+        },
+        {
+          "label": "Gruppo di scout",
+          "quote": "quattordici persone in sicurezza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Spit nuovi a sinistra",
+          "kind": "novita",
+          "quote": "Nuove placchette inox sono state montate sulle prime tre vie a sinistra"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Gradi facili",
+          "quote": "Salita facile con i bimbi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Base umida",
+          "quote": "Base ancora umida dopo i temporali"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Più frequentato dei sei",
+          "quote": "mentre di solito qui si fa fila"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero scavato dall'acqua",
+          "kind": "attenzione",
+          "quote": "Sentiero in parte danneggiato dall'acqua: i primi dieci metri dopo il parcheggio sono scavati e scivolosi."
+        }
+      ]
+    }
+  ]
+}

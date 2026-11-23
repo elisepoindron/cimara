@@ -1,0 +1,276 @@
+{
+  "osm": "w1001175753",
+  "invented": [
+    "avvicinamento",
+    "description",
+    "note",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-ferrata-delle-peredrette",
+    "activity": "via_ferrata",
+    "place": "comune-007023",
+    "name": "Via Ferrata delle Peredrette",
+    "lat": 45.60512,
+    "lon": 7.76241,
+    "aspect": "NE",
+    "altMax": 462,
+    "facts": {},
+    "sections": {
+      "descrizione": "Una ferrata di media lunghezza che risale una parete di roccia sopra il paese, esposta a nord-est: sta all'ombra per gran parte della giornata ed è piacevole anche quando in basso fa caldo. Il percorso alterna tratti di roccia verticale con staffe e cavo a cenge più tranquille.\n\nLa progressione è continua e ben protetta; i passaggi più esposti sono brevi e sempre assicurati. Non servono doti da scalatore, ma braccia e testa sì: con il kit da ferrata omologato, il casco e i guanti si sale senza problemi.\n\nIn uscita il percorso si trasforma in sentiero e si rientra a piedi, in discesa, fino al punto di partenza.",
+      "avvicinamento": "Dal paese si segue la strada fino al parcheggio e poi un breve sentiero porta all'attacco, segnalato con un cartello. Pochi minuti a piedi.",
+      "note": "Da evitare dopo piogge prolungate o con ghiaccio: la roccia ombreggiata resta umida a lungo. Portare casco, imbrago, set da ferrata e guanti."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-04-09",
+        "words": "Prima ferrata della stagione, perfetta per riscaldarsi. Il cavo è in ottimo stato, teso e senza fili rotti. Scendendo a piedi si fa un bel anello."
+      },
+      {
+        "observedAt": "2022-06-18",
+        "words": "Sabato di giugno, fuori faceva caldo ma in parete si stava benissimo perché il sole arriva tardi. Con due amici alla prima esperienza: passaggi esposti ma mai cattivi."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Siamo stati fortunati con il tempo. Parcheggio quasi pieno e coda ai passaggi più verticali: una famiglia davanti a noi ha rallentato tutto."
+      },
+      {
+        "observedAt": "2022-10-30",
+        "words": "Dopo due giorni di pioggia la roccia era scivolosa, soprattutto nel primo tratto, dove le suole non tengono. Meglio aspettare qualche giorno."
+      },
+      {
+        "observedAt": "2023-03-18",
+        "words": "Giornata fredda ma limpida. Gli ancoraggi sono solidi e il cavo in buone condizioni. In discesa il sentiero è comodo, un'oretta e siamo all'auto."
+      },
+      {
+        "observedAt": "2023-04-22",
+        "words": "Sull'attacco c'è un cartello: tratto chiuso per caduta di sassi dopo l'inverno, la ferrata si può fare solo fino alla prima cengia. Peccato, ci siamo accontentati."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "Con il caldo in valle questa è la ferrata giusta: roccia fresca e ombra quasi tutto il tempo. Sabato eravamo in una decina e c'era un po' di fila."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Riaperto! Hanno sistemato la parete e il percorso completo è di nuovo disponibile. L'ultimo tratto è il più bello."
+      },
+      {
+        "observedAt": "2023-11-05",
+        "words": "Ho fatto la ferrata con mio figlio di dodici anni: passaggi esposti ma sempre ben protetti, lui ha adorato. Roccia bagnata nei primi metri dopo la notte umida."
+      },
+      {
+        "observedAt": "2024-05-04",
+        "words": "Weekend di sole, tutto il paese sembrava essere qui: file a ogni sosta e il parcheggio pieno. Il cavo però è perfetto, nessuno ha avuto problemi."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Ferragosto vicino ma qui l'aria era fresca. Sulla parete a nord-est il sole non è mai arrivato e ci siamo coperti all'uscita."
+      },
+      {
+        "observedAt": "2024-10-12",
+        "words": "Nei primi metri la roccia era umida di rugiada e le scarpe scivolavano. Dopo mezz'ora si asciuga. In discesa si segue il sentiero, senza difficoltà."
+      },
+      {
+        "observedAt": "2025-03-29",
+        "words": "Sono stati sostituiti alcuni tratti di cavo e diversi ancoraggi nella parte centrale, si vedono le viti nuove e lucide. Ottima giornata."
+      },
+      {
+        "observedAt": "2025-06-14",
+        "words": "Abbiamo portato il cane fino all'attacco e l'abbiamo lasciato con un amico che faceva da base. Per noi: ombra, silenzio e un'uscita bellissima."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Sabato, siamo partiti presto per evitare la gente: all'una il parcheggio era strapieno e le cordate si formavano ai passaggi chiave. Roccia scivolosa dopo il temporale della notte."
+      },
+      {
+        "observedAt": "2026-04-11",
+        "words": "Primo giro della primavera. Cavi in ottimo stato, nessun problema. In vetta un po' di lichene sulle placche, attenzione dove si mette il piede."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Cavi in buono stato",
+          "quote": "Il cavo è in ottimo stato, teso e senza fili rotti"
+        },
+        {
+          "label": "Discesa a piedi",
+          "quote": "Scendendo a piedi si fa un bel anello"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai principianti",
+          "quote": "Con due amici alla prima esperienza"
+        },
+        {
+          "label": "Fresca d'estate",
+          "quote": "in parete si stava benissimo perché il sole arriva tardi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "coda ai passaggi più verticali"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia scivolosa se bagnata",
+          "quote": "la roccia era scivolosa, soprattutto nel primo tratto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cavi in buono stato",
+          "quote": "Gli ancoraggi sono solidi e il cavo in buone condizioni"
+        },
+        {
+          "label": "Discesa a piedi",
+          "quote": "In discesa il sentiero è comodo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto alto chiuso per caduta sassi",
+          "kind": "attenzione",
+          "quote": "tratto chiuso per caduta di sassi dopo l'inverno"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresca d'estate",
+          "quote": "roccia fresca e ombra quasi tutto il tempo"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Sabato eravamo in una decina e c'era un po' di fila"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Percorso riaperto dopo la chiusura",
+          "kind": "novita",
+          "quote": "Riaperto! Hanno sistemato la parete e il percorso completo è di nuovo disponibile"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Ferrata con bambini",
+          "quote": "Ho fatto la ferrata con mio figlio di dodici anni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "file a ogni sosta e il parcheggio pieno"
+        },
+        {
+          "label": "Cavi in buono stato",
+          "quote": "Il cavo però è perfetto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresca d'estate",
+          "quote": "Sulla parete a nord-est il sole non è mai arrivato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia scivolosa se bagnata",
+          "quote": "la roccia era umida di rugiada e le scarpe scivolavano"
+        },
+        {
+          "label": "Discesa a piedi",
+          "quote": "In discesa si segue il sentiero, senza difficoltà"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cavi e ancoraggi sostituiti",
+          "kind": "novita",
+          "quote": "Sono stati sostituiti alcuni tratti di cavo e diversi ancoraggi nella parte centrale"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Cane all'attacco",
+          "quote": "Abbiamo portato il cane fino all'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partenza anticipata",
+          "quote": "siamo partiti presto per evitare la gente"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "all'una il parcheggio era strapieno"
+        },
+        {
+          "label": "Roccia scivolosa se bagnata",
+          "quote": "Roccia scivolosa dopo il temporale della notte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lichene sulle placche",
+          "quote": "un po' di lichene sulle placche"
+        },
+        {
+          "label": "Cavi in buono stato",
+          "quote": "Cavi in ottimo stato, nessun problema"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

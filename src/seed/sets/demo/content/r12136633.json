@@ -1,0 +1,241 @@
+{
+  "osm": "r12136633",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d36",
+    "activity": "escursionismo",
+    "place": "comune-001114",
+    "name": "Via Alpina Blue D36",
+    "lat": 45.15398,
+    "lon": 6.91717,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 794,
+      "localita_partenza": "Rifugio Vaccarone",
+      "come_arrivare": "Il Rifugio Vaccarone si raggiunge a piedi; la tappa parte da lì e finisce al Rifugio Levi-Molinari, in alta valle. Servono due mezzi o un taxi per organizzare il rientro, perché le strade sono distanti."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu dal Rifugio Vaccarone al Rifugio Levi-Molinari, circa 15,6 km con 800 metri di salita e 1.700 di discesa. Dopo un primo tratto in quota il sentiero scende a lungo verso il fondovalle, passando per alpeggi e boschi di larici.\n\nIl terreno alterna sentieri larghi e pietraie, con alcuni punti in cui il segnavia si perde tra i massi; con la nebbia occorre fare attenzione. In giornata si attraversano ambienti molto diversi, dalle creste ai pascoli fino al bosco.\n\nPeriodo consigliato da luglio a settembre. La discesa è molto lunga e impegna le ginocchia, quindi bastoncini e passo regolare."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Dal Vaccarone si parte con aria gelida e cielo limpidissimo. Dopo il colle la strada è tutta una discesa verso il Levi-Molinari."
+      },
+      {
+        "observedAt": "2022-08-12",
+        "words": "Venerdì di bel tempo. Nelle pietraie i segnavia a volte sono lontani, ma con la vista aperta si ritrova la via."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "Scesi per quasi mille e settecento metri e sono arrivato con le dita dei piedi doloranti. Ottimo avere scarpe comode e una taglia in più."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Ho incrociato un gregge di pecore con due cani guardiani, mi sono fermato e ho aspettato che si calmassero. Nessun problema ma meglio non correre."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "A inizio luglio ancora qualche nevaio nella conca dopo il rifugio. Si passa a piedi con prudenza, c'è già la traccia."
+      },
+      {
+        "observedAt": "2023-07-29",
+        "words": "Giornata calda, poca brezza. Il lariceto nella parte bassa fa da toccasana per le gambe e per gli occhi."
+      },
+      {
+        "observedAt": "2023-08-17",
+        "words": "Giovedì di nuvole alte. Arrivo al Levi-Molinari dove il gestore ci ha accolti con una tazza di tè caldo."
+      },
+      {
+        "observedAt": "2023-09-10",
+        "words": "Con la nebbia fitta i segnavia sono spariti per un'ora. Ci siamo orientati con la bussola e una traccia scaricata."
+      },
+      {
+        "observedAt": "2024-07-14",
+        "words": "Per fortuna c'erano i bastoncini, la discesa è un'altalena per le ginocchia. Pensate a una pausa lunga a metà."
+      },
+      {
+        "observedAt": "2024-08-09",
+        "words": "Venerdì mattina, sentiero tutto per noi. Un'aquila ha fatto il giro sopra il colle per un quarto d'ora."
+      },
+      {
+        "observedAt": "2024-09-01",
+        "words": "Fontane in due punti della discesa, tutte funzionanti. Non serve caricare molta acqua alla partenza."
+      },
+      {
+        "observedAt": "2024-09-22",
+        "words": "Colori d'autunno nel bosco, tappeto di aghi gialli. Il rientro in macchina l'abbiamo organizzato con un passaggio gentile."
+      },
+      {
+        "observedAt": "2025-07-13",
+        "words": "Il sentiero nella conca dopo il rifugio è stato spostato di una ventina di metri per un movimento franoso. Il nuovo tracciato è segnato con bandierine rosse."
+      },
+      {
+        "observedAt": "2025-08-08",
+        "words": "Venerdì, nuovo tracciato percorribile senza intoppi. Il nuovo percorso è più morbido per la discesa che segue."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Tabelle con i tempi di percorrenza appena installate al colle e al bivio per il rifugio. Mi hanno risparmiato dubbi."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Il vento freddo sul colle e un cielo carico. Arrivati al Levi-Molinari con la prima pioggerella della serata."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Discesa molto lunga",
+          "quote": "la strada è tutta una discesa verso il Levi-Molinari"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnavia radi tra i massi",
+          "quote": "Nelle pietraie i segnavia a volte sono lontani"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa molto lunga",
+          "quote": "Scesi per quasi mille e settecento metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cani da guardia dei greggi",
+          "quote": "due cani guardiani"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai a inizio stagione",
+          "quote": "ancora qualche nevaio nella conca dopo il rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lariceto nella parte bassa",
+          "quote": "Il lariceto nella parte bassa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Accoglienza al Levi-Molinari",
+          "quote": "il gestore ci ha accolti con una tazza di tè caldo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia nelle pietraie",
+          "quote": "Con la nebbia fitta i segnavia sono spariti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa molto lunga",
+          "quote": "la discesa è un'altalena per le ginocchia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rapaci in quota",
+          "quote": "Un'aquila ha fatto il giro sopra il colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fontane lungo la discesa",
+          "quote": "Fontane in due punti della discesa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lariceto nella parte bassa",
+          "quote": "tappeto di aghi gialli"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero spostato nella conca per frana",
+          "kind": "attenzione",
+          "quote": "Il sentiero nella conca dopo il rifugio è stato spostato di una ventina di metri"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Nuovo tracciato nella conca",
+          "quote": "Il nuovo percorso è più morbido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tabelle con i tempi installate al colle",
+          "kind": "novita",
+          "quote": "Tabelle con i tempi di percorrenza appena installate al colle"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Accoglienza al Levi-Molinari",
+          "quote": "Arrivati al Levi-Molinari"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "osm": "r9632720",
+  "invented": [
+    "partenza",
+    "dislivello",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "alta-via-n-1-della-valle-d-aosta-tappa-3",
+    "activity": "escursionismo",
+    "place": "comune-096046",
+    "name": "Alta Via n. 1 della Valle d'Aosta - Tappa 3",
+    "lat": 45.62236,
+    "lon": 7.90672,
+    "altMax": 2280,
+    "facts": {
+      "difficolta": "EE",
+      "partenza": 2280,
+      "dislivello": 503,
+      "localita_partenza": "Rifugio Coda",
+      "come_arrivare": "Il Rifugio Coda si raggiunge a piedi dalla valle: chi non arriva dalla tappa precedente deve prevedere una salita preliminare. All'arrivo, il Rifugio della Balma è collegato alla valle da un sentiero; per rientrare in auto serve organizzarsi con un secondo mezzo o con un taxi."
+    },
+    "sections": {
+      "descrizione": "Terza tappa dell'Alta Via n. 1 della Valle d'Aosta, in un tratto che corre sul crinale delle Alpi Biellesi: dal Rifugio Coda (2.280 m) al Rifugio della Balma (2.062 m), circa 8 km con 500 m di salita e 700 m di discesa. Il tracciato è classificato EE: il fondo è spesso roccioso, a tratti instabile, e richiede passo sicuro.\n\nSi lascia il rifugio e si segue la cresta tra pietraie, valloni e piccoli colli, con vista da una parte sulla pianura e dall'altra sulle montagne più alte. Alcuni passaggi sono esposti e in due o tre punti ci sono catene o corde a facilitare il cammino. La discesa verso la Balma è lunga e si fa soprattutto su sfasciumi e prati ripidi.\n\nIl periodo giusto va da luglio a settembre. Nel pomeriggio le nuvole salgono presto dalla pianura, con nebbia che nasconde i segni, per cui conviene partire la mattina. Non c'è acqua sul percorso: si riempiono le borracce ai rifugi."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "Prima volta sull'Alta Via biellese e subito una tappa seria. Qualche tratto con catene e un po' di vuoto sotto, niente di tecnico ma bisogna avere piede fermo."
+      },
+      {
+        "observedAt": "2022-07-23",
+        "words": "Siamo partiti dal Coda alle otto con cielo limpido. La vista sulla pianura e sul Monte Rosa dal crinale è da fermarsi ogni dieci minuti."
+      },
+      {
+        "observedAt": "2022-08-06",
+        "words": "Dopo le due la nebbia è salita dalla pianura e abbiamo perso i segni per un quarto d'ora. Meglio avere la traccia sul telefono."
+      },
+      {
+        "observedAt": "2022-08-24",
+        "words": "Giornata infrasettimanale, nessun altro sul percorso a parte un paio di escursionisti stranieri. La discesa verso la Balma è lunga e stanca le ginocchia."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Bel tempo fisso, aria fresca. Molti tratti su pietraie mobili dove serve guardare dove si mette il piede."
+      },
+      {
+        "observedAt": "2022-09-28",
+        "words": "Fine stagione e rifugio quasi vuoto. Dal colle la vista andava dalla pianura fino alle Alpi con una luce da fotografia."
+      },
+      {
+        "observedAt": "2023-07-01",
+        "words": "A inizio luglio c'era ancora un nevaio da traversare poco dopo la partenza. Neve vecchia sul versante nord ma bastavano i bastoncini."
+      },
+      {
+        "observedAt": "2023-07-19",
+        "words": "Giornata di ferie per fare questa tappa senza folla. Zero acqua per tutto il percorso, portate da bere prima di partire dal Coda."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Caldo in pianura ma sul crinale c'era vento forte. Il vento sul crinale ci faceva barcollare nei punti scoperti, con il cappello da tenere in mano."
+      },
+      {
+        "observedAt": "2023-08-30",
+        "words": "Dalla Balma al contrario sarebbe stato peggio: noi abbiamo fatto la direzione giusta, con la salita corta all'inizio e una discesa lunga e ripida finale."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Ho visto un gruppo di camosci proprio sotto i passaggi con la catena. I camosci sul versante non scappavano nemmeno."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "I segni rossi e bianchi sono sbiaditi in diversi punti e diversi segni sulle rocce sono sbiaditi. Con la nebbia non so come si farebbe."
+      },
+      {
+        "observedAt": "2024-08-02",
+        "words": "Tappa fatta di venerdì, nessuno incontrato fino alla Balma. La salita dal Coda è breve e i panorami verso la pianura sono ampi."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Una catena del passaggio più esposto è staccata dalla roccia, la si può usare ma non fidatevi del tutto."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Pomeriggio con nuvole basse e qualche goccia. La nebbia ci ha raggiunto a metà discesa, meno male che avevamo i giacchetti."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Dopo la settimana scorsa la catena è stata riattaccata, adesso la catena del passaggio più esposto è di nuovo ben fissata e c'è anche un segno rosso nuovo."
+      },
+      {
+        "observedAt": "2025-07-26",
+        "words": "Siamo arrivati alla Balma stanchi. Per EE direi che il fondo di sfasciumi non perdona se si è fiacchi."
+      },
+      {
+        "observedAt": "2025-08-20",
+        "words": "Tappa nel mezzo della settimana, aria limpida e silenzio assoluto. Ho sentito un fischio di marmotta solo nella parte finale."
+      },
+      {
+        "observedAt": "2025-09-14",
+        "words": "Camminata lunga ma bella. Sul crinale abbiamo incontrato un gruppo di scout con zaini enormi, ad attrezzare il campo vicino al rifugio."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Passaggi esposti con catene",
+          "quote": "Qualche tratto con catene e un po' di vuoto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama sulla pianura",
+          "quote": "La vista sulla pianura e sul Monte Rosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia nel pomeriggio",
+          "quote": "Dopo le due la nebbia è salita dalla pianura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga e ripida",
+          "quote": "è lunga e stanca le ginocchia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie e sfasciumi",
+          "quote": "Molti tratti su pietraie mobili"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Luce d'autunno sul crinale",
+          "quote": "con una luce da fotografia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Neve vecchia sul versante nord"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nessuna acqua sul percorso",
+          "quote": "Zero acqua per tutto il percorso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento sul crinale",
+          "quote": "Il vento sul crinale ci faceva barcollare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga e ripida",
+          "quote": "una discesa lunga e ripida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Camosci sul versante",
+          "quote": "I camosci sul versante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "segni sbiaditi sulle rocce",
+          "quote": "diversi segni sulle rocce sono sbiaditi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "panorama sulla pianura",
+          "quote": "i panorami verso la pianura sono ampi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena danneggiata su un passaggio",
+          "kind": "attenzione",
+          "quote": "Una catena del passaggio più esposto è staccata dalla roccia"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia nel pomeriggio",
+          "quote": "La nebbia ci ha raggiunto a metà discesa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena riparata sul passaggio esposto",
+          "kind": "novita",
+          "quote": "la catena del passaggio più esposto è di nuovo ben fissata"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie e sfasciumi",
+          "quote": "il fondo di sfasciumi non perdona"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte sul crinale",
+          "quote": "un fischio di marmotta solo nella parte finale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Scout al campo",
+          "quote": "un gruppo di scout con zaini enormi"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

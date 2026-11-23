@@ -1,0 +1,401 @@
+{
+ "osm": "n12054664753",
+ "invented": [
+  "avvicinamento",
+  "localita_partenza",
+  "parcheggio_nota",
+  "vie",
+  "description",
+  "reports"
+ ],
+ "itinerary": {
+  "key": "avancorpo-mont-greuvetta",
+  "activity": "falesia",
+  "place": "comune-007022",
+  "name": "Avancorpo Mont Greuvetta",
+  "lat": 45.86657,
+  "lon": 7.03616,
+  "aspect": "SE",
+  "altMax": 1889,
+  "facts": {
+   "esposizione": "SE",
+   "quota_base": 1889,
+   "avvicinamento": 25,
+   "localita_partenza": "Courmayeur",
+   "parcheggio_nota": "Si posteggia in uno spiazzo fuori strada; d'estate è molto frequentato dai camminatori e conviene arrivare presto."
+  },
+  "sections": {
+   "note": "L'Avancorpo del Mont Greuvetta è una parete di granito sopra Courmayeur, a circa 1900 metri, rivolta a sud-est. È una falesia di alta quota: la stagione va da giugno a ottobre, con giornate lunghe e aria fresca. Il sole la prende dal mattino fino a metà pomeriggio.\n\nLe vie si sviluppano tra il 5c e il 7a e sono lunghe una trentina di metri. Il granito è sano, a grana fine, con placche rotte da fessure e piccoli tetti. Le protezioni sono buone ma spesso a distanza fra loro nelle vie medio-dure: servono sangue freddo e un buon allenamento.\n\nL'avvicinamento è un po' lungo per essere una falesia, ma il paesaggio sul gruppo del Bianco compensa.",
+   "avvicinamento": "Dal parcheggio un sentiero segnato sale nel bosco di larici e poi sul pendio aperto fino alla base dell'Avancorpo, una buona mezz'ora a passo normale. Le ultime centinaia di metri sono su detriti."
+  },
+  "parts": [
+   {
+    "group": "Avancorpo Sinistra",
+    "fields": {
+     "nome": "Primo Larice",
+     "grado": "5c",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Avancorpo Sinistra",
+    "fields": {
+     "nome": "Colazione in Quota",
+     "grado": "5c+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Avancorpo Sinistra",
+    "fields": {
+     "nome": "Aria Sottile",
+     "grado": "6a",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Avancorpo Sinistra",
+    "fields": {
+     "nome": "Pietra Calda",
+     "grado": "6a+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Avancorpo Sinistra",
+    "fields": {
+     "nome": "Il Corvo",
+     "grado": "6b",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Avancorpo Centro",
+    "fields": {
+     "nome": "Panorama Bianco",
+     "grado": "6a",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Avancorpo Centro",
+    "fields": {
+     "nome": "Gelo d'Agosto",
+     "grado": "6a+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Avancorpo Centro",
+    "fields": {
+     "nome": "Fessura Dritta",
+     "grado": "6b",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Avancorpo Centro",
+    "fields": {
+     "nome": "Il Tetto Piccolo",
+     "grado": "6b+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Avancorpo Centro",
+    "fields": {
+     "nome": "Cuore di Ghiaccio",
+     "grado": "6c",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Avancorpo Centro",
+    "fields": {
+     "nome": "Vento di Ghiacciaio",
+     "grado": "6c+",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Avancorpo Destra",
+    "fields": {
+     "nome": "La Rampa",
+     "grado": "6a",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Avancorpo Destra",
+    "fields": {
+     "nome": "Passo del Falco",
+     "grado": "6b",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Avancorpo Destra",
+    "fields": {
+     "nome": "Quota Mille e Nove",
+     "grado": "6c",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Avancorpo Destra",
+    "fields": {
+     "nome": "La Grande Lama",
+     "grado": "6c+",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Avancorpo Destra",
+    "fields": {
+     "nome": "Pelle Tesa",
+     "grado": "7a",
+     "lunghezza": 30
+    }
+   }
+  ],
+  "reports": [
+   {
+    "observedAt": "2022-06-26",
+    "words": "Prima uscita stagionale dopo la neve: sentiero ancora con qualche chiazza, ma la parete è asciutta dalle dieci. Il sole di giugno scalda bene il granito, aria frizzante."
+   },
+   {
+    "observedAt": "2022-07-13",
+    "words": "Mercoledì, un giorno libero in alta stagione. Praticamente soli per tutto il giorno, vista del Bianco meravigliosa. Il granito è perfetto, fine e solido."
+   },
+   {
+    "observedAt": "2022-08-20",
+    "words": "A 1900 metri anche in agosto si sta bene: scalato in maglietta al mattino, con il vento fresco al pomeriggio. L'avvicinamento è però più lungo di quel che sembra."
+   },
+   {
+    "observedAt": "2022-09-10",
+    "words": "Giornata d'oro in settembre. Ho provato Cuore di Ghiaccio, un 6c tosto con fessura e tetto. Protezioni distanti, serve testa. Vento freddo dopo le tre."
+   },
+   {
+    "observedAt": "2022-10-02",
+    "words": "Ultimo tentativo d'autunno prima della neve: prime gelate al mattino, la roccia sul fondo è ghiacciata. Dopo le undici però le dita si scaldano. Poche cordate, aria cristallina."
+   },
+   {
+    "observedAt": "2023-06-10",
+    "words": "La neve è rimasta più del solito: le ultime centinaia di metri sono state una piccola salita su detriti e pezzi di neve. Ma la parete era perfetta, fredda al tatto e senza una nuvola."
+   },
+   {
+    "observedAt": "2023-07-05",
+    "words": "Mercoledì. Un temporale pomeridiano ci ha fatto scappare alle due: meglio partire presto e finire presto. I cumuli arrivano dal ghiacciaio dopo mezzogiorno."
+   },
+   {
+    "observedAt": "2023-08-12",
+    "words": "Bellissimo Il Corvo: placca fine con un passo di fessura che sembra impossibile finché non lo fai. Due cordate, nessun problema a dividere la base."
+   },
+   {
+    "observedAt": "2023-09-24",
+    "words": "Dopo le piogge di fine estate, in alcuni punti la base era bagnata e c'era un rivolo sul tratto di destra. Abbiamo cambiato settore, tutto a posto al centro."
+   },
+   {
+    "observedAt": "2023-10-14",
+    "words": "Hanno ripulito il sentiero da sassi e rami caduti dopo una lunga estate: più facile, meno scivoloso. Giornata chiara e fredda, con il Bianco bianchissimo."
+   },
+   {
+    "observedAt": "2024-06-29",
+    "words": "Prima volta all'Avancorpo. Il granito qui è un altro mondo rispetto alle falesie basse: pulito, ruvido, con fessure vere. Le vie sono lunghe e continue, servono mani allenate."
+   },
+   {
+    "observedAt": "2024-07-18",
+    "words": "Giovedì, ferie in quota. Arrivati alle otto, andati via alle quattro, quasi soli. Le due cordate che ci hanno preceduto sono scese presto per un temporale in arrivo."
+   },
+   {
+    "observedAt": "2024-08-31",
+    "words": "Sul tetto di una via centrale un blocco sembra poco stabile: ci siamo passati senza toccarlo, ma meglio fare attenzione. Il resto delle vie è sano e ben pulito."
+   },
+   {
+    "observedAt": "2024-09-15",
+    "words": "Un weekend di settembre quasi perfetto, ma con vento forte dopo le due. Siamo scesi e ci siamo fermati in una malga a mangiare polenta."
+   },
+   {
+    "observedAt": "2025-07-09",
+    "words": "Mercoledì. Sole alle sette, già caldo alle dieci. Granito pulitissimo, ideale per una giornata di allenamento. Ho ripetuto Panorama Bianco e La Rampa, due vie molto diverse."
+   },
+   {
+    "observedAt": "2025-08-23",
+    "words": "Con alcuni amici sul settore destro: Pelle Tesa è un 7a che premia chi sa muovere i piedi. Vista sul Bianco e silenzio. Gli ultimi metri del sentiero hanno una nuova corda fissa."
+   },
+   {
+    "observedAt": "2025-09-28",
+    "words": "Fine stagione, ultimo weekend prima che la neve richiuda tutto. Aria limpida, vento freddo, larici gialli. Abbiamo fatto sei vie, dita rosse."
+   }
+  ]
+ },
+ "readings": [
+  {
+   "themes": [
+    {
+     "label": "Sole la mattina",
+     "quote": "la parete è asciutta dalle dieci"
+    },
+    {
+     "label": "Avvicinamento lungo",
+     "quote": "sentiero ancora con qualche chiazza"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Panorama sul Bianco",
+     "quote": "vista del Bianco meravigliosa"
+    },
+    {
+     "label": "Poca gente",
+     "quote": "Praticamente soli"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Avvicinamento lungo",
+     "quote": "L'avvicinamento è però più lungo di quel che sembra"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Protezioni distanti",
+     "quote": "Protezioni distanti, serve testa"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "Poche cordate"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Avvicinamento lungo",
+     "quote": "le ultime centinaia di metri"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Temporali pomeridiani",
+     "quote": "Un temporale pomeridiano ci ha fatto scappare alle due"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Protezioni distanti",
+     "quote": "un passo di fessura"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Panorama sul Bianco",
+     "quote": "il Bianco bianchissimo"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Sentiero d'accesso ripulito",
+     "kind": "novita",
+     "quote": "Hanno ripulito il sentiero da sassi e rami caduti"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Granito compatto",
+     "quote": "Il granito qui è un altro mondo"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Temporali pomeridiani",
+     "quote": "un temporale in arrivo"
+    },
+    {
+     "label": "Poca gente",
+     "quote": "quasi soli"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Blocco instabile nel tetto centrale",
+     "kind": "attenzione",
+     "quote": "Sul tetto di una via centrale un blocco sembra poco stabile"
+    }
+   ]
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Granito compatto",
+     "quote": "Granito pulitissimo"
+    },
+    {
+     "label": "Sole la mattina",
+     "quote": "Sole alle sette"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Panorama sul Bianco",
+     "quote": "Vista sul Bianco"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Corda fissa sul tratto finale del sentiero",
+     "kind": "novita",
+     "quote": "Gli ultimi metri del sentiero hanno una nuova corda fissa"
+    }
+   ]
+  },
+  {
+   "themes": [],
+   "flags": []
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+  "osm": "r11124710",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-red-r139",
+    "activity": "escursionismo",
+    "place": "comune-004248",
+    "name": "Via Alpina Red R139",
+    "lat": 44.28475,
+    "lon": 7.0696,
+    "facts": {
+      "difficolta": "E",
+      "localita_partenza": "Strepeis",
+      "come_arrivare": "Strepeis è una piccola borgata della Val Stura raggiungibile in auto dalla strada principale. La strada che sale al santuario è carrozzabile: per il rientro si può organizzare un passaggio dal santuario oppure scendere a piedi."
+    },
+    "sections": {
+      "descrizione": "Tappa di salita della Via Alpina Rossa, in Val Stura: da Strepeis al Santuario di Sant'Anna di Vinadio. Dal fondovalle il percorso risale per il versante, in parte su vecchie strade militari e in parte su sentiero, fino a una conca alta dove sorge il santuario, tra i più alti d'Europa.\n\nLa salita è lunga e costante, con diversi tornanti e un lungo tratto in cui si cammina sulla stradina sterrata e sul sentiero che la taglia. Man mano che si sale il bosco lascia il posto ai pascoli e ai cespugli di rododendro, poi alle pietraie e al lago sotto il santuario.\n\nSi fa da giugno a ottobre. Nelle giornate di festa, specie in agosto, al santuario arrivano molti pellegrini in auto e il posto si riempie. Si può mangiare e dormire nella struttura. Il tratto iniziale, in basso, è caldo e privo di ombra."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-06-26",
+        "words": "Mi aspettavo una camminata e invece è un'ascesa vera. Mille metri e passa di salita lenta, ma con il passo giusto non ho mai sofferto."
+      },
+      {
+        "observedAt": "2022-07-14",
+        "words": "Giovedì di ferie, caldo già alle nove. Il primo tratto è tutto al sole e senza vento, poi il bosco ha dato sollievo."
+      },
+      {
+        "observedAt": "2022-08-07",
+        "words": "Siamo arrivati al santuario mentre c'era una funzione. Il santuario sembra sospeso nella conca, con i fedeli e le candele."
+      },
+      {
+        "observedAt": "2022-08-26",
+        "words": "Venerdì pomeriggio, silenzio quasi totale. Ampi tratti sulla vecchia strada militare che rendono il passo regolare."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Cielo grigio e prime piogge. L'arrivo al santuario sotto la pioggia aveva qualcosa di antico e solenne."
+      },
+      {
+        "observedAt": "2022-09-30",
+        "words": "Camminata fatta con gli scarponi leggeri, alla fine ho sofferto per i tornanti. I tornanti sembrano non finire e il ginocchio protesta."
+      },
+      {
+        "observedAt": "2023-06-17",
+        "words": "Resti di neve sotto il santuario. Gli ultimi duecento metri avevano ancora neve ghiacciata, quasi un'avventura."
+      },
+      {
+        "observedAt": "2023-07-09",
+        "words": "Tappa tutta in fila indiana con un gruppo di pellegrini, canti e rosari lungo il sentiero. Il sentiero è usato anche da gruppi in pellegrinaggio."
+      },
+      {
+        "observedAt": "2023-08-02",
+        "words": "Mercoledì di agosto, il caldo costringeva a camminare piano. Sotto i mille metri non c'è aria, poi si recupera."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Il lago sotto il santuario è azzurro intenso. Mi sono fermata a guardare i riflessi e a fare il bagno ai piedi nell'acqua gelida."
+      },
+      {
+        "observedAt": "2023-09-17",
+        "words": "Giornata limpida, vista verso la pianura da lontano. La mulattiera militare è larga e in buono stato, anche con la pioggia non scivola."
+      },
+      {
+        "observedAt": "2024-06-09",
+        "words": "Il percorso che passa nel bosco è chiuso per lavori. C'è una deviazione segnalata nel bosco per un taglio di piante che allunga di venti minuti."
+      },
+      {
+        "observedAt": "2024-07-23",
+        "words": "Martedì infrasettimanale, la deviazione c'è ancora. Ho incrociato solo un frate che saliva a piedi, un incontro tranquillo."
+      },
+      {
+        "observedAt": "2024-08-15",
+        "words": "Ferragosto, al santuario c'era una folla impensabile. Il piazzale era pieno di auto e di pullman e abbiamo dovuto cercare un angolo di panchina."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Il tratto del bosco è di nuovo aperto, il sentiero originale nel bosco è tornato percorribile con segnavia nuovi e puliti."
+      },
+      {
+        "observedAt": "2024-10-05",
+        "words": "Primi giorni di ottobre, ultimi turisti e prime nubi basse. I tornanti finali sotto il santuario sono duri se arrivi con la stanchezza dell'intera tappa."
+      },
+      {
+        "observedAt": "2025-07-20",
+        "words": "Salita in pieno sole, poi acquazzone. Il sole bruciava sulle spalle fin dalla partenza e dopo un'ora tuoni."
+      },
+      {
+        "observedAt": "2025-08-29",
+        "words": "Una giornata feriale, il santuario era quasi vuoto. Il lago sotto la costruzione era liscio e senza nessuno."
+      },
+      {
+        "observedAt": "2025-09-21",
+        "words": "Ho dormito al santuario dopo la tappa. La struttura è grande, essenziale e ben tenuta, con cena servita alle sette."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e costante",
+          "quote": "Mille metri e passa di salita lenta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nel tratto basso",
+          "quote": "Il primo tratto è tutto al sole e senza vento"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Santuario di Sant'Anna",
+          "quote": "Il santuario sembra sospeso nella conca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vecchia strada militare",
+          "quote": "Ampi tratti sulla vecchia strada militare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Santuario di Sant'Anna",
+          "quote": "L'arrivo al santuario sotto la pioggia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tornanti in sequenza",
+          "quote": "I tornanti sembrano non finire"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Gli ultimi duecento metri avevano ancora neve ghiacciata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pellegrini lungo il sentiero",
+          "quote": "Il sentiero è usato anche da gruppi in pellegrinaggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nel tratto basso",
+          "quote": "Sotto i mille metri non c'è aria"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lago sotto il santuario",
+          "quote": "a fare il bagno ai piedi nell'acqua gelida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vecchia strada militare",
+          "quote": "La mulattiera militare è larga e in buono stato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Deviazione per lavori nel bosco",
+          "kind": "attenzione",
+          "quote": "C'è una deviazione segnalata nel bosco per un taglio di piante"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pellegrini lungo il sentiero",
+          "quote": "Ho incrociato solo un frate che saliva a piedi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Santuario affollato nelle feste",
+          "quote": "Il piazzale era pieno di auto e di pullman"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero riaperto nel bosco",
+          "kind": "novita",
+          "quote": "il sentiero originale nel bosco è tornato percorribile"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tornanti in sequenza",
+          "quote": "I tornanti finali sotto il santuario sono duri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nel tratto basso",
+          "quote": "Il sole bruciava sulle spalle fin dalla partenza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lago sotto il santuario",
+          "quote": "Il lago sotto la costruzione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Santuario di Sant'Anna",
+          "quote": "La struttura è grande, essenziale e ben tenuta"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

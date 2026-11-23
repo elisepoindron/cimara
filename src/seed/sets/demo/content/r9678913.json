@@ -1,0 +1,241 @@
+{
+  "osm": "r9678913",
+  "invented": [
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "alta-via-n-1-della-valle-d-aosta-tappa-11",
+    "activity": "escursionismo",
+    "place": "comune-007045",
+    "name": "Alta Via n. 1 della Valle d'Aosta - Tappa 11",
+    "lat": 45.84104,
+    "lon": 7.48451,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 498,
+      "partenza": 2652,
+      "localita_partenza": "Rifugio Cunéy",
+      "come_arrivare": "Il Rifugio Cunéy si trova in quota sopra Nus, in Valle d'Aosta, e si raggiunge a piedi o con la strada sterrata che sale dalla Valle di Saint-Barthélemy. L'arrivo a Oyace, nella Valpelline, è in fondovalle e il rientro al punto di partenza richiede un secondo mezzo."
+    },
+    "sections": {
+      "descrizione": "Tappa 11 dell'Alta Via n. 1 della Valle d'Aosta: dal Rifugio Cunéy, a 2652 metri, a Oyace, a 1397. Sono circa 14 chilometri in discesa quasi continua, con poca salita e una perdita di quota di quasi 1.700 metri.\n\nSi parte dal rifugio, nei pressi del lago di Cunéy, e si scende in un grande ambiente di alpeggi e pietraie, poi in boschi di larici fino alle baite sopra Oyace. Il sentiero è ben tracciato e segnato con i bolli dell'Alta Via.\n\nÈ una tappa che spacca le ginocchia più che i polmoni. In estate si può raggiungere il rifugio al mattino e scendere a Oyace nel primo pomeriggio."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-30",
+        "words": "Colazione al Cunéy con la luce che arrivava sul lago ancora gelato. Poi giù, giù e ancora giù: millesettecento metri di discesa sono un'esperienza."
+      },
+      {
+        "observedAt": "2022-08-28",
+        "words": "Aria tersa, il Cervino in fondo. In basso le baite sopra Oyace sembrano piccole come un presepe."
+      },
+      {
+        "observedAt": "2022-09-13",
+        "words": "Ho rinunciato al sentiero diretto perché un temporale notturno aveva reso tutto fango. Con la deviazione sulla sterrata ho recuperato."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Ginocchia rovinate al terzo chilometro dalla fine, bastoncini indispensabili. L'ultima ora di larici mi ha fatto dimenticare tutto."
+      },
+      {
+        "observedAt": "2023-08-06",
+        "words": "Il lago di Cunéy al mattino con una nebbiolina che si alzava piano. Per ore non ho visto nessuno, poi tre alpini in addestramento."
+      },
+      {
+        "observedAt": "2023-08-23",
+        "words": "Giovedì feriale. Mandrie di mucche in alpeggio alte e ben pasciute, e un pastore che ci ha spiegato come si fa la fontina."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Prime neve sulle cime e uno stambecco che mi ha guardato da una cresta, immobile. Faceva freddo la mattina e il sentiero era duro."
+      },
+      {
+        "observedAt": "2023-10-01",
+        "words": "Rifugio già chiuso la domenica di ottobre, ma l'acqua della fontana funzionava ancora. Siamo scesi fino a Oyace in un'ora e mezza meno del previsto."
+      },
+      {
+        "observedAt": "2024-07-06",
+        "words": "Hanno rifatto il tratto di sentiero vicino alle baite più alte, con scalini di pietra e un nuovo passaggio sopra il ruscello. Più sicuro e meno fangoso."
+      },
+      {
+        "observedAt": "2024-08-25",
+        "words": "La zona delle pietraie sotto il rifugio è impegnativa col sole: si scivola sulle lastre e non c'è una pianta per l'ombra."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Una frana ha chiuso la variante bassa verso Oyace: i cartelli mandano sul sentiero alto, allungando di un paio di chilometri. Meglio informarsi in paese prima di partire."
+      },
+      {
+        "observedAt": "2024-09-18",
+        "words": "Settimana di fine estate, sentiero deserto. Colori d'autunno già evidenti nei larici e un ometto in più a ogni bivio."
+      },
+      {
+        "observedAt": "2025-07-05",
+        "words": "Sono passato dal sentiero alto, come indicato dai cartelli, e il panorama in più compensa il giro. Un tratto con un po' di esposizione ma ben protetto."
+      },
+      {
+        "observedAt": "2025-08-24",
+        "words": "Scesi a Oyace con le gambe di gomma e un'ottima birra in piazza. Il bus per Aosta passa poco: informatevi sugli orari."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Cielo coperto fino a mezzogiorno, poi sole. Larici dorati e silenzio profondo, ho pensato che per una discesa di questa lunghezza era il modo migliore."
+      },
+      {
+        "observedAt": "2025-10-12",
+        "words": "Neve sul lago la mattina e rifugio chiuso. Ho avuto paura di dover tornare, invece il sentiero in basso era pulito e asciutto."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Discesa continua",
+          "quote": "millesettecento metri di discesa sono un'esperienza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Veduta sulla valle",
+          "quote": "il Cervino in fondo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fango dopo la pioggia",
+          "quote": "un temporale notturno aveva reso tutto fango"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa continua",
+          "quote": "Ginocchia rovinate al terzo chilometro dalla fine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lago di Cunéy",
+          "quote": "Il lago di Cunéy al mattino con una nebbiolina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Animali in quota",
+          "quote": "Mandrie di mucche in alpeggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Animali in quota",
+          "quote": "uno stambecco che mi ha guardato da una cresta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio in chiusura a ottobre",
+          "quote": "Rifugio già chiuso la domenica di ottobre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero rifatto vicino alle baite",
+          "kind": "novita",
+          "quote": "Hanno rifatto il tratto di sentiero vicino alle baite più alte, con scalini di pietra e un nuovo passaggio sopra il ruscello."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie e sole",
+          "quote": "non c'è una pianta per l'ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Variante bassa chiusa per frana",
+          "kind": "attenzione",
+          "quote": "Una frana ha chiuso la variante bassa verso Oyace: i cartelli mandano sul sentiero alto, allungando di un paio di chilometri."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "sentiero deserto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Veduta sulla valle",
+          "quote": "il panorama in più compensa il giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bus a Oyace poco frequente",
+          "quote": "Il bus per Aosta passa poco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Larici dorati",
+          "quote": "Larici dorati e silenzio profondo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio in chiusura a ottobre",
+          "quote": "rifugio chiuso"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

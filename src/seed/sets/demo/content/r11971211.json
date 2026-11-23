@@ -1,0 +1,241 @@
+{
+  "osm": "r11971211",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d13",
+    "activity": "escursionismo",
+    "place": "comune-002057",
+    "name": "Via Alpina Blue D13",
+    "lat": 45.91202,
+    "lon": 8.12909,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 907,
+      "localita_partenza": "Santa Maria di Fobello",
+      "come_arrivare": "Santa Maria di Fobello si raggiunge dalla Valsesia seguendo la strada della Val Mastallone, con parcheggio in paese. L'arrivo a Carcoforo è nella valle accanto, in Val d'Egua: serve un trasferimento per tornare al punto di partenza."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu da Santa Maria di Fobello, in Val Mastallone, a Carcoforo, un villaggio walser in fondo alla Val d'Egua. Circa 11 chilometri con circa 900 metri di salita e 670 di discesa.\n\nDal paese si risale la valle fino a un colle ampio e roccioso, dove il sentiero passa tra rocce montonate e resti di vecchi ricoveri. Da lì si scende verso Carcoforo, in un paesaggio più severo di quello che si è lasciato.\n\nLa tappa è di media difficoltà: salita nella prima parte, poi saliscendi e una discesa finale ripida. Segnavia continui; il colle è un buon punto per il picnic."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-06-25",
+        "words": "Partiti da Fobello tra le case di pietra, il sentiero sale subito deciso. Dopo un'ora eravamo già sopra il paese a guardare i tetti."
+      },
+      {
+        "observedAt": "2022-07-03",
+        "words": "Il colle è tutto roccia grigia e prati rasi, con vento costante. Non ci siamo fermati più di dieci minuti, faceva freddo anche in luglio."
+      },
+      {
+        "observedAt": "2022-09-16",
+        "words": "Un martedì di settembre, il villaggio di Carcoforo praticamente vuoto. Ho preso un caffè nel bar aperto e ho aspettato il passaggio."
+      },
+      {
+        "observedAt": "2022-10-09",
+        "words": "Nevicata fresca sopra i duemila e nuvole basse. Il sentiero era bianco per cento metri di dislivello."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Un nevaio duro da attraversare appena prima del colle, senza ramponi ma con un po' di attenzione. Bastoncini utilissimi."
+      },
+      {
+        "observedAt": "2023-07-16",
+        "words": "Siamo scesi verso Carcoforo con un sole pieno e il torrente che brillava. La discesa finale è ripida ma sempre ben tracciata."
+      },
+      {
+        "observedAt": "2023-08-31",
+        "words": "Ferie di agosto, ho percorso la tappa da solo. Ho incontrato tre marmotte sul colle che mi hanno guardato come un intruso."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Fresco di mattina e bellissima luce sui larici sopra Fobello. Dal colle si vedono i due versanti, mi sono perso a guardare."
+      },
+      {
+        "observedAt": "2024-06-09",
+        "words": "Hanno messo cartelli nuovi con le distanze all'inizio del sentiero a Fobello e ridipinto i bolli sulle rocce del colle. Ora non ci si perde nemmeno con la nebbia."
+      },
+      {
+        "observedAt": "2024-07-20",
+        "words": "Temporale a mezzogiorno proprio mentre eravamo sul colle. Corsa verso le rocce più basse, fulmini a poche centinaia di metri."
+      },
+      {
+        "observedAt": "2024-08-20",
+        "words": "Una giornata di nebbia e pioggerella. Dentro la nuvola il sentiero è comunque chiaro, con i bolli freschi che si vedono bene."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Una vecchia baita lungo il sentiero è crollata in parte: il tetto è a terra e conviene tenersi alla larga dai pezzi di trave sospesi."
+      },
+      {
+        "observedAt": "2024-10-27",
+        "words": "Camminata d'autunno con camosci sul versante opposto. A Carcoforo mi hanno consigliato una locanda per la polenta."
+      },
+      {
+        "observedAt": "2025-06-21",
+        "words": "La salita iniziale mi ha ricordato quanto serva allenarsi in primavera. Ho dovuto fermarmi due volte prima del bosco, ma poi il passo è tornato regolare."
+      },
+      {
+        "observedAt": "2025-08-31",
+        "words": "Il colle con vento forte e raffiche improvvise: tenere il cappello e un'antivento nello zaino. Il resto della tappa è stato tranquillo."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Ultima tappa del nostro trek di sei giorni. Carcoforo ci ha accolti con un po' di sole e una zuppa calda, dopo giorni di pioggia."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita decisa all'inizio",
+          "quote": "il sentiero sale subito deciso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento al colle",
+          "quote": "con vento costante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Carcoforo, villaggio walser",
+          "quote": "il villaggio di Carcoforo praticamente vuoto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve in quota",
+          "quote": "Nevicata fresca sopra i duemila"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve in quota",
+          "quote": "Un nevaio duro da attraversare appena prima del colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa finale ripida",
+          "quote": "La discesa finale è ripida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna alpina",
+          "quote": "tre marmotte sul colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista dal colle",
+          "quote": "Dal colle si vedono i due versanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartelli nuovi e bolli ridipinti",
+          "kind": "novita",
+          "quote": "Hanno messo cartelli nuovi con le distanze all'inizio del sentiero a Fobello e ridipinto i bolli sulle rocce del colle."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Temporale a mezzogiorno proprio mentre eravamo sul colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sul colle",
+          "quote": "Dentro la nuvola il sentiero è comunque chiaro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Baita crollata lungo il sentiero",
+          "kind": "attenzione",
+          "quote": "Una vecchia baita lungo il sentiero è crollata in parte: il tetto è a terra e conviene tenersi alla larga dai pezzi di trave sospesi."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna alpina",
+          "quote": "camosci sul versante opposto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita decisa all'inizio",
+          "quote": "La salita iniziale mi ha ricordato quanto serva allenarsi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento al colle",
+          "quote": "Il colle con vento forte e raffiche improvvise"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Carcoforo, villaggio walser",
+          "quote": "Carcoforo ci ha accolti con un po' di sole"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

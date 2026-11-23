@@ -1,0 +1,380 @@
+{
+ "osm": "w1389551990",
+ "invented": [
+  "avvicinamento",
+  "localita_partenza",
+  "parcheggio_nota",
+  "vie",
+  "description",
+  "reports"
+ ],
+ "itinerary": {
+  "key": "gran-rotsa-settore-dei-calli",
+  "activity": "falesia",
+  "place": "comune-001114",
+  "name": "Falesia Gran Rotsa - Settore dei Calli",
+  "lat": 45.1406,
+  "lon": 6.97936,
+  "aspect": "S",
+  "altMax": 1107,
+  "facts": {
+   "esposizione": "S",
+   "quota_base": 1107,
+   "avvicinamento": 10,
+   "localita_partenza": "Giaglione",
+   "parcheggio_nota": "Si lascia l'auto negli spiazzi sul bordo della strada; sono pochi, in giornata di sole bastano per tre o quattro macchine."
+  },
+  "sections": {
+   "note": "Il Settore dei Calli è la parte più bassa e più a sinistra della Gran Rotsa, sopra Giaglione, a circa 1100 metri. La parete di gneiss guarda a sud e prende il sole praticamente da subito, quindi è una falesia da mezza stagione e da giornate fredde e limpide; in piena estate si scalda molto.\n\nLe vie sono una decina, tutte spittate, fra 25 e 35 metri, dal 5c al 6c+. Lo stile è quello del gneiss della zona: placche appoggiate con qualche strapiombino, prese piccole ma buone, passi tecnici più che di forza.\n\nServono dodici rinvii e una corda da sessanta. Le soste sono a catena con moschettone di calata.",
+   "avvicinamento": "Dal posteggio si segue il sentiero segnato che sale a sinistra nel bosco rado, poi un traverso fra i massi porta alla base della parete in una decina di minuti. Il fondo è sassoso, con le foglie bagnate scivola."
+  },
+  "parts": [
+   {
+    "group": "Sinistra",
+    "fields": {
+     "nome": "Il Callo",
+     "grado": "5c",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Sinistra",
+    "fields": {
+     "nome": "Scarpe Strette",
+     "grado": "5c+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Sinistra",
+    "fields": {
+     "nome": "Gneiss e Fichi",
+     "grado": "6a",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Sinistra",
+    "fields": {
+     "nome": "Pelle d'Oca",
+     "grado": "6a",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Centro",
+    "fields": {
+     "nome": "Dita nel Miele",
+     "grado": "6a+",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Centro",
+    "fields": {
+     "nome": "Il Tallone",
+     "grado": "6b",
+     "lunghezza": 33
+    }
+   },
+   {
+    "group": "Centro",
+    "fields": {
+     "nome": "Mezzogiorno",
+     "grado": "6b+",
+     "lunghezza": 33
+    }
+   },
+   {
+    "group": "Destra",
+    "fields": {
+     "nome": "Sole Pieno",
+     "grado": "6b",
+     "lunghezza": 35
+    }
+   },
+   {
+    "group": "Destra",
+    "fields": {
+     "nome": "Spigolo del Gatto",
+     "grado": "6c",
+     "lunghezza": 35
+    }
+   },
+   {
+    "group": "Destra",
+    "fields": {
+     "nome": "La Buccia",
+     "grado": "6c+",
+     "lunghezza": 35
+    }
+   }
+  ],
+  "reports": [
+   {
+    "observedAt": "2022-03-12",
+    "words": "Prima giornata asciutta dopo settimane di pioggia: qui il sole arriva dalla mattina alla sera e alle undici si scalava in maglietta. Roccia calda già a metà mattina, abbiamo fatto cinque vie dal 5c al 6a."
+   },
+   {
+    "observedAt": "2022-04-19",
+    "words": "Martedì di Pasqua, giorno libero. Praticamente soli, a parte una coppia con il cane. Le vie centrali sono davvero belle, passi tecnici da leggere con calma."
+   },
+   {
+    "observedAt": "2022-06-04",
+    "words": "Troppo caldo dopo le undici, siamo scappati a mezzogiorno. Conviene venire presto o in primavera, altrimenti la parete diventa un forno."
+   },
+   {
+    "observedAt": "2022-09-24",
+    "words": "Settembre perfetto, sole ma non cattivo. Il gneiss è un po' lucido sui primi appoggi, le prese piccole ma si fida. Bellissima la vista sulla valle dalla sosta di Mezzogiorno."
+   },
+   {
+    "observedAt": "2022-11-06",
+    "words": "Domenica di novembre mite, ci si stava benissimo al sole. Abbiamo ripetuto Gneiss e Fichi e Dita nel Miele, rinvii tutti puliti."
+   },
+   {
+    "observedAt": "2023-02-14",
+    "words": "Un martedì di febbraio con cielo azzurro: neve ai bordi del sentiero ma la parete era asciutta e calda. Da venire in inverno, soprattutto quando altrove c'è ghiaccio."
+   },
+   {
+    "observedAt": "2023-04-08",
+    "words": "Hanno cambiato le soste: ora sono catene nuove con moschettone di calata, finalmente niente più cordini consumati. Giornata fresca, sole pieno sulla placca."
+   },
+   {
+    "observedAt": "2023-05-21",
+    "words": "Una famiglia con due bambini ha fatto il 5c mentre noi ci scaldavamo. Il posteggio è piccolo, siamo arrivati alle nove e già due posti erano occupati."
+   },
+   {
+    "observedAt": "2023-07-12",
+    "words": "Mercoledì di luglio, errore: troppo caldo per scalare qui, abbiamo fatto una via sola e poi giù all'ombra del bosco. Andate altrove in estate."
+   },
+   {
+    "observedAt": "2023-09-30",
+    "words": "Un nido di vespe sotto la partenza di Spigolo del Gatto, ne abbiamo viste parecchie volare vicino alla placca. Dopo le due ore di sole sono sparite."
+   },
+   {
+    "observedAt": "2023-10-22",
+    "words": "Il tratto sinistro è tutto da pulire dalle foglie, ma una volta in parete la roccia è ottima. La Buccia è dura, un 6c+ che ha preteso tre tentativi."
+   },
+   {
+    "observedAt": "2024-03-16",
+    "words": "Appena fuori dall'inverno, c'era una lastra staccata sul sentiero a sinistra, meglio tenersi lontani dal punto dove cade materiale. Per il resto parete in forma, calda e asciutta."
+   },
+   {
+    "observedAt": "2024-05-07",
+    "words": "Martedì, giornata di ferie. Nessuno in parete tutta la mattina, solo noi due e il vento tra gli alberi. Bellissima la placca centrale, passi sottili ma fattibili."
+   },
+   {
+    "observedAt": "2024-06-23",
+    "words": "Sole alle otto e già troppo luminoso per gli occhi. Prese piccole, dita che bruciano, ma Il Tallone vale il viaggio."
+   },
+   {
+    "observedAt": "2024-10-12",
+    "words": "Autunno bello, foglie gialle sugli alberi e il gneiss piacevole al tatto. C'era un gruppetto di ragazzi del corso, ma lo spazio basta per tutti."
+   },
+   {
+    "observedAt": "2025-01-26",
+    "words": "Domenica gelida ma limpida: alla base 0 gradi, in parete maniche corte dopo un'ora di sole. Una delle poche falesie dove si scala davvero a gennaio."
+   },
+   {
+    "observedAt": "2025-04-05",
+    "words": "Abbiamo trovato nuova la segnaletica all'attacco del sentiero, un cartello con i nomi dei settori. Falesia pulita, roccia asciutta, giornata fresca."
+   },
+   {
+    "observedAt": "2025-09-14",
+    "words": "Mattina nuvolosa, perfetta: la parete non scotta. Due tentativi su Mezzogiorno, il passo chiave è un movimento di piede che non vedevo."
+   },
+   {
+    "observedAt": "2025-10-27",
+    "words": "Lunedì, ponte dei morti, e in parete eravamo in quattro. Sole fino alle quattro, ottime condizioni, anche se la roccia sulle prese più usate è un po' liscia."
+   }
+  ]
+ },
+ "readings": [
+  {
+   "themes": [
+    {
+     "label": "Esposta al sole",
+     "quote": "il sole arriva dalla mattina alla sera"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "Praticamente soli"
+    },
+    {
+     "label": "Passi tecnici",
+     "quote": "passi tecnici da leggere con calma"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Esposta al sole",
+     "quote": "la parete diventa un forno"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Roccia lucida",
+     "quote": "Il gneiss è un po' lucido sui primi appoggi"
+    },
+    {
+     "label": "Panorama sulla valle",
+     "quote": "Bellissima la vista sulla valle"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Esposta al sole",
+     "quote": "ci si stava benissimo al sole"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Esposta al sole",
+     "quote": "la parete era asciutta e calda"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Passi tecnici",
+     "quote": "sole pieno sulla placca"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Soste sostituite con catene",
+     "kind": "novita",
+     "quote": "ora sono catene nuove con moschettone di calata"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Posteggio piccolo",
+     "quote": "Il posteggio è piccolo"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Esposta al sole",
+     "quote": "troppo caldo per scalare qui"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Passi tecnici",
+     "quote": "La Buccia è dura"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Esposta al sole",
+     "quote": "calda e asciutta"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Pietra instabile sul sentiero di sinistra",
+     "kind": "attenzione",
+     "quote": "c'era una lastra staccata sul sentiero a sinistra"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "Nessuno in parete tutta la mattina"
+    },
+    {
+     "label": "Passi tecnici",
+     "quote": "passi sottili ma fattibili"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Esposta al sole",
+     "quote": "Sole alle otto"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Esposta al sole",
+     "quote": "maniche corte dopo un'ora di sole"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Cartello nuovo all'attacco del sentiero",
+     "kind": "novita",
+     "quote": "un cartello con i nomi dei settori"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Passi tecnici",
+     "quote": "il passo chiave è un movimento di piede"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Roccia lucida",
+     "quote": "la roccia sulle prese più usate è un po' liscia"
+    }
+   ],
+   "flags": []
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+  "osm": "r6147610",
+  "invented": [
+    "difficolta",
+    "partenza",
+    "vetta",
+    "dislivello",
+    "esposizione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "skialp-vitt-emanuele-pont-via-savara",
+    "activity": "sci_alpinismo",
+    "place": "comune-007070",
+    "name": "Skialp Vitt. Emanuele - Pont (via Savara)",
+    "lat": 45.51246,
+    "lon": 7.22981,
+    "aspect": "E",
+    "facts": {
+      "difficolta": "MS",
+      "partenza": 1960,
+      "vetta": 2732,
+      "dislivello": 770,
+      "esposizione": "E",
+      "localita_partenza": "Pont",
+      "come_arrivare": "Da Valsavarenche si segue la strada fino al fondo della valle, dove si lascia l'auto nel piazzale di Pont."
+    },
+    "sections": {
+      "descrizione": "È la discesa dal Rifugio Vittorio Emanuele II verso Pont, ma per una variante che lascia la traccia di salita e scende più a destra, per il vallone di Savara. Il tracciato è più vario della via normale: pendii aperti nella parte alta, poi un tratto più stretto e infine il bosco rado che porta al fondovalle.\n\nÈ una variante che si apprezza soprattutto quando la neve è poca: dove la via di salita è già pelata, qui si trovano ancora strisce continue. Si parte dal rifugio e si scende verso est, tenendo la dorsale a sinistra, fino a rientrare sul percorso di salita poco sopra Pont.\n\nSi può fare anche in salita, ma la fatica è maggiore e la traccia è meno battuta: la maggior parte delle persone sale per la via normale e sceglie questa solo per tornare.",
+      "note": "Servono ARTVA, pala e sonda. Controllare il bollettino valanghe: i pendii alti sotto il rifugio sono esposti a vento e accumuli. Con poca neve occhio ai sassi affioranti nel tratto stretto. Stagione da fine dicembre ad aprile, con la miglior neve in febbraio e marzo."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-03-12",
+        "words": "Scesi dal rifugio per la variante invece che per la traccia di salita. Con pochissima neve sulla via normale qui c'era ancora una striscia continua, qualche sasso ma si scia."
+      },
+      {
+        "observedAt": "2022-04-02",
+        "words": "Neve molto buona nella parte alta, trasformata alla perfezione verso le undici. Poi il tratto stretto è più ripido di come lo ricordavo, curve corte e attenzione."
+      },
+      {
+        "observedAt": "2022-12-28",
+        "words": "Prima uscita dopo Natale. Salita da Pont con le pelli, poco movimento, rifugio chiuso. La variante è l'unica discesa decente con questo innevamento."
+      },
+      {
+        "observedAt": "2023-01-18",
+        "words": "Giorno libero, nessuno in giro. Siamo scesi nei pendii larghi sotto il rifugio e il vallone sembrava tutto per noi. Fredda e croccante."
+      },
+      {
+        "observedAt": "2023-02-26",
+        "words": "In salita dalla normale e giù per Savara. Nel tratto stretto abbiamo trovato la neve ventata, dura e rumorosa. La parte alta è un grande pendio senza ostacoli ma andava guardato bene."
+      },
+      {
+        "observedAt": "2023-03-11",
+        "words": "Giornata lunga. A Pont c'era già il piazzale quasi pieno alle otto, bisogna arrivare presto per trovare posto. Poi la discesa ci ha ripagato di tutto."
+      },
+      {
+        "observedAt": "2023-04-04",
+        "words": "Martedì di fine marzo, caldo. Sono usciti i primi sassi anche nel vallone. Rispetto alla normale tiene meglio, ma negli ultimi trecento metri abbiamo tolto gli sci."
+      },
+      {
+        "observedAt": "2023-04-15",
+        "words": "Tempo instabile, nebbia sul vallone per mezz'ora, abbiamo aspettato un po' senza muoverci e poi si è aperto. Con la nebbia non si capisce dove finisce il pendio e va letto con la carta."
+      },
+      {
+        "observedAt": "2024-01-13",
+        "words": "Neve fresca di tre giorni prima, polverosa nei primi duecento metri. Nella parte alta si scende dove si vuole. Verso il basso la crosta, peccato."
+      },
+      {
+        "observedAt": "2024-02-17",
+        "words": "Tracce di stambecchi lungo tutto il vallone, ne abbiamo visti quattro sulla dorsale a sinistra. Quattro stambecchi fermi a guardarci dalla dorsale poi sono spariti."
+      },
+      {
+        "observedAt": "2024-03-06",
+        "words": "Salita lenta con le pelli sul fondovalle ghiacciato. Alla biforcazione hanno messo un cartello nuovo che indica la variante per Savara. Utile, prima bisognava andare a naso."
+      },
+      {
+        "observedAt": "2024-03-23",
+        "words": "Neve primaverile e giornata splendida. Il firn si è ammorbidito tardi, dopo mezzogiorno, ma poi è stata una bella discesa."
+      },
+      {
+        "observedAt": "2024-04-20",
+        "words": "Nel tratto stretto il torrente è venuto fuori dalla neve e il passaggio è più esposto di prima. Noi siamo passati a sinistra e basta, ma con più neve conviene guardare prima."
+      },
+      {
+        "observedAt": "2024-12-14",
+        "words": "Primo giro dell'inverno. Fino al rifugio tutta bella battuta, la variante invece non l'aveva fatta nessuno, tutta da tracciare. Quasi una scoperta."
+      },
+      {
+        "observedAt": "2025-02-08",
+        "words": "Rifugio chiuso, ma abbiamo mangiato fuori al sole. Poi giù per la variante, a mezzogiorno il piazzale di Pont era una fila di auto, abbiamo capito il perché."
+      },
+      {
+        "observedAt": "2025-03-14",
+        "words": "Venerdì mattina presto, lassù eravamo in tre. Sotto il canale a destra della dorsale ci sono scaricamenti ripetuti dopo ogni nevicata. Meglio non fermarcisi sotto."
+      },
+      {
+        "observedAt": "2025-04-05",
+        "words": "Giornata di primavera piena, sole e vento leggero. La neve era lavorata e morbida per tutta la discesa, fino al bosco."
+      },
+      {
+        "observedAt": "2026-01-24",
+        "words": "Cielo coperto, vento in cresta. Abbiamo scelto la variante perché la normale era dura, e con l'inverno così magro è questa la discesa che tiene."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Variante con poca neve",
+          "quote": "Con pochissima neve sulla via normale qui c'era ancora una striscia continua"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve trasformata",
+          "quote": "trasformata alla perfezione verso le undici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Variante con poca neve",
+          "quote": "La variante è l'unica discesa decente con questo innevamento"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pendii aperti",
+          "quote": "nei pendii larghi sotto il rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pendii aperti",
+          "quote": "La parte alta è un grande pendio senza ostacoli"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio pieno",
+          "quote": "bisogna arrivare presto per trovare posto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Variante con poca neve",
+          "quote": "Rispetto alla normale tiene meglio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sul vallone",
+          "quote": "Con la nebbia non si capisce dove finisce il pendio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pendii aperti",
+          "quote": "Nella parte alta si scende dove si vuole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi sul vallone",
+          "quote": "Quattro stambecchi fermi a guardarci dalla dorsale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello alla biforcazione",
+          "kind": "novita",
+          "quote": "hanno messo un cartello nuovo che indica la variante per Savara"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve trasformata",
+          "quote": "Il firn si è ammorbidito tardi, dopo mezzogiorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Torrente scoperto nel tratto stretto",
+          "kind": "attenzione",
+          "quote": "il torrente è venuto fuori dalla neve e il passaggio è più esposto di prima"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Traccia poco battuta",
+          "quote": "non l'aveva fatta nessuno, tutta da tracciare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio pieno",
+          "quote": "a mezzogiorno il piazzale di Pont era una fila di auto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Canale con scarichi di neve",
+          "kind": "attenzione",
+          "quote": "Sotto il canale a destra della dorsale ci sono scaricamenti ripetuti dopo ogni nevicata"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve trasformata",
+          "quote": "La neve era lavorata e morbida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Variante con poca neve",
+          "quote": "con l'inverno così magro è questa la discesa che tiene"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

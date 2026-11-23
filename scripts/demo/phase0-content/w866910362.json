@@ -1,0 +1,33 @@
+{
+  "osm": "w866910362",
+  "invented": ["avvicinamento", "descrizione", "tratto verticale", "ponte tibetano", "reports", "themes"],
+  "itinerary": {
+    "key": "ferrata-del-limbo",
+    "activity": "via_ferrata",
+    "place": "comune-096004",
+    "name": "Ferrata del Limbo",
+    "lat": 45.62004,
+    "lon": 7.94903,
+    "aspect": "NE",
+    "altMax": 2087,
+    "facts": {},
+    "sections": {
+      "descrizione": "Ferrata breve e verticale, con cavo d'acciaio, pioli e un ponte tibetano nel tratto centrale. Le difficoltà sono concentrate nel tratto verticale, che richiede braccia più che gambe.\n\nAttacco e uscita sono su sentiero: si può tornare indietro prima di salire sul cavo, poi bisogna andare avanti fino all'uscita.\n\nServe l'imbracatura da ferrata con due cordini e il dissipatore; i guanti aiutano sul cavo freddo.",
+      "avvicinamento": "Dal parcheggio circa quaranta minuti su sentiero ripido, con qualche tratto di roccia. Nei mesi di neve il sentiero si allunga."
+    },
+    "reports": [
+      { "observedAt": "2023-07-15", "words": "Partenza presto per evitare la coda sul tratto verticale, ma eravamo in quattro gruppi. Il ponte tibetano è emozionante, ci siamo fermati un po' a guardare il vuoto. Vento fresco in cima, ci siamo coperti." },
+      { "observedAt": "2024-05-19", "words": "Neve residua sul sentiero dell'attacco fino a metà, da portare piccozza o ramponi se non sei sicuro. Il cavo era ghiacciato nel primo tratto. Bellissima giornata, pochi in giro." },
+      { "observedAt": "2024-09-07", "words": "Settembre, cielo limpido e vento forte dalla valle al tratto alto, bisogna tenere il cappello stretto. Coda al pioli, ma tutto fluido. Il ritorno più lento per via delle gambe." },
+      { "observedAt": "2025-06-14", "words": "Neve ancora in alto, il cavo bagnato e freddo. Vento forte sulla cresta, abbiamo rinunciato al tratto finale. Ci siamo fermati al ponte tibetano e poi giù." },
+      { "observedAt": "2026-10-03", "words": "Fine stagione, sentiero asciutto e pochi in giro. Il vento è calato e la vista verso la pianura è stupenda. Un'ora e venti dal parcheggio alla cima del tratto verticale." }
+    ]
+  },
+  "readings": [
+    { "themes": [ { "label": "Coda al tratto verticale", "quote": "Partenza presto per evitare la coda sul tratto verticale" }, { "label": "Vento in quota", "quote": "Vento fresco in cima" } ], "flags": [] },
+    { "themes": [ { "label": "Neve residua in primavera", "quote": "Neve residua sul sentiero dell'attacco fino a metà" } ], "flags": [] },
+    { "themes": [ { "label": "Vento in quota", "quote": "vento forte dalla valle al tratto alto" }, { "label": "Coda al tratto verticale", "quote": "Coda al pioli, ma tutto fluido" } ], "flags": [] },
+    { "themes": [ { "label": "Neve residua in primavera", "quote": "Neve ancora in alto" }, { "label": "Vento in quota", "quote": "Vento forte sulla cresta" } ], "flags": [] },
+    { "themes": [], "flags": [] }
+  ]
+}

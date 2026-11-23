@@ -1,0 +1,252 @@
+{
+  "osm": "r9678911",
+  "invented": [
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "alta-via-n-1-della-valle-d-aosta-tappa-13",
+    "activity": "escursionismo",
+    "place": "comune-007046",
+    "name": "Alta Via n. 1 della Valle d'Aosta - Tappa 13",
+    "lat": 45.85392,
+    "lon": 7.30458,
+    "facts": {
+      "difficolta": "E",
+      "partenza": 1393,
+      "vetta": 2465,
+      "dislivello": 1038,
+      "localita_partenza": "Rey",
+      "come_arrivare": "Si arriva a Ollomont, in Valle d'Aosta, e si prosegue fino alla frazione di Rey, dove la strada termina e si trova un piccolo parcheggio. Il rifugio d'arrivo è raggiungibile solo a piedi."
+    },
+    "sections": {
+      "descrizione": "Tappa 13 dell'Alta Via n. 1: da Rey, sopra Ollomont, al Rifugio Létey-Champillon, con circa 1.040 metri di salita in 5 km. È una tappa breve ma ripida, interamente in salita, senza discesa: si sale dai pascoli alla conca alta, dove sorge il rifugio.\n\nIl sentiero parte dalla frazione e prende subito quota, tra boschi di larici e poi praterie alpine, con alcuni tratti più ripidi tra massi e erba. Il rifugio è il punto di sosta della tappa e offre pernottamento e pasti.\n\nPeriodo consigliato da luglio a metà settembre. Si raccomanda di partire con calma e di non sottovalutare il dislivello nonostante i pochi chilometri."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "Cinque chilometri che sembrano molti di più: sempre in salita e sempre ripidi. Al rifugio abbiamo mangiato una zuppa che valeva la fatica."
+      },
+      {
+        "observedAt": "2022-08-18",
+        "words": "Giovedì tranquillo, abbiamo incontrato solo una guida con due clienti. Il bosco di larici nella prima ora è splendido."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Arrivati in tre ore e mezza, tempo giusto per un caffè e per stendere i vestiti sudati. Il vento in conca era pungente."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Alle nove c'era già nebbia ma più su si è aperto tutto. Lungo la salita un pastore ci ha salutati con il suo cane."
+      },
+      {
+        "observedAt": "2023-07-01",
+        "words": "Nevai ancora intorno ai 2300 metri, ma si aggirano. Il rifugio apriva proprio quel giorno e c'era un bel clima di festa."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Ho fatto la salita con il caldo e ho dovuto fermarmi spesso. Meglio partire presto, a mezzogiorno il versante scotta."
+      },
+      {
+        "observedAt": "2023-08-16",
+        "words": "Mercoledì feriale, pochissima gente in quota. Notte in rifugio, stelle da non crederci."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Temporale dopo le tre, io ero già al rifugio con una tisana. Meglio arrivare presto in questo versante."
+      },
+      {
+        "observedAt": "2024-07-06",
+        "words": "Il primo tratto sul bosco è stato rifatto con gradini di legno in alcuni punti, sale più comodo. Più in alto sempre sassi e erba."
+      },
+      {
+        "observedAt": "2024-07-27",
+        "words": "Famiglia con due ragazzini di dodici anni: ce l'hanno fatta, anche se con molte pause. Consiglio di non partire troppo tardi."
+      },
+      {
+        "observedAt": "2024-08-13",
+        "words": "Martedì, sole pieno. Fontana a metà salita asciutta, quindi portate abbastanza acqua da casa."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Primo ghiaccio sulle pozze della conca, cielo limpido. Il rifugio chiudeva la settimana dopo e c'era la voglia di fermarsi a lungo."
+      },
+      {
+        "observedAt": "2025-06-28",
+        "words": "Un ponticello di legno sul torrente a metà salita è stato portato via dalla piena. Si guada ma l'acqua era alta e fredda."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Il ponticello è stato rimesso in piedi con travi nuove: passaggio sicuro e solido. Salita come sempre secca e senza respiro."
+      },
+      {
+        "observedAt": "2025-08-20",
+        "words": "Mercoledì d'agosto, tutto quieto. Dalla conca la vista sulle cime di confine è netta."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Ultimo weekend d'apertura del rifugio. Salita meno dura grazie all'aria fresca, tre ore e un quarto senza strafare."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita corta ma ripida",
+          "quote": "Cinque chilometri che sembrano molti di più"
+        },
+        {
+          "label": "Accoglienza del rifugio",
+          "quote": "Al rifugio abbiamo mangiato una zuppa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco di larici all'inizio",
+          "quote": "Il bosco di larici nella prima ora è splendido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tempi di salita",
+          "quote": "Arrivati in tre ore e mezza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pastori e animali al pascolo",
+          "quote": "un pastore ci ha salutati con il suo cane"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai ad inizio stagione",
+          "quote": "Nevai ancora intorno ai 2300 metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo sul versante",
+          "quote": "a mezzogiorno il versante scotta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cielo stellato al rifugio",
+          "quote": "stelle da non crederci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meglio arrivare presto",
+          "quote": "Meglio arrivare presto in questo versante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Gradini di legno nel primo tratto",
+          "kind": "novita",
+          "quote": "Il primo tratto sul bosco è stato rifatto con gradini di legno"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Fattibile con ragazzi",
+          "quote": "Famiglia con due ragazzini di dodici anni: ce l'hanno fatta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fontana a metà salita asciutta",
+          "quote": "Fontana a metà salita asciutta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Accoglienza del rifugio",
+          "quote": "Il rifugio chiudeva la settimana dopo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponticello sul torrente portato via",
+          "kind": "attenzione",
+          "quote": "Un ponticello di legno sul torrente a metà salita è stato portato via dalla piena"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita corta ma ripida",
+          "quote": "Salita come sempre secca e senza respiro"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Ponticello ricostruito con travi nuove",
+          "kind": "novita",
+          "quote": "Il ponticello è stato rimesso in piedi con travi nuove"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama dalla conca alta",
+          "quote": "Dalla conca la vista sulle cime di confine è netta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tempi di salita",
+          "quote": "tre ore e un quarto senza strafare"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "osm": "n14069976891",
+  "invented": [
+    "grado_obbligatorio",
+    "sviluppo",
+    "avvicinamento",
+    "protezione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "chicane",
+    "activity": "multipitch",
+    "place": "comune-004053",
+    "name": "Chicane",
+    "lat": 44.40039,
+    "lon": 7.13787,
+    "aspect": "SO",
+    "altMax": 2540,
+    "facts": {
+      "grado_obbligatorio": "5c",
+      "sviluppo": 200,
+      "avvicinamento": 45,
+      "protezione": "spittata",
+      "localita_partenza": "Castelmagno",
+      "come_arrivare": "Da Castelmagno si sale lungo la strada di montagna fino al punto in cui diventa sterrata e si lascia l'auto; da lì un sentiero segnato sale tra i prati e le pietraie alla base della parete.",
+      "quota_base": 2341,
+      "esposizione": "SO",
+      "grado_max": "6a+",
+      "tiri": 6
+    },
+    "sections": {
+      "descrizione": "Sei tiri su quarzite chiara, una roccia insolita e molto aderente che dà un piacere speciale ai piedi. Chicane sale una serie di placche e risalti con un andamento a zig-zag, da cui il nome: ogni tiro devia a destra o a sinistra per cercare la linea più logica.\n\nGli spit sono inox e ravvicinati, le soste a catena. Il tiro chiave è il quarto, un 6a+ su placca a movimenti di piede, ma niente che non si superi con calma. La quarzite è liscia e va sentita con le scarpette: in caso di umido diventa scivolosa.\n\nParete a sud-ovest, esposta al sole del pomeriggio: ideale in primavera e in autunno, calda d'estate.",
+      "discesa": "Si scende in doppia lungo la via, sei calate con corde da 60 metri; le soste sono allineate. Chi lo preferisce può rientrare a piedi per una cengia a sinistra, ma il sentiero è esposto e non è raccomandato.",
+      "materiale": "Due corde da 60 metri, dodici rinvii, due fettucce lunghe, scarpette comode e il casco.",
+      "avvicinamento": "Dal parcheggio un sentiero segnato con bolli gialli sale tra i prati e poi in una pietraia fino alla base, sotto una placca chiara."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 30,
+          "descrizione": "Placca appoggiata, la quarzite aderisce bene."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 35,
+          "descrizione": "Traverso a destra con un risalto facile."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 35,
+          "descrizione": "Muro a piccole tacche, spit ravvicinati."
+        }
+      },
+      {
+        "fields": {
+          "grado": "6a+",
+          "lunghezza": 35,
+          "descrizione": "Il tiro chiave: placca liscia di piedi con movimenti di equilibrio."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 35,
+          "descrizione": "Spigolo con buoni appigli, ben protetto."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 30,
+          "descrizione": "Placche facili con uno sperone finale."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-06-19",
+        "words": "Una roccia diversa dal solito: la quarzite ha una grana quasi sabbiosa e le scarpette ci stanno incollate. Sorprendente per chi viene dal granito."
+      },
+      {
+        "observedAt": "2022-07-16",
+        "words": "Giornata calda, parete al sole dal primo pomeriggio. Meglio cominciare alle otto e finire entro le due. Il quarto tiro con la placca di piedi è un piacere."
+      },
+      {
+        "observedAt": "2022-08-31",
+        "words": "Mercoledì di fine estate, nessuno ai parcheggi e nessuno in via. Una luce dorata nel pomeriggio e cielo senza una nuvola."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Primo autunno in valle. Il sentiero con i bolli gialli è ben segnato, impossibile sbagliarsi. Pietraia faticosa ma breve."
+      },
+      {
+        "observedAt": "2023-06-11",
+        "words": "Con un po' di umido al mattino la quarzite diventa scivolosissima: abbiamo aspettato le dieci perché asciugasse del tutto. Poi tutto perfetto."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "Una via a zig-zag: ogni tiro cambia direzione e si perde un po' il senso di salita. Alla fine si arriva in alto stupiti di quanto si è girato."
+      },
+      {
+        "observedAt": "2023-08-17",
+        "words": "Giovedì di Ferragosto lungo. Il tiro chiave è meno duro di quanto temessi: le tacche ci sono e i piedi tengono. Spit ravvicinati."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Giornata fredda di fine settembre, primo gelo al mattino sulle soste. La parete scalda dalle undici in poi con il sole basso."
+      },
+      {
+        "observedAt": "2024-06-22",
+        "words": "Alla sosta due una catena si è spaccata, forse il gelo. Ho sostato sul secondo spit con un cordino, attenzione a non appoggiarsi al maillon."
+      },
+      {
+        "observedAt": "2024-07-27",
+        "words": "La catena rotta alla seconda sosta è stata sostituita con una nuova, doppia. Si vede che qualcuno ci tiene."
+      },
+      {
+        "observedAt": "2024-08-14",
+        "words": "Mercoledì pomeriggio dopo una notte di pioggia. Sono risalito due ore più tardi per lasciar asciugare: la quarzite bagnata non perdona."
+      },
+      {
+        "observedAt": "2024-09-08",
+        "words": "Splendida giornata di inizio autunno, i prati verdi sotto e le montagne azzurre davanti. Il quarto tiro con il passo di equilibrio è una piccola gemma."
+      },
+      {
+        "observedAt": "2025-06-28",
+        "words": "Il sentiero adesso ha un nuovo cartello di legno con il nome della via e il grado, a metà pietraia. Aiuta chi viene la prima volta."
+      },
+      {
+        "observedAt": "2025-08-02",
+        "words": "Bella giornata d'estate, due cordate sulla via ma nessuna coda. La quarzite, liscia e fresca al mattino, scalda durante la giornata."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Di ritorno dopo tre anni. Il quinto tiro è ancora il più elegante, un piccolo spigolo con appigli buoni. Poi la sosta finale con un bel panorama."
+      },
+      {
+        "observedAt": "2026-07-04",
+        "words": "Su un tratto di sentiero una frana di sassi ha tagliato la traccia: si passa a destra sopra un breve nevaio residuo. Con la nebbia è facile perdere il segnale."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Quarzite aderente",
+          "quote": "la quarzite ha una grana quasi sabbiosa e le scarpette ci stanno incollate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al pomeriggio",
+          "quote": "parete al sole dal primo pomeriggio"
+        },
+        {
+          "label": "Placca di piedi",
+          "quote": "Il quarto tiro con la placca di piedi è un piacere"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "nessuno ai parcheggi e nessuno in via"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero ben segnato",
+          "quote": "Il sentiero con i bolli gialli è ben segnato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Scivolosa se umida",
+          "quote": "Con un po' di umido al mattino la quarzite diventa scivolosissima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Percorso a zig-zag",
+          "quote": "ogni tiro cambia direzione e si perde un po' il senso di salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placca di piedi",
+          "quote": "Il tiro chiave è meno duro di quanto temessi"
+        },
+        {
+          "label": "Spit ravvicinati",
+          "quote": "Spit ravvicinati"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al pomeriggio",
+          "quote": "La parete scalda dalle undici in poi con il sole basso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena rotta alla seconda sosta",
+          "kind": "attenzione",
+          "quote": "Alla sosta due una catena si è spaccata, forse il gelo."
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena nuova alla seconda sosta",
+          "kind": "novita",
+          "quote": "La catena rotta alla seconda sosta è stata sostituita con una nuova, doppia."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Scivolosa se umida",
+          "quote": "la quarzite bagnata non perdona"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placca di piedi",
+          "quote": "il passo di equilibrio è una piccola gemma"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello a metà sentiero",
+          "kind": "novita",
+          "quote": "Il sentiero adesso ha un nuovo cartello di legno con il nome della via e il grado, a metà pietraia."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Quarzite aderente",
+          "quote": "La quarzite, liscia e fresca al mattino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Spigolo elegante",
+          "quote": "un piccolo spigolo con appigli buoni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana sul sentiero",
+          "kind": "attenzione",
+          "quote": "Su un tratto di sentiero una frana di sassi ha tagliato la traccia: si passa a destra sopra un breve nevaio residuo."
+        }
+      ]
+    }
+  ]
+}

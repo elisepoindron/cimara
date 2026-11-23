@@ -1,0 +1,267 @@
+{
+  "osm": "r17938802",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "percorso-ciclabile-mera-bielmonte",
+    "activity": "mountain_bike",
+    "place": "comune-002135",
+    "name": "Percorso Ciclabile Mera-Bielmonte",
+    "lat": 45.7544,
+    "lon": 8.09402,
+    "facts": {},
+    "sections": {
+      "descrizione": "Il percorso ciclabile Mera-Bielmonte collega l'Alpe di Mera a Bielmonte, in Valsesia e nel Biellese, per circa 20 chilometri con quasi 800 metri di salita e 730 di discesa. Corre su strade bianche e carrarecce d'alta quota, tra pascoli, faggete e panorami ampi sulle Alpi Pennine.\n\nIl tracciato è un saliscendi continuo: non c'è una vera cima ma una serie di dossi, con tratti veloci e altri più sassosi. La difficoltà tecnica è bassa, quella fisica media per i continui cambi di pendenza. Lungo il cammino si incontrano alpeggi e baite e, nelle giornate limpide, si vede il Monte Rosa.\n\nÈ un tracciato di sola andata: servono due auto, una navetta o il ritorno in bici sullo stesso percorso.",
+      "note": "Si pedala da giugno a ottobre, quando la neve ha lasciato le quote medie. A inizio stagione restano nevai sui versanti nord. Nei pomeriggi estivi i temporali salgono dalla valle. Acqua solo alle baite: portarne due borracce.",
+      "avvicinamento": "Si parte dall'Alpe di Mera, raggiungibile in auto da Scopello con una strada stretta ma asfaltata; l'arrivo è a Bielmonte, dove ci sono parcheggi."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-06-18",
+        "words": "A metà giugno ancora due nevai sul versante nord da attraversare a piedi, niente di pericoloso ma lenti. Per il resto il percorso è un continuo sali e scendi su strada bianca larga."
+      },
+      {
+        "observedAt": "2022-07-10",
+        "words": "Dall'Alpe di Mera a Bielmonte con la seconda auto lasciata la sera prima. Il Monte Rosa si vedeva intero, senza nuvole, per quasi tutto il tragitto. Un panorama che vale il viaggio."
+      },
+      {
+        "observedAt": "2022-08-03",
+        "words": "Mercoledì di ferie e strade deserte: tre mucche e un cane da pastore in tutto il giro. Ho riempito le borracce a una baita, il gestore è stato gentilissimo."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Il temporale è arrivato alle 15 con grandine fitta: ci siamo riparati sotto il tetto di un alpeggio chiuso. Mezz'ora di acqua e poi di nuovo sole. Qui d'estate meglio finire presto."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Settembre è il mese giusto: aria limpida e pochi insetti. Il tratto centrale ha tanti sassi smossi e in discesa la ruota anteriore sfugge, io sono sceso e ho spinto una volta."
+      },
+      {
+        "observedAt": "2022-10-02",
+        "words": "Ultime giornate buone: faggi gialli e primi freddi del mattino. Una bella uscita lenta, con un caffè portato nello zaino da bere sul crinale."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Nevai ancora presenti a quota 1700, ma stavolta di pochi metri. Il fondo è asciutto e ho fatto la tratta in poco più di tre ore, con una lunga sosta panoramica."
+      },
+      {
+        "observedAt": "2023-07-26",
+        "words": "Una giornata con nebbia fitta fino alle 11, poi un sole che ha asciugato tutto. Il percorso è facile da seguire anche col cielo grigio, i cartelli ci sono a ogni incrocio."
+      },
+      {
+        "observedAt": "2023-08-13",
+        "words": "Con le e-bike: tre ore piene, ma l'autonomia basta tranquillamente perché i saliscendi permettono di recuperare. Alla fine ci aspettava la navetta di un amico."
+      },
+      {
+        "observedAt": "2023-09-17",
+        "words": "Bella giornata ma tanto vento da ovest sul crinale, a tratti si fatica a stare in sella. Mi sono coperto con la giacca antivento e ho comunque sudato in salita."
+      },
+      {
+        "observedAt": "2024-06-30",
+        "words": "Uno strato di terra smossa copre il tratto dopo la prima baita per via del passaggio dei mezzi dell'alpeggio: pedalare è faticoso. Più avanti il fondo torna buono."
+      },
+      {
+        "observedAt": "2024-07-24",
+        "words": "Un tronco abbattuto da una tempesta blocca il passaggio poco dopo il secondo alpeggio: si passa a lato con la bici in spalla. Speriamo lo rimuovano presto."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Ho trovato il tronco spostato a lato dai pastori e ora si passa in sella. Aria fresca in quota, nonostante la pianura sotto sia sopra i trenta gradi."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Percorso spettacolare in giornata nitida: dalla cima di un dosso si vedevano il lago d'Orta e la pianura. Il sali e scendi mette alla prova le gambe senza esagerare."
+      },
+      {
+        "observedAt": "2025-06-14",
+        "words": "Nuova segnaletica con cartelli gialli sul tratto di Bielmonte, ora si capisce subito la direzione del percorso ciclabile. Una scelta utile per chi non conosce la zona."
+      },
+      {
+        "observedAt": "2025-08-09",
+        "words": "Giornata di caldo in pianura ma fresca in quota. Abbiamo fatto la tratta contromano, da Bielmonte a Mera: un po' più di salita ma stessa vista. Pranzo in baita con polenta e formaggio."
+      },
+      {
+        "observedAt": "2025-10-04",
+        "words": "Aria frizzante e giornata nitida: i colori del bosco facevano da cornice a tutto il percorso. Ci siamo fermati a lungo a un punto panoramico a fotografare le cime."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "ancora due nevai sul versante nord"
+        },
+        {
+          "label": "Sali e scendi continuo",
+          "quote": "un continuo sali e scendi su strada bianca larga"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Monte Rosa",
+          "quote": "Il Monte Rosa si vedeva intero"
+        },
+        {
+          "label": "Servono due auto",
+          "quote": "la seconda auto lasciata la sera prima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua alle baite",
+          "quote": "Ho riempito le borracce a una baita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Il temporale è arrivato alle 15 con grandine fitta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratti sassosi",
+          "quote": "tanti sassi smossi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori autunnali",
+          "quote": "faggi gialli e primi freddi del mattino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Nevai ancora presenti a quota 1700"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica a ogni incrocio",
+          "quote": "i cartelli ci sono a ogni incrocio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Servono due auto",
+          "quote": "ci aspettava la navetta di un amico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento sul crinale",
+          "quote": "tanto vento da ovest sul crinale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratti sassosi",
+          "quote": "terra smossa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tronco abbattuto dopo il secondo alpeggio",
+          "kind": "attenzione",
+          "quote": "Un tronco abbattuto da una tempesta blocca il passaggio"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tronco spostato dai pastori",
+          "kind": "novita",
+          "quote": "Ho trovato il tronco spostato a lato dai pastori"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sali e scendi continuo",
+          "quote": "Il sali e scendi mette alla prova le gambe"
+        },
+        {
+          "label": "Vista sul Monte Rosa",
+          "quote": "si vedevano il lago d'Orta e la pianura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica a ogni incrocio",
+          "quote": "Nuova segnaletica con cartelli gialli"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cartelli gialli nuovi verso Bielmonte",
+          "kind": "novita",
+          "quote": "Nuova segnaletica con cartelli gialli sul tratto di Bielmonte"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua alle baite",
+          "quote": "Pranzo in baita con polenta e formaggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori autunnali",
+          "quote": "i colori del bosco"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

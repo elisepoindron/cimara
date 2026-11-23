@@ -1,0 +1,4 @@
+#!/bin/sh
+# Refuses staged paths or bytes that name the private archive, and an author
+# address that is not a GitHub noreply one (scripts/guard/check.ts).
+exec node --disable-warning=ExperimentalWarning "$(git rev-parse --show-toplevel)/scripts/guard/check.ts" --staged

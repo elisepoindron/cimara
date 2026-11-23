@@ -1,0 +1,27 @@
+{
+  "osm": "w1",
+  "invented": ["avvicinamento", "vie", "note", "reports", "readings"],
+  "itinerary": {
+    "key": "corno-di-prova",
+    "activity": "falesia",
+    "place": "comune-007004",
+    "name": "Corno di Prova",
+    "facts": { "esposizione": "SO", "avvicinamento": 15 },
+    "sections": { "note": "Placche di gneiss sopra il paese, al sole dal mattino." },
+    "parts": [
+      { "fields": { "nome": "Spigolo", "grado": "5c", "lunghezza": 20 } },
+      { "fields": { "nome": "Diedro", "grado": "6b+", "lunghezza": 25 } }
+    ],
+    "reports": [
+      { "observedAt": "2025-04-12", "words": "Avvicinamento di un quarto d'ora, roccia asciutta e pochi in parete." },
+      { "observedAt": "2025-05-03", "words": "Dal parcheggio un quarto d'ora. Hanno richiodato lo Spigolo, catena nuova." },
+      { "observedAt": "2025-06-21", "words": "Troppo caldo dopo le undici." }
+    ]
+  },
+  "readings": [
+    { "themes": [{ "label": "Avvicinamento breve", "quote": "Avvicinamento di un quarto d'ora" }] },
+    { "themes": [{ "label": "Avvicinamento breve", "quote": "Dal parcheggio un quarto d'ora" }],
+      "flags": [{ "label": "Spigolo richiodato", "kind": "novita", "quote": "Hanno richiodato lo Spigolo, catena nuova." }] },
+    { "themes": [{ "label": "Caldo", "quote": "una frase che non c'è" }] }
+  ]
+}

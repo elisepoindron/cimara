@@ -1,0 +1,444 @@
+{
+  "osm": "w1476546144",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "localita_partenza",
+    "parcheggio_nota"
+  ],
+  "itinerary": {
+    "key": "falesia-della-reina-castelmagno",
+    "activity": "falesia",
+    "place": "comune-004053",
+    "name": "Falesia della Reina (Castelmagno)",
+    "lat": 44.40006,
+    "lon": 7.13844,
+    "aspect": "S",
+    "altMax": 2372,
+    "facts": {
+      "esposizione": "S",
+      "quota_base": 2372,
+      "avvicinamento": 20,
+      "localita_partenza": "Castelmagno",
+      "parcheggio_nota": "Si lascia l'auto allo slargo in fondo alla strada sterrata, dove il fondo non permette di andare oltre senza rischiare la coppa dell'olio."
+    },
+    "sections": {
+      "note": "La Reina è una parete di quarzite a oltre 2300 metri, esposta a sud, sopra gli ultimi pascoli. La roccia è compatta, a grana fine, chiara, con piccole tacche e qualche lama; i tiri sono corti, fino a trenta metri, tutti spittati con ravvicinamento corretto e soste con catena.\n\nIl sole arriva al mattino presto e resta fino a sera: in piena estate si arrampica volentieri solo al mattino o dopo le quattro, mentre a settembre e a inizio ottobre è il momento migliore. Sopra questa quota la neve va via tardi: prima di luglio conviene informarsi.\n\nSi trova una ventina di vie dal 4b al 6b+, ben divise tra gradi facili e medi; il settore più a sinistra è il più verticale. Portare una giacca anche d'estate: se arriva il vento da nord, in parete si gela.",
+      "avvicinamento": "Dallo slargo si segue la traccia che costeggia il pascolo e poi sale in diagonale fra massi e ciuffi d'erba fino a una selletta; la parete si vede da lì. Venti minuti abbondanti, più lenti se si è appena arrivati dal fondovalle."
+    },
+    "parts": [
+      {
+        "group": "Settore Sinistro",
+        "fields": {
+          "nome": "Primo Fiato",
+          "grado": "4b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Sinistro",
+        "fields": {
+          "nome": "Gli Agnelli",
+          "grado": "4c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore Sinistro",
+        "fields": {
+          "nome": "Zampa di Marmotta",
+          "grado": "5a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore Sinistro",
+        "fields": {
+          "nome": "Pascolo Alto",
+          "grado": "5a+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Settore Sinistro",
+        "fields": {
+          "nome": "La Cuccia",
+          "grado": "5b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Settore Sinistro",
+        "fields": {
+          "nome": "Vento di Nord",
+          "grado": "5c",
+          "lunghezza": 27
+        }
+      },
+      {
+        "group": "Settore Sinistro",
+        "fields": {
+          "nome": "Reina Madre",
+          "grado": "6a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Settore Sinistro",
+        "fields": {
+          "nome": "Lama Tagliente",
+          "grado": "6a+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Sinistro",
+        "fields": {
+          "nome": "Sole d'Agosto",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Tacche e Tè",
+          "grado": "4c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "La Vecchia Pecora",
+          "grado": "5a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Quarzo Fine",
+          "grado": "5b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Passo del Gelo",
+          "grado": "5b+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Carezza",
+          "grado": "5c",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Due Passi in Cielo",
+          "grado": "6a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Rigole",
+          "grado": "6a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Settore Destro",
+        "fields": {
+          "nome": "Strapiombino",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Destro",
+        "fields": {
+          "nome": "Cocci di Vetro",
+          "grado": "6b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore Destro",
+        "fields": {
+          "nome": "La Regina Nera",
+          "grado": "6b+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Settore Destro",
+        "fields": {
+          "nome": "Ultimo Respiro",
+          "grado": "6b+",
+          "lunghezza": 30
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "Prima volta lassù: la strada sterrata è lunga ma si fa con la panda, piano. Quarzite pulita, tacche piccole ma sempre sicure. Abbiamo fatto sei tiri nel Centrale prima che arrivasse la nuvola del pomeriggio."
+      },
+      {
+        "observedAt": "2022-08-08",
+        "words": "Giornata di ferie, sole pieno dalle nove, in parete non c'è un metro d'ombra. Meglio partire presto o tornare dopo le quattro."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Settembre è il mese giusto: aria frizzante già all'ombra dello zaino, niente zanzare e niente caldo. Siamo saliti alla Reina Madre e al Vento di Nord, belli entrambi."
+      },
+      {
+        "observedAt": "2022-10-02",
+        "words": "Ultima uscita prima della neve, la sterrata ci ha messo alla prova con la macchina bassa. In parete eravamo in quattro, silenzio totale e un gregge che passava sotto."
+      },
+      {
+        "observedAt": "2023-07-05",
+        "words": "Marmotte sotto la parete che ci hanno fischiato dietro tutto il giorno. Sole fisso dalle otto, quindi abbiamo smesso a mezzogiorno e siamo scesi a mangiare."
+      },
+      {
+        "observedAt": "2023-08-19",
+        "words": "Ci siamo arrivati solo dopo un'ora di sterrata: la strada non è per tutte le auto. In compenso la parete merita, il quarzo è liscio ma tiene."
+      },
+      {
+        "observedAt": "2023-09-04",
+        "words": "Giovedì di fine estate, solo noi due e il vento. Hanno cambiato le soste del settore centrale: catene nuove, belle grosse. I gradi sono onesti, forse un filo morbidi nel 5c."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Faceva freddo anche col sole, guanti sul primo tiro. Pomeriggio di tacche gelate e dita doloranti, ma tutto da rifare."
+      },
+      {
+        "observedAt": "2024-07-27",
+        "words": "Con la prima caldana siamo saliti qui apposta. A mezzogiorno la roccia scottava e abbiamo fatto la pausa lunga, poi altri due tiri nel Destro."
+      },
+      {
+        "observedAt": "2024-08-11",
+        "words": "Famiglia con bambina di otto anni, abbiamo fatto solo le vie facili del Sinistro. La roccia chiara è sana, non si stacca niente, ma i sassi del sentiero vanno controllati con i piccoli."
+      },
+      {
+        "observedAt": "2024-08-06",
+        "words": "Vista enorme sulle cime di confine e silenzio di quota, per un martedì perfetto. Alla base del Sinistro ho trovato un blocco grosso che balla appena sopra la partenza di Lama Tagliente, io lo evitavo."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Primo sabato di settembre: tre cordate, tutti gentili. La strada sterrata scuote parecchio, meglio andare piano e senza fretta."
+      },
+      {
+        "observedAt": "2025-07-20",
+        "words": "Siamo arrivati in tarda mattina e abbiamo trovato la neve ancora in un canale sotto la parete, ma i tiri erano asciutti. Aria sottile e fresca, zero afa."
+      },
+      {
+        "observedAt": "2025-08-09",
+        "words": "Mucche al pascolo davanti alla partenza del sentiero e mezza mandria ai nostri piedi mentre assicuravamo. Divertente. Il quarzo di Reina Madre è davvero liscio sotto le dita."
+      },
+      {
+        "observedAt": "2025-09-05",
+        "words": "Sono salito da solo con la corda dall'ufficio libero di giovedì. Una cordata di ragazzi mi ha prestato un rinvio, grazie. Sul Destro il 6b+ è duretto."
+      },
+      {
+        "observedAt": "2025-10-11",
+        "words": "Ultimo sabato prima della chiusura della strada: il quarzo era perfetto e asciutto, ma alle quattro l'ombra cala di colpo e fa freddo. Volevamo fermarci ancora un po'."
+      },
+      {
+        "observedAt": "2026-07-05",
+        "words": "Il fondo della sterrata è stato sistemato a tratti, si sale meglio. Sulla parete il blocco di cui parlavano è ancora lì, ma qualcuno ha segnato la zona con una fettuccia rossa."
+      },
+      {
+        "observedAt": "2026-09-12",
+        "words": "Bellissima giornata a quota. Ho fatto con calma sei vie di quinto grado nel Centrale e mi sono addormentato al sole in cima al sentiero."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Roccia compatta e chiara",
+          "quote": "tacche piccole ma sempre sicure"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole tutto il giorno",
+          "quote": "in parete non c'è un metro d'ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aria fresca d'altura",
+          "quote": "aria frizzante già all'ombra dello zaino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada sterrata lunga",
+          "quote": "la sterrata ci ha messo alla prova"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte in zona",
+          "quote": "Marmotte sotto la parete che ci hanno fischiato dietro tutto il giorno"
+        },
+        {
+          "label": "Sole tutto il giorno",
+          "quote": "Sole fisso dalle otto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada sterrata lunga",
+          "quote": "la strada non è per tutte le auto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Soste con catena nuove",
+          "kind": "novita",
+          "quote": "Hanno cambiato le soste del settore centrale: catene nuove, belle grosse"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Aria fresca d'altura",
+          "quote": "Faceva freddo anche col sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole tutto il giorno",
+          "quote": "la roccia scottava"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia compatta e chiara",
+          "quote": "La roccia chiara è sana"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulle cime",
+          "quote": "Vista enorme sulle cime di confine"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Blocco instabile al Sinistro",
+          "kind": "attenzione",
+          "quote": "ho trovato un blocco grosso che balla appena sopra la partenza di Lama Tagliente"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada sterrata lunga",
+          "quote": "strada sterrata scuote parecchio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aria fresca d'altura",
+          "quote": "Aria sottile e fresca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bestiame al pascolo",
+          "quote": "Mucche al pascolo davanti alla partenza del sentiero e mezza mandria ai nostri piedi mentre assicuravamo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cordate gentili",
+          "quote": "Una cordata di ragazzi mi ha prestato un rinvio, grazie"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia compatta e chiara",
+          "quote": "il quarzo era perfetto e asciutto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada sterrata lunga",
+          "quote": "fondo della sterrata è stato sistemato a tratti"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Blocco instabile al Sinistro",
+          "kind": "attenzione",
+          "quote": "il blocco di cui parlavano è ancora lì"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

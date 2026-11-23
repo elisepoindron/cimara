@@ -1,0 +1,25 @@
+{
+  "osm": "r8240245",
+  "invented": ["esposizione", "descrizione", "note"],
+  "itinerary": {
+    "key": "periplo-del-monte-rosso",
+    "activity": "sci_alpinismo",
+    "place": "comune-096004",
+    "name": "Periplo del Monte Rosso",
+    "lat": 45.62872,
+    "lon": 7.97075,
+    "aspect": "NO",
+    "altMax": 1270,
+    "facts": {
+      "partenza": 1270,
+      "localita_partenza": "Biella",
+      "esposizione": "NO"
+    },
+    "sections": {
+      "descrizione": "Itinerario ad anello da fare con gli sci da alpinismo, con le pelli sotto gli sci in salita e la discesa sul pendio. Il percorso gira intorno al Monte Rosso, con cambi di pendenza e qualche tratto nel bosco.\n\nIl tracciato parte dai 1270 metri, poi sale sul versante verso nord-ovest e torna per i pendii più aperti.\n\nIl fondo cambia molto a seconda della neve: al mattino è crostoso, nel pomeriggio può diventare pesante. Conviene partire presto.\n\nAttenzione ai tratti dove il bosco si fa rado: ci sono tronchi a terra e pendii più ripidi nei tagli del bosco.",
+      "note": "Da fare solo con neve stabile e con l'attrezzatura completa: artva, pala e sonda."
+    },
+    "reports": []
+  },
+  "readings": []
+}

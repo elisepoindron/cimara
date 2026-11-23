@@ -1,0 +1,239 @@
+{
+  "osm": "r3163340",
+  "invented": [
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "gtac13",
+    "activity": "escursionismo",
+    "place": "comune-001118",
+    "name": "GTAC13",
+    "lat": 45.36991,
+    "lon": 7.28026,
+    "facts": {
+      "difficolta": "EE",
+      "localita_partenza": "Pialpetta",
+      "come_arrivare": "Pialpetta è una frazione della Val Grande di Lanzo, nel comune di Groscavallo; vi si arriva da Lanzo risalendo la valle in auto, con parcheggi lungo la strada. L'arrivo a Balme è in un'altra valle: il rientro richiede un trasferimento oppure il ritorno sullo stesso itinerario."
+    },
+    "sections": {
+      "descrizione": "Tappa della Grande Traversata delle Alpi nelle Valli di Lanzo, che porta da Pialpetta, in Val Grande, a Balme, nella valle vicina. È una traversata di valico di grado EE: lunga, con fondo sassoso e un lungo tratto in quota.\n\nLa salita parte tra boschi e alpeggi, poi sale in ambiente roccioso con tratti di traccia meno evidente e alcuni passaggi su sfasciumi. Il valico è esposto al vento e si apre su un panorama largo sulle cime di confine.\n\nLa discesa verso Balme è lunga e fa lavorare le ginocchia. Meglio affrontarla con tempo stabile: nella parte alta la nebbia rende difficile seguire i segnavia."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-30",
+        "words": "Prima di fare questa tappa ci siamo informati: lunga e con un valico che non perdona. Salita a ritmo, pausa all'alpeggio e valico raggiunto dopo quattro ore."
+      },
+      {
+        "observedAt": "2022-08-28",
+        "words": "Per la discesa verso Balme le ginocchia hanno chiesto pietà. Dopo il valico il sentiero scende ripido per ore e ho usato i bastoncini fino all'ultimo."
+      },
+      {
+        "observedAt": "2022-09-13",
+        "words": "Un lunedì di fine estate, nessuno in giro. Nebbia nella parte alta e siamo andati a ometti: grazie alla traccia GPS scaricata non ci siamo persi."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Dopo l'alpeggio il sentiero diventa sfasciume e la traccia si smarrisce. Con la nebbia sarebbe stato un problema, per fortuna il cielo era limpido."
+      },
+      {
+        "observedAt": "2023-08-06",
+        "words": "Il valico ventoso è un balcone sulle cime. Ci siamo fermati per le foto e per il caffè nel thermos, poi giù verso Balme."
+      },
+      {
+        "observedAt": "2023-08-23",
+        "words": "Giornata infrasettimanale, al parcheggio di Pialpetta solo tre macchine. Sentiero asciutto e polveroso, con le mucche all'alpe che ci guardavano passare."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "A inizio mattina brina sui sassi, nel pomeriggio caldo. Abbiamo incontrato un gruppo che faceva la GTA in più giorni e che ci ha dato qualche dritta."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Ottobre al valico: neve fresca sopra i 2400 metri e vento gelido. Siamo tornati indietro prima del colle, la tappa è seria."
+      },
+      {
+        "observedAt": "2024-06-23",
+        "words": "Tracce di neve sul versante nord appena sotto il valico, da attraversare con cautela. Il resto del sentiero era asciutto."
+      },
+      {
+        "observedAt": "2024-07-27",
+        "words": "La frana sopra l'alpeggio ha spostato il sentiero di qualche metro: ora c'è un passaggio provvisorio con una corda fissa. Meglio non passare con le pietre bagnate."
+      },
+      {
+        "observedAt": "2024-08-15",
+        "words": "Venerdì di cielo azzurro. Tutta la tappa con le gambe belle sciolte, e a Balme ho ancora fatto in tempo a prendere l'ultima corsa dell'autobus."
+      },
+      {
+        "observedAt": "2024-09-15",
+        "words": "Il tratto roccioso è più lungo di quanto sembri dal basso e non c'è ombra. Acqua solo all'alpeggio, un litro e mezzo a testa non basta."
+      },
+      {
+        "observedAt": "2025-07-05",
+        "words": "La corda fissa è stata sostituita con una catena nuova e due gradini in ferro. Il passaggio ora è comodo anche con lo zaino pesante."
+      },
+      {
+        "observedAt": "2025-08-24",
+        "words": "Valico raggiunto prima di mezzogiorno, con un cielo che faceva male agli occhi. Panorama enorme sulle cime di confine e vento freddo."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "In discesa verso Balme ho perso il segnavia in un canalino e sono tornato indietro di dieci minuti. Occhio ai bolli sulle rocce."
+      },
+      {
+        "observedAt": "2026-07-11",
+        "words": "Nevaio ancora largo sotto il valico, ma con la traccia scavata da chi era passato prima. Salita lunga, caldo nel bosco e un temporale che ci ha sfiorato."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e impegnativa",
+          "quote": "lunga e con un valico che non perdona"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e impegnativa",
+          "quote": "il sentiero scende ripido per ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sul valico",
+          "quote": "Nebbia nella parte alta e siamo andati a ometti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Traccia incerta sui sassi",
+          "quote": "la traccia si smarrisce"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama dal valico",
+          "quote": "Il valico ventoso è un balcone sulle cime"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "solo tre macchine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Escursionisti della GTA",
+          "quote": "un gruppo che faceva la GTA in più giorni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve in quota",
+          "quote": "neve fresca sopra i 2400 metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve in quota",
+          "quote": "Tracce di neve sul versante nord appena sotto il valico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Passaggio provvisorio con corda",
+          "kind": "attenzione",
+          "quote": "La frana sopra l'alpeggio ha spostato il sentiero di qualche metro: ora c'è un passaggio provvisorio con una corda fissa."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Rientro a Balme in autobus",
+          "quote": "a Balme ho ancora fatto in tempo a prendere l'ultima corsa dell'autobus"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua lungo il percorso",
+          "quote": "Acqua solo all'alpeggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena e gradini nuovi al passaggio",
+          "kind": "novita",
+          "quote": "La corda fissa è stata sostituita con una catena nuova e due gradini in ferro."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama dal valico",
+          "quote": "Panorama enorme sulle cime di confine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Traccia incerta sui sassi",
+          "quote": "ho perso il segnavia in un canalino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve in quota",
+          "quote": "Nevaio ancora largo sotto il valico"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

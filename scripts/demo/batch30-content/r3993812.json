@@ -1,0 +1,55 @@
+{
+  "osm": "r3993812",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "mulattiera-rifugio-bonze",
+    "activity": "escursionismo",
+    "place": "comune-007023",
+    "name": "Mulattiera Rifugio Bonze",
+    "lat": 45.57619,
+    "lon": 7.76974,
+    "aspect": "N",
+    "altMax": 1309,
+    "facts": {
+      "partenza": 1309,
+      "localita_partenza": "Donnas"
+    },
+    "sections": {
+      "descrizione": "Antica mulattiera in pietra che sale dal paese verso il rifugio Bonze, con lunghi tratti a gradoni e qualche curva stretta nel bosco. Il fondo è in pietra e in alcuni punti scivoloso.\n\nAl rifugio la salita si conclude; il ritorno è per la stessa strada, circa un'ora e mezza in discesa."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2023-11-11",
+        "words": "Pietre bagnate e foglie nei gradoni, si scivola un po'. Siamo arrivati al rifugio prima di mezzogiorno."
+      },
+      {
+        "observedAt": "2025-06-02",
+        "words": "Caldo nei tratti aperti, poca ombra nella parte alta. Abbiamo bevuto alla fontana."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Pietre scivolose",
+          "quote": "Pietre bagnate e foglie nei gradoni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parte alta assolata",
+          "quote": "poca ombra nella parte alta"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

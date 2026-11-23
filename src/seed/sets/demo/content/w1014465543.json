@@ -1,0 +1,331 @@
+{
+  "osm": "w1014465543",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "ferrata-falconera",
+    "activity": "via_ferrata",
+    "place": "comune-002156",
+    "name": "Ferrata Falconera",
+    "lat": 45.80555,
+    "lon": 8.27551,
+    "altMax": 629,
+    "facts": {},
+    "sections": {
+      "descrizione": "Una ferrata sopra Varallo, in Valsesia, il cui primo punto attrezzato è a poco più di seicento metri. Si fa da marzo a novembre, e fuori dai giorni di pioggia anche in inverno quando la roccia è asciutta. Il grado è alto: pareti verticali e strapiombanti, passaggi atletici e lunghe sequenze di staffe dove le braccia lavorano senza sosta.\n\nIl tracciato si segue per intero sul cavo, senza vie di fuga a metà, quindi conviene arrivare con una buona preparazione e con la certezza di non avere vertigini. Nei tratti più lisci la roccia è levigata da chi ci è passato prima, e le scarpe devono avere una suola con buon attrito.\n\nSi porta il kit completo con due longe, casco e guanti robusti, e una scorta d'acqua.",
+      "avvicinamento": "Dal paese si arriva in macchina fino a un parcheggio nei pressi della partenza e poi si cammina su sentiero in circa venti minuti, con una breve salita ripida finale fino all'attacco."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-03-26",
+        "words": "Prima ferrata dell'anno, e troppo presto: avevo le braccia di un principiante. Il tratto strapiombante iniziale mi ha messo in croce, ho fatto cinque soste. Ma la roccia era asciutta e il sole sulle spalle."
+      },
+      {
+        "observedAt": "2022-05-17",
+        "words": "Martedì di maggio, giornata di ferie. Silenzio, nessun altro in parete. Dopo il terzo strapiombo vedo la Valsesia aprirsi in basso, un panorama che vale tutta la fatica. Cavi a posto."
+      },
+      {
+        "observedAt": "2022-06-18",
+        "words": "Sabato caldo, siamo saliti alle otto e già c'era gente davanti. Una ferrata dove le braccia si svuotano, e con la folla non si può nemmeno riposare per bene. Meglio un giorno di settimana."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Domenica di settembre, luce splendida e giornata fresca. I passaggi in placca sono lisci e la suola dev'essere buona, io ho scivolato due volte. Alla fine un caffè in paese e le gambe che tremano."
+      },
+      {
+        "observedAt": "2022-11-12",
+        "words": "Fine stagione, aria frizzante e parete in ombra. Le mani gelate sul cavo e il fiato corto. Il panorama sulla valle da lassù è quasi trasparente con il freddo, indimenticabile."
+      },
+      {
+        "observedAt": "2023-03-18",
+        "words": "Un sabato di marzo, bel sole, giacca leggera. Con un amico abbiamo fatto la ferrata a staffetta, io davanti e lui dietro. Impegnativa, soprattutto per le spalle, e consiglio di allenarsi prima."
+      },
+      {
+        "observedAt": "2023-05-31",
+        "words": "Mercoledì. Il caldo comincia a farsi sentire ma la roccia è ancora fresca la mattina. Ho trovato i cavi sostituiti nel secondo strapiombo, nuovi e senza ruggine. Un bel lavoro di manutenzione."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Caldo, caldo, caldo. Siamo partiti alle sei e alle dieci la roccia già scottava, sconsigliata nelle ore centrali. Alla fine una doccia nel torrente per rimettersi in piedi."
+      },
+      {
+        "observedAt": "2023-10-01",
+        "words": "Giornata calda per ottobre. Ho dovuto attendere tre cordate prima di partire e poi mi sono trovato bloccato dietro un gruppo di ragazzi. La ferrata non è fatta per essere condivisa, ma si fa."
+      },
+      {
+        "observedAt": "2023-11-23",
+        "words": "Giovedì di fine novembre, ferie smaltite. Nessuno in giro, roccia fredda e asciutta. Le staffe sono a posto, il passaggio più duro è quello in strapiombo finale, ma si supera con calma."
+      },
+      {
+        "observedAt": "2024-03-09",
+        "words": "Sabato di inizio marzo. La roccia era ancora un po' umida e una staffa ha girato sotto il piede: ho avuto paura, e l'ho segnalata al ritorno. Ferrata comunque seria, non da sottovalutare."
+      },
+      {
+        "observedAt": "2024-04-30",
+        "words": "Martedì prima del ponte, clima mite. Strapiombi su strapiombi, ho contato fino a sei e poi ho perso il conto. La Valsesia da quassù sembra un plastico. Dopo la ferrata una birra in paese."
+      },
+      {
+        "observedAt": "2024-07-06",
+        "words": "Caldo sulla roccia e vento fermo. Partiti alle sette, usciti alle undici con i capelli fradici. Ferrata massacrante per le braccia, ma i pedali ci aiutano dove serve. Pomeriggio in piscina."
+      },
+      {
+        "observedAt": "2024-09-29",
+        "words": "Domenica di fine settembre, sole pieno e un po' di coda all'attacco. Il traverso in placca è liscio e si scivola se si ha poca fiducia. Una volta usciti, sensazione di aver fatto qualcosa."
+      },
+      {
+        "observedAt": "2025-03-22",
+        "words": "Primavera anticipata e roccia asciutta. Un amico ha deciso di rinunciare al secondo strapiombo: troppo duro per la prima volta. Io ci ho riprovato e ce l'ho fatta alla seconda. Ferrata onesta, ma impegnativa."
+      },
+      {
+        "observedAt": "2025-05-21",
+        "words": "Mercoledì libero, parete deserta e aria frizzante. Il sentiero di avvicinamento è stato ripulito da rami e foglie, adesso si cammina bene. Panorama nitido sulla valle dopo la pioggia della notte."
+      },
+      {
+        "observedAt": "2025-08-15",
+        "words": "Ferragosto, ma di mattina presto la ferrata era libera. Sole forte già alle nove, siamo usciti alle undici e abbiamo evitato il peggio del caldo. Gambe e braccia dopo tre ore di sali e scendi: finite."
+      },
+      {
+        "observedAt": "2025-10-26",
+        "words": "Domenica di ottobre. Un tratto di sentiero è stato chiuso da una frana piccola e c'è una deviazione segnalata a nastri rossi, aggiunge dieci minuti. La parete era in ottime condizioni, un po' fredda all'inizio."
+      },
+      {
+        "observedAt": "2026-04-04",
+        "words": "Sabato di Pasqua, cielo velato. Ci siamo trovati in coda dietro due gruppi con ragazzi e abbiamo atteso a ogni strapiombo. Ma il tempo ha tenuto e la Valsesia da lassù era una bella cartolina."
+      },
+      {
+        "observedAt": "2026-11-04",
+        "words": "Mercoledì di novembre, sole e vento fresco. Parete in ombra e mani fredde, ma tutto asciutto. Roccia levigata nei punti dove è passata più gente, e la suola delle scarpe ha lavorato. Pochissima voglia di scendere."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Impegnativa per le braccia",
+          "quote": "avevo le braccia di un principiante"
+        },
+        {
+          "label": "Strapiombi continui",
+          "quote": "Il tratto strapiombante iniziale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla Valsesia",
+          "quote": "vedo la Valsesia aprirsi in basso"
+        },
+        {
+          "label": "Poca gente in settimana",
+          "quote": "nessun altro in parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Impegnativa per le braccia",
+          "quote": "le braccia si svuotano"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "già c'era gente davanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia levigata",
+          "quote": "I passaggi in placca sono lisci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla Valsesia",
+          "quote": "Il panorama sulla valle da lassù"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Impegnativa per le braccia",
+          "quote": "Impegnativa, soprattutto per le spalle"
+        },
+        {
+          "label": "Mezza stagione",
+          "quote": "Un sabato di marzo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cavi sostituiti nel secondo strapiombo",
+          "kind": "novita",
+          "quote": "Ho trovato i cavi sostituiti nel secondo strapiombo, nuovi e senza ruggine."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo sulla parete",
+          "quote": "alle dieci la roccia già scottava"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "tre cordate prima di partire"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Nessuno in giro"
+        },
+        {
+          "label": "Strapiombi continui",
+          "quote": "strapiombo finale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Staffa girevole sul tratto basso",
+          "kind": "attenzione",
+          "quote": "una staffa ha girato sotto il piede"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Strapiombi continui",
+          "quote": "Strapiombi su strapiombi"
+        },
+        {
+          "label": "Vista sulla Valsesia",
+          "quote": "La Valsesia da quassù sembra un plastico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo sulla parete",
+          "quote": "Caldo sulla roccia"
+        },
+        {
+          "label": "Impegnativa per le braccia",
+          "quote": "Ferrata massacrante per le braccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "un po' di coda all'attacco"
+        },
+        {
+          "label": "Roccia levigata",
+          "quote": "Il traverso in placca è liscio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strapiombi continui",
+          "quote": "rinunciare al secondo strapiombo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "parete deserta"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Sentiero di avvicinamento ripulito",
+          "kind": "novita",
+          "quote": "Il sentiero di avvicinamento è stato ripulito da rami e foglie, adesso si cammina bene."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo sulla parete",
+          "quote": "Sole forte già alle nove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Deviazione sul sentiero per una piccola frana",
+          "kind": "attenzione",
+          "quote": "Un tratto di sentiero è stato chiuso da una frana piccola e c'è una deviazione segnalata a nastri rossi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Ci siamo trovati in coda dietro due gruppi"
+        },
+        {
+          "label": "Vista sulla Valsesia",
+          "quote": "la Valsesia da lassù era una bella cartolina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia levigata",
+          "quote": "Roccia levigata nei punti dove è passata più gente"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

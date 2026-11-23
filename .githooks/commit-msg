@@ -1,0 +1,3 @@
+#!/bin/sh
+# Refuses a commit message that names the private archive (scripts/guard/check.ts).
+exec node --disable-warning=ExperimentalWarning "$(git rev-parse --show-toplevel)/scripts/guard/check.ts" --message "$1"

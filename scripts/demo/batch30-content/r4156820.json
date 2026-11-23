@@ -1,0 +1,55 @@
+{
+  "osm": "r4156820",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "pian-coumarial-lago-vargno",
+    "activity": "escursionismo",
+    "place": "comune-007028",
+    "name": "Pian Coumarial - Lago Vargno",
+    "lat": 45.64845,
+    "lon": 7.9097,
+    "aspect": "E",
+    "altMax": 1694,
+    "facts": {
+      "partenza": 1694,
+      "localita_partenza": "Fontainemore"
+    },
+    "sections": {
+      "descrizione": "Sentiero segnato 2E che sale dal Pian Coumarial verso il lago Vargno, nel vallone. Il tracciato è in parte su sentiero di pietra e in parte su prato, con un tratto nel bosco di larici all'inizio.\n\nVicino al lago il sentiero si fa sassoso; si cammina su pietre e poi su prato fino alla riva. Il ritorno è per la stessa strada."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2024-08-03",
+        "words": "Lago freddo, con il sole siamo rimasti sulla riva un'ora. Sentiero ben segnato, nessun dubbio sulla strada."
+      },
+      {
+        "observedAt": "2026-07-11",
+        "words": "Nuvole sul vallone al mattino, poi il sole. Due coppie e un cane sul sentiero."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Lago freddo",
+          "quote": "Lago freddo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gente con il cane",
+          "quote": "Due coppie e un cane sul sentiero"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

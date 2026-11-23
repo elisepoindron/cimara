@@ -1,0 +1,316 @@
+{
+  "osm": "n13018078689",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "localita_partenza"
+  ],
+  "itinerary": {
+    "key": "falesia-di-moiola-muro-della-rigenerazione",
+    "activity": "falesia",
+    "place": "comune-004123",
+    "name": "Falesia di Moiola Muro della Rigenerazione",
+    "lat": 44.32519,
+    "lon": 7.38634,
+    "aspect": "SE",
+    "altMax": 961,
+    "facts": {
+      "esposizione": "SE",
+      "quota_base": 961,
+      "avvicinamento": 12,
+      "localita_partenza": "Moiola"
+    },
+    "sections": {
+      "note": "Il Muro della Rigenerazione è un piccolo muro di calcare grigio a 960 metri sopra Moiola, esposto a sud-est: il sole arriva presto e resta fino a metà pomeriggio. Sono otto vie corte, dal 5c al 6c, su placca e muro con tacche, appena sbalzate in alto.\n\nChiodatura moderna e vicina, soste comode con catena. Il settore è tranquillo e raccolto, ideale per un mattino di mezza stagione quando altri posti sono già troppo caldi o ancora bagnati. D'inverno, con il sole e l'aria ferma, si sta bene.\n\nÈ uno dei settori vicini alla Placca degli Scorpioni e al Primo Volo: tutti e tre si possono unire in una giornata.",
+      "avvicinamento": "Si lascia l'auto lungo la strada sterrata e si prende un sentiero in costa fra pini e ginepri che porta ai settori; il muro è il primo a sinistra, dopo una decina di minuti in piano e un quarto di salita."
+    },
+    "parts": [
+      {
+        "group": "Muro",
+        "fields": {
+          "nome": "Prima Pelle",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Muro",
+        "fields": {
+          "nome": "Nuova Linfa",
+          "grado": "5c+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Muro",
+        "fields": {
+          "nome": "Il Rinnovo",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Muro",
+        "fields": {
+          "nome": "Cicatrice",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Muro",
+        "fields": {
+          "nome": "Seconda Vita",
+          "grado": "6a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Muro",
+        "fields": {
+          "nome": "Rinascita",
+          "grado": "6b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Muro",
+        "fields": {
+          "nome": "Mano Sinistra",
+          "grado": "6b+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Muro",
+        "fields": {
+          "nome": "Fenice",
+          "grado": "6c",
+          "lunghezza": 22
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-04-09",
+        "words": "Muro piccolo ma carino, sole sul calcare da subito. Abbiamo fatto le otto vie senza fretta, la chiodatura vicina è un lusso."
+      },
+      {
+        "observedAt": "2022-05-04",
+        "words": "Un mercoledì di maggio quasi senza vento: da solo con la corda, in totale silenzio. Le soste con catena sono comode da guidare."
+      },
+      {
+        "observedAt": "2022-10-01",
+        "words": "Giornata dolce, sole sul muro già alle nove e foglie gialle. Fenice è una bella chiusura, dura e continua."
+      },
+      {
+        "observedAt": "2022-12-17",
+        "words": "Dicembre, aria secca e sole fino al primo pomeriggio: ci siamo tolti la giacca a mezzogiorno. Nessuno in giro."
+      },
+      {
+        "observedAt": "2023-03-12",
+        "words": "Siamo venuti per i settori accanto, poi abbiamo scalato qui per riempire il tempo. Il calcare è grigio e pulito, quasi a sabbia nella parte bassa."
+      },
+      {
+        "observedAt": "2023-04-04",
+        "words": "Primavera tardiva, un po' di umido nei tratti d'ombra del sentiero, ma sul muro tutto asciutto. Eravamo solo noi e un cane."
+      },
+      {
+        "observedAt": "2023-06-17",
+        "words": "Troppo caldo dopo le undici, la roccia scottava. Abbiamo scalato al mattino e poi pausa sul prato. Rinascita è una bella placca tecnica."
+      },
+      {
+        "observedAt": "2023-10-28",
+        "words": "Una mattina limpida, la valle sotto con un po' di nebbia in fondo. Sole ottimo al mattino, un po' di vento da ovest dopo le due."
+      },
+      {
+        "observedAt": "2024-03-06",
+        "words": "Giornata di ferie, sole d'inverno sulla parete e silenzio. Qualche foglia secca sulla partenza di Il Rinnovo: due colpi di spazzola e via."
+      },
+      {
+        "observedAt": "2024-05-05",
+        "words": "Con i bambini nel prato sotto, a turno scalavamo. Sono vie corte, si riesce a vedere l'altra cordata dal basso. È comparso un cartello con il nome del settore al primo attacco."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Troppo caldo, siamo finiti in ombra solo dopo le cinque. Meglio provare altri posti d'estate. La Mano Sinistra è bella, ma il caldo ha rovinato la salita."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Primo autunno, la parete era già in ombra alle quattro. Abbiamo ripulito qualche appiglio con la spazzola e ritentato Cicatrice. Un riccio di castagna in testa a un amico."
+      },
+      {
+        "observedAt": "2024-11-01",
+        "words": "Il giorno dei morti, silenzio assoluto. Non c'era nessuno in tutta la costa. Ho salito Nuova Linfa tre volte per l'esercizio."
+      },
+      {
+        "observedAt": "2025-02-08",
+        "words": "Sole e freddo, tre gradi all'ombra. Hanno cambiato la sosta di Rinascita con una catena nuova e più grande, si vede dal basso."
+      },
+      {
+        "observedAt": "2025-04-20",
+        "words": "In coppia, con tanta calma: sole sulla parete e pane e salame ai piedi del muro. Una via per tutti i gusti nella fascia fra 5c e 6b."
+      },
+      {
+        "observedAt": "2025-06-07",
+        "words": "Sole presto, chi arriva dopo le dieci scotta. Nessuna coda, ma il caldo ha costretto a smettere presto. Un fresco aperitivo in paese e via."
+      },
+      {
+        "observedAt": "2025-10-18",
+        "words": "Autunno morbido, sole al mattino e ombra dopo le tre. Fenice mi ha respinto tre volte, ma con la quarta è andata."
+      },
+      {
+        "observedAt": "2026-03-04",
+        "words": "Una piccola gita di metà settimana per salutare la primavera. Tutto pulito, i rinvii sono stati sostituiti da poco: la catena nuova di Rinascita è bella e brillante."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Chiodatura ravvicinata",
+          "quote": "chiodatura vicina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "sole sul muro già alle nove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "sole fino al primo pomeriggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi arrampicatori",
+          "quote": "Eravamo solo noi e un cane"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo in estate",
+          "quote": "Troppo caldo dopo le undici, la roccia scottava"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "Sole ottimo al mattino"
+        },
+        {
+          "label": "Vento nel pomeriggio",
+          "quote": "un po' di vento da ovest dopo le due"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "sole d'inverno sulla parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Prato sotto il muro",
+          "quote": "Con i bambini nel prato sotto, a turno scalavamo"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cartello nuovo all'attacco",
+          "kind": "novita",
+          "quote": "È comparso un cartello con il nome del settore al primo attacco"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi arrampicatori",
+          "quote": "Non c'era nessuno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sosta di Rinascita sostituita",
+          "kind": "novita",
+          "quote": "Hanno cambiato la sosta di Rinascita con una catena nuova e più grande"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "sole al mattino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sosta di Rinascita sostituita",
+          "kind": "novita",
+          "quote": "la catena nuova di Rinascita è bella e brillante"
+        }
+      ]
+    }
+  ]
+}

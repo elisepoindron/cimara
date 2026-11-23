@@ -1,0 +1,57 @@
+{
+  "osm": "r1955047",
+  "invented": [
+    "description",
+    "reports",
+    "esposizione"
+  ],
+  "itinerary": {
+    "key": "tour-de-saint-evence",
+    "activity": "escursionismo",
+    "place": "comune-007059",
+    "name": "Tour de Saint-Evence",
+    "lat": 45.7704,
+    "lon": 7.56304,
+    "aspect": "NO",
+    "altMax": 1312,
+    "facts": {
+      "difficolta": "E",
+      "partenza": 1312,
+      "localita_partenza": "Saint-Denis"
+    },
+    "sections": {
+      "descrizione": "Anello che parte da Plau e gira attorno alla Tour de Saint-Evence, su sentiero segnato in giallo, con due tratti nel bosco e un passaggio su prato aperto. Il percorso è ben tenuto, con qualche radice e un tratto di pietre sconnesse in discesa.\n\nNel secondo tratto il sentiero costeggia il bosco e poi sale su un crinale: la vista si apre verso la valle. Tempo previsto circa due ore e mezza."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2024-07-20",
+        "words": "Partiti da Plau con il sole, il sentiero nel bosco era fresco. In cima ci siamo fermati un'ora a guardare la valle."
+      },
+      {
+        "observedAt": "2025-10-25",
+        "words": "Foglie a terra, sentiero scivoloso nei punti in ombra. Giornata d'autunno, poca gente."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Bosco fresco",
+          "quote": "il sentiero nel bosco era fresco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Foglie e fango",
+          "quote": "sentiero scivoloso nei punti in ombra"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

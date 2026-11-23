@@ -1,0 +1,266 @@
+{
+  "osm": "r11124660",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-red-r136",
+    "activity": "escursionismo",
+    "place": "comune-004001",
+    "name": "Via Alpina Red R136",
+    "lat": 44.42891,
+    "lon": 6.97895,
+    "facts": {
+      "difficolta": "E",
+      "localita_partenza": "Chialvetta",
+      "come_arrivare": "Chialvetta si raggiunge dalla Val Maira in auto fino alla borgata. Il percorso termina in Val Stura a Pontebernardo: per riprendere l'auto bisogna organizzarsi con un secondo mezzo o con un taxi, oppure tornare a piedi."
+    },
+    "sections": {
+      "descrizione": "Tappa di valico della Via Alpina Rossa tra due valli: da Chialvetta, nell'alta Val Maira, a Pontebernardo, in Val Stura. Si sale per pascoli e pietraie fino a un colle aperto e ventoso, poi si scende sull'altro versante fino a un villaggio sul fondovalle.\n\nLa salita è lunga ma regolare, in parte su vecchie mulattiere militari, con prati alti e larici sparsi nella parte iniziale e poi solo erba e sassi. Dal colle si vedono le due valli e, nelle giornate limpide, un lungo orizzonte di creste. La discesa è più ripida della salita e il fondo, in alcuni punti, è smosso.\n\nSi fa da giugno a ottobre. A inizio stagione sul versante nord del colle può restare neve. In pieno giorno non c'è ombra sulla parte alta: servono acqua e protezione dal sole. Non ci sono punti di ristoro lungo il percorso."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-06-25",
+        "words": "A fine giugno il colle aveva ancora una lingua di neve sul lato nord. La neve ammorbidita dal sole ci ha fatto scivolare più volte, con le scarpe da trekking leggere è stato un po' scomodo."
+      },
+      {
+        "observedAt": "2022-07-17",
+        "words": "Salita lunga ma regolare, quasi tutta sulla vecchia mulattiera. Non ho mai avuto bisogno di fermarmi per ripiegare il fiato."
+      },
+      {
+        "observedAt": "2022-08-03",
+        "words": "Mercoledì in solitaria, non ho incontrato nessuno dalla partenza all'arrivo. Una tappa vuota e silenziosa, ideale per chi cerca pace."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Sul colle il vento ci spingeva di lato, abbiamo mangiato il panino in una conca al riparo qualche metro sotto."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Marmotte a decine, forse centinaia. Le marmotte fischiavano da ogni roccia e il cane le inseguiva con lo sguardo."
+      },
+      {
+        "observedAt": "2022-09-30",
+        "words": "Giornata grigia e fredda. La discesa verso il fondovalle è ripida e con ghiaia smossa, meglio i bastoncini."
+      },
+      {
+        "observedAt": "2023-06-18",
+        "words": "Neve a tratti sul versante nord ma il segnavia si vede bene. Poco sotto il colle un nevaio di cento metri da attraversare con attenzione."
+      },
+      {
+        "observedAt": "2023-07-12",
+        "words": "Un mercoledì d'estate, silenzio completo. Arrivato a Pontebernardo in tempo per una birra fredda al bar del paese."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Al colle tirava un vento gelido anche ad agosto e abbiamo messo la giacca per cinque minuti."
+      },
+      {
+        "observedAt": "2023-08-27",
+        "words": "Salita lunga con zaino pesante, a tre quarti ho avuto la sensazione di non arrivare più. Sopra i larici non c'è un metro d'ombra, cappello obbligatorio."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Dal colle si vedono due valli e creste fino in lontananza, abbiamo seduti a guardare per venti minuti."
+      },
+      {
+        "observedAt": "2024-06-22",
+        "words": "Dopo il colle un tratto del sentiero di discesa è franato, si passa su un'esile traccia nuova ma con calma."
+      },
+      {
+        "observedAt": "2024-07-24",
+        "words": "Una mattinata infrasettimanale con foschia. Ho notato i segnavia rossi nuovi e le paline sul versante di Pontebernardo, molto utili con la foschia."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Salita sotto il sole e discesa nella nebbia. Abbiamo incrociato solo una coppia di tedeschi, il resto della giornata per conto nostro."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Prime brinate al mattino, aria cristallina. Il traverso franato è stato ripulito e la discesa è comunque ripida ma si cammina bene."
+      },
+      {
+        "observedAt": "2025-07-06",
+        "words": "Ho fatto la tappa in senso inverso, da Pontebernardo a Chialvetta. La salita lunga e regolare dal fondovalle si sente nelle gambe."
+      },
+      {
+        "observedAt": "2025-08-13",
+        "words": "Notte in tenda sotto il colle, stelle fantastiche. Il vento è calato solo dopo il tramonto."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Pascoli ricolmi di fiori tardivi e mucche con campanacci. Un gruppo di mucche sul sentiero ci ha fatto perdere dieci minuti."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Neve sul colle a giugno",
+          "quote": "La neve ammorbidita dal sole ci ha fatto scivolare più volte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e regolare",
+          "quote": "Salita lunga ma regolare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Solitudine sul percorso",
+          "quote": "Una tappa vuota e silenziosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento forte al colle",
+          "quote": "Sul colle il vento ci spingeva di lato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte sui pascoli",
+          "quote": "Le marmotte fischiavano da ogni roccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa ripida e smossa",
+          "quote": "è ripida e con ghiaia smossa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve sul colle a giugno",
+          "quote": "Poco sotto il colle un nevaio di cento metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Birra a Pontebernardo",
+          "quote": "una birra fredda al bar del paese"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento forte al colle",
+          "quote": "Al colle tirava un vento gelido anche ad agosto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nessuna ombra in salita",
+          "quote": "Sopra i larici non c'è un metro d'ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama dal colle",
+          "quote": "Dal colle si vedono due valli e creste fino in lontananza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana sul sentiero di discesa",
+          "kind": "attenzione",
+          "quote": "Dopo il colle un tratto del sentiero di discesa è franato"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnavia nuovi sul versante di Pontebernardo",
+          "kind": "novita",
+          "quote": "i segnavia rossi nuovi e le paline sul versante di Pontebernardo"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Solitudine sul percorso",
+          "quote": "Abbiamo incrociato solo una coppia di tedeschi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa ripida e smossa",
+          "quote": "ripulito e la discesa è comunque ripida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e regolare",
+          "quote": "La salita lunga e regolare dal fondovalle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento forte al colle",
+          "quote": "Il vento è calato solo dopo il tramonto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mucche al pascolo",
+          "quote": "Un gruppo di mucche sul sentiero"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

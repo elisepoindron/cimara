@@ -1,0 +1,426 @@
+{
+  "osm": "n13042895069",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "localita_partenza"
+  ],
+  "itinerary": {
+    "key": "falesia-di-luca",
+    "activity": "falesia",
+    "place": "comune-001007",
+    "name": "Falesia di Luca",
+    "lat": 45.41528,
+    "lon": 7.58633,
+    "aspect": "N",
+    "altMax": 502,
+    "facts": {
+      "esposizione": "N",
+      "quota_base": 502,
+      "avvicinamento": 15,
+      "localita_partenza": "Alpette"
+    },
+    "sections": {
+      "note": "La Falesia di Luca è una parete di granito a 500 metri, sopra Alpette, esposta a nord: un posto per l'estate e per le mezze stagioni, mentre in pieno inverno è fredda e i muschi la tengono umida. Il granito è compatto e grigio, ben lavorato dall'acqua, con vie che chiedono tecnica di piedi e dita: placche e muri, qualche strapiombino alla fine.\n\nCi sono una ventina di vie dal 5c al 7c+, lunghe fra i venti e i trenta metri, chiodate a spit da persone attente: i passi duri sono sempre protetti, ma tra un passo e l'altro i rinvii possono essere distanti. Le soste sono a catena. Chi viene dalla pianura trova qui il fresco dopo una giornata di calura.\n\nDopo i temporali la roccia asciuga lentamente e certe fessure restano scivolose. Portare un paio di rinvii lunghi e la spazzola per i primi giri della stagione.",
+      "avvicinamento": "Dal parcheggio un sentiero nel castagneto sale con qualche tornante fino alla base della parete: un quarto d'ora abbondante, fango nei punti d'acqua."
+    },
+    "parts": [
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Prima Placca",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Castagna Matta",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Il Ramo",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Foglie Rosse",
+          "grado": "6a+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Muschio e Via",
+          "grado": "6b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Sentiero Perduto",
+          "grado": "6a+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "La Sorgente",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Luca Primo",
+          "grado": "6b+",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Il Cuore Nero",
+          "grado": "6c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Doppio Tetto",
+          "grado": "6c+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Nord Pieno",
+          "grado": "7a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Sfida di Luglio",
+          "grado": "7a+",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Granito Duro",
+          "grado": "7b",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Il Ritorno",
+          "grado": "7b+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "La Muraglia",
+          "grado": "7c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Ultimo Anello",
+          "grado": "7c+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Raggio di Luna",
+          "grado": "6b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Via della Pigna",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Sasso Rosso",
+          "grado": "6c",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Fuoco Lento",
+          "grado": "7a",
+          "lunghezza": 25
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-06-11",
+        "words": "Primo giro in un posto nuovo, tutti gentili e il granito grigio è da farsi le dita. Abbiamo fatto cinque vie nel Centrale, la mezza giornata in ombra era perfetta."
+      },
+      {
+        "observedAt": "2022-07-06",
+        "words": "Giornata calda in pianura e qui fresco: l'ombra copre tutta la parete anche al pomeriggio. Una brezza dalla valle sale da sotto."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "Dopo la settimana di pioggia la roccia era ancora un po' umida nei buchi. Una cordata davanti, le soste pulite, vie che chiedono pazienza. Abbiamo mangiato sotto un castagno."
+      },
+      {
+        "observedAt": "2022-10-15",
+        "words": "Il sentiero era coperto di ricci di castagna e di fango: i tornanti sono scivolosi dopo la pioggia. Bella giornata, ma uscita corta a causa dell'umidità."
+      },
+      {
+        "observedAt": "2023-05-02",
+        "words": "Mi sono preso un mercoledì a metà settimana: siamo stati soli tutta la mattina. Il tiro Sentiero Perduto è un 6a+ elegante."
+      },
+      {
+        "observedAt": "2023-06-17",
+        "words": "Era il giorno più caldo dell'anno e qui, nel bosco, l'aria era fresca e leggera. Ho provato Il Cuore Nero e ci sono arrivato in rosso."
+      },
+      {
+        "observedAt": "2023-08-13",
+        "words": "Con due amici alle prime armi siamo rimasti sulla Sinistra: le catene sono comode e le distanze rassicuranti. Un tafano ci ha tormentato tutto il pomeriggio."
+      },
+      {
+        "observedAt": "2023-10-07",
+        "words": "Autunno, foglie ovunque e un freddino che toglieva la sensibilità. Il granito è compatto e tecnico, chiede molta precisione sui piedini."
+      },
+      {
+        "observedAt": "2024-04-03",
+        "words": "Giorno di ferie: roccia ancora fredda, ma sana. Sul Centrale hanno cambiato alcune soste, ora sono catene con anelli nuovi, si cala senza imbarazzi."
+      },
+      {
+        "observedAt": "2024-06-22",
+        "words": "Ci siamo arrivati dopo un temporale: parete bagnata in alto, asciutta in basso. Fango fino alle caviglie sul sentiero, scarponi da portare."
+      },
+      {
+        "observedAt": "2024-07-21",
+        "words": "Cordata di quattro, io e tre amici: noi abbiamo scelto Luca Primo e Il Ritorno. Ci siamo riposati a lungo all'ombra tra un tiro e l'altro."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Settembre perfetto: sole fuori dal bosco, ombra in parete, tutto asciutto. L'aria era ancora estiva ma piacevole. Granito Duro è davvero duro, un 7b che non regala niente."
+      },
+      {
+        "observedAt": "2024-11-04",
+        "words": "Giornata strana di fine autunno, la parete è fredda e non è asciutta del tutto. Un cartello vecchio indica ancora il sentiero originario. Un grosso ramo è caduto sulla parte alta di Foglie Rosse e rimane appeso sopra la via, attenzione."
+      },
+      {
+        "observedAt": "2025-03-01",
+        "words": "Dopo l'inverno sono saliti con la cesoia a sistemare il sentiero, grazie a chi l'ha fatto: ora il tratto fangoso è più semplice da percorrere. In parete resta muschio sulle partenze."
+      },
+      {
+        "observedAt": "2025-05-11",
+        "words": "Poca gente, belle luci tra i castagni. Sul 6b+ Luca Primo mi sono bloccato a metà e ho dovuto chiedere la placca alla mia compagna."
+      },
+      {
+        "observedAt": "2025-06-21",
+        "words": "Il ramo caduto è stato rimosso: hanno tolto il ramo da Foglie Rosse. Via di nuovo libera e pulita."
+      },
+      {
+        "observedAt": "2025-09-05",
+        "words": "Fine settimana lavorativo: ho preso la corda e sono salito da solo a fare tiri sulla Sinistra, nel silenzio. Nessuno per ore, solo cinciallegre."
+      },
+      {
+        "observedAt": "2026-05-09",
+        "words": "Il granito liscio e tecnico chiede pazienza, ma regala belle sensazioni. Siamo andati via soddisfatti dopo tre tiri a testa."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Granito grigio e tecnico",
+          "quote": "granito grigio è da farsi le dita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresca d'estate",
+          "quote": "l'ombra copre tutta la parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero fangoso",
+          "quote": "i tornanti sono scivolosi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi arrampicatori in settimana",
+          "quote": "siamo stati soli tutta la mattina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresca d'estate",
+          "quote": "fresca e leggera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Settore sinistro per iniziare",
+          "quote": "Con due amici alle prime armi siamo rimasti sulla Sinistra"
+        },
+        {
+          "label": "Tafani d'estate",
+          "quote": "Un tafano ci ha tormentato tutto il pomeriggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Granito grigio e tecnico",
+          "quote": "granito è compatto e tecnico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuove soste sul Centrale",
+          "kind": "novita",
+          "quote": "Sul Centrale hanno cambiato alcune soste, ora sono catene con anelli nuovi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero fangoso",
+          "quote": "Fango fino alle caviglie"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresca d'estate",
+          "quote": "L'aria era ancora estiva ma piacevole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ramo caduto su Foglie Rosse",
+          "kind": "attenzione",
+          "quote": "Un grosso ramo è caduto sulla parte alta di Foglie Rosse"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero fangoso",
+          "quote": "il tratto fangoso è più semplice da percorrere"
+        },
+        {
+          "label": "Muschio sulle partenze",
+          "quote": "resta muschio sulle partenze"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ramo caduto su Foglie Rosse",
+          "kind": "attenzione",
+          "quote": "hanno tolto il ramo da Foglie Rosse"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi arrampicatori in settimana",
+          "quote": "Nessuno per ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Granito grigio e tecnico",
+          "quote": "granito liscio e tecnico"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

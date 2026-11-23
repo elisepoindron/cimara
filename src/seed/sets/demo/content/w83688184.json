@@ -1,0 +1,816 @@
+{
+  "osm": "w83688184",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-ferrata-carlo-giorda",
+    "activity": "via_ferrata",
+    "place": "comune-001255",
+    "name": "Via Ferrata Carlo Giorda",
+    "lat": 45.104,
+    "lon": 7.34704,
+    "aspect": "E",
+    "altMax": 960,
+    "facts": {},
+    "sections": {
+      "descrizione": "Una via ferrata lunga e mai davvero difficile che sale il fianco del Monte Pirchiriano dal fondovalle, poco sopra le case di Sant'Ambrogio, fino ai piedi della Sacra di San Michele. Sono circa seicento metri di dislivello, quasi tutti su cavo, con un andamento continuo: brevi muri verticali attrezzati con staffe si alternano a cenge erbose e tratti di roccia appoggiata.\n\nIl primo tratto è il più ripido, un muro di una ventina di metri dove nei giorni di festa si forma spesso la coda. Poi la linea si distende su placche e spigoli, con qualche passo esposto ma sempre ben protetto. A metà percorso una via di fuga segnalata permette di uscire sul sentiero. Il tratto alto, più aereo, sbuca sotto le mura dell'abbazia.\n\nLa parete guarda la valle e prende il sole del mattino: si sale quasi tutto l'anno, anche in pieno inverno quando non c'è ghiaccio, mentre d'estate va fatta all'alba perché roccia e cavo scaldano presto e l'ombra manca. La roccia più frequentata, soprattutto in basso, è levigata dai passaggi.\n\nServe il kit completo da ferrata omologato (imbrago, set con dissipatore, casco) e i guanti; acqua in abbondanza, non ce n'è lungo il percorso. Il rientro è a piedi, per la mulattiera che dalla Sacra scende al paese: circa un'ora e un quarto, ripida, da non sottovalutare con le gambe stanche.",
+      "avvicinamento": "Dal centro di Sant'Ambrogio si seguono le indicazioni per la ferrata: pochi minuti a piedi tra le ultime case e un breve sentiero nel bosco portano all'attacco, a circa 360 metri. Si parcheggia in paese, senza occupare i posti dei residenti."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-03-06",
+        "words": "Prima ferrata dell'anno, giornata limpida e fresca. Si parte praticamente dalle case del paese e si sale, si sale, si sale: non finisce più. In cima alla Sacra eravamo cotti ma contenti."
+      },
+      {
+        "observedAt": "2022-03-20",
+        "words": "Domenica di sole, all'attacco alle 9 c'erano già tre gruppi con istruttore. Abbiamo fatto la coda per mezz'ora nel primo tratto verticale. Poi la gente si è sgranata e si saliva tranquilli."
+      },
+      {
+        "observedAt": "2022-04-09",
+        "words": "Bella ferrata di allenamento, mai difficile ma continua. La vista sulla Val di Susa man mano che sali è la vera ricompensa: sotto l'autostrada, la Dora, di fronte il Musinè."
+      },
+      {
+        "observedAt": "2022-04-25",
+        "words": "Fatta con mio figlio di 13 anni, al suo primo giro su cavo. Nessun passaggio cattivo, ma è lunga e verso metà ha cominciato a chiedere quanto mancava. Il tratto finale sotto le mura della Sacra lo ha ripagato di tutto."
+      },
+      {
+        "observedAt": "2022-05-12",
+        "words": "Giovedì, giorno di ferie. Nessuno in parete, solo noi e qualche lucertola. Partiti alle 8, alle 11 eravamo su. Già caldo però, maggio qui è già estate."
+      },
+      {
+        "observedAt": "2022-06-11",
+        "words": "Errore da principianti: partiti a mezzogiorno. Roccia rovente, cavo che scotta anche coi guanti, acqua finita a due terzi. Mai più a giugno dopo le dieci."
+      },
+      {
+        "observedAt": "2022-07-02",
+        "words": "Alle 6:30 all'attacco, unica scelta sensata in luglio. Fino alle otto si sale con un filo d'aria fresca, poi il sole picchia e diventa un forno. Discesa a piedi dalla mulattiera, lunga ma ombreggiata."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Nel tratto centrale due staffe si muovono e un tassello del cavo sembra allentato. Niente di pericoloso se si sta attenti, ma andrebbe sistemato. Per il resto giornata perfetta, settembre è il mese giusto."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Ottobre, aria tersa, sotto la nebbia sulla pianura e sopra il sole. Le staffe ballerine a metà sono ancora lì, occhio. In alto i primi passaggi dove la roccia è liscia come vetro, a forza di passaggi."
+      },
+      {
+        "observedAt": "2022-10-26",
+        "words": "Mercoledì pomeriggio, uscita veloce dopo il lavoro con le giornate ancora decenti. Salita in due ore e mezza senza fermarsi, discesa di corsa alla luce delle ultime ore. Ottimo allenamento per le gambe."
+      },
+      {
+        "observedAt": "2022-11-13",
+        "words": "Cielo grigio e freddino ma secco. Pochissima gente. Il cavo è vecchio in tanti punti, sfilacciato vicino ad alcuni ancoraggi: guanti obbligatori."
+      },
+      {
+        "observedAt": "2022-12-27",
+        "words": "Tra Natale e Capodanno, una delle poche ferrate che si fanno in inverno senza ramponi. Al sole del mattino si stava bene, in ombra le mani gelate sul cavo."
+      },
+      {
+        "observedAt": "2023-01-15",
+        "words": "Gennaio e niente neve sul percorso, solo un po' di ghiaccio in un canalino in alto, facilmente evitabile. Bello avere una ferrata così vicina a Torino da fare in pieno inverno."
+      },
+      {
+        "observedAt": "2023-02-25",
+        "words": "Sabato con un corso: eravamo in dodici più due istruttori. Siamo stati lenti, lo so, chiediamo scusa a chi ci ha dovuto aspettare dietro. Ma per chi impara è una palestra perfetta."
+      },
+      {
+        "observedAt": "2023-04-16",
+        "words": "Attenzione: dopo la frana di fine marzo il tratto alto è chiuso con un nastro e un cartello del comune. Si esce obbligatoriamente alla via di fuga di metà percorso e si scende dal sentiero. Peccato, ma meglio così."
+      },
+      {
+        "observedAt": "2023-05-09",
+        "words": "Fatta solo fino all'uscita di metà, il resto è ancora chiuso per la frana. Si vede bene la zona da dove sono venuti giù i massi, una cicatrice chiara sulla roccia. Mezza ferrata ma comunque bella giornata."
+      },
+      {
+        "observedAt": "2023-06-08",
+        "words": "Giovedì, poca gente. Tratto alto ancora sbarrato, chi vuole arrivare alla Sacra deve uscire a metà e salire a piedi per il sentiero. Caldo già alle nove."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Con la parte alta chiusa la ferrata diventa corta, ma con quel caldo non ci siamo lamentati. Ombra zero, due litri d'acqua a testa finiti."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Riaperta tutta! Hanno disgaggiato la parete sopra il tratto alto e messo una rete paramassi nel punto della frana. Siamo arrivati di nuovo fino alla Sacra, che soddisfazione."
+      },
+      {
+        "observedAt": "2023-10-29",
+        "words": "Domenica d'autunno, quindi coda. Due gruppi davanti, uno dietro, e un ragazzo senza dissipatore che cercava di superare tutti. Gente, serve il kit completo. Fuori dalla coda, colori bellissimi sul versante."
+      },
+      {
+        "observedAt": "2023-11-11",
+        "words": "Rifatta per vedere il tratto riaperto. Sotto la rete nuova si passa tranquilli, la roccia è pulita. Il cavo nella parte bassa però è sempre più consumato."
+      },
+      {
+        "observedAt": "2023-12-08",
+        "words": "Ponte dell'Immacolata, freddo secco e cielo pulitissimo. Dall'alto si vedevano le Alpi innevate fino al Rocciamelone. Le mani sul cavo gelano, ma al sole si sta da dio."
+      },
+      {
+        "observedAt": "2024-01-20",
+        "words": "Partiti presto, alle 8:30, ed era la scelta giusta: d'inverno la parete prende sole fino a mezzogiorno e poi si raffredda in fretta. Discesa nel bosco già freddo."
+      },
+      {
+        "observedAt": "2024-03-09",
+        "words": "Tanta gente, prima giornata calda dell'anno. La parte bassa è lucidissima, gli appoggi più usati sono ormai specchi. Meglio fidarsi delle staffe."
+      },
+      {
+        "observedAt": "2024-04-03",
+        "words": "Mercoledì, giorno libero. Ferrata tutta per me. Ho visto un camoscio sulle cenge sopra il secondo tratto, non me lo aspettavo così in basso, sopra le case."
+      },
+      {
+        "observedAt": "2024-05-18",
+        "words": "Cavo nuovo nella parte bassa! Sostituito tutto il primo tratto fino alla prima cengia, con ancoraggi nuovi e lucidi. Si sale molto più sereni."
+      },
+      {
+        "observedAt": "2024-06-01",
+        "words": "Bel lavoro col cavo nuovo in basso. Sopra resta quello vecchio, si sente la differenza. Fatta presto la mattina, alle 10 eravamo sotto la Sacra e il sole picchiava già."
+      },
+      {
+        "observedAt": "2024-06-27",
+        "words": "Giovedì, partenza alle 7. Lunga, più di quanto ricordassi: oltre seicento metri di dislivello quasi tutti su cavo. Le gambe le senti nella discesa."
+      },
+      {
+        "observedAt": "2024-08-10",
+        "words": "Agosto, follia. Ci siamo arresi alla prima cengia e siamo scesi dalla via di fuga. Da evitare in piena estate, punto."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Sabato, ma prima delle otto non c'era nessuno. Alle nove già sentivamo le voci di un gruppo che saliva dietro. Discesa per la mulattiera con le ginocchia che chiedevano pietà."
+      },
+      {
+        "observedAt": "2024-10-06",
+        "words": "Una delle ferrate più panoramiche vicino a Torino. Dalla cima si vede tutta la bassa valle, i laghi di Avigliana e la pianura."
+      },
+      {
+        "observedAt": "2024-10-24",
+        "words": "Giovedì grigio, nuvole basse che salivano dalla valle. A un certo punto non si vedeva più niente, solo il cavo davanti e il vuoto bianco sotto. Strano, quasi bello."
+      },
+      {
+        "observedAt": "2024-11-16",
+        "words": "Lunga, lunghissima per chi non è allenato. La mia amica era alla prima ferrata e alla fine non ne poteva più. Consiglio: fatela prima qualcosa di più corto."
+      },
+      {
+        "observedAt": "2025-01-06",
+        "words": "Epifania con sole e zero vento. Ferrata secca, nessun ghiaccio. Quanta gente però, tutti con la stessa idea."
+      },
+      {
+        "observedAt": "2025-03-15",
+        "words": "All'attacco c'è un cartello nuovo: tempi di percorrenza, dislivello, punto della via di fuga e numero di emergenza. Era ora. Per il resto il percorso è quello di sempre."
+      },
+      {
+        "observedAt": "2025-04-05",
+        "words": "Primavera vera, fioriture lungo le cenge. Si arriva sotto il campanile e i turisti della Sacra ti guardano spuntare dal vuoto come un marziano."
+      },
+      {
+        "observedAt": "2025-04-22",
+        "words": "Martedì dopo Pasquetta, quasi deserta. Cavo nuovo anche nella parte alta: ormai è tutto sostituito, fino all'uscita sotto la Sacra."
+      },
+      {
+        "observedAt": "2025-05-25",
+        "words": "Coda al primo tratto verticale, come sempre di domenica. Mezz'ora ferma ad aspettare. La prossima volta parto all'alba."
+      },
+      {
+        "observedAt": "2025-06-14",
+        "words": "Partiti alle 6, temperatura già 22 gradi all'attacco. A metà temporale improvviso da ovest, tuoni vicinissimi: siamo usciti alla via di fuga di corsa. Il cavo con i fulmini non è un posto dove stare."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Luglio solo all'alba. Alle 9 eravamo su, alle 10 al parcheggio e già si boccheggiava. Il cavo nuovo è comodo, si scorre bene coi moschettoni."
+      },
+      {
+        "observedAt": "2025-09-07",
+        "words": "In cima hanno messo una cassetta con il libro di vetta, nascosta vicino all'uscita della ferrata. Abbiamo lasciato la nostra firma. Vista limpida fino al Monviso."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Bella e lunga. Tre ore e mezza in salita con calma, poi la visita alla Sacra (si paga l'ingresso, ma vale) e giù a piedi."
+      },
+      {
+        "observedAt": "2025-10-15",
+        "words": "Mercoledì, uscita in solitaria. Silenzio totale salvo il rumore dell'autostrada che sale dalla valle, quello non ti lascia mai."
+      },
+      {
+        "observedAt": "2025-11-02",
+        "words": "Foschia sulla valle, sole sopra i 600 metri. Sulle placche basse si scivola sulla roccia levigata, ancora più lucida con l'umidità."
+      },
+      {
+        "observedAt": "2025-12-13",
+        "words": "Dicembre, giornata secca. Una delle poche cose verticali da fare in inverno senza fare ore di macchina. In cima il vento di valle tagliava la faccia."
+      },
+      {
+        "observedAt": "2026-02-21",
+        "words": "Sabato di sole, tanti corsi e tante famiglie. All'attacco c'era la fila. Abbiamo lasciato passare tutti e ci siamo goduti la salita con calma dopo."
+      },
+      {
+        "observedAt": "2026-03-17",
+        "words": "Martedì. Discesa: il sentiero dalla Sacra al paese ha un tratto chiuso per lavori al muro di sostegno, c'è una deviazione segnalata con bolli nuovi. Aggiunge un quarto d'ora."
+      },
+      {
+        "observedAt": "2026-04-12",
+        "words": "Deviazione sul sentiero di discesa ancora attiva, ben segnata. In salita tutto in ordine. Dalla cima, valle verdissima e neve solo sulle cime più alte."
+      },
+      {
+        "observedAt": "2026-05-09",
+        "words": "Visto un signore salire con un cagnolino nello zaino, la testa fuori. Lui tranquillissimo, il cane anche. Per il resto sole e la solita coda alle staffe del primo muro."
+      },
+      {
+        "observedAt": "2026-06-20",
+        "words": "Alle 7 all'attacco e alle 9:30 alla Sacra, poi colazione al sole sui gradini. Sulla roccia della parte bassa si scivola, è lisciata da migliaia di scarpe."
+      },
+      {
+        "observedAt": "2026-09-03",
+        "words": "Giovedì. Lavori sul sentiero finiti: si scende di nuovo per la mulattiera di sempre, deviazione tolta. Ferrata vuota, giornata perfetta."
+      },
+      {
+        "observedAt": "2026-10-18",
+        "words": "Ultima di stagione con il caldo buono. Lunga come sempre, e come sempre la Sacra lassù che sembra non avvicinarsi mai. Arrivati, birra in paese."
+      },
+      {
+        "observedAt": "2026-11-11",
+        "words": "Mercoledì di novembre, solo noi due. Foglie dappertutto sulla mulattiera di discesa, scivolose. La valle sotto, rossa e gialla."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Ferrata lunga",
+          "quote": "si sale, si sale, si sale: non finisce più"
+        },
+        {
+          "label": "Arrivo alla Sacra",
+          "quote": "In cima alla Sacra eravamo cotti ma contenti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Code e gruppi",
+          "quote": "all'attacco alle 9 c'erano già tre gruppi con istruttore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla valle",
+          "quote": "La vista sulla Val di Susa man mano che sali è la vera ricompensa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ferrata lunga",
+          "quote": "è lunga e verso metà ha cominciato a chiedere quanto mancava"
+        },
+        {
+          "label": "Arrivo alla Sacra",
+          "quote": "Il tratto finale sotto le mura della Sacra lo ha ripagato di tutto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Già caldo però, maggio qui è già estate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Roccia rovente, cavo che scotta anche coi guanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "poi il sole picchia e diventa un forno"
+        },
+        {
+          "label": "Discesa a piedi",
+          "quote": "Discesa a piedi dalla mulattiera, lunga ma ombreggiata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Staffe allentate nel tratto centrale",
+          "kind": "attenzione",
+          "quote": "Nel tratto centrale due staffe si muovono e un tassello del cavo sembra allentato."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Stato del cavo",
+          "quote": "Le staffe ballerine a metà sono ancora lì, occhio"
+        },
+        {
+          "label": "Roccia lisciata",
+          "quote": "la roccia è liscia come vetro, a forza di passaggi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa a piedi",
+          "quote": "discesa di corsa alla luce delle ultime ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stato del cavo",
+          "quote": "Il cavo è vecchio in tanti punti, sfilacciato vicino ad alcuni ancoraggi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fattibile d'inverno",
+          "quote": "una delle poche ferrate che si fanno in inverno senza ramponi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fattibile d'inverno",
+          "quote": "Bello avere una ferrata così vicina a Torino da fare in pieno inverno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Code e gruppi",
+          "quote": "eravamo in dodici più due istruttori"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto alto chiuso per frana",
+          "kind": "attenzione",
+          "quote": "dopo la frana di fine marzo il tratto alto è chiuso con un nastro e un cartello del comune"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto alto chiuso per frana",
+          "kind": "attenzione",
+          "quote": "il resto è ancora chiuso per la frana"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Caldo già alle nove"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Tratto alto chiuso per frana",
+          "kind": "attenzione",
+          "quote": "Tratto alto ancora sbarrato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Ombra zero, due litri d'acqua a testa finiti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo alla Sacra",
+          "quote": "Siamo arrivati di nuovo fino alla Sacra, che soddisfazione"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Tratto alto riaperto con rete paramassi",
+          "kind": "novita",
+          "quote": "Hanno disgaggiato la parete sopra il tratto alto e messo una rete paramassi nel punto della frana."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Code e gruppi",
+          "quote": "Domenica d'autunno, quindi coda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stato del cavo",
+          "quote": "Il cavo nella parte bassa però è sempre più consumato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla valle",
+          "quote": "Dall'alto si vedevano le Alpi innevate fino al Rocciamelone"
+        },
+        {
+          "label": "Fattibile d'inverno",
+          "quote": "Le mani sul cavo gelano, ma al sole si sta da dio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fattibile d'inverno",
+          "quote": "d'inverno la parete prende sole fino a mezzogiorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Code e gruppi",
+          "quote": "Tanta gente, prima giornata calda dell'anno"
+        },
+        {
+          "label": "Roccia lisciata",
+          "quote": "gli appoggi più usati sono ormai specchi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Camoscio sulle cenge",
+          "quote": "Ho visto un camoscio sulle cenge sopra il secondo tratto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stato del cavo",
+          "quote": "Si sale molto più sereni"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cavo nuovo nel tratto basso",
+          "kind": "novita",
+          "quote": "Sostituito tutto il primo tratto fino alla prima cengia, con ancoraggi nuovi e lucidi."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Stato del cavo",
+          "quote": "Sopra resta quello vecchio, si sente la differenza"
+        },
+        {
+          "label": "Caldo d'estate",
+          "quote": "alle 10 eravamo sotto la Sacra e il sole picchiava già"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ferrata lunga",
+          "quote": "oltre seicento metri di dislivello quasi tutti su cavo"
+        },
+        {
+          "label": "Discesa a piedi",
+          "quote": "Le gambe le senti nella discesa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Da evitare in piena estate, punto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Code e gruppi",
+          "quote": "Alle nove già sentivamo le voci di un gruppo che saliva dietro"
+        },
+        {
+          "label": "Discesa a piedi",
+          "quote": "Discesa per la mulattiera con le ginocchia che chiedevano pietà"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla valle",
+          "quote": "si vede tutta la bassa valle, i laghi di Avigliana e la pianura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nuvole basse in parete",
+          "quote": "solo il cavo davanti e il vuoto bianco sotto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ferrata lunga",
+          "quote": "Lunga, lunghissima per chi non è allenato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fattibile d'inverno",
+          "quote": "Ferrata secca, nessun ghiaccio"
+        },
+        {
+          "label": "Code e gruppi",
+          "quote": "Quanta gente però, tutti con la stessa idea"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuovo cartello all'attacco",
+          "kind": "novita",
+          "quote": "All'attacco c'è un cartello nuovo: tempi di percorrenza, dislivello, punto della via di fuga e numero di emergenza."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo alla Sacra",
+          "quote": "i turisti della Sacra ti guardano spuntare dal vuoto come un marziano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cavo sostituito anche in alto",
+          "kind": "novita",
+          "quote": "Cavo nuovo anche nella parte alta: ormai è tutto sostituito, fino all'uscita sotto la Sacra."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Code e gruppi",
+          "quote": "Coda al primo tratto verticale, come sempre di domenica"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporale improvviso",
+          "quote": "A metà temporale improvviso da ovest, tuoni vicinissimi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "alle 10 al parcheggio e già si boccheggiava"
+        },
+        {
+          "label": "Stato del cavo",
+          "quote": "Il cavo nuovo è comodo, si scorre bene coi moschettoni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla valle",
+          "quote": "Vista limpida fino al Monviso"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Libro di vetta all'uscita",
+          "kind": "novita",
+          "quote": "In cima hanno messo una cassetta con il libro di vetta, nascosta vicino all'uscita della ferrata."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Ferrata lunga",
+          "quote": "Tre ore e mezza in salita con calma"
+        },
+        {
+          "label": "Visita alla Sacra",
+          "quote": "la visita alla Sacra (si paga l'ingresso, ma vale)"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rumore dell'autostrada",
+          "quote": "il rumore dell'autostrada che sale dalla valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lisciata",
+          "quote": "Sulle placche basse si scivola sulla roccia levigata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fattibile d'inverno",
+          "quote": "Una delle poche cose verticali da fare in inverno senza fare ore di macchina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Code e gruppi",
+          "quote": "All'attacco c'era la fila"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Deviazione sul sentiero di discesa",
+          "kind": "attenzione",
+          "quote": "il sentiero dalla Sacra al paese ha un tratto chiuso per lavori al muro di sostegno, c'è una deviazione segnalata con bolli nuovi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa a piedi",
+          "quote": "Deviazione sul sentiero di discesa ancora attiva, ben segnata"
+        },
+        {
+          "label": "Vista sulla valle",
+          "quote": "valle verdissima e neve solo sulle cime più alte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cane nello zaino",
+          "quote": "salire con un cagnolino nello zaino"
+        },
+        {
+          "label": "Code e gruppi",
+          "quote": "la solita coda alle staffe del primo muro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo alla Sacra",
+          "quote": "alle 9:30 alla Sacra"
+        },
+        {
+          "label": "Roccia lisciata",
+          "quote": "è lisciata da migliaia di scarpe"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa a piedi",
+          "quote": "si scende di nuovo per la mulattiera di sempre"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Sentiero di discesa riaperto",
+          "kind": "novita",
+          "quote": "Lavori sul sentiero finiti: si scende di nuovo per la mulattiera di sempre, deviazione tolta."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Ferrata lunga",
+          "quote": "Lunga come sempre"
+        },
+        {
+          "label": "Arrivo alla Sacra",
+          "quote": "la Sacra lassù che sembra non avvicinarsi mai"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa a piedi",
+          "quote": "Foglie dappertutto sulla mulattiera di discesa, scivolose"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

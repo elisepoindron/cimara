@@ -1,0 +1,26 @@
+{
+  "osm": "r14704089",
+  "invented": ["esposizione", "descrizione", "note"],
+  "itinerary": {
+    "key": "anello-delle-gole-del-torrente-roesaz",
+    "activity": "escursionismo",
+    "place": "comune-007014",
+    "name": "Anello delle gole del torrente Roesaz",
+    "lat": 45.68677,
+    "lon": 7.71157,
+    "aspect": "SO",
+    "altMax": 667,
+    "facts": {
+      "difficolta": "EE",
+      "partenza": 667,
+      "localita_partenza": "Isollaz",
+      "esposizione": "SO"
+    },
+    "sections": {
+      "descrizione": "Anello che parte da Isollaz e scende nelle gole del torrente Roesaz, seguendo l'acqua per un lungo tratto. Il sentiero è segnato con il numero 10 sui cartelli gialli, ma in alcuni punti va cercato tra le pietre.\n\nNelle gole il sentiero passa a fianco del torrente, con saliscendi brevi e ripidi, e in due punti bisogna appoggiarsi alla roccia con le mani: non serve corda, ma serve un passo sicuro.\n\nLa risalita avviene sul versante opposto, nel bosco, con qualche tratto di prato. Il sentiero torna a Isollaz dalla parte alta, dove si vede la valle.\n\nLa scala EE è per escursionisti esperti: con il fondo bagnato le gole diventano scivolose.",
+      "note": "Percorso da non fare dopo la pioggia: le pietre bagnate delle gole sono scivolose e il torrente cresce in fretta."
+    },
+    "reports": []
+  },
+  "readings": []
+}

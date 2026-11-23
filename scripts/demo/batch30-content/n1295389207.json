@@ -1,0 +1,117 @@
+{
+  "osm": "n1295389207",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "palestra-di-roccia-gruviera",
+    "activity": "falesia",
+    "place": "comune-007004",
+    "name": "Palestra di Roccia Gruviera",
+    "lat": 45.63557,
+    "lon": 7.73004,
+    "aspect": "S",
+    "altMax": 406,
+    "facts": {
+      "esposizione": "S",
+      "quota_base": 406,
+      "avvicinamento": 15,
+      "localita_partenza": "Arnad"
+    },
+    "sections": {
+      "note": "Piccola falesia bassa, lungo la statale, con roccia a scaglie e qualche buco. La parete è esposta a sud e in inverno è la più soleggiata della zona: si arrampica in maglietta anche a gennaio.\n\nVie corte, chiodate a spit con soste a due punti. In estate è troppo calda dalle undici.\n\nBasta una corda da 50 metri e una dozzina di rinvii.",
+      "avvicinamento": "Si parcheggia lungo la statale, si attraversa il prato e si sale per una traccia di una quindicina di minuti."
+    },
+    "parts": [
+      {
+        "group": "Parete unica",
+        "fields": {
+          "nome": "Prima scaglia",
+          "grado": "4b",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Parete unica",
+        "fields": {
+          "nome": "Gruviera",
+          "grado": "5a",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Parete unica",
+        "fields": {
+          "nome": "Il buco",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Parete unica",
+        "fields": {
+          "nome": "Sole d'inverno",
+          "grado": "5b",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Parete unica",
+        "fields": {
+          "nome": "Parete corta",
+          "grado": "4c",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Parete unica",
+        "fields": {
+          "nome": "Ultima luce",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete unica",
+        "fields": {
+          "nome": "Terrazzo",
+          "grado": "5a+",
+          "lunghezza": 15
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2025-01-19",
+        "words": "Sole pieno e aria fredda, in maglietta a mezzogiorno. Ho ripetuto due vie di quinto grado e la scaglia non si è mossa."
+      },
+      {
+        "observedAt": "2026-03-16",
+        "words": "Un po' di vento dalla valle, ma si stava bene. Ho chiuso la via del buco senza fatica."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Sole pieno e aria fredda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento dalla valle",
+          "quote": "Un po' di vento dalla valle"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

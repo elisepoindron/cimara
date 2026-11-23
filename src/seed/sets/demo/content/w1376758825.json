@@ -1,0 +1,259 @@
+{
+  "osm": "w1376758825",
+  "invented": [
+    "difficolta",
+    "partenza",
+    "esposizione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "claviere-monte-de-la-plane",
+    "activity": "sci_alpinismo",
+    "place": "comune-001087",
+    "name": "Claviere - Monte de la Plane",
+    "lat": 44.93825,
+    "lon": 6.75024,
+    "aspect": "S",
+    "facts": {
+      "difficolta": "MS",
+      "partenza": 1764,
+      "esposizione": "S",
+      "localita_partenza": "Claviere",
+      "come_arrivare": "Da Claviere si parte dal paese o dalla fine delle piste e si sale con le pelli verso il Monte de la Plane."
+    },
+    "sections": {
+      "descrizione": "Una gita tranquilla e soleggiata che parte da Claviere, a 1764 metri, e sale verso il Monte de la Plane su pendii aperti e boschi radi, quasi sul confine. È tra le più facili dell'alta Valle di Susa, adatta come prima uscita e a gruppi misti.\n\nSi esce dal paese verso nord seguendo il bordo delle piste e si prosegue sulle dorsali, con una salita costante e ampie visuali sulle montagne attorno. Il versante a sud scalda presto, quindi in primavera la neve è presto trasformata e pesante già nel primo pomeriggio.\n\nLa discesa riprende la salita; in alcuni punti si può variare la linea sui pendii larghi, evitando i tratti vicino alle piste da sci.",
+      "note": "Il terreno è in parte vicino a piste battute: attenzione agli sciatori e ai mezzi battipista. ARTVA, pala e sonda, e bollettino valanghe anche per gite facili."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-03-05",
+        "words": "Partiti dal paese con pelli e giacca. Un giro tranquillo, soleggiato e senza pendii delicati, perfetto per le famiglie. Siamo arrivati in cima in un'ora e mezza."
+      },
+      {
+        "observedAt": "2022-03-27",
+        "words": "Neve già calda alle dieci e mezza. A mezzogiorno la neve era una pappa, sci pesantissimi. Meglio salire all'alba."
+      },
+      {
+        "observedAt": "2022-12-10",
+        "words": "Primo giro dell'anno per rifarci le gambe. Una passeggiata sugli sci con il sole addosso. Pochissima gente in giro."
+      },
+      {
+        "observedAt": "2023-01-07",
+        "words": "Neve fresca e leggera, trentacinque centimetri. Siamo scesi tra i larici con i larici carichi di neve che formavano un tunnel bianco. Nel bosco si scia con un po' di attenzione ai tronchi."
+      },
+      {
+        "observedAt": "2023-02-01",
+        "words": "Mercoledì di ferie. Fuori dal giro delle piste, la gita era deserta, solo qualche scialpinista. Neve molto bella e cielo terso."
+      },
+      {
+        "observedAt": "2023-02-25",
+        "words": "Domenica di sole con la neve ben assestata. Vicino alle piste, abbiamo visto molti sciatori passare. Si passa vicino ai battipista, quindi occhio alle luci della sera."
+      },
+      {
+        "observedAt": "2023-03-18",
+        "words": "Il nostro gruppo era di sei, tutti con livelli diversi. Per un gruppo di livelli diversi è perfetta, nessuno è rimasto indietro."
+      },
+      {
+        "observedAt": "2023-04-05",
+        "words": "Mercoledì primaverile, caldo. Ci siamo fermati nel prato in cima a mangiare e abbiamo preso il sole. Da lassù si vedono le montagne francesi a due passi. Neve già molle."
+      },
+      {
+        "observedAt": "2024-01-28",
+        "words": "Domenica di cielo grigio, nuvole basse. Un po' di vento, ma nel bosco di larici si stava benissimo. Siamo scesi sotto una leggera nevicata."
+      },
+      {
+        "observedAt": "2024-02-17",
+        "words": "Neve fredda e secca, un bel giro per un sabato d'inverno. Ha funzionato per tutti, anche per i principianti. Un'ottima uscita di gruppo."
+      },
+      {
+        "observedAt": "2024-03-12",
+        "words": "Martedì al sole. Salita veloce e poche persone. Hanno messo un pannello all'inizio con la mappa della gita e il bollettino del giorno. Una bella idea."
+      },
+      {
+        "observedAt": "2024-03-31",
+        "words": "Giro di Pasqua con la neve pesante e il sole alto. Dopo le undici la neve non reggeva più il peso. Meglio rientrare presto."
+      },
+      {
+        "observedAt": "2024-04-20",
+        "words": "Neve di primavera e prati già verdi in basso. Il tratto iniziale è pelato: nei primi duecento metri abbiamo camminato con gli sci in spalla. Poi si sale bene."
+      },
+      {
+        "observedAt": "2025-01-26",
+        "words": "Giornata fredda e limpida. Sulla dorsale finale un po' di vento, ma il panorama verso la Francia vale la gita. Una pausa con tè e panino."
+      },
+      {
+        "observedAt": "2025-02-19",
+        "words": "Mercoledì sera freddo, partiti con la frontale. Con la notte i battipista lavorano vicino alla traccia di salita e vanno aspettati prima di attraversare. Noi abbiamo fatto attenzione."
+      },
+      {
+        "observedAt": "2025-03-15",
+        "words": "Sabato di sole pieno. La salita è a ridosso delle piste, con il rumore dei cannoni da neve. Ma la discesa nei prati larghi è un piacere."
+      },
+      {
+        "observedAt": "2026-01-17",
+        "words": "Poca neve nel prato in basso, ma abbastanza più in alto. Abbiamo portato gli sci in spalla per i primi trecento metri. Discesa bella nel bosco."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Gita facile e soleggiata",
+          "quote": "Un giro tranquillo, soleggiato e senza pendii delicati"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve pesante a mezzogiorno",
+          "quote": "A mezzogiorno la neve era una pappa, sci pesantissimi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gita facile e soleggiata",
+          "quote": "Una passeggiata sugli sci con il sole addosso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco di larici innevato",
+          "quote": "con i larici carichi di neve che formavano un tunnel bianco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "la gita era deserta, solo qualche scialpinista"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vicino alle piste",
+          "quote": "Si passa vicino ai battipista, quindi occhio alle luci della sera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gita adatta a gruppi misti",
+          "quote": "Per un gruppo di livelli diversi è perfetta, nessuno è rimasto indietro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul confine",
+          "quote": "Da lassù si vedono le montagne francesi a due passi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Larici nel bosco",
+          "quote": "nel bosco di larici si stava benissimo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gita adatta a gruppi misti",
+          "quote": "Ha funzionato per tutti, anche per i principianti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Pannello informativo alla partenza",
+          "kind": "novita",
+          "quote": "Hanno messo un pannello all'inizio con la mappa della gita e il bollettino del giorno"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve pesante a mezzogiorno",
+          "quote": "Dopo le undici la neve non reggeva più il peso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve scarsa in basso",
+          "quote": "nei primi duecento metri abbiamo camminato con gli sci in spalla"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama verso la Francia",
+          "quote": "il panorama verso la Francia vale la gita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Mezzi battipista sulla traccia",
+          "kind": "attenzione",
+          "quote": "Con la notte i battipista lavorano vicino alla traccia di salita e vanno aspettati prima di attraversare"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vicino alle piste",
+          "quote": "La salita è a ridosso delle piste, con il rumore dei cannoni da neve"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve scarsa in basso",
+          "quote": "Abbiamo portato gli sci in spalla per i primi trecento metri"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

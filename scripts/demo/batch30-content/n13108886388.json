@@ -1,0 +1,109 @@
+{
+  "osm": "n13108886388",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "overfive",
+    "activity": "falesia",
+    "place": "comune-007034",
+    "name": "Overfive",
+    "lat": 45.62244,
+    "lon": 7.70431,
+    "aspect": "S",
+    "altMax": 1442,
+    "facts": {
+      "esposizione": "S",
+      "quota_base": 1442,
+      "avvicinamento": 25,
+      "localita_partenza": "Hône"
+    },
+    "sections": {
+      "note": "Muro di roccia compatta con prese a tacca e qualche placca. Esposto a sud, prende il sole da mattina a sera: in estate si arrampica solo al mattino o alla sera.\n\nChiodatura regolare a spit, soste con catena. Vie tecniche nella parte destra, più fisiche a sinistra.\n\nPortare una corda da 60 metri e rinvii; l'acqua è indispensabile d'estate.",
+      "avvicinamento": "Dal parcheggio di Hône si prende il sentiero tra i prati, una ventina di minuti con qualche tornante."
+    },
+    "parts": [
+      {
+        "group": "Settore sinistro",
+        "fields": {
+          "nome": "Cinque sopra",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore sinistro",
+        "fields": {
+          "nome": "Tacca",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore sinistro",
+        "fields": {
+          "nome": "Sole",
+          "grado": "5a",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Settore destro",
+        "fields": {
+          "nome": "Placca a sud",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Settore destro",
+        "fields": {
+          "nome": "Fisico",
+          "grado": "6b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Settore destro",
+        "fields": {
+          "nome": "Tacche a destra",
+          "grado": "6a+",
+          "lunghezza": 22
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2023-05-27",
+        "words": "Si sta bene al mattino, con il sole che scalda le prese. Ho fatto la tacca due volte, è una via che si ripete volentieri."
+      },
+      {
+        "observedAt": "2025-09-16",
+        "words": "Poca gente e niente vento, il caldo si fa sentire anche di sera. Acqua sempre."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole del mattino",
+          "quote": "Si sta bene al mattino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "il caldo si fa sentire anche di sera"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

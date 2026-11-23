@@ -1,0 +1,56 @@
+{
+  "osm": "n9900310752",
+  "invented": ["avvicinamento", "note", "vie", "parcheggio_nota", "reports", "themes", "flags"],
+  "itinerary": {
+    "key": "gettaz",
+    "activity": "falesia",
+    "place": "comune-007043",
+    "name": "Gettaz",
+    "lat": 45.71195,
+    "lon": 7.65686,
+    "aspect": "E",
+    "altMax": 1007,
+    "facts": {
+      "esposizione": "E",
+      "quota_base": 1007,
+      "avvicinamento": 25,
+      "localita_partenza": "Montjovet",
+      "parcheggio_nota": "Slargo sulla strada sterrata, quattro posti"
+    },
+    "sections": {
+      "note": "Falesia su placche e muri di roccia grigia, con qualche buco e tratti più verticali. Il settore basso è più tecnico, il settore alto è più fisico e ha tetti corti.\n\nLa parete guarda a est: il sole c'è dalla mattina presto fino a metà giornata, poi il muro è in ombra. Chiodatura a spit, soste attrezzate con catena; a volte servono due rinvii in più.\n\nPortare la corda da 60 metri e una borraccia: non c'è acqua sotto la parete.",
+      "avvicinamento": "Dallo slargo un sentiero in discesa di circa venticinque minuti, con qualche radice e gradini di pietra. Al ritorno è tutta salita, meglio partire con le gambe fresche."
+    },
+    "parts": [
+      { "group": "Settore basso", "fields": { "nome": "La Vecchia", "grado": "4c", "lunghezza": 18 } },
+      { "group": "Settore basso", "fields": { "grado": "5a", "lunghezza": 20 } },
+      { "group": "Settore basso", "fields": { "nome": "Il muretto", "grado": "5b", "lunghezza": 19 } },
+      { "group": "Settore basso", "fields": { "nome": "Spigolo del sole", "grado": "5c", "lunghezza": 22 } },
+      { "group": "Settore basso", "fields": { "grado": "6a", "lunghezza": 21 } },
+      { "group": "Settore basso", "fields": { "nome": "Attacco lento", "grado": "6a+", "lunghezza": 20 } },
+      { "group": "Settore basso", "fields": { "nome": "Cordata lunga", "grado": "6b", "lunghezza": 24 } },
+      { "group": "Settore alto", "fields": { "nome": "Ultimo raggio", "grado": "6b+", "lunghezza": 26 } },
+      { "group": "Settore alto", "fields": { "grado": "6c", "lunghezza": 25 } },
+      { "group": "Settore alto", "fields": { "nome": "Strapiombo degli amici", "grado": "6c+", "lunghezza": 23 } },
+      { "group": "Settore alto", "fields": { "nome": "Fuori dal tempo", "grado": "7a", "lunghezza": 22 } },
+      { "group": "Settore alto", "fields": { "nome": "Corde vecchie", "grado": "5b", "lunghezza": 18 } },
+      { "group": "Settore alto", "fields": { "grado": "6a+", "lunghezza": 21 } }
+    ],
+    "reports": [
+      { "observedAt": "2023-05-06", "words": "Partiti tardi, alle undici eravamo al settore basso già al sole. Il muretto è tecnico, ci ho messo un'ora per la prima via. Vento dal fondovalle che non ti fa sentire la fatica, si sta bene." },
+      { "observedAt": "2023-09-16", "words": "Giornata calda, il settore alto è in ombra dopo mezzogiorno e si sta benissimo. Ultimo raggio mi ha fatto sudare, bellissima. Strada stretta per arrivare al parcheggio, ho dovuto fare retromarcia due volte." },
+      { "observedAt": "2024-04-13", "words": "Presto al sole, si sta bene fino alle undici, poi il muro si scalda troppo. Spigolo del sole è un tiro bello e pulito. Vento fortissimo dalla valle proprio dopo le dieci, bisogna coprirsi." },
+      { "observedAt": "2025-06-21", "words": "Caldo già alle undici, meglio arrivare presto. Ho fatto cinque tiri nel settore basso. Parcheggio ingombro da macchine, ho lasciato la mia più in basso. La parete tiene bene anche se un po' spigolosa." },
+      { "observedAt": "2025-10-11", "words": "Settimana di pioggia e questo sabato è finalmente asciutto. Pochi in giro, ho fatto Cordata lunga e Attacco lento. La scaglia del primo tiro del muretto si è staccata, attenzione, ci sono ancora pezzi in mano." },
+      { "observedAt": "2026-06-06", "words": "Sole a volontà al mattino, fino alle undici. Vento che arriva dalla valle a mezzogiorno. Ho rifatto il muretto con più attenzione, la scaglia è ancora lì." }
+    ]
+  },
+  "readings": [
+    { "themes": [ { "label": "Mattina al sole", "quote": "eravamo al settore basso già al sole" }, { "label": "Vento dal fondovalle", "quote": "Vento dal fondovalle che non ti fa sentire la fatica" } ], "flags": [] },
+    { "themes": [ { "label": "Parcheggio stretto", "quote": "Strada stretta per arrivare al parcheggio" } ], "flags": [] },
+    { "themes": [ { "label": "Mattina al sole", "quote": "Presto al sole, si sta bene fino alle undici" }, { "label": "Vento dal fondovalle", "quote": "Vento fortissimo dalla valle" } ], "flags": [] },
+    { "themes": [ { "label": "Mattina al sole", "quote": "Caldo già alle undici, meglio arrivare presto" }, { "label": "Parcheggio stretto", "quote": "Parcheggio ingombro da macchine" } ], "flags": [] },
+    { "themes": [], "flags": [ { "label": "Scaglia staccata sul primo tiro", "kind": "attenzione", "quote": "La scaglia del primo tiro del muretto si è staccata" } ] },
+    { "themes": [ { "label": "Mattina al sole", "quote": "Sole a volontà al mattino" }, { "label": "Vento dal fondovalle", "quote": "Vento che arriva dalla valle a mezzogiorno" } ], "flags": [] }
+  ]
+}

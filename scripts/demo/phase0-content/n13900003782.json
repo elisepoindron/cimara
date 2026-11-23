@@ -1,0 +1,54 @@
+{
+  "osm": "n13900003782",
+  "invented": ["esposizione", "avvicinamento", "vie", "note", "parcheggio_nota", "reports", "readings"],
+  "itinerary": {
+    "key": "chenal",
+    "activity": "falesia",
+    "place": "comune-007043",
+    "name": "Chenal",
+    "lat": 45.7305,
+    "lon": 7.67332,
+    "aspect": "S",
+    "altMax": 628,
+    "facts": {
+      "esposizione": "S",
+      "quota_base": 628,
+      "avvicinamento": 5,
+      "localita_partenza": "Montjovet",
+      "parcheggio_nota": "Due posti lungo la strada, poi a piedi."
+    },
+    "sections": {
+      "note": "Falesia corta e compatta, con roccia grigia e qualche buco. Sette vie in due settori, dal 4 al 6a+, nessuna lunga.\n\nEsposta a sud: prende il sole quasi tutto il giorno, anche d'inverno. È la falesia che si frequenta quando fuori e freddo.\n\nLa placca è liscia e chiede piedi precisi; il muro ha prese più generose. Portare rinvii e qualche fettuccia: le soste sono a catena.",
+      "avvicinamento": "Cinque minuti a piedi dalla strada, un passaggio nel prato e si è sotto la parete."
+    },
+    "parts": [
+      { "group": "Muro", "fields": { "nome": "Primo passo", "grado": "4+", "lunghezza": 16 } },
+      { "group": "Muro", "fields": { "nome": "Scalino", "grado": "5a", "lunghezza": 18 } },
+      { "group": "Muro", "fields": { "nome": "Fessura lunga", "grado": "5c", "lunghezza": 20 } },
+      { "group": "Placca", "fields": { "nome": "Passo doppio", "grado": "4", "lunghezza": 14 } },
+      { "group": "Placca", "fields": { "nome": "Lisciata", "grado": "5b", "lunghezza": 16 } },
+      { "group": "Placca", "fields": { "nome": "Vecchio chiodo", "grado": "6a", "lunghezza": 18 } },
+      { "group": "Placca", "fields": { "nome": "Il liscio", "grado": "6a+", "lunghezza": 18 } }
+    ],
+    "reports": [
+      { "observedAt": "2022-11-06", "words": "Bella giornata di novembre, si sta al sole tutto il giorno, la parete è calda anche se fuori è freddo. Le vie corte sono un buon riscaldamento. Ci sono solo due posti per la macchina, arrivate presto." },
+      { "observedAt": "2024-02-18", "words": "Sole basso a febbraio, la parete ha tenuto il calore fino alle quattro. Ho fatto la placca, roccia asciutta e vie in buono stato. Passeggiata di cinque minuti dalla strada." }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        { "label": "Sole invernale", "quote": "si sta al sole tutto il giorno" },
+        { "label": "Parcheggio stretto", "quote": "Ci sono solo due posti per la macchina" }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        { "label": "Sole invernale", "quote": "la parete ha tenuto il calore fino alle quattro" },
+        { "label": "Avvicinamento breve", "quote": "Passeggiata di cinque minuti dalla strada" }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{"timestamp":"2026-11-19T17:29:21Z","query":"(fixture)","elements":[
+ {"type":"node","id":20,"lat":45.63,"lon":7.74,"tags":{"name":"Becca di Prova","natural":"peak","ele":"2650","wikipedia":"it:Becca di Prova"}},
+ {"type":"node","id":21,"lat":45.63,"lon":7.75,"tags":{"name":"Punta Senza Sentiero","natural":"peak","ele":"2100"}},
+ {"type":"node","id":22,"lat":45.63,"lon":7.76,"tags":{"name":"Monte Senza Quota","natural":"peak"}}
+]}

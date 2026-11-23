@@ -1,0 +1,264 @@
+{
+  "osm": "w912393440",
+  "invented": [
+    "difficolta",
+    "vetta",
+    "esposizione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "canalone-varzo",
+    "activity": "sci_alpinismo",
+    "place": "comune-103071",
+    "name": "Canalone",
+    "lat": 46.26456,
+    "lon": 8.21489,
+    "aspect": "NE",
+    "facts": {
+      "difficolta": "BS",
+      "vetta": 2339,
+      "esposizione": "NE",
+      "localita_partenza": "Varzo",
+      "come_arrivare": "Da Varzo si sale in valle fino al punto dove la neve interrompe la strada, poi si prosegue con le pelli."
+    },
+    "sections": {
+      "descrizione": "Un canalone in alta Val Divedro sopra Varzo, a oltre 2300 metri, che scende verso nord-est con una pendenza regolare e sostenuta. Per tutta la discesa il canale è incassato tra pareti, e la neve resta protetta dal sole, spesso farinosa anche a stagione avanzata.\n\nLa salita è sulla traccia della valle e poi a lato del canale, in parte a piedi con gli sci in spalla quando la neve è dura. In alto il canale si allarga e il pendio diventa più dolce, con un bel colpo d'occhio sulle valli attorno.\n\nÈ una discesa che tiene la neve fredda a lungo ma è anche un luogo dove si accumulano scaricamenti: si fa con condizioni stabili e mai subito dopo le nevicate.",
+      "note": "Terreno incanalato: in caso di valanga non c'è via di fuga laterale. Scendere uno alla volta, con ARTVA, pala e sonda, e solo con neve assestata. Il versante nord tiene la neve fredda ma anche gelata al mattino."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-03-12",
+        "words": "Salita lunga con gli sci in spalla nella parte finale. Il canale è stretto e ripido, si scende con curve corte. Neve però bellissima, ancora fredda alle undici."
+      },
+      {
+        "observedAt": "2022-04-10",
+        "words": "Nevicata fresca di due giorni prima. Siamo stati ad aspettare un po' in cima per guardare lo scarico del canale. Dopo ogni nevicata il canale si libera da solo, quindi non ci siamo fermati."
+      },
+      {
+        "observedAt": "2022-12-18",
+        "words": "Prima volta qui. Poca neve ma abbastanza per il canale. Salito a piedi nel tratto basso con gli sci in zaino: ho portato gli sci in spalla per più di un'ora, fatica ma niente di grave."
+      },
+      {
+        "observedAt": "2023-01-26",
+        "words": "Giovedì mattina, freddo vero, cielo terso. Il canale era ancora tutto polvere, farinosa fino al fondo, senza crosta. Da ripetere."
+      },
+      {
+        "observedAt": "2023-02-19",
+        "words": "Con un gruppo di amici, una salita lunga ma bella. In vetta alle undici e mezza. La neve nel canale era ancora asciutta e leggera."
+      },
+      {
+        "observedAt": "2023-03-11",
+        "words": "Giorno di sole pieno sul versante opposto, ma qui sempre in ombra. Per tutta la discesa il sole non è mai arrivato, mani congelate."
+      },
+      {
+        "observedAt": "2023-03-29",
+        "words": "Mercoledì, cielo coperto, vento alto. Abbiamo valutato per un'ora se scendere dal canale e alla fine abbiamo visto un piccolo scarico spontaneo sul lato sinistro e siamo rientrati."
+      },
+      {
+        "observedAt": "2023-04-16",
+        "words": "Gita di primavera, neve trasformata già dalle dieci. Dentro il canale la neve era ancora fredda come fosse febbraio. Fatica per la salita, ma ripagata."
+      },
+      {
+        "observedAt": "2023-12-09",
+        "words": "Il canale non era ancora pieno, con sassi a tratti. Siamo scesi con prudenza, e nel tratto basso del canale i sassi affiorano già con poca neve e vanno aggirati con cura."
+      },
+      {
+        "observedAt": "2024-01-20",
+        "words": "Dopo le nevicate di inizio mese la neve era assestata. Meno quindici all'ombra, con le mani gelate da subito. Discesa spettacolare comunque."
+      },
+      {
+        "observedAt": "2024-02-10",
+        "words": "Salito da solo, un po' troppo. Poi ho trovato altri due sciatori alla partenza e siamo saliti insieme. Su un canale così è meglio non essere soli."
+      },
+      {
+        "observedAt": "2024-03-06",
+        "words": "Mercoledì di marzo, giornata di sole e vento. Canale in condizioni perfette: ripido, stretto, ma con un fondo regolare. Un'ora e mezza per scendere con calma."
+      },
+      {
+        "observedAt": "2024-03-23",
+        "words": "Presto la mattina, già c'erano cinque auto al piazzale. Il piazzale della partenza era pieno prima delle sette, ma una volta sul pendio ognuno per sé."
+      },
+      {
+        "observedAt": "2024-04-13",
+        "words": "Primavera avanzata, con valanghe di fondo ai lati. Alla base del canale si è formata una colata di neve pesante che resta fino a fine stagione e si attraversa con cautela."
+      },
+      {
+        "observedAt": "2025-02-15",
+        "words": "Salita con tempo grigio, poca visibilità. Il canale al buio nella foschia, abbiamo portato gli sci in spalla fino al limite del bosco. Alla fine tutto bene."
+      },
+      {
+        "observedAt": "2025-03-05",
+        "words": "Mercoledì mattina, due auto al piazzale e nessuno sul canale. Hanno aggiunto una tabella con il nome del canale e le indicazioni di sicurezza all'inizio del sentiero. Un'ottima idea."
+      },
+      {
+        "observedAt": "2025-12-28",
+        "words": "Prima uscita dopo Natale. Neve ancora secca e asciutta, nonostante due settimane di bel tempo. Pochi nel canale, una bella giornata."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Canale ripido e stretto",
+          "quote": "Il canale è stretto e ripido, si scende con curve corte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Attenzione agli scarichi",
+          "quote": "Dopo ogni nevicata il canale si libera da solo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca neve ma sufficiente",
+          "quote": "Poca neve ma abbastanza per il canale"
+        },
+        {
+          "label": "Salita con gli sci in spalla",
+          "quote": "ho portato gli sci in spalla per più di un'ora"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve fredda e farinosa",
+          "quote": "farinosa fino al fondo, senza crosta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve fredda e farinosa",
+          "quote": "La neve nel canale era ancora asciutta e leggera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra e freddo nel canale",
+          "quote": "Per tutta la discesa il sole non è mai arrivato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Attenzione agli scarichi",
+          "quote": "abbiamo visto un piccolo scarico spontaneo sul lato sinistro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve fredda e farinosa",
+          "quote": "Dentro il canale la neve era ancora fredda come fosse febbraio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sassi affioranti in basso",
+          "kind": "attenzione",
+          "quote": "nel tratto basso del canale i sassi affiorano già con poca neve e vanno aggirati con cura"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra e freddo nel canale",
+          "quote": "Meno quindici all'ombra, con le mani gelate da subito"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meglio in compagnia",
+          "quote": "Su un canale così è meglio non essere soli"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Canale ripido e stretto",
+          "quote": "ripido, stretto, ma con un fondo regolare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Piazzale pieno al mattino",
+          "quote": "Il piazzale della partenza era pieno prima delle sette"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Colata di neve alla base del canale",
+          "kind": "attenzione",
+          "quote": "Alla base del canale si è formata una colata di neve pesante che resta fino a fine stagione e si attraversa con cautela"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita con gli sci in spalla",
+          "quote": "abbiamo portato gli sci in spalla fino al limite del bosco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuova segnaletica all'attacco",
+          "kind": "novita",
+          "quote": "Hanno aggiunto una tabella con il nome del canale e le indicazioni di sicurezza all'inizio del sentiero"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve fredda e farinosa",
+          "quote": "Neve ancora secca e asciutta, nonostante due settimane di bel tempo"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "osm": "r13571794",
+  "invented": ["descrizione", "note", "reports", "themes"],
+  "itinerary": {
+    "key": "sentiero-dei-ponti-e-degli-orridi",
+    "activity": "escursionismo",
+    "place": "comune-007050",
+    "name": "Sentiero dei Ponti e degli Orridi",
+    "lat": 45.60535,
+    "lon": 7.68821,
+    "aspect": "SO",
+    "altMax": 751,
+    "facts": {
+      "difficolta": "T",
+      "partenza": 751,
+      "esposizione": "SO",
+      "dislivello": 300,
+      "localita_partenza": "Pontboset"
+    },
+    "sections": {
+      "descrizione": "Anello breve che parte dal paese e segue il torrente Ayasse tra gole, ponti e piccoli orridi. Il sentiero è ben tracciato, con qualche gradino di pietra e tratti di radici.\n\nIl ritorno passa più in alto, con una salita regolare e il bosco che si apre sul fondovalle. Il giro è di circa due ore, con i tratti più belli vicino all'acqua.\n\nPer le foto e una pausa ne servono tre.",
+      "note": "Scarpe con suola da trekking: vicino al torrente il fondo è sempre scivoloso, anche con il sole. Acqua da portare, non ci sono fontane sul percorso."
+    },
+    "reports": [
+      { "observedAt": "2022-07-10", "words": "Fresco nelle gole anche con trenta gradi in paese, un'ora di ombra vera. Giro facile, lo fanno anche i bambini. Abbiamo fatto la pausa sul ponte piccolo e poi giù al torrente." },
+      { "observedAt": "2023-04-02", "words": "Dopo la pioggia del giorno prima il sentiero era fangoso nel tratto basso, tutto in scivolo. Acqua alta nel torrente, si sente forte. Paesaggio bellissimo, ma scarpe da fango." },
+      { "observedAt": "2024-10-19", "words": "Autunno perfetto, foglie gialle sul sentiero e nessuno in giro. Ci siamo fermati per le foto nelle gole, con i bambini il tempo vola. Mezzora in più del previsto." },
+      { "observedAt": "2025-03-16", "words": "Fango nel tratto del ritorno, sempre quello lì. Il torrente altissimo, si sentiva il rumore da lontano. Bel giro comunque, tranquillo." },
+      { "observedAt": "2026-08-29", "words": "Caldo afoso in paese ma nella gola si sta bene, l'ombra è vera. Abbiamo fatto la salita con calma, due ore e un quarto. Parcheggio lungo la strada in paese, posti sempre liberi." }
+    ]
+  },
+  "readings": [
+    { "themes": [ { "label": "Gole in ombra", "quote": "Fresco nelle gole anche con trenta gradi in paese" }, { "label": "Adatto ai bambini", "quote": "Giro facile, lo fanno anche i bambini" } ], "flags": [] },
+    { "themes": [ { "label": "Fango dopo la pioggia", "quote": "il sentiero era fangoso nel tratto basso" } ], "flags": [] },
+    { "themes": [ { "label": "Adatto ai bambini", "quote": "con i bambini il tempo vola" } ], "flags": [] },
+    { "themes": [ { "label": "Fango dopo la pioggia", "quote": "Fango nel tratto del ritorno" } ], "flags": [] },
+    { "themes": [ { "label": "Gole in ombra", "quote": "l'ombra è vera" } ], "flags": [] }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "osm": "n9956289913",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "mont-charvatton",
+    "activity": "falesia",
+    "place": "comune-007050",
+    "name": "Mont Charvatton",
+    "lat": 45.61244,
+    "lon": 7.68476,
+    "aspect": "SO",
+    "altMax": 997,
+    "facts": {
+      "esposizione": "SO",
+      "quota_base": 997,
+      "avvicinamento": 30,
+      "localita_partenza": "Pontboset"
+    },
+    "sections": {
+      "note": "Due pareti vicine, in una roccia di gneiss scuro con buchi e lame. La parete delle Bionde è ripida e tecnica, quella dei Grigi più facile e più sporca di terra. Il sole arriva dal pomeriggio: d'estate è caldo dalle due in poi.\n\nChiodatura a spit, soste con catena. Qualche via è più sporca di terra: pulire le prese prima di salire.\n\nUna corda da 60 metri, rinvii e acqua.",
+      "avvicinamento": "Dal parcheggio sulla strada si cammina per mezz'ora nel bosco di pino silvestre, con un tratto in salita dopo il torrente."
+    },
+    "parts": [
+      {
+        "group": "Le Bionde",
+        "fields": {
+          "nome": "Bionda",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Le Bionde",
+        "fields": {
+          "nome": "Capelli",
+          "grado": "6a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Le Bionde",
+        "fields": {
+          "nome": "Spigolo biondo",
+          "grado": "6b",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "I Grigi",
+        "fields": {
+          "nome": "Grigio",
+          "grado": "4c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "I Grigi",
+        "fields": {
+          "nome": "Grigio bis",
+          "grado": "5a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "I Grigi",
+        "fields": {
+          "nome": "Sasso",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "I Grigi",
+        "fields": {
+          "nome": "Ultima",
+          "grado": "5a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "I Grigi",
+        "fields": {
+          "grado": "6a",
+          "lunghezza": 24
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2024-10-05",
+        "words": "Giornata tranquilla, la parete dei Grigi è più fresca e le prese sono più pulite. Due vie facili e una bella placca."
+      },
+      {
+        "observedAt": "2026-04-20",
+        "words": "Pochi sassi a terra, ma il sentiero dopo il torrente era fangoso. Ho fatto la Bionda e la sosta è buona."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Grigi più fresca",
+          "quote": "la parete dei Grigi è più fresca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero fangoso",
+          "quote": "il sentiero dopo il torrente era fangoso"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

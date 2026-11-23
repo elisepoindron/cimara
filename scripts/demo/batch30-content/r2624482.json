@@ -1,0 +1,55 @@
+{
+  "osm": "r2624482",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "sentiero-isseuries-ru-pan-perdu",
+    "activity": "escursionismo",
+    "place": "comune-007020",
+    "name": "Sentiero Isseuries Ru Pan Perdu",
+    "lat": 45.76014,
+    "lon": 7.61408,
+    "aspect": "O",
+    "altMax": 914,
+    "facts": {
+      "partenza": 914,
+      "localita_partenza": "Châtillon"
+    },
+    "sections": {
+      "descrizione": "Sentiero che costeggia il ru Pan Perdu nel versante ovest, con un tratto molto ripido nel bosco e alcuni passaggi di roccia con corrimano di corda. Il fondo è di terra e foglie, scivoloso in autunno.\n\nDopo la salita il sentiero entra nei prati di Isseuries e si chiude su un bivio: da lì si può tornare per la stessa strada."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2024-11-09",
+        "words": "Foglie bagnate e sentiero scivoloso nel tratto ripido. Il ru era pieno, abbiamo sentito l'acqua per tutto il percorso."
+      },
+      {
+        "observedAt": "2026-05-02",
+        "words": "Giornata calda, il bosco fresco ci ha salvato. Pochi incontri, un solo bivio dove perdersi."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sentiero scivoloso",
+          "quote": "sentiero scivoloso nel tratto ripido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco fresco",
+          "quote": "il bosco fresco ci ha salvato"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "osm": "r11123962",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-red-r135",
+    "activity": "escursionismo",
+    "place": "comune-004001",
+    "name": "Via Alpina Red R135",
+    "lat": 44.48763,
+    "lon": 6.92479,
+    "facts": {
+      "difficolta": "E",
+      "localita_partenza": "Chiappera",
+      "come_arrivare": "Da Cuneo si risale la Val Maira fino a Chiappera, in fondo alla strada. Il parcheggio è piccolo e nei fine settimana d'estate si riempie. All'arrivo a Chialvetta non c'è un servizio regolare per tornare: si torna a piedi o ci si organizza con un secondo mezzo."
+    },
+    "sections": {
+      "descrizione": "Tappa breve e senza difficoltà della Via Alpina Rossa, nell'alta Val Maira: da Chiappera a Chialvetta, nel comune di Acceglio. Si cammina soprattutto sul fondovalle, con un po' di saliscendi, e la tappa si presta bene a una mezza giornata o a un giro con i bambini.\n\nDa Chiappera il sentiero segue il torrente tra prati, larici e vecchie borgate, con le pareti calcaree che dominano la valle sopra l'abitato. Si attraversano più volte piccoli ponti e si passa accanto a baite ristrutturate o in abbandono. Il segnavia è quello della Via Alpina rossa, spesso insieme ai numeri locali.\n\nIl periodo buono va da giugno a ottobre. D'estate il fondovalle è fresco di mattina ma assolato più tardi. Non ci sono tratti esposti né nevai di rilievo, tranne nei primi giorni di stagione a quote più alte. A Chialvetta si trova da mangiare e da dormire, e l'acqua non manca."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-06-11",
+        "words": "Primo assaggio di Via Alpina, e che assaggio. Poco più di due ore senza ombra di fatica, perfetta per cominciare piano."
+      },
+      {
+        "observedAt": "2022-07-03",
+        "words": "Su le pareti sopra Chiappera c'erano due cordate sulla roccia: guardarle dal sentiero è stato quasi più bello del cammino."
+      },
+      {
+        "observedAt": "2022-07-27",
+        "words": "Mercoledì di ferie, valle quasi deserta. Si cammina per un bel pezzo accanto al torrente, con il rumore dell'acqua sempre in sottofondo."
+      },
+      {
+        "observedAt": "2022-08-14",
+        "words": "Con due bambini di sei e otto anni è andata benissimo: si cammina senza salite vere e ci sono tante cose da guardare, dai ponticelli alle farfalle."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "Tappa che la guida dà per ovvia ma bisogna fare attenzione ai bivi: in un paio di bivi i segni rossi mancano e noi abbiamo allungato di dieci minuti."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Larici già gialli a fine settembre, aria fredda. Alla locanda di Chialvetta abbiamo mangiato polenta e salsiccia a un prezzo onesto."
+      },
+      {
+        "observedAt": "2022-10-09",
+        "words": "Ultimo weekend di sole e prati color rame. Salita fatta senza zaino pesante perché poi avevamo l'auto in fondo."
+      },
+      {
+        "observedAt": "2023-06-17",
+        "words": "Ancora tanto verde fresco e fiori ai bordi. A metà giugno i prati erano pieni di fiori gialli e viola e di api."
+      },
+      {
+        "observedAt": "2023-07-05",
+        "words": "Tappa breve e senza fatica ma il sole picchiava forte dopo le undici. Cappello e acqua, nonostante i pochi metri di dislivello."
+      },
+      {
+        "observedAt": "2023-08-02",
+        "words": "Un mercoledì d'agosto, le pareti calcaree sopra Chiappera illuminate dal mattino e quasi nessuno in giro."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Il sentiero segue il torrente su un fondo morbido con tanti punti dove fermarsi a rinfrescarsi i piedi."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Il ponticello di legno sul torrente a metà percorso è marcio e transennato, si passa con i sassi più a monte."
+      },
+      {
+        "observedAt": "2024-06-29",
+        "words": "Ora c'è un ponticello nuovo in legno chiaro sul torrente e la deviazione è sparita. Segnavia ripassati e tabelle con i tempi."
+      },
+      {
+        "observedAt": "2024-07-20",
+        "words": "Tappa dei più piccoli, tutto d'un fiato. Nostro figlio di cinque anni ha camminato quasi tutto da solo."
+      },
+      {
+        "observedAt": "2024-08-10",
+        "words": "Siamo stati fortunati con un tramonto sulle pareti. Chiappera alla partenza ha un parcheggio piccolo che si riempie presto nei giorni di sole."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Ottobre alle porte e gli ultimi villeggianti andati via. A Chialvetta c'era solo un locale aperto ma il cibo era ottimo."
+      },
+      {
+        "observedAt": "2025-07-09",
+        "words": "Gita fatta con la bici a mano per un pezzo, poi lasciata. Le frecce sui bivi sono scomparse sotto i rami, ma la valle è semplice da leggere."
+      },
+      {
+        "observedAt": "2025-08-22",
+        "words": "Venerdì a metà agosto, valle vuota. Ho incontrato un pastore con il suo cane e un gregge di pecore proprio sul sentiero."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Una tappa corta e comoda: partenza alle nove e a mezzogiorno già seduti al tavolo."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Tappa breve e facile",
+          "quote": "Poco più di due ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pareti sopra Chiappera",
+          "quote": "le pareti sopra Chiappera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero lungo il torrente",
+          "quote": "Si cammina per un bel pezzo accanto al torrente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai bambini",
+          "quote": "si cammina senza salite vere"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bivi poco segnati",
+          "quote": "in un paio di bivi i segni rossi mancano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pranzo a Chialvetta",
+          "quote": "abbiamo mangiato polenta e salsiccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fioriture a giugno",
+          "quote": "A metà giugno i prati erano pieni di fiori gialli e viola"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa breve e facile",
+          "quote": "Tappa breve e senza fatica"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pareti sopra Chiappera",
+          "quote": "le pareti calcaree sopra Chiappera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero lungo il torrente",
+          "quote": "segue il torrente su un fondo morbido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponticello inagibile sul torrente",
+          "kind": "attenzione",
+          "quote": "Il ponticello di legno sul torrente a metà percorso è marcio e transennato"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponticello nuovo sul torrente",
+          "kind": "novita",
+          "quote": "ponticello nuovo in legno chiaro sul torrente"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai bambini",
+          "quote": "Nostro figlio di cinque anni ha camminato quasi tutto da solo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio a Chiappera",
+          "quote": "ha un parcheggio piccolo che si riempie presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pranzo a Chialvetta",
+          "quote": "A Chialvetta c'era solo un locale aperto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bivi poco segnati",
+          "quote": "Le frecce sui bivi sono scomparse sotto i rami"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pecore sul sentiero",
+          "quote": "un gregge di pecore proprio sul sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa breve e facile",
+          "quote": "Una tappa corta e comoda"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

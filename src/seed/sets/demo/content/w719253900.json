@@ -1,0 +1,499 @@
+{
+ "osm": "w719253900",
+ "invented": [
+  "avvicinamento",
+  "localita_partenza",
+  "parcheggio_nota",
+  "vie",
+  "description",
+  "reports"
+ ],
+ "itinerary": {
+  "key": "rocce-di-costabella",
+  "activity": "falesia",
+  "place": "comune-004090",
+  "name": "Falesia Rocce di Costabella",
+  "lat": 44.28733,
+  "lon": 7.7957,
+  "aspect": "E",
+  "altMax": 978,
+  "facts": {
+   "esposizione": "E",
+   "quota_base": 978,
+   "avvicinamento": 10,
+   "localita_partenza": "Frabosa Soprana",
+   "parcheggio_nota": "Si lascia l'auto lungo la strada prima del bivio; in estate ci sono parecchie macchine e bisogna arrivare presto."
+  },
+  "sections": {
+   "note": "Le Rocce di Costabella sono una falesia di torrioni di quarzite, sopra Frabosa Soprana, a circa mille metri, con esposizione a est. Il sole arriva la mattina presto e se ne va nel primo pomeriggio, quindi in estate si scala volentieri fino alle due.\n\nLe vie sono tecniche e di forza, soprattutto fra il 5c e il 6c, con qualche tiro più duro fino al 7b+. La quarzite è una roccia compatta, di buona qualità, a tratti taglienti: servono scarpette in buono stato e dita robuste. La chiodatura è regolare e le soste sono a catena.\n\nI torrioni sono separati da canali erbosi, quindi si cammina tra un blocco e l'altro; un po' di attenzione per i sassi.",
+   "avvicinamento": "Dal parcheggio si segue una strada sterrata, poi un sentiero a destra che traversa nel bosco e sale ai primi torrioni. Dieci minuti scarsi, con qualche gradino di roccia."
+  },
+  "parts": [
+   {
+    "group": "Primo Torrione",
+    "fields": {
+     "nome": "Quarzo Facile",
+     "grado": "4a",
+     "lunghezza": 18
+    }
+   },
+   {
+    "group": "Primo Torrione",
+    "fields": {
+     "nome": "Tre Gradini",
+     "grado": "4b",
+     "lunghezza": 20
+    }
+   },
+   {
+    "group": "Primo Torrione",
+    "fields": {
+     "nome": "Il Cristallo",
+     "grado": "4c",
+     "lunghezza": 22
+    }
+   },
+   {
+    "group": "Primo Torrione",
+    "fields": {
+     "nome": "Sasso Chiaro",
+     "grado": "5a",
+     "lunghezza": 22
+    }
+   },
+   {
+    "group": "Primo Torrione",
+    "fields": {
+     "nome": "Briciole",
+     "grado": "5a+",
+     "lunghezza": 22
+    }
+   },
+   {
+    "group": "Primo Torrione",
+    "fields": {
+     "nome": "Lucertola",
+     "grado": "5b",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Secondo Torrione",
+    "fields": {
+     "nome": "Il Filo",
+     "grado": "5b+",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Secondo Torrione",
+    "fields": {
+     "nome": "La Lama",
+     "grado": "5c",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Secondo Torrione",
+    "fields": {
+     "nome": "Scheggia",
+     "grado": "5c+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Secondo Torrione",
+    "fields": {
+     "nome": "Punta di Diamante",
+     "grado": "6a",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Secondo Torrione",
+    "fields": {
+     "nome": "Taglio Netto",
+     "grado": "6a+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Secondo Torrione",
+    "fields": {
+     "nome": "L'Aguzzino",
+     "grado": "6b",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Secondo Torrione",
+    "fields": {
+     "nome": "Specchio",
+     "grado": "6b+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Terzo Torrione",
+    "fields": {
+     "nome": "Oltre il Bosco",
+     "grado": "6a",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Terzo Torrione",
+    "fields": {
+     "nome": "Gelo e Quarzo",
+     "grado": "6a+",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Terzo Torrione",
+    "fields": {
+     "nome": "La Sferza",
+     "grado": "6b",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Terzo Torrione",
+    "fields": {
+     "nome": "Forza Quattro",
+     "grado": "6b+",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Terzo Torrione",
+    "fields": {
+     "nome": "Dita Rosse",
+     "grado": "6c",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Terzo Torrione",
+    "fields": {
+     "nome": "Il Taglio Bianco",
+     "grado": "6c+",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Muro Est",
+    "fields": {
+     "nome": "Colazione sul Muro",
+     "grado": "5c",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Muro Est",
+    "fields": {
+     "nome": "Passo Lungo",
+     "grado": "6a",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Muro Est",
+    "fields": {
+     "nome": "Il Pugno",
+     "grado": "6b",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Muro Est",
+    "fields": {
+     "nome": "Tutta Forza",
+     "grado": "6c",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Muro Est",
+    "fields": {
+     "nome": "Cattiveria",
+     "grado": "7a",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Muro Est",
+    "fields": {
+     "nome": "Ultimo Respiro",
+     "grado": "7a+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Muro Est",
+    "fields": {
+     "nome": "La Resa dei Conti",
+     "grado": "7b",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Muro Est",
+    "fields": {
+     "nome": "Fuoco Freddo",
+     "grado": "7b+",
+     "lunghezza": 30
+    }
+   }
+  ],
+  "reports": [
+   {
+    "observedAt": "2022-04-09",
+    "words": "Prima visita a questa falesia: quarzite fine e compatta, difficoltà ben distribuite. Sole al mattino sul secondo torrione, ottimo per scaldarsi con Il Filo."
+   },
+   {
+    "observedAt": "2022-05-22",
+    "words": "Domenica di sole e aria limpida. I tiri tecnici richiedono pazienza: ogni passo è una piccola scelta di piedi. Quattro vie, nessuna banale."
+   },
+   {
+    "observedAt": "2022-06-15",
+    "words": "Mercoledì sera, ci siamo arrivati dopo il lavoro per sfruttare l'ombra del pomeriggio. Quasi vuota, solo il rumore del torrente più giù e dei grilli."
+   },
+   {
+    "observedAt": "2022-08-06",
+    "words": "Un caldo cane giù in pianura, qui all'ombra dei torrioni dopo mezzogiorno si respira. Il quarzo però punge le dita dopo qualche tiro."
+   },
+   {
+    "observedAt": "2022-09-24",
+    "words": "Settembre buonissimo. Una cordata di quattro con cani ha occupato il terzo torrione ma si è spostata con garbo. Il Pugno è una via perfetta, forza e testa."
+   },
+   {
+    "observedAt": "2022-11-13",
+    "words": "Fine stagione, aria fresca e sole che scalda dalle dieci. Le catene sono tutte nuove, moschettoni solidi. Dita fredde ma ottimo grip."
+   },
+   {
+    "observedAt": "2023-03-19",
+    "words": "Primi giorni caldi, l'erba è tornata verde fra i torrioni. Roccia asciutta già alle nove. Mi sono arreso a Cattiveria, ma è stata una battaglia bella."
+   },
+   {
+    "observedAt": "2023-04-29",
+    "words": "Weekend di ponte, il parcheggio era pieno già alle nove e abbiamo lasciato l'auto più giù. In parete c'era gente ma non troppa, falesia ben distribuita."
+   },
+   {
+    "observedAt": "2023-06-07",
+    "words": "Mercoledì, ferie. Giornata splendida, sole sul Muro Est fino a mezzogiorno. Siamo saliti sui gradi medi con passo tranquillo, una via ogni mezz'ora."
+   },
+   {
+    "observedAt": "2023-07-22",
+    "words": "Nel canale tra il primo e il secondo torrione è caduto un sasso mentre salivamo, niente di grave ma scendere con il casco è una buona idea. Per il resto falesia in forma."
+   },
+   {
+    "observedAt": "2023-09-17",
+    "words": "Una delle falesie con la miglior quarzite che io conosca: fine, grigio, dura. Vie tecniche e un po' tagliente, ma la protezione è ottima."
+   },
+   {
+    "observedAt": "2023-10-28",
+    "words": "Tempo bellissimo, l'autunno ha dipinto i boschi intorno. Un gruppo di scout in sosta, rumorosi ma gentili. Abbiamo fatto La Sferza e Gelo e Quarzo."
+   },
+   {
+    "observedAt": "2024-04-06",
+    "words": "Hanno sistemato il sentiero d'accesso con gradini in legno nei punti ripidi: salita più comoda, anche sotto il peso dello zaino. Falesia tutta all'asciutto."
+   },
+   {
+    "observedAt": "2024-05-30",
+    "words": "Giovedì sul tardi, un'oretta di vie facili prima del tramonto. La luce sulla quarzite diventa dorata, un colpo d'occhio che ripaga la fatica."
+   },
+   {
+    "observedAt": "2024-07-14",
+    "words": "Con i miei suoceri, che non scalano: ci hanno aspettato al fresco in fondo al sentiero con un libro. La falesia è comoda per chi non sale."
+   },
+   {
+    "observedAt": "2024-09-08",
+    "words": "Giro lungo: sei vie, dal 5c al 6b+, con il sole sempre alle spalle. Nelle vie dure però c'è una pietra molto tagliente che mi ha rovinato le scarpette."
+   },
+   {
+    "observedAt": "2024-10-20",
+    "words": "Il sentiero era coperto di foglie, scivoloso. Ci hanno detto che il bosco sopra il primo torrione è stato ripulito: ora c'è più luce e meno umidità alla base."
+   },
+   {
+    "observedAt": "2025-05-04",
+    "words": "Domenica mattina, primi in parete, sole sul Secondo Torrione. Tecnica e dita: qui le vie si risolvono con i piedi più che con la forza."
+   },
+   {
+    "observedAt": "2025-08-16",
+    "words": "Un sabato di agosto sorprendentemente tranquillo: il caldo ha tenuto a casa molti. Ombra sul Terzo Torrione dopo le dodici. Ho ripetuto Dita Rosse, bellissima."
+   },
+   {
+    "observedAt": "2025-10-25",
+    "words": "Hanno cambiato un paio di soste sul Muro Est: catene lucide e moschettoni larghi. Giornata chiara, nessun nuvolo, parete ancora tiepida alle tre."
+   }
+  ]
+ },
+ "readings": [
+  {
+   "themes": [
+    {
+     "label": "Quarzite compatta",
+     "quote": "quarzite fine e compatta"
+    },
+    {
+     "label": "Sole al mattino",
+     "quote": "Sole al mattino sul secondo torrione"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Vie tecniche",
+     "quote": "I tiri tecnici richiedono pazienza"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente in settimana",
+     "quote": "Quasi vuota"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Quarzite compatta",
+     "quote": "Il quarzo però punge le dita"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole al mattino",
+     "quote": "sole che scalda dalle dieci"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Parcheggio che si riempie",
+     "quote": "il parcheggio era pieno già alle nove"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole al mattino",
+     "quote": "sole sul Muro Est fino a mezzogiorno"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Pietre mobili nel canale tra i torrioni",
+     "kind": "attenzione",
+     "quote": "Nel canale tra il primo e il secondo torrione è caduto un sasso"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Quarzite compatta",
+     "quote": "la miglior quarzite che io conosca"
+    },
+    {
+     "label": "Vie tecniche",
+     "quote": "Vie tecniche"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Gradini nuovi sul sentiero d'accesso",
+     "kind": "novita",
+     "quote": "Hanno sistemato il sentiero d'accesso con gradini in legno"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente in settimana",
+     "quote": "un'oretta di vie facili"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Quarzite compatta",
+     "quote": "una pietra molto tagliente"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole al mattino",
+     "quote": "sole sul Secondo Torrione"
+    },
+    {
+     "label": "Vie tecniche",
+     "quote": "le vie si risolvono con i piedi"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Soste nuove sul Muro Est",
+     "kind": "novita",
+     "quote": "Hanno cambiato un paio di soste sul Muro Est"
+    }
+   ]
+  }
+ ]
+}

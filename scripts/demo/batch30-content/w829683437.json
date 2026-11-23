@@ -1,0 +1,118 @@
+{
+  "osm": "w829683437",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "esposizione"
+  ],
+  "itinerary": {
+    "key": "falesia-ai-lac-dal-rus",
+    "activity": "falesia",
+    "place": "comune-096046",
+    "name": "Falesia Ai-Lac dal Rus",
+    "lat": 45.63111,
+    "lon": 7.9354,
+    "aspect": "NO",
+    "altMax": 2185,
+    "facts": {
+      "esposizione": "NO",
+      "quota_base": 2185,
+      "avvicinamento": 45,
+      "localita_partenza": "Pollone"
+    },
+    "sections": {
+      "note": "Placca di calcare chiara sopra un pascolo, con vie corte e piacevoli. La placca è poco ripida: la roccia è larga e le vie sono più facili di quanto sembrino. Esposta a nord-ovest: il sole arriva di sera, la mattina è fresca.\n\nChiodatura a spit, soste a due punti. Le vie più facili sono adatte a chi inizia.\n\nUna corda da 50 metri, qualche rinvio, un maglione.",
+      "avvicinamento": "Dal parcheggio sul pascolo si cammina per un quarto d'ora, prima su strada sterrata poi su sentiero."
+    },
+    "parts": [
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "Primo passo",
+          "grado": "4a",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "Prato",
+          "grado": "4b",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "Lama",
+          "grado": "4c",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "Colonna",
+          "grado": "5a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "Ultimo",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "Piccola fessura",
+          "grado": "5c",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "Pendio",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2024-06-15",
+        "words": "Tanta erba nel prato ma la placca è bella e il sole arriva di sera. Mi sono fermato a mangiare sulla sosta."
+      },
+      {
+        "observedAt": "2025-08-16",
+        "words": "Fresco la mattina, ho fatto le vie più facili con i bambini. Tutto bene, sosta sicura."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole di sera",
+          "quote": "il sole arriva di sera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai bambini",
+          "quote": "ho fatto le vie più facili con i bambini"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "osm": "n6697116671",
+  "invented": ["avvicinamento", "vie", "note", "parcheggio_nota", "reports", "readings"],
+  "itinerary": {
+    "key": "zappegly",
+    "activity": "falesia",
+    "place": "comune-007029",
+    "name": "Zappegly - Falesia Arrampicata",
+    "lat": 45.73054,
+    "lon": 7.87108,
+    "aspect": "SO",
+    "altMax": 1504,
+    "facts": {
+      "esposizione": "SO",
+      "quota_base": 1504,
+      "avvicinamento": 30,
+      "localita_partenza": "Gaby",
+      "parcheggio_nota": "Bordo della strada sterrata, senza un vero parcheggio."
+    },
+    "sections": {
+      "note": "Falesia piccola nel bosco sopra il paese, con due settori: una parete bassa e un diedro più in alto. Otto vie, dal 4 al 6b.\n\nEsposta a sud-ovest: il pomeriggio prende il sole, e anche d'autunno e d'inverno si sta bene. D'estate, invece, è un posto da sera.\n\nLa roccia è buona in parete; nel diedro c'è terra e ghiaia, quindi ripulite le prese prima di salire.",
+      "avvicinamento": "Mezz'ora a piedi dal paese, su un sentiero che sale nel bosco; poi la parete compare sulla destra."
+    },
+    "parts": [
+      { "group": "Parete", "fields": { "nome": "Zappa e vanga", "grado": "4", "lunghezza": 15 } },
+      { "group": "Parete", "fields": { "nome": "Il tiro del pastore", "grado": "4+", "lunghezza": 18 } },
+      { "group": "Parete", "fields": { "nome": "Sole di sera", "grado": "5a", "lunghezza": 20 } },
+      { "group": "Parete", "fields": { "nome": "Fessurina", "grado": "5b", "lunghezza": 18 } },
+      { "group": "Parete", "fields": { "nome": "Vecchia lastra", "grado": "6a", "lunghezza": 22 } },
+      { "group": "Diedro", "fields": { "nome": "Diedro dei carbonai", "grado": "5c", "lunghezza": 16 } },
+      { "group": "Diedro", "fields": { "nome": "Pietra liscia", "grado": "6a+", "lunghezza": 20 } },
+      { "group": "Diedro", "fields": { "nome": "Il gatto", "grado": "6b", "lunghezza": 18 } }
+    ],
+    "reports": [
+      { "observedAt": "2024-10-05", "words": "Sole fino a tardi, si sta bene in maglietta anche a ottobre. Il diedro è bello, roccia un po' sporca in basso dopo la pioggia della notte. Mezz'ora dal paese, sentiero da fare con calma." },
+      { "observedAt": "2025-04-12", "words": "Giornata ventosa, la parete è esposta e il vento si sente. Abbiamo fatto le tre vie più facili, tutte in buono stato. Un cane al seguito che correva tra le corde, ma niente di grave." }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        { "label": "Sole invernale", "quote": "Sole fino a tardi" },
+        { "label": "Roccia sporca dopo la pioggia", "quote": "roccia un po' sporca in basso dopo la pioggia" }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        { "label": "Vento in parete", "quote": "il vento si sente" },
+        { "label": "Cani ammessi", "quote": "Un cane al seguito" }
+      ],
+      "flags": []
+    }
+  ]
+}

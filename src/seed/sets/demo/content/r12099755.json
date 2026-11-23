@@ -1,0 +1,241 @@
+{
+  "osm": "r12099755",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d18",
+    "activity": "escursionismo",
+    "place": "comune-096044",
+    "name": "Via Alpina Blue D18",
+    "lat": 45.69035,
+    "lon": 7.95339,
+    "facts": {
+      "difficolta": "EE",
+      "dislivello": 2924,
+      "localita_partenza": "Piedicavallo",
+      "come_arrivare": "Piedicavallo è l'ultimo paese della Valle Cervo, nel Biellese: si raggiunge da Biella risalendo la valle, con parcheggio all'ingresso del paese. L'arrivo a Issime è nella Valle del Lys, in Valle d'Aosta: il ritorno richiede un trasferimento oppure uno spostamento in più giorni."
+    },
+    "sections": {
+      "descrizione": "Tappa lunga e dura della Via Alpina Blu da Piedicavallo, in Valle Cervo, a Issime, nella bassa Valle del Lys. Il percorso supera quasi 3.000 metri di salita e altrettanti di discesa in circa 18 chilometri: una giornata di alta fatica.\n\nSi esce da Piedicavallo e si sale a lungo fino a un valico che separa il Biellese dalla Valle d'Aosta, poi si scende ripidamente verso il fondovalle del Lys. Il percorso alterna boschi, pascoli e pietraie, con lunghi tratti in quota.\n\nÈ una tappa per camminatori ben allenati: dislivello e lunghezza richiedono partenza all'alba e gestione dell'energia. La difficoltà è escursionistica per esperti."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Quasi tremila metri di salita complessiva sono tanti: partenza alle quattro con la frontale e arrivo a Issime a sera, distrutto."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Il valico a metà giornata è il punto della verità: dopo ci si accorge che la discesa dura quanto la salita. Bastoncini e pazienza."
+      },
+      {
+        "observedAt": "2022-09-16",
+        "words": "Ho fatto il percorso da solo un martedì, senza incontrare nessuno per ore. Il silenzio sopra Piedicavallo era totale."
+      },
+      {
+        "observedAt": "2023-06-03",
+        "words": "Neve nell'ultimo canale sotto il valico: siamo saliti con attenzione, piantando i bastoncini a ogni passo. Con un po' di neve in più sarebbe stato rischioso."
+      },
+      {
+        "observedAt": "2023-07-30",
+        "words": "Il tratto roccioso sotto il valico richiede mani e attenzione. Non è difficile ma non è nemmeno una passeggiata: da EE vero."
+      },
+      {
+        "observedAt": "2023-08-28",
+        "words": "Giornata feriale, tempo bellissimo. Un branco di stambecchi ha attraversato il sentiero a poche decine di metri da noi."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Partiti al buio, arrivati a Issime con il sole che stava per tramontare. La pausa al valico è durata appena un quarto d'ora."
+      },
+      {
+        "observedAt": "2023-10-22",
+        "words": "Tappa a rischio meteo: le nuvole si sono chiuse a metà valico e ci siamo accorti che il sentiero era appena visibile. Per fortuna c'erano gli ometti."
+      },
+      {
+        "observedAt": "2024-06-08",
+        "words": "Hanno rifatto la segnaletica sul valico: paline nuove con le quote e i tempi, e vernice fresca su tutti i massi. Chi passa in nebbia ringrazierà."
+      },
+      {
+        "observedAt": "2024-07-21",
+        "words": "La discesa verso Issime è un tuffo nel verde, ma è lunga come un viaggio. Il rumore del torrente in fondo mi ha tirato avanti."
+      },
+      {
+        "observedAt": "2024-08-20",
+        "words": "Giovedì di cielo velato e caldo umido. Ho bevuto tre litri d'acqua e ne avrei voluto un altro: portatene tanta."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Una frana recente ha portato via un pezzo di sentiero nel bosco sopra Issime: si passa su una traccia provvisoria e ripida, con le mani sulle radici."
+      },
+      {
+        "observedAt": "2024-10-27",
+        "words": "Con la traccia provvisoria nel bosco la discesa ha richiesto più tempo. Alla fine le gambe non mi reggevano ma il cielo era rosa sopra Issime."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Prima salita dura e boscosa, poi pietraie larghe. L'anello di nuvole che si apriva sul fondo valle ricompensava ogni curva."
+      },
+      {
+        "observedAt": "2025-08-31",
+        "words": "Siamo partiti troppo tardi: alle quattro del pomeriggio eravamo ancora al valico e abbiamo dovuto accelerare con il buio che calava."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Giornata limpidissima, con i ghiacciai in fondo e la valle d'Aosta che si apriva dopo il valico. Una tappa che si ricorda anche con le gambe a pezzi."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Dislivello enorme",
+          "quote": "Quasi tremila metri di salita complessiva sono tanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga e ripida",
+          "quote": "la discesa dura quanto la salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "senza incontrare nessuno per ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo sul valico",
+          "quote": "Neve nell'ultimo canale sotto il valico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passaggi su roccia",
+          "quote": "Il tratto roccioso sotto il valico richiede mani e attenzione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna alpina",
+          "quote": "Un branco di stambecchi ha attraversato il sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partenza all'alba",
+          "quote": "Partiti al buio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo sul valico",
+          "quote": "le nuvole si sono chiuse a metà valico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnaletica rinnovata al valico",
+          "kind": "novita",
+          "quote": "Hanno rifatto la segnaletica sul valico: paline nuove con le quote e i tempi, e vernice fresca su tutti i massi."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga e ripida",
+          "quote": "La discesa verso Issime è un tuffo nel verde"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua da portare",
+          "quote": "Ho bevuto tre litri d'acqua"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Traccia provvisoria dopo la frana",
+          "kind": "attenzione",
+          "quote": "Una frana recente ha portato via un pezzo di sentiero nel bosco sopra Issime: si passa su una traccia provvisoria e ripida, con le mani sulle radici."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Traccia provvisoria dopo la frana",
+          "quote": "Con la traccia provvisoria nel bosco la discesa ha richiesto più tempo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Dislivello enorme",
+          "quote": "Prima salita dura e boscosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partenza all'alba",
+          "quote": "Siamo partiti troppo tardi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama dopo il valico",
+          "quote": "la valle d'Aosta che si apriva dopo il valico"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

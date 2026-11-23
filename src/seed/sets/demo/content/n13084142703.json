@@ -1,0 +1,416 @@
+{
+ "osm": "n13084142703",
+ "invented": [
+  "avvicinamento",
+  "localita_partenza",
+  "parcheggio_nota",
+  "vie",
+  "description",
+  "reports"
+ ],
+ "itinerary": {
+  "key": "montorfano-il-placcone",
+  "activity": "falesia",
+  "place": "comune-103044",
+  "name": "Montorfano, Il Placcone",
+  "lat": 45.94829,
+  "lon": 8.46101,
+  "aspect": "NE",
+  "altMax": 428,
+  "facts": {
+   "esposizione": "NE",
+   "quota_base": 428,
+   "avvicinamento": 10,
+   "localita_partenza": "Mergozzo",
+   "parcheggio_nota": "Si posteggia lungo la strada che costeggia la cava; nei giorni di bel tempo servono fantasia e pazienza."
+  },
+  "sections": {
+   "note": "Il Placcone è un settore del Montorfano, la collina di granito rosa che chiude il lago di Mergozzo, a 430 metri, con esposizione a nord-est. Il granito è compatto e ruvido, di grana fine, con placche appoggiate e qualche spigolo verticale; qui la roccia è fatta per l'aderenza e per fidarsi dei piedi.\n\nLe vie sono una ventina, dal 4b al 6c, tutte spittate, lunghe fra 15 e 30 metri. Il sole arriva la mattina fino a mezzogiorno circa, poi la parete resta in ombra: ottimo nelle giornate calde e nelle mezze stagioni.\n\nSotto la parete si vede il lago, e questo da solo vale la gita. Servono scarpette morbide e un po' di pazienza con la tecnica.",
+   "avvicinamento": "Dal parcheggio presso la cava si segue il sentiero che sale nel bosco di castagni, poi una traccia a sinistra porta alla base del Placcone. Circa dieci minuti, senza difficoltà."
+  },
+  "parts": [
+   {
+    "group": "Placcone Sinistro",
+    "fields": {
+     "nome": "Lago Grigio",
+     "grado": "4b",
+     "lunghezza": 20
+    }
+   },
+   {
+    "group": "Placcone Sinistro",
+    "fields": {
+     "nome": "Rosa Antico",
+     "grado": "4c",
+     "lunghezza": 20
+    }
+   },
+   {
+    "group": "Placcone Sinistro",
+    "fields": {
+     "nome": "Tre Barche",
+     "grado": "5a",
+     "lunghezza": 22
+    }
+   },
+   {
+    "group": "Placcone Sinistro",
+    "fields": {
+     "nome": "Il Pescatore",
+     "grado": "5b",
+     "lunghezza": 24
+    }
+   },
+   {
+    "group": "Placcone Sinistro",
+    "fields": {
+     "nome": "Specchio d'Acqua",
+     "grado": "5c",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Placcone Sinistro",
+    "fields": {
+     "nome": "Libellula",
+     "grado": "6a",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Placcone Centrale",
+    "fields": {
+     "nome": "Granito e Lago",
+     "grado": "5c+",
+     "lunghezza": 26
+    }
+   },
+   {
+    "group": "Placcone Centrale",
+    "fields": {
+     "nome": "La Fessura Cieca",
+     "grado": "6a",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Placcone Centrale",
+    "fields": {
+     "nome": "Il Remo",
+     "grado": "6a+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Placcone Centrale",
+    "fields": {
+     "nome": "Brezza d'Estate",
+     "grado": "6b",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Placcone Centrale",
+    "fields": {
+     "nome": "Lungo Riva",
+     "grado": "6b+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Placcone Centrale",
+    "fields": {
+     "nome": "Aderenza Zero",
+     "grado": "6c",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Spigolo",
+    "fields": {
+     "nome": "Faro",
+     "grado": "5b",
+     "lunghezza": 22
+    }
+   },
+   {
+    "group": "Spigolo",
+    "fields": {
+     "nome": "Passo di Cigno",
+     "grado": "6a",
+     "lunghezza": 24
+    }
+   },
+   {
+    "group": "Spigolo",
+    "fields": {
+     "nome": "Fondo Chiaro",
+     "grado": "6b",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Spigolo",
+    "fields": {
+     "nome": "Il Moscone",
+     "grado": "6c",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Spigolo",
+    "fields": {
+     "nome": "Gran Finale",
+     "grado": "6b+",
+     "lunghezza": 26
+    }
+   }
+  ],
+  "reports": [
+   {
+    "observedAt": "2022-03-26",
+    "words": "Prima uscita al lago: granito rosa asciutto e un tiepido sole di marzo sul Placcone. Ho riscoperto l'aderenza, con le scarpette morbide si sale che è una meraviglia."
+   },
+   {
+    "observedAt": "2022-05-08",
+    "words": "Domenica di maggio, tanta gente anche sul lago. In falesia però ci siamo trovati bene, lo spazio c'è. Il 5c è dolce, il 6a un pochino più astuto."
+   },
+   {
+    "observedAt": "2022-06-22",
+    "words": "Mercoledì. Ombra dopo mezzogiorno e vista sul lago blu: perfetto per un pomeriggio d'estate. Abbiamo fatto il bagno dopo l'ultima via, piccolo premio."
+   },
+   {
+    "observedAt": "2022-08-20",
+    "words": "Caldo, ma sulla parete l'ombra dopo le dodici regge. Il granito però scotta al sole del mattino: scarpette e prese roventi alle dieci."
+   },
+   {
+    "observedAt": "2022-10-09",
+    "words": "Autunno luminoso, aria fresca, nessuna zanzara. Ho scalato Il Remo e La Fessura Cieca: il passo di fessura è più semplice di quanto sembra dal basso."
+   },
+   {
+    "observedAt": "2022-12-27",
+    "words": "Martedì fra Natale e Capodanno, sole pallido e granito freddo. In parete eravamo in quattro, tutti intabarrati. L'aderenza al freddo è ottima."
+   },
+   {
+    "observedAt": "2023-03-11",
+    "words": "Lasciate le auto più in basso: il parcheggio vicino alla cava era già pieno alle nove. Camminata in più, ma ne vale la pena per un granito del genere."
+   },
+   {
+    "observedAt": "2023-04-30",
+    "words": "Un cartello all'inizio del sentiero avverte di non avvicinarsi al bordo della cava: segnalazione utile, perché il margine è instabile. Il sentiero per la falesia è sicuro."
+   },
+   {
+    "observedAt": "2023-06-14",
+    "words": "Mercoledì pomeriggio, solo io e un amico. Il Placcone alle cinque era già in ombra, pochi insetti, un'aria buona. Una cordata di vecchi amici ci ha raccontato di quando le vie erano aperte con i tasselli."
+   },
+   {
+    "observedAt": "2023-08-05",
+    "words": "A fine mattina il sole scotta, ma subito dopo mezzogiorno si sta all'ombra. Abbiamo evitato il centro dell'estate: troppi turisti sulle spiagge del lago."
+   },
+   {
+    "observedAt": "2023-10-22",
+    "words": "Aderenza pura sul Placcone Centrale: Aderenza Zero merita il nome. Passi di piede delicatissimi, vista sul lago e silenzio."
+   },
+   {
+    "observedAt": "2024-03-02",
+    "words": "Una via nuova a sinistra del Placcone Sinistro, spittata con gli anelli, un 5b morbido. Bella per i principianti."
+   },
+   {
+    "observedAt": "2024-05-17",
+    "words": "Venerdì, un giorno di ferie e di lago. Quattro vie, poi gelato a Mergozzo. Cielo azzurro, granito caldo, poche persone."
+   },
+   {
+    "observedAt": "2024-07-28",
+    "words": "Con i miei figli adolescenti: hanno fatto tre vie facili, poi il bagno nel lago. Le vie medie sono divertenti, le soste comode."
+   },
+   {
+    "observedAt": "2024-09-14",
+    "words": "Bella luce di settembre, il granito caldo al tatto. Le prese sono piccole ma ruvide: si trattengono bene, come sempre su questo granito."
+   },
+   {
+    "observedAt": "2024-11-24",
+    "words": "Fine novembre, una domenica serena. La base è coperta di foglie e un po' scivolosa, ma una volta in parete tutto è sicuro. Il lago laggiù, colorato d'autunno."
+   },
+   {
+    "observedAt": "2025-04-26",
+    "words": "Sabato di Pasqua anticipata, tantissimi in giro. Ci siamo spostati sul Spigolo, meno battuto, e abbiamo passato una bella mattina in compagnia di un gheppio."
+   },
+   {
+    "observedAt": "2025-09-05",
+    "words": "Venerdì di inizio settembre, ferie ad agosto finite e giornata fresca. Granito liscio, qualche presa lucida sulle vie più ripetute. Vista bellissima."
+   },
+   {
+    "observedAt": "2025-10-25",
+    "words": "Hanno segnato il sentiero con dei bolli rossi e bianchi dal parcheggio alla parete: finalmente non ci si perde fra i castagni. Una giornata perfetta."
+   }
+  ]
+ },
+ "readings": [
+  {
+   "themes": [
+    {
+     "label": "Granito d'aderenza",
+     "quote": "l'aderenza"
+    },
+    {
+     "label": "Vista sul lago",
+     "quote": "granito rosa"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Ombra nel pomeriggio",
+     "quote": "Ombra dopo mezzogiorno"
+    },
+    {
+     "label": "Vista sul lago",
+     "quote": "vista sul lago blu"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Ombra nel pomeriggio",
+     "quote": "l'ombra dopo le dodici regge"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Granito d'aderenza",
+     "quote": "L'aderenza al freddo è ottima"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Parcheggio difficile",
+     "quote": "il parcheggio vicino alla cava era già pieno"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Cartello di pericolo vicino alla cava",
+     "kind": "attenzione",
+     "quote": "Un cartello all'inizio del sentiero avverte di non avvicinarsi al bordo della cava"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente in settimana",
+     "quote": "solo io e un amico"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Ombra nel pomeriggio",
+     "quote": "subito dopo mezzogiorno si sta all'ombra"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Granito d'aderenza",
+     "quote": "Aderenza Zero merita il nome"
+    },
+    {
+     "label": "Vista sul lago",
+     "quote": "vista sul lago"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Nuova via facile a sinistra",
+     "kind": "novita",
+     "quote": "Una via nuova a sinistra del Placcone Sinistro"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente in settimana",
+     "quote": "poche persone"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Vista sul lago",
+     "quote": "bagno nel lago"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Granito d'aderenza",
+     "quote": "ruvide"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Vista sul lago",
+     "quote": "Il lago laggiù"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Segnavia nuovi dal parcheggio",
+     "kind": "novita",
+     "quote": "Hanno segnato il sentiero con dei bolli rossi e bianchi"
+    }
+   ]
+  }
+ ]
+}

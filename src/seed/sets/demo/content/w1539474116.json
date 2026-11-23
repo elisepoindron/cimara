@@ -1,0 +1,333 @@
+{
+  "osm": "w1539474116",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-del-sagittario",
+    "activity": "falesia",
+    "place": "comune-004091",
+    "name": "Falesia del Sagittario",
+    "lat": 44.25764,
+    "lon": 7.78533,
+    "aspect": "NO",
+    "altMax": 1564,
+    "facts": {
+      "quota_base": 1564,
+      "esposizione": "NO",
+      "avvicinamento": 20,
+      "localita_partenza": "Frabosa Sottana"
+    },
+    "sections": {
+      "note": "La Falesia del Sagittario è una parete di quarzite a 1560 metri, nella zona alta sopra Frabosa Sottana, rivolta a nord-ovest. Undici vie dal 4a al 6b+, lunghe fino a 20 metri, spittate in modo regolare. La quarzite è compatta e molto ruvida: aderenza a gogo, con qualche tacca di dita e rinvii ben messi.\n\nLa parete resta all'ombra la mattina e prende il sole nel pomeriggio, quindi è una buona scelta nelle giornate d'estate quando in pianura fa troppo caldo. In primavera la neve resta a lungo ai piedi e il terreno è umido, e in inverno la falesia è fuori gioco.\n\nÈ poco frequentata: si sale con calma e di solito si resta soli.",
+      "avvicinamento": "Dall'ultimo parcheggio un sentiero sale nel bosco di faggi e poi fra i prati per venti minuti, con un tratto più ripido finale; l'ultimo pezzo non è segnato ma la parete si vede subito."
+    },
+    "parts": [
+      {
+        "group": "Sagittario",
+        "fields": {
+          "nome": "Prima Freccia",
+          "grado": "4a",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Sagittario",
+        "fields": {
+          "nome": "Arco Teso",
+          "grado": "4c",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Sagittario",
+        "fields": {
+          "nome": "Faggio Storto",
+          "grado": "5a",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Sagittario",
+        "fields": {
+          "nome": "Il Cacciatore",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Sagittario",
+        "fields": {
+          "nome": "Punta d'Acciaio",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Sagittario",
+        "fields": {
+          "nome": "Centauro",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sagittario",
+        "fields": {
+          "nome": "Zoccoli e Granelli",
+          "grado": "6a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sagittario",
+        "fields": {
+          "nome": "Dritto al Bersaglio",
+          "grado": "6a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sagittario",
+        "fields": {
+          "nome": "Quarzo e Cielo",
+          "grado": "6b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sagittario",
+        "fields": {
+          "nome": "Costellazione",
+          "grado": "6b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sagittario",
+        "fields": {
+          "nome": "Il Sagittario",
+          "grado": "6b+",
+          "lunghezza": 20
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-02",
+        "words": "Quarzite ruvida e ottima aderenza. Una giornata di fine giugno senza nessun altro sulla parete, solo il vento tra i faggi. Il Cacciatore è una 5b bella e regolare."
+      },
+      {
+        "observedAt": "2022-08-12",
+        "words": "Venerdì di agosto, mentre in pianura c'erano 38 gradi qui si stava in maglione fino alle undici. Parete nord-ovest: ombra al mattino e sole solo dalle due. Una manna per chi cerca fresco."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "Sentiero un po' faticoso ma la parete vale la camminata. Mi sono fermato spesso a guardare i funghi sotto i faggi. Le vie facili sono bellissime e corte, le altre un po' più sporche."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Prima uscita autunnale con aria frizzante. Il Sagittario a 6b+ è il pezzo forte: passo chiave a metà con tacca per le dita, poi sosta comoda. Sentiero di venti minuti, ben battuto."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "La neve è stata una sorpresa: ancora un campo bianco sotto la parete di fine giugno. Con la roccia asciutta e l'acqua che gocciolava dal bosco, l'accesso è stato faticoso. Alla fine tre vie, tutte belle."
+      },
+      {
+        "observedAt": "2023-07-18",
+        "words": "Martedì pomeriggio, silenzio e aria fresca. Dopo una salita facile siamo scesi per il sentiero con una luce bellissima. Zoccoli e Granelli è una 6a+ con un bel traverso."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Sabato d'agosto e pochi in giro, anche se la valle era piena di turisti. Abbiamo scalato fino alle quattro e poi i temporali. Dalla parete si sentono i campanacci delle mucche."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Giornata tersa di fine estate. La quarzite è a punto giusto, né troppo fredda né troppo calda. Dritto al Bersaglio è una via lunga e uniforme, un ottimo tiro continuo."
+      },
+      {
+        "observedAt": "2024-07-05",
+        "words": "Venerdì di ferie, siamo stati in quattro tutto il giorno. Il sentiero è stato sistemato e ci sono nuovi segni di vernice sui faggi: arrivare alla parete adesso è facile. Parete asciutta, vie pulite."
+      },
+      {
+        "observedAt": "2024-08-03",
+        "words": "Giornata ventosa e nuvole veloci. Una mucca curiosa si è avvicinata allo zaino e un cane del pastore ci ha tenuto d'occhio. Sulla via Costellazione ho trovato una prima sosta molto stretta."
+      },
+      {
+        "observedAt": "2024-08-24",
+        "words": "Sabato di mezza estate con aria limpida. Alle quattro è arrivato un temporale con grandine e abbiamo dovuto ripararci sotto un masso. Meglio controllare le previsioni, qui cambia in fretta."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Un tratto del sentiero è franato dopo le piogge di settembre e il passaggio ora è più stretto. Con un po' di cautela si passa ancora, ma non con il maltempo. I faggi sono già gialli."
+      },
+      {
+        "observedAt": "2025-06-29",
+        "words": "Tanta neve ancora sotto la parete ma sulla roccia tutto asciutto. Quarzo e Cielo mi ha dato un 6b onesto, tutto di piedi. Sono arrivato presto e c'era solo un ragazzo con il suo cane."
+      },
+      {
+        "observedAt": "2025-08-19",
+        "words": "Martedì mattina d'estate, nebbia che saliva dalla valle. Quando si è alzata, la parete era caldissima ma in ombra. Il Sagittario si conferma una bella via per chi cerca il fresco."
+      },
+      {
+        "observedAt": "2025-09-28",
+        "words": "Ultima uscita dell'anno su una quarzite perfetta. Mani fredde al mattino e sole pieno nel pomeriggio. Centauro e Punta d'Acciaio sono due 5c-6a da non perdere."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Quarzite ruvida",
+          "quote": "Quarzite ruvida e ottima aderenza"
+        },
+        {
+          "label": "Poca gente",
+          "quote": "senza nessun altro sulla parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresco d'estate",
+          "quote": "mentre in pianura c'erano 38 gradi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "Mi sono fermato spesso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita di venti minuti",
+          "quote": "Sentiero di venti minuti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "ancora un campo bianco sotto la parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "silenzio e aria fresca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "poi i temporali"
+        },
+        {
+          "label": "Campanacci delle mucche",
+          "quote": "i campanacci delle mucche"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Quarzite ruvida",
+          "quote": "La quarzite è a punto giusto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero segnato di nuovo",
+          "kind": "novita",
+          "quote": "Il sentiero è stato sistemato e ci sono nuovi segni di vernice sui faggi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Mucche al pascolo",
+          "quote": "Una mucca curiosa si è avvicinata allo zaino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "è arrivato un temporale con grandine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana sul sentiero",
+          "kind": "attenzione",
+          "quote": "Un tratto del sentiero è franato dopo le piogge di settembre e il passaggio ora è più stretto."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Tanta neve ancora sotto la parete"
+        },
+        {
+          "label": "Poca gente",
+          "quote": "c'era solo un ragazzo con il suo cane"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresco d'estate",
+          "quote": "in ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Quarzite ruvida",
+          "quote": "una quarzite perfetta"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

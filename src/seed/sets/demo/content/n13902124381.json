@@ -1,0 +1,305 @@
+{
+  "osm": "n13902124381",
+  "invented": [
+    "grado_obbligatorio",
+    "sviluppo",
+    "avvicinamento",
+    "protezione",
+    "localita_partenza",
+    "come_arrivare",
+    "tiri",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "e-ades-felu",
+    "activity": "multipitch",
+    "place": "comune-004248",
+    "name": "E ades felu",
+    "lat": 44.27045,
+    "lon": 7.12928,
+    "aspect": "SE",
+    "altMax": 1600,
+    "facts": {
+      "grado_obbligatorio": "5c",
+      "sviluppo": 205,
+      "avvicinamento": 30,
+      "protezione": "spittata",
+      "localita_partenza": "Vinadio",
+      "come_arrivare": "Da Vinadio si segue la strada della valle fino a un piazzale con posto per qualche macchina, e da lì un sentiero nel bosco porta alla parete di gneiss, a pochi passi da un'altra via.",
+      "quota_base": 1481,
+      "esposizione": "SE",
+      "grado_max": "6a",
+      "tiri": 6
+    },
+    "sections": {
+      "descrizione": "Sei tiri su gneiss chiaro, nella stessa parete di un'altra via più lunga e più difficile da integrare. Qui invece la chiodatura è a spit inox, ravvicinata, e non serve altro che rinvii e fiducia. Il nome in dialetto, che suona come \"e adesso fallo\", è quasi una sfida bonaria.\n\nIl primo tiro parte sopra una cengia erbosa, poi si sale per placche e muretti sempre ben protetti. Il tiro più duro è il quarto, un 6a con un passo di tacca in strapiombo leggero; il resto è tra il 4c e il 5c.\n\nParete al sole fin dal mattino: nelle giornate d'inverno si sta bene, in estate meglio presto.",
+      "discesa": "Sei calate in doppia lungo la via, con due corde da 50 o da 60 metri; le soste sono a catena con anello e ben visibili.",
+      "materiale": "Due corde da 50 o 60 metri, dodici rinvii, un paio di fettucce lunghe e il casco.",
+      "avvicinamento": "Dal piazzale un sentiero nel bosco di faggi sale a una radura sotto la parete; l'attacco è a sinistra di un grande diedro grigio."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 35,
+          "descrizione": "Cengia erbosa e placca appoggiata, spit vicini."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 35,
+          "descrizione": "Muretto a tacche e sosta su cengia."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 35,
+          "descrizione": "Placca liscia con un paio di passi di fiducia."
+        }
+      },
+      {
+        "fields": {
+          "grado": "6a",
+          "lunghezza": 35,
+          "descrizione": "Tiro chiave: strapiombino con tacca in alto, protetto da tre spit."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 35,
+          "descrizione": "Placca a buchi e piccole tacche."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 30,
+          "descrizione": "Roccette facili fino alla sosta finale."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-04-23",
+        "words": "La versione amichevole della coppia di vie vicine. Spit ravvicinati, soste comode e un solo tiro che costringe a pensare."
+      },
+      {
+        "observedAt": "2022-06-04",
+        "words": "Un primo tiro con erba e foglie secche ma poi tutto si pulisce. Il quarto è un 6a vero ma ben chiodato, si passa con un po' di cuore."
+      },
+      {
+        "observedAt": "2022-07-13",
+        "words": "Mercoledì d'estate, sveglia presto per evitare il caldo. In vetta alle undici, perfetti."
+      },
+      {
+        "observedAt": "2022-09-25",
+        "words": "Giornata d'autunno ideale. Il sole illumina la parete dalle nove e l'arrampicata è fluida, quasi una danza."
+      },
+      {
+        "observedAt": "2023-03-12",
+        "words": "Prima via della stagione per la ragazza che porto con me. Le prese larghe e gli spit vicini l'hanno rassicurata fin dal primo tiro."
+      },
+      {
+        "observedAt": "2023-05-07",
+        "words": "Strapiombino del quarto tiro: tacca, piedi alti e via. Sembra più facile a vederlo che a farlo."
+      },
+      {
+        "observedAt": "2023-06-27",
+        "words": "Martedì pomeriggio con la luce lunga. Una via comoda per staccare dal lavoro, senza traffico."
+      },
+      {
+        "observedAt": "2023-08-19",
+        "words": "Caldo secco in pianura, qui sopra aria buona. Il sentiero nel bosco ci ha riparati e siamo arrivati alla parete freschi."
+      },
+      {
+        "observedAt": "2023-10-08",
+        "words": "Foglie che cadono e luce dorata. Alla sosta quattro ci siamo fermati a guardare la valle per un quarto d'ora. Da non perdere."
+      },
+      {
+        "observedAt": "2024-03-31",
+        "words": "Pasqua in valle. Parete già al sole e poche cordate. Ho notato che il secondo spit del quinto tiro gira nella sua sede, meglio non tirarlo con forza."
+      },
+      {
+        "observedAt": "2024-05-26",
+        "words": "Lo spit che girava al quinto tiro è stato sostituito, adesso è saldo. Una cura che si apprezza."
+      },
+      {
+        "observedAt": "2024-07-18",
+        "words": "Giovedì sera a caccia di fresco. L'ombra sulla parete arriva presto e ci si sta bene, davvero un piacere."
+      },
+      {
+        "observedAt": "2024-09-29",
+        "words": "Facile e divertente, adatto a chi vuole imparare le doppie su una via tranquilla. Le corde non si impigliano mai."
+      },
+      {
+        "observedAt": "2025-04-19",
+        "words": "Una cordata di ragazzi con i caschi colorati, tanta allegria. La via è comoda e le soste sono ben fatte, nessun problema di spazio."
+      },
+      {
+        "observedAt": "2025-06-15",
+        "words": "Hanno aggiunto una targa all'attacco con il nome della via e il grado massimo, finalmente si capisce subito dove si è."
+      },
+      {
+        "observedAt": "2026-04-12",
+        "words": "Giornata mite, parete già asciutta. Una bella salita di mezza giornata che lascia il tempo per la polenta al ritorno."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Spit ravvicinati",
+          "quote": "Spit ravvicinati, soste comode"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tiro chiave del quarto",
+          "quote": "Il quarto è un 6a vero ma ben chiodato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partire presto d'estate",
+          "quote": "sveglia presto per evitare il caldo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole fin dal mattino",
+          "quote": "Il sole illumina la parete dalle nove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Via adatta a chi inizia",
+          "quote": "Le prese larghe e gli spit vicini l'hanno rassicurata fin dal primo tiro"
+        },
+        {
+          "label": "Spit ravvicinati",
+          "quote": "gli spit vicini"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tiro chiave del quarto",
+          "quote": "Strapiombino del quarto tiro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Via poco frequentata",
+          "quote": "senza traffico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento nel bosco",
+          "quote": "Il sentiero nel bosco ci ha riparati"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla valle",
+          "quote": "ci siamo fermati a guardare la valle per un quarto d'ora"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Spit che gira al quinto tiro",
+          "kind": "attenzione",
+          "quote": "Ho notato che il secondo spit del quinto tiro gira nella sua sede, meglio non tirarlo con forza."
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Spit del quinto tiro sostituito",
+          "kind": "novita",
+          "quote": "Lo spit che girava al quinto tiro è stato sostituito, adesso è saldo."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Partire presto d'estate",
+          "quote": "L'ombra sulla parete arriva presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Via adatta a chi inizia",
+          "quote": "adatto a chi vuole imparare le doppie su una via tranquilla"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Spit ravvicinati",
+          "quote": "le soste sono ben fatte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Targa all'attacco",
+          "kind": "novita",
+          "quote": "Hanno aggiunto una targa all'attacco con il nome della via e il grado massimo, finalmente si capisce subito dove si è."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole fin dal mattino",
+          "quote": "parete già asciutta"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

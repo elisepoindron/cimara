@@ -1,0 +1,266 @@
+{
+  "osm": "r12142908",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d45",
+    "activity": "escursionismo",
+    "place": "comune-001026",
+    "name": "Via Alpina Blue D45",
+    "lat": 44.74923,
+    "lon": 7.08131,
+    "facts": {
+      "difficolta": "E",
+      "localita_partenza": "Rifugio Barbara Lowrie",
+      "come_arrivare": "Si arriva in Val Pellice fino a Bobbio Pellice e si prosegue per la strada che sale verso il rifugio, dove si trova un parcheggio ridotto. Pian del Re, all'altra estremità, si raggiunge da Crissolo in auto: per il rientro serve un secondo mezzo o un trasferimento."
+    },
+    "sections": {
+      "descrizione": "Percorso ad anello di alta quota sulla Via Alpina Blu, in Val Pellice: dal Rifugio Barbara Lowrie, sopra Bobbio Pellice, fino a Pian del Re, dove nasce il Po, con un giro di circa 11,5 km e più di 1.300 m di salita complessivi. È una tappa lunga e faticosa che passa dalla Val Pellice alle pendici del Monviso.\n\nDal rifugio si sale per prati e pietraie fino a un colle, si scende e si risale ancora, con ripetute traversate che tengono sempre impegnati i polpacci. Dal colle si apre una vista ampia sul Monviso e sulle valli piemontesi. Il fondo è prevalentemente sassoso, con qualche passaggio su roccia e qualche nevaio nei mesi iniziali.\n\nIl periodo è da luglio a fine settembre. Il rifugio, dove si può dormire e mangiare, è il punto fermo della tappa. A Pian del Re c'è la fonte del Po con la targa e un parcheggio. Meglio non avere fretta e partire presto."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Partiti dal Barbara Lowrie alle sette con cielo limpido. Più di mille e trecento metri di salita sommando le risalite e le gambe lo sanno."
+      },
+      {
+        "observedAt": "2022-08-06",
+        "words": "Colle ventoso e freddo anche in piena estate. Dal colle il Monviso si presenta tutto intero e vale lo scatto."
+      },
+      {
+        "observedAt": "2022-08-24",
+        "words": "Mercoledì in Val Pellice, quasi nessuno. La mattina al Barbara Lowrie è stata calda e la colazione ottima."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Sasso dopo sasso, fino a Pian del Re. Una lunga pietraia nella parte alta che mi ha fatto passare la voglia di correre."
+      },
+      {
+        "observedAt": "2022-09-25",
+        "words": "Giornata di fine estate, aria cristallina. Alla sorgente del Po c'erano famiglie con i bambini in gita ed è stato strano dopo tutta la solitudine."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "Nevaio ghiacciato poco sotto il colle. Il nevaio sul versante nord andava attraversato con prudenza perché scivolava."
+      },
+      {
+        "observedAt": "2023-07-29",
+        "words": "Il colle ha vento tutto l'anno. In cima il vento mi ha fatto indossare la giacca pesante, anche a luglio."
+      },
+      {
+        "observedAt": "2023-08-16",
+        "words": "Mercoledì feriale, nuvole alte. Tappa dura ma con una luce stupenda, mi sono fermato spesso a fotografare."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Camosci dappertutto, anche sul sentiero. Un gruppo di camosci ha attraversato la traccia davanti a noi."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Prime brine, laghetti ghiacciati, lariceto in oro. Il Monviso con la neve fresca e il cielo azzurro era una cartolina."
+      },
+      {
+        "observedAt": "2024-07-06",
+        "words": "Arrivati a Pian del Re ci siamo concessi una birra al ristoro. La sorgente del Po con la targa è una tappa quasi obbligata."
+      },
+      {
+        "observedAt": "2024-07-27",
+        "words": "Rientro a piedi lungo una discesa infinita. La discesa finale spacca le ginocchia, avevamo i bastoncini ma bastano poco."
+      },
+      {
+        "observedAt": "2024-08-14",
+        "words": "Giorno feriale di ferie, valle semivuota. Un tratto di roccia sotto il colle si è staccato in primavera, si passa lenti e senza zaino pesante."
+      },
+      {
+        "observedAt": "2024-09-08",
+        "words": "Passaggio instabile ora segnato con bandierine e un po' di terra rimossa. Segnavia rinnovati tra il rifugio e il colle e picchetti con le distanze."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Tempo variabile, nebbia a tratti. Nel pomeriggio la nebbia ha preso il colle e per un po' abbiamo camminato quasi alla cieca."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Temporale a metà giornata, siamo scesi di corsa. Alle due già grigio e tuoni, e la discesa è stata fatta con la grandine."
+      },
+      {
+        "observedAt": "2025-08-20",
+        "words": "Mercoledì con nebbia e vento. Il rifugio ci ha prestato un sacco impermeabile e una merenda calda al ritorno."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Ultima volta della stagione: il Monviso si vedeva da ogni curva e il silenzio era totale."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e faticosa",
+          "quote": "Più di mille e trecento metri di salita sommando le risalite"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Monviso",
+          "quote": "Dal colle il Monviso si presenta tutto intero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Barbara Lowrie",
+          "quote": "La mattina al Barbara Lowrie è stata calda e la colazione ottima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie e sfasciumi",
+          "quote": "Una lunga pietraia nella parte alta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pian del Re e la sorgente del Po",
+          "quote": "Alla sorgente del Po c'erano famiglie con i bambini in gita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Il nevaio sul versante nord andava attraversato con prudenza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento e freddo al colle",
+          "quote": "In cima il vento mi ha fatto indossare la giacca pesante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e faticosa",
+          "quote": "Tappa dura ma con una luce stupenda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Camosci sul sentiero",
+          "quote": "Un gruppo di camosci ha attraversato la traccia davanti a noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Monviso",
+          "quote": "Il Monviso con la neve fresca e il cielo azzurro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pian del Re e la sorgente del Po",
+          "quote": "La sorgente del Po con la targa è una tappa quasi obbligata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga e dura per le ginocchia",
+          "quote": "La discesa finale spacca le ginocchia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Passaggio instabile sotto il colle",
+          "kind": "attenzione",
+          "quote": "Un tratto di roccia sotto il colle si è staccato in primavera"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnavia nuovi sul colle",
+          "kind": "novita",
+          "quote": "Segnavia rinnovati tra il rifugio e il colle"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sul colle",
+          "quote": "Nel pomeriggio la nebbia ha preso il colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Alle due già grigio e tuoni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Barbara Lowrie",
+          "quote": "Il rifugio ci ha prestato un sacco impermeabile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Monviso",
+          "quote": "il Monviso si vedeva da ogni curva"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

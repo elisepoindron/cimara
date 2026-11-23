@@ -1,0 +1,30 @@
+{
+ "maplibre-gl.mjs": {
+  "source": "MapLibre GL JS",
+  "version": "6.10.0",
+  "licence": "BSD-3-Clause (no runtime attribution required)",
+  "page": "https://maplibre.org/maplibre-gl-js/docs/",
+  "note": "Fetched once from unpkg.com and vendored, exactly as assets/map/ vendors OSM tiles — a pinned local copy rather than a CDN reference with a floating semver range, which could not carry a Subresource Integrity hash. Used by home-map.js on the home page."
+ },
+ "maplibre-gl.css": {
+  "source": "MapLibre GL JS",
+  "version": "6.10.0",
+  "licence": "BSD-3-Clause (no runtime attribution required)",
+  "page": "https://maplibre.org/maplibre-gl-js/docs/",
+  "note": "Fetched once from unpkg.com and vendored alongside maplibre-gl.mjs. Used by home-map.ts's MAPLIBRE_HEAD."
+ },
+ "maplibre-gl-shared.mjs": {
+  "source": "MapLibre GL JS",
+  "version": "6.10.0",
+  "licence": "BSD-3-Clause (no runtime attribution required)",
+  "page": "https://maplibre.org/maplibre-gl-js/docs/",
+  "note": "A chunk maplibre-gl.mjs's own distribution splits into and imports itself at runtime — not something this project's code imports directly. Fetched once from unpkg.com and vendored alongside maplibre-gl.mjs, which 404s and fails to load without it."
+ },
+ "maplibre-gl-worker.mjs": {
+  "source": "MapLibre GL JS",
+  "version": "6.10.0",
+  "licence": "BSD-3-Clause (no runtime attribution required)",
+  "page": "https://maplibre.org/maplibre-gl-js/docs/",
+  "note": "The background-thread chunk maplibre-gl-shared.mjs loads itself for its worker. Not imported by this project's code directly. Fetched once from unpkg.com and vendored alongside the other three files."
+ }
+}

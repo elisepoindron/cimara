@@ -1,0 +1,266 @@
+{
+  "osm": "r11124680",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-red-r137",
+    "activity": "escursionismo",
+    "place": "comune-004167",
+    "name": "Via Alpina Red R137",
+    "lat": 44.35014,
+    "lon": 7.01675,
+    "facts": {
+      "difficolta": "E",
+      "localita_partenza": "Pontebernardo",
+      "come_arrivare": "Pontebernardo si raggiunge dalla Val Stura in auto. Il parcheggio è nel villaggio. Il Rifugio Zanotti non è raggiungibile in auto: chi fa solo questa tappa torna per la stessa via."
+    },
+    "sections": {
+      "descrizione": "Tappa di salita della Via Alpina Rossa, nell'alta Val Stura: da Pontebernardo al Rifugio Zanotti. Si lascia il fondovalle e si entra in un vallone laterale, prima nel bosco, poi tra pascoli e larici radi, e infine su un fondo di sassi e prati alti dove sorge il rifugio.\n\nIl sentiero sale con una pendenza costante, a tratti ripida, su gradini di roccia e radici. Più in alto compare un torrentello da guadare su sassi, poi il vallone si apre e si vede il rifugio sopra l'ultimo salto. Il percorso è ben segnato, con i segni rossi della Via Alpina e i numeri del sentiero.\n\nSi fa da giugno a ottobre. La salita è lunga ma facile da dosare; a inizio stagione può restare neve nell'ultimo tratto. Al rifugio si può dormire e mangiare, ma da giugno a settembre conviene prenotare."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-02",
+        "words": "Dal paese in meno di quattro ore. Il primo tratto nel bosco è ripido e senza respiro, poi il vallone si apre e il respiro torna."
+      },
+      {
+        "observedAt": "2022-07-23",
+        "words": "Giornata nuvolosa, perfetta per salire. I larici radi e i pascoli alti sopra il bosco sono una cornice quasi irreale."
+      },
+      {
+        "observedAt": "2022-08-09",
+        "words": "Un martedì ad agosto, il rifugio era accogliente e semivuoto, polenta e brasato eccellenti."
+      },
+      {
+        "observedAt": "2022-08-28",
+        "words": "Camosci sopra il rifugio, tantissimi. Un branco di camosci a pochi metri dal sentiero ci ha accompagnato per l'ultima ora."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Notte al rifugio e alba gelata. La gestrice ci ha preparato una colazione calda anche alle cinque e mezza."
+      },
+      {
+        "observedAt": "2022-10-02",
+        "words": "Prima neve sopra il rifugio, qualche centimetro. Il bosco è più duro da salire con il fondo bagnato."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Il torrentello da guadare era gonfio di acqua di fusione. Il guado sui sassi era difficile e ci siamo bagnati fino alle caviglie."
+      },
+      {
+        "observedAt": "2023-07-16",
+        "words": "Salita lenta con ritmo da famiglia. La salita è costante e mai troppo dura, anche i bimbi sono arrivati contenti."
+      },
+      {
+        "observedAt": "2023-08-01",
+        "words": "Mi aspettavo più gente e invece c'era silenzio. Martedì mattina, non ho incontrato nessuno fino al rifugio."
+      },
+      {
+        "observedAt": "2023-08-19",
+        "words": "Notte in rifugio con tempesta di tuoni. Il temporale è arrivato alle quattro e ha scaricato per un'ora, per fortuna già dentro."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Settembre dolce, prati dorati. I larici sono già ingialliti e le pietre sono secche."
+      },
+      {
+        "observedAt": "2024-07-06",
+        "words": "Pomeriggio con cielo sereno e temperature miti. Il torrentello di mezzo si passa a piedi asciutti adesso, con le pietre nuove."
+      },
+      {
+        "observedAt": "2024-07-27",
+        "words": "Il rifugio ha rifatto il tetto e le camere, ora più caldo e luminoso. Nessuna novità sul sentiero."
+      },
+      {
+        "observedAt": "2024-08-14",
+        "words": "Mercoledì lavorativo ma giornata libera. Dall'alto del vallone ho visto sei camosci fermi come statue."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Tappa conclusa in tre ore e mezza. Nel bosco alcuni gradini sono saltati e le radici scoperte dopo le piogge di primavera."
+      },
+      {
+        "observedAt": "2025-06-28",
+        "words": "Neve ancora presente sull'ultimo tratto. L'ultimo traverso prima del rifugio era sotto la neve e abbiamo rifatto la traccia a vista."
+      },
+      {
+        "observedAt": "2025-08-08",
+        "words": "Venerdì d'agosto e la cena era già piena. Prenotare per tempo è stata una mossa giusta."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Il vallone nel sole con i larici dorati. Salita regolare e facile da dosare: ottima per gambe poco allenate."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita ripida nel bosco",
+          "quote": "Il primo tratto nel bosco è ripido e senza respiro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Larici e pascoli alti",
+          "quote": "I larici radi e i pascoli alti sopra il bosco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio accogliente",
+          "quote": "il rifugio era accogliente e semivuoto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Camosci vicino al rifugio",
+          "quote": "Un branco di camosci a pochi metri dal sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio accogliente",
+          "quote": "La gestrice ci ha preparato una colazione calda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita ripida nel bosco",
+          "quote": "Il bosco è più duro da salire con il fondo bagnato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Guado sul torrente",
+          "quote": "Il guado sui sassi era difficile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga ma regolare",
+          "quote": "La salita è costante e mai troppo dura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Solitudine nel vallone",
+          "quote": "non ho incontrato nessuno fino al rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali sul vallone",
+          "quote": "Il temporale è arrivato alle quattro e ha scaricato per un'ora"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Larici e pascoli alti",
+          "quote": "I larici sono già ingialliti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Guado sul torrente",
+          "quote": "Il torrentello di mezzo si passa a piedi asciutti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Rifugio rinnovato",
+          "kind": "novita",
+          "quote": "Il rifugio ha rifatto il tetto e le camere"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Camosci vicino al rifugio",
+          "quote": "Dall'alto del vallone ho visto sei camosci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Radici e gradini smossi nel bosco",
+          "kind": "attenzione",
+          "quote": "Nel bosco alcuni gradini sono saltati e le radici scoperte"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve nell'ultimo tratto",
+          "quote": "L'ultimo traverso prima del rifugio era sotto la neve"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio accogliente",
+          "quote": "Prenotare per tempo è stata una mossa giusta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga ma regolare",
+          "quote": "Salita regolare e facile da dosare"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

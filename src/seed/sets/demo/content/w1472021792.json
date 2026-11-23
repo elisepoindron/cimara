@@ -1,0 +1,494 @@
+{
+  "osm": "w1472021792",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "localita_partenza"
+  ],
+  "itinerary": {
+    "key": "falesia-di-roaschia-settore-sinistro",
+    "activity": "falesia",
+    "place": "comune-004183",
+    "name": "Falesia di Roaschia settore sinistro",
+    "lat": 44.28645,
+    "lon": 7.44417,
+    "aspect": "O",
+    "altMax": 1133,
+    "facts": {
+      "esposizione": "O",
+      "quota_base": 1133,
+      "avvicinamento": 15,
+      "localita_partenza": "Roaschia"
+    },
+    "sections": {
+      "note": "Il settore sinistro è quello dei gradi alti di Roaschia: una parete di calcare compatto a 1130 metri, esposta a ovest, con una quarantina di vie dal 5c al 7c+ di venticinque metri al massimo. Qui il muro è più verticale e a tratti strapiombante, con tacche taglienti e buchi, e le vie lunghe di sei-sette moschettonaggi richiedono forza di dita.\n\nNon è il settore dei principianti: le vie facili sono poche e sono spostate a destra, vicino al passaggio con il centrale. La chiodatura è moderna, con soste a catena e due fix su ogni calata. Il sole arriva dopo mezzogiorno e dura fino a sera, perciò i giorni migliori sono in primavera e autunno, e le serate d'estate.\n\nLa pietra è molto levigata sulle vie ripetute, ma i gradi duri restano seri. Qui sono descritte solo alcune delle linee.",
+      "avvicinamento": "Dal parcheggio si segue il sentiero verso i settori centrale e iniziale e poi si prosegue a sinistra per una traccia più stretta in costa: un quarto d'ora in tutto, con un tratto un po' esposto su rocce umide."
+    },
+    "parts": [
+      {
+        "group": "Sinistra Estrema",
+        "fields": {
+          "nome": "Primo Disgelo",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Sinistra Estrema",
+        "fields": {
+          "nome": "Tacca Fredda",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sinistra Estrema",
+        "fields": {
+          "nome": "Il Corridoio",
+          "grado": "6a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sinistra Estrema",
+        "fields": {
+          "nome": "Tetto Piccolo",
+          "grado": "6b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sinistra Estrema",
+        "fields": {
+          "nome": "Sbilanciato",
+          "grado": "6b+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Sinistra Estrema",
+        "fields": {
+          "nome": "Muro Nord",
+          "grado": "6c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Sinistra Estrema",
+        "fields": {
+          "nome": "Il Buco Nero",
+          "grado": "6c+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "La Mano Bianca",
+          "grado": "7a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Doppia Spinta",
+          "grado": "7a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Tre Chiodi",
+          "grado": "7a+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Equilibrista",
+          "grado": "7b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Respira e Tira",
+          "grado": "7b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Linea Scura",
+          "grado": "7b+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Il Nodo",
+          "grado": "7c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Resto del Mondo",
+          "grado": "7c+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Sole di Ponente",
+          "grado": "6b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Scivolo di Quarzo",
+          "grado": "6b+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Gancio Destro",
+          "grado": "6c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Tacche e Dolore",
+          "grado": "6c+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Fiato Corto",
+          "grado": "7a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Il Barone Rosso",
+          "grado": "7a+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Via del Muro",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Bivio",
+          "grado": "6a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Cresta Bassa",
+          "grado": "6b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Pietra Mossa",
+          "grado": "6c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Appoggio",
+          "grado": "5c+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Cinque Dita",
+          "grado": "7b+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Vento Lento",
+          "grado": "6b+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Centro Sinistra",
+        "fields": {
+          "nome": "Ultima Spiaggia",
+          "grado": "6c+",
+          "lunghezza": 22
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-05-21",
+        "words": "Giornata di tentativi sul muro: le vie dure qui chiedono davvero dita forti e tanta pazienza. Ho passato quattro ore su La Mano Bianca e ne sono uscito con le dita bruciate."
+      },
+      {
+        "observedAt": "2022-07-05",
+        "words": "Pomeriggio di luglio con un amico: arrivati alle quattro, sole sulla parete fino alle sette e mezza. Il sole prende il settore dopo le due, per cui al mattino si sta in ombra e freschi."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Tempo perfetto: cielo azzurro, aria asciutta. Mi sono dedicato a Il Nodo, un 7c che ho solo provato; il calcare è molto levigato, ma le tacche taglienti ti fanno mordere le dita."
+      },
+      {
+        "observedAt": "2022-11-05",
+        "words": "Autunno, con la roccia fredda e asciutta al punto giusto: giornata perfetta per un 7a. Una cordata di francesi sul Centro Sinistra. Il sole è bello fino al tramonto."
+      },
+      {
+        "observedAt": "2023-04-06",
+        "words": "Mi sono allenato con la corda dopo il lavoro: silenzio assoluto durante la settimana, zero fila. Su Tetto Piccolo ho scoperto un passo insospettato."
+      },
+      {
+        "observedAt": "2023-06-10",
+        "words": "Il sentiero verso sinistra è un po' scivoloso dopo la pioggia: il tratto stretto va fatto con attenzione. Il resto è facile, ma in parete nel pomeriggio fa molto caldo."
+      },
+      {
+        "observedAt": "2023-08-20",
+        "words": "Cordata di quattro, tutti con la voglia di una bella serata d'agosto. Sulle vie di destra non c'era nessuno, siamo saliti con una brezza leggera. La roccia è scivolosa su Gancio Destro, troppi passaggi."
+      },
+      {
+        "observedAt": "2023-10-28",
+        "words": "Una giornata nuvolosa, nessuna sorpresa: tutto asciutto e il tempo di riprovare Equilibrista. Un tiro lungo e intenso: è proprio un 7b che si merita."
+      },
+      {
+        "observedAt": "2024-03-04",
+        "words": "Una mattina di ferie: il settore era già al sole alle undici, poco prima del solito. Ho fatto Primo Disgelo e Tacca Fredda per scaldarmi, poi Doppia Spinta."
+      },
+      {
+        "observedAt": "2024-05-04",
+        "words": "Il sole sul muro è piacevole, ma quando ho provato Linea Scura i polpastrelli bollivano. Pausa lunga sull'erba, rientro al tramonto con la parete dorata. Alcune soste a sinistra sono state rifatte con catene nuove e anelli larghi."
+      },
+      {
+        "observedAt": "2024-07-20",
+        "words": "Troppo caldo verso le cinque; la roccia scotta e le tacche sono unte. Ci siamo spostati sulle vie a sinistra, le più ombreggiate a quell'ora. Alla fine, nessun grande risultato ma una bella serata."
+      },
+      {
+        "observedAt": "2024-09-01",
+        "words": "Tanta gente per un fine settimana di settembre, ma il settore ha spazio. Sono riuscito a incatenare Fiato Corto dopo tre tentativi, grande soddisfazione. Le dita fanno male ma il grado è onesto."
+      },
+      {
+        "observedAt": "2024-10-07",
+        "words": "Venerdì di ottobre, silenzio: un camoscio ci ha guardato dall'alto. Il passaggio per arrivare al settore ha un tratto di roccia franato: si passa con le mani sulla parete, con prudenza."
+      },
+      {
+        "observedAt": "2025-03-08",
+        "words": "Un cartello avverte del passaggio roccioso, ma nessun danno. Hanno messo una corda fissa nel tratto franato, utile per l'avvicinamento. In parete tutto asciutto e bel sole."
+      },
+      {
+        "observedAt": "2025-05-11",
+        "words": "Con mia moglie, lei sulle facili di destra e io su Tre Chiodi. Alle sette avevamo ancora luce. Un picnic con il vino sulla panchina alla fine. Un giorno da ricordare."
+      },
+      {
+        "observedAt": "2025-08-02",
+        "words": "Caldo anomalo, ma a sera sul muro dopo le sei il sole era più dolce. Un'ora di vie, la birra in paese, e a casa."
+      },
+      {
+        "observedAt": "2025-10-03",
+        "words": "Giornata di ferie in ottobre, nebbia in valle ma in quota sole pieno. Eravamo gli unici sul sinistro, tutto il pomeriggio per provare un 7a+ senza fretta."
+      },
+      {
+        "observedAt": "2026-04-18",
+        "words": "Primavera piena, il prato fiorito e l'aria tersa. Resto del Mondo mi ha respinto ancora una volta, ma ho trovato la sequenza giusta. Tornerò."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Gradi alti e dita forti",
+          "quote": "le vie dure qui chiedono davvero dita forti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole nel pomeriggio",
+          "quote": "Il sole prende il settore dopo le due"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Calcare levigato",
+          "quote": "calcare è molto levigato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cordate straniere",
+          "quote": "Una cordata di francesi sul Centro Sinistra"
+        },
+        {
+          "label": "Sole nel pomeriggio",
+          "quote": "Il sole è bello fino al tramonto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente nei giorni feriali",
+          "quote": "silenzio assoluto durante la settimana"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero stretto ed esposto",
+          "quote": "il tratto stretto va fatto con attenzione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Calcare levigato",
+          "quote": "roccia è scivolosa su Gancio Destro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Soste a catena rifatte",
+          "kind": "novita",
+          "quote": "Alcune soste a sinistra sono state rifatte con catene nuove e anelli larghi"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gradi alti e dita forti",
+          "quote": "Le dita fanno male ma il grado è onesto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Camosci in alto",
+          "quote": "un camoscio ci ha guardato dall'alto"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Passaggio roccioso franato",
+          "kind": "attenzione",
+          "quote": "Il passaggio per arrivare al settore ha un tratto di roccia franato: si passa con le mani sulla parete"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Passaggio roccioso franato",
+          "kind": "attenzione",
+          "quote": "Hanno messo una corda fissa nel tratto franato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Picnic con il vino",
+          "quote": "Un picnic con il vino sulla panchina alla fine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole nel pomeriggio",
+          "quote": "sul muro dopo le sei il sole era più dolce"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente nei giorni feriali",
+          "quote": "Eravamo gli unici sul sinistro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

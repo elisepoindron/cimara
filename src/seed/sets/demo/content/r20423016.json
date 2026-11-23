@@ -1,0 +1,255 @@
+{
+  "osm": "r20423016",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "anello-ceronda-mountain-bike-variante-1",
+    "activity": "mountain_bike",
+    "place": "comune-001284",
+    "name": "Anello Ceronda mountain bike - variante 1",
+    "lat": 45.15565,
+    "lon": 7.4523,
+    "facts": {},
+    "sections": {
+      "descrizione": "La prima variante dell'Anello Ceronda sale al Monte Baron, a Val della Torre, con un percorso di circa 6 chilometri e 300 metri di dislivello. È un tratto breve e panoramico, che si può aggiungere come estensione a una tappa o fare da solo come uscita breve di mezza giornata.\n\nLa strada bianca sale nel bosco con pendenza moderata, si fa sassosa negli ultimi chilometri e raggiunge una cima aperta su prati e rocce. Dal punto più alto lo sguardo si apre sulla pianura torinese, sulla Val Ceronda e sulle prime cime delle Alpi Graie.\n\nLa difficoltà tecnica è bassa: serve una mountain bike normale, e per chi ha una e-bike diventa quasi una passeggiata. Il percorso termina senza anello: per tornare si ripercorre la stessa strada.",
+      "note": "Da aprile a novembre, con le temperature migliori in primavera e autunno. Poche fontane: portare acqua. Nei weekend di bel tempo c'è un po' di traffico di escursionisti.",
+      "avvicinamento": "Il punto di partenza è a Val della Torre, dove si lascia l'auto vicino all'imbocco dei sentieri che portano verso il Monte Baron."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-04-16",
+        "words": "Giro rapido del pomeriggio: due ore tra salita e discesa, perfetto per una mezza giornata. Il bosco di castagni è sulla bella strada, in cima prati e roccette."
+      },
+      {
+        "observedAt": "2022-05-29",
+        "words": "Ci sono tanti escursionisti sul sentiero, quasi tutti molto gentili e disposti a farsi da parte. Ho trovato un bambino con il nonno che mi ha chiesto da dove venissi, salita simpatica."
+      },
+      {
+        "observedAt": "2022-06-14",
+        "words": "Sono salito in pausa pranzo con la bici elettrica e sono stato in cima prima di mezzogiorno. Dalla cima la pianura sembra immensa, e il traffico di Torino lontano e silenzioso."
+      },
+      {
+        "observedAt": "2022-07-30",
+        "words": "Poco ombreggiato nell'ultima parte, il sole picchia sulla strada sassosa. Meglio salire presto. Il tratto finale è smosso e ho messo il piede a terra un paio di volte."
+      },
+      {
+        "observedAt": "2022-09-25",
+        "words": "Giornata limpida dopo un temporale: sul Monte Baron si vedeva la pianura fino alle colline lontane. Mi sono fermato a lungo sulla cima, con la bici appoggiata su una roccia."
+      },
+      {
+        "observedAt": "2022-10-30",
+        "words": "In autunno questa salita è bellissima: tappeto di foglie, aria tersa. Ho incontrato solo un cercatore di funghi con un cesto vuoto che mi ha detto che era troppo presto."
+      },
+      {
+        "observedAt": "2023-04-08",
+        "words": "La primavera qui arriva presto: ginestre e primule sul bordo della strada. Salita piacevole, discesa facile, perfetta per tornare in forma dopo l'inverno."
+      },
+      {
+        "observedAt": "2023-05-18",
+        "words": "Un giovedì di maggio, cielo azzurro e quasi nessuno. Un piccolo gregge di capre attraversa a metà salita, le ho lasciate passare prima di ripartire."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Ho portato mia figlia di dieci anni con una mountain bike piccola: sedici gradi in cima e tanta voglia, ha fatto tutta la salita senza lamentarsi. Fermate frequenti e merenda in cima."
+      },
+      {
+        "observedAt": "2023-08-27",
+        "words": "Tanti ciclisti in giornata di domenica estiva: pieno di coppie, famiglie, gruppi. Ma nessuna maleducazione, chi sale cede il passo a chi scende e viceversa, un clima piacevole."
+      },
+      {
+        "observedAt": "2023-10-21",
+        "words": "Giornata nebbiosa, in cima non si vedeva nulla ma l'atmosfera era fantastica. Mi sono rifugiato sotto una roccia a mangiare un panino mentre il vento muoveva le nubi."
+      },
+      {
+        "observedAt": "2024-04-13",
+        "words": "Qualche albero caduto dopo le nevicate dell'inverno: due tronchi sul sentiero da scavalcare. Nel complesso si passa, ma conviene portarsi un po' di pazienza."
+      },
+      {
+        "observedAt": "2024-06-05",
+        "words": "Gli alberi sono stati tolti dal volontariato del paese e ho trovato anche una nuova panchina vicino alla cima. Ottimo posto per una pausa con il panorama."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Con un'amica che aveva paura del vuoto: il percorso è tranquillo e il bordo non è mai esposto. Ha fatto tutta la salita e poi la discesa con una felicità contagiosa."
+      },
+      {
+        "observedAt": "2024-10-27",
+        "words": "L'ultimo tratto è stato livellato con ghiaia nuova e adesso è molto più facile da pedalare. Una stagione con meno sassi, bravi i volontari."
+      },
+      {
+        "observedAt": "2025-05-03",
+        "words": "Ho fatto il Baron al tramonto con una e-bike: una luce incredibile sulla pianura e le prime luci della città. Con la frontale la discesa è stata anche più divertente."
+      },
+      {
+        "observedAt": "2025-09-28",
+        "words": "Un cane lasciato libero da un escursionista mi ha seguito per mezzo chilometro, scodinzolando. Alla fine si è fermato quando il padrone lo ha chiamato."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Uscita breve di mezza giornata",
+          "quote": "Giro rapido del pomeriggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Escursionisti a piedi",
+          "quote": "Ci sono tanti escursionisti sul sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla pianura torinese",
+          "quote": "la pianura sembra immensa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto finale sassoso",
+          "quote": "Il tratto finale è smosso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla pianura torinese",
+          "quote": "si vedeva la pianura fino alle colline lontane"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Funghi e cercatori",
+          "quote": "un cercatore di funghi con un cesto vuoto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Uscita breve di mezza giornata",
+          "quote": "perfetta per tornare in forma"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Animali sul percorso",
+          "quote": "Un piccolo gregge di capre attraversa a metà salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatto a bambini allenati",
+          "quote": "Ho portato mia figlia di dieci anni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Escursionisti a piedi",
+          "quote": "pieno di coppie, famiglie, gruppi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia in cima",
+          "quote": "in cima non si vedeva nulla"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Alberi caduti dopo l'inverno",
+          "kind": "attenzione",
+          "quote": "due tronchi sul sentiero da scavalcare"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla pianura torinese",
+          "quote": "una nuova panchina vicino alla cima"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Panchina nuova vicino alla cima",
+          "kind": "novita",
+          "quote": "una nuova panchina vicino alla cima"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatto a bambini allenati",
+          "quote": "il percorso è tranquillo e il bordo non è mai esposto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ultimo tratto sistemato con ghiaia",
+          "kind": "novita",
+          "quote": "L'ultimo tratto è stato livellato con ghiaia nuova"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla pianura torinese",
+          "quote": "una luce incredibile sulla pianura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Animali sul percorso",
+          "quote": "Un cane lasciato libero da un escursionista"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

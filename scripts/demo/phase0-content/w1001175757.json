@@ -1,0 +1,55 @@
+{
+  "osm": "w1001175757",
+  "invented": ["avvicinamento", "vie", "note", "parcheggio_nota", "reports", "readings"],
+  "itinerary": {
+    "key": "falesia-delle-ciliegie",
+    "activity": "falesia",
+    "place": "comune-007023",
+    "name": "Falesia delle Ciliegie",
+    "lat": 45.60492,
+    "lon": 7.75572,
+    "aspect": "O",
+    "altMax": 627,
+    "facts": {
+      "esposizione": "O",
+      "quota_base": 627,
+      "avvicinamento": 10,
+      "localita_partenza": "Donnas",
+      "parcheggio_nota": "Libero lungo la strada, sempre posto."
+    },
+    "sections": {
+      "note": "Falesia di roccia scura e compatta, con qualche buco e prese tonde. Otto vie in due settori, dal 4+ al 6c, lunghe tra i 14 e i 22 metri.\n\nGuarda a ovest: il sole è sulla parete dal pomeriggio fino al tramonto. In primavera e in autunno è la falesia giusta; d'estate conviene evitarla nelle ore calde.\n\nLe vie alte hanno un po' di terra sulle prese: si pulisce con una spazzola. Attenzione al sentiero, ci sono pietre che si muovono.",
+      "avvicinamento": "Dieci minuti a piedi dal parcheggio, sentiero stretto nel bosco di castagni."
+    },
+    "parts": [
+      { "group": "Settore del ciliegio", "fields": { "nome": "Frutto acerbo", "grado": "4+", "lunghezza": 14 } },
+      { "group": "Settore del ciliegio", "fields": { "nome": "Il ciliegio", "grado": "5a", "lunghezza": 16 } },
+      { "group": "Settore del ciliegio", "fields": { "nome": "Rosso maturo", "grado": "5b", "lunghezza": 18 } },
+      { "group": "Settore del ciliegio", "fields": { "nome": "Picciolo", "grado": "5c", "lunghezza": 18 } },
+      { "group": "Settore del ciliegio", "fields": { "nome": "Noccioli", "grado": "6a", "lunghezza": 20 } },
+      { "group": "Settore alto", "fields": { "nome": "Ultima ciliegia", "grado": "6a+", "lunghezza": 18 } },
+      { "group": "Settore alto", "fields": { "nome": "Gambo lungo", "grado": "6b", "lunghezza": 20 } },
+      { "group": "Settore alto", "fields": { "nome": "Buccia dura", "grado": "6c", "lunghezza": 22 } }
+    ],
+    "reports": [
+      { "observedAt": "2023-04-08", "words": "Caldo già a marzo, la falesia guarda ovest quindi nel pomeriggio è al sole. Abbiamo arrampicato fino alle sei. Sassi sul sentiero, attenti ai bambini che salgono." },
+      { "observedAt": "2025-10-19", "words": "Ottobre bellissimo, poca gente e il parcheggio libero. Le vie alte sono un po' sporche di terra, ma con la spazzola si pulisce tutto. Un nido di calabroni sotto la quarta sosta, meglio tenersi lontani." }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        { "label": "Sole del pomeriggio", "quote": "nel pomeriggio è al sole" },
+        { "label": "Sentiero con sassi", "quote": "Sassi sul sentiero" }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        { "label": "Calabroni in parete", "quote": "Un nido di calabroni" },
+        { "label": "Parcheggio libero", "quote": "il parcheggio libero" }
+      ],
+      "flags": []
+    }
+  ]
+}

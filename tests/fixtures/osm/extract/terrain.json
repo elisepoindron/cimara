@@ -1,0 +1,5 @@
+{"asked":"(fixture)","terrain":{
+ "w1":{"ele":1189,"slope":49,"facing":225},"n6":{"ele":800,"slope":5,"facing":90},"n8":{"ele":700,"slope":40,"facing":180},
+ "r30":{"ele":400},"r31":{"ele":410},"w40":{"ele":460},"w41":{"ele":470},"r50":{"ele":1500},
+ "n9":{"ele":1210,"slope":60,"facing":90},"n10":{"ele":1220,"slope":55,"facing":180},"n11":{"ele":900,"slope":10,"facing":0},"n12":{"ele":910,"slope":8,"facing":0},"r13":{"ele":905,"slope":9,"facing":0},"w14":{"ele":950,"slope":12,"facing":0},"n15":{"ele":951,"slope":12,"facing":0},"n16":{"ele":400,"slope":5,"facing":0},"r17":{"ele":990,"slope":5,"facing":0},"n18":{"ele":991,"slope":5,"facing":0}
+}}

@@ -1,0 +1,814 @@
+{
+  "osm": "w670691556",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "pietra-alta",
+    "activity": "bouldering",
+    "place": "comune-001062",
+    "name": "Pietra Alta",
+    "lat": 45.11242,
+    "lon": 7.49545,
+    "facts": {},
+    "sections": {
+      "descrizione": "La Pietra Alta è un masso erratico: un blocco isolato di roccia metamorfica scura, compatta e ruvida, che il ghiacciaio della Valle di Susa ha lasciato sulle colline moreniche sopra Caselette quando si è ritirato. Sta da solo in un prato al margine del bosco e non somiglia a nessuna roccia intorno.\n\nÈ alto sei, sette metri sul lato nord e sullo spigolo, meno sul lato sud. I passaggi stanno su tutte le facce: a sud una placca appoggiata e la Traversata, dal 4 al 6a, il posto per scaldarsi e per chi comincia; a ovest il Tetto, partenza seduta sotto lo strapiombo, intorno al 7a; lo Spigolo tra ovest e nord, alto, sul 6b; a nord muri verticali su tacche piccole dal 6b al 7b, con uscite alte.\n\nGli atterraggi sono prato e terra, in leggera pendenza sotto lo Spigolo. Per il lato sud bastano due crash pad; per il nord e lo Spigolo ne servono tre o quattro, e qualcuno che pari.\n\nSi scala da ottobre ad aprile: col freddo secco l'aderenza è ottima, d'estate la roccia è troppo calda. Il lato nord resta bagnato a lungo dopo la pioggia, per una colatura che scende dalla cima. Il masso è un bene da rispettare: niente resina, niente prese scavate, e la magnesite si spazzola prima di andare via.",
+      "avvicinamento": "Dal paese si sale verso la collina e si lascia l'auto a bordo strada, senza bloccare gli accessi. Un sentiero breve nel bosco porta in cinque minuti al prato dove sta il masso."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-03-05",
+        "words": "Prima volta alla Pietra Alta. Dal parcheggio sono cinque minuti di sentiero, il masso lo vedi già dalla strada. Fatti i passaggi facili della Placca sul lato sud, roccia ruvida e bella. Due crash pad bastano per il lato basso."
+      },
+      {
+        "observedAt": "2022-03-16",
+        "words": "Uscita dopo il lavoro, alle sei eravamo già in dieci sotto il masso. Tutta gente di Torino, ci si conosce un po' tutti. Luce fino alle sette passate, poi frontale."
+      },
+      {
+        "observedAt": "2022-03-27",
+        "words": "Domenica di sole, aderenza ancora buona la mattina ma dopo mezzogiorno la placca diventa una saponetta. Il Tetto sul lato ovest l'ho solo toccato, partenza bassissima e atterraggio pieno di sassi."
+      },
+      {
+        "observedAt": "2022-04-09",
+        "words": "Bella giornata ma il lato nord era ancora bagnato, c'è una colatura che scende dall'alto dopo ogni pioggia. Ci siamo spostati sul sud."
+      },
+      {
+        "observedAt": "2022-04-21",
+        "words": "Giorno di ferie, masso tutto per noi fino alle cinque. Poi è arrivata la solita banda del dopo lavoro. Spazzolate le prese della Traversata, erano bianche di magnesite vecchia."
+      },
+      {
+        "observedAt": "2022-05-14",
+        "words": "Già caldo a metà maggio, alle undici la roccia era tiepida e si scivolava. Zanzare a nugoli nel bosco sotto. Fatto lo stesso un giro sullo Spigolo."
+      },
+      {
+        "observedAt": "2022-06-11",
+        "words": "Non venite a giugno. Trenta gradi alle nove, mani che sudano dopo due tentativi. Abbiamo chiuso in un'ora."
+      },
+      {
+        "observedAt": "2022-09-25",
+        "words": "Riapertura della stagione per me. Ancora un po' caldo ma la sera con la brezza si tiene. La Placca sud è sempre un bel riscaldamento."
+      },
+      {
+        "observedAt": "2022-10-15",
+        "words": "Mi sono fatto spiegare da un signore del paese la storia del masso: l'ha portato giù il ghiacciaio della valle, migliaia di anni fa, e se lo guardi bene non c'entra niente con la roccia della collina intorno. Fa un certo effetto scalarci sopra."
+      },
+      {
+        "observedAt": "2022-11-06",
+        "words": "Attenzione: sulla Traversata del lato sud si è rotta la tacca grossa a metà, quella dove tutti mettevano tutte e due le mani. Adesso il passaggio è più duro di un grado almeno. Il pezzo era ancora a terra sull'atterraggio."
+      },
+      {
+        "observedAt": "2022-11-23",
+        "words": "Dopo il lavoro, freddo secco e la placca che finalmente attacca. Senza la tacca la Traversata è un altro mondo, ci ho lasciato la pelle di due dita."
+      },
+      {
+        "observedAt": "2022-12-10",
+        "words": "Cinque gradi, cielo pulito, aderenza perfetta. Siamo saliti in tre con quattro crash pad e ci voleva tutto: sull'uscita dello Spigolo sei a sei metri e non ti viene voglia di cadere."
+      },
+      {
+        "observedAt": "2023-01-08",
+        "words": "Gelo al mattino, il lato nord aveva ancora la brina alle undici. Al sole sul lato sud si stava bene. Pochissima gente, forse per il freddo."
+      },
+      {
+        "observedAt": "2023-01-19",
+        "words": "Serata dopo il lavoro, eravamo in sei. Tacche fredde, piedi che tengono su tutto. Torno a casa con le dita a pezzi ma contento."
+      },
+      {
+        "observedAt": "2023-02-04",
+        "words": "Sabato pieno di gente, una dozzina di pad intorno al masso e la coda sotto il Tetto. Il masso è piccolo, quando si è così in tanti si gira in tondo."
+      },
+      {
+        "observedAt": "2023-02-15",
+        "words": "Mercoledì pomeriggio, aderenza da sogno. Ho chiuso finalmente il Tetto: partenza seduta, due movimenti di forza e poi l'uscita sulla placca che non finisce mai. Un bel 7a, almeno per me."
+      },
+      {
+        "observedAt": "2023-03-04",
+        "words": "Qualcuno ha spazzolato tutte le prese del lato sud, si vede la differenza. Per favore portatevi lo spazzolino e togliete i segni di magnesite prima di andare via."
+      },
+      {
+        "observedAt": "2023-04-02",
+        "words": "Sotto il Tetto hanno ripulito l'atterraggio: tolte le radici e i sassi, livellato il terreno con la terra. Adesso con due pad si cade tranquilli."
+      },
+      {
+        "observedAt": "2023-04-22",
+        "words": "Pioggia nella notte, lato nord fradicio con la solita striscia nera. Sul sud invece asciutto già alle dieci."
+      },
+      {
+        "observedAt": "2023-05-17",
+        "words": "Ultima uscita prima dell'estate. Dopo il lavoro c'era meno gente del solito, forse perché fa già caldo. Roccia unta, ho fatto solo i facili."
+      },
+      {
+        "observedAt": "2023-07-09",
+        "words": "Passato di qui a luglio per curiosità: un forno, e nessuno in giro. Il masso è bello anche solo da vedere, enorme in mezzo al prato."
+      },
+      {
+        "observedAt": "2023-10-07",
+        "words": "Novità sul lato nord: qualcuno ha aperto un passaggio nuovo a sinistra della colatura, un muro verticale su tacche piccole che esce dritto in cima. Sembra un 6c alto e serio, servono almeno tre pad."
+      },
+      {
+        "observedAt": "2023-10-26",
+        "words": "Dopo il lavoro: venti persone, cani, bambini, musica. Il masso del dopo ufficio è questo, non c'è niente da fare. Ci si diverte lo stesso."
+      },
+      {
+        "observedAt": "2023-11-12",
+        "words": "Primo freddo vero, aderenza tornata. Provato il passaggio nuovo sul nord: le tacche ci sono, ma l'uscita a sei metri mette paura."
+      },
+      {
+        "observedAt": "2023-11-25",
+        "words": "C'è chi pensa che il masso sia stato portato qui da qualcuno. Invece è un erratico, l'ha lasciato il ghiacciaio quando si è ritirato. Dalla cima si vede bene il Musinè, vale la pena salirci anche dal lato facile."
+      },
+      {
+        "observedAt": "2023-12-09",
+        "words": "Freddo pungente e vento, ma la roccia era perfetta. Spazzolino sempre in tasca: il lato sud era di nuovo pieno di magnesite e di segni di tick."
+      },
+      {
+        "observedAt": "2024-01-14",
+        "words": "Giornata grigia, umidità alta, il nord colava. Il sud teneva solo nella prima ora. Poca soddisfazione."
+      },
+      {
+        "observedAt": "2024-02-03",
+        "words": "Sabato di sole e di folla, macchine lungo tutta la strada. Gente da tutta la cintura di Torino. Però l'aria era secca e si attaccava bene."
+      },
+      {
+        "observedAt": "2024-02-20",
+        "words": "Martedì sera, poca gente. Ho lavorato la Traversata senza la tacca rotta, ormai il passaggio è questo: si passa con un incrocio basso."
+      },
+      {
+        "observedAt": "2024-03-09",
+        "words": "Il comune ha messo un cartello alla base: il masso è un bene tutelato, vietato scavare prese, usare resina e lasciare rifiuti. Mi sembra giusto, l'erratico è qui da molto prima di noi."
+      },
+      {
+        "observedAt": "2024-03-24",
+        "words": "Bella giornata ma tanta polvere sulle prese, nessuno spazzola mai le uscite. Ci siamo portati la spazzola lunga e abbiamo pulito tutto lo Spigolo."
+      },
+      {
+        "observedAt": "2024-04-13",
+        "words": "Primi caldi, la mattina presto si scala ancora bene. Atterraggio dello Spigolo in pendenza: un pad messo male e rotoli giù verso il prato."
+      },
+      {
+        "observedAt": "2024-05-01",
+        "words": "Primo maggio, mezzo prato occupato da una famiglia col pic-nic. Tanta gente e già caldo, abbiamo fatto due giri e via."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Settembre ancora tiepido ma la sera si scala. Il bosco sotto è pieno di buche dei cinghiali, attenti alle caviglie col pad in spalla."
+      },
+      {
+        "observedAt": "2024-10-17",
+        "words": "Giovedì dopo il lavoro, già in quindici alle sei. La coda sul passaggio nuovo del nord è ormai la regola."
+      },
+      {
+        "observedAt": "2024-11-10",
+        "words": "Qualcuno ha scavato una tacca sul lato sud, a destra della Placca: si vede il segno fresco dello scalpello. Proprio sotto il cartello. Brutto."
+      },
+      {
+        "observedAt": "2024-11-30",
+        "words": "Freddo e secco, aderenza da manuale. Ho rivisto la tacca scavata: qualcuno ha provato a riempirla, ma il segno resta."
+      },
+      {
+        "observedAt": "2024-12-14",
+        "words": "Mi ha sempre colpito che questo masso non somigli a niente qui intorno. Roccia scura, dura, arrivata dall'alta valle col ghiacciaio. Ci si scala sopra come su un pezzo di montagna caduto in pianura."
+      },
+      {
+        "observedAt": "2025-01-11",
+        "words": "Col vento dei giorni scorsi è caduto un pino proprio sull'atterraggio del Tetto. Il tronco occupa metà del prato, il Tetto per ora non si fa."
+      },
+      {
+        "observedAt": "2025-01-22",
+        "words": "Serata fredda, una decina di persone nonostante tutto. Il pino è ancora lì, ci si siede sopra a guardare chi prova."
+      },
+      {
+        "observedAt": "2025-02-15",
+        "words": "Il pino è stato tagliato e portato via, l'atterraggio del Tetto è di nuovo libero. Grazie a chi l'ha fatto. Aderenza ottima, giornata di sole e niente vento."
+      },
+      {
+        "observedAt": "2025-03-08",
+        "words": "Uscite alte come sempre: sul nord se sbagli l'ultimo movimento voli da sei metri. Eravamo in quattro con cinque pad, e servivano tutti."
+      },
+      {
+        "observedAt": "2025-03-27",
+        "words": "Dopo il temporale di ieri il nord era ancora bagnato, quella colatura non perdona. Spazzolato e asciugato quel che si poteva, poi tutti sul sud."
+      },
+      {
+        "observedAt": "2025-04-19",
+        "words": "Caldo già ad aprile quest'anno. Tre tentativi e poi le mani scivolavano. Per fortuna dal parcheggio è un attimo, siamo tornati la sera."
+      },
+      {
+        "observedAt": "2025-10-04",
+        "words": "Inizio stagione. Sotto il lato sud qualcuno aveva lasciato un mucchio di nastro e cartine, raccolto tutto. Rispettiamo il posto, c'è perfino il cartello."
+      },
+      {
+        "observedAt": "2025-10-29",
+        "words": "Uscita dopo il lavoro con un amico che non era mai venuto. Parcheggi, due passi e sei sotto il masso: lui non ci credeva."
+      },
+      {
+        "observedAt": "2025-11-16",
+        "words": "Domenica fredda e limpida, dalla cima si vede tutta la valle. Folla sotto ma ci si alterna senza problemi."
+      },
+      {
+        "observedAt": "2025-12-06",
+        "words": "Il passaggio nuovo del nord ha preso il nome di Ghiacciaio, scritto sul quadernetto che qualcuno ha lasciato in una scatola sotto il cartello. Bella idea, ci sono già tante firme."
+      },
+      {
+        "observedAt": "2026-01-10",
+        "words": "Gennaio perfetto: zero gradi al mattino, sole a mezzogiorno, tacche che sembrano incollate. Il masso era pieno di magnesite, spazzolato prima di andare via."
+      },
+      {
+        "observedAt": "2026-02-07",
+        "words": "Brutta sorpresa: scritte di vernice spray sul lato ovest, accanto al Tetto. Segnalato al comune."
+      },
+      {
+        "observedAt": "2026-02-24",
+        "words": "Martedì sera, freddo umido. Il lato nord colava ancora, siamo rimasti sul sud. Le scritte sono ancora lì."
+      },
+      {
+        "observedAt": "2026-04-11",
+        "words": "Le scritte sul lato ovest sono state tolte, la roccia è di nuovo pulita. Ultime sessioni prima del caldo."
+      },
+      {
+        "observedAt": "2026-10-22",
+        "words": "Di nuovo stagione. Dopo il lavoro eravamo già in dodici, la solita compagnia di Torino. Atterraggi in ordine, prese pulite."
+      },
+      {
+        "observedAt": "2026-11-08",
+        "words": "Prima vera giornata fredda. Ho portato mio figlio, otto anni: la Placca sud l'ha salita da solo con tre pad sotto. Adesso vuole tornare ogni domenica."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Dal parcheggio sono cinque minuti di sentiero"
+        },
+        {
+          "label": "Atterraggi e crash pad",
+          "quote": "Due crash pad bastano per il lato basso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Molta gente da Torino",
+          "quote": "alle sei eravamo già in dieci sotto il masso"
+        },
+        {
+          "label": "Frontale per la sera",
+          "quote": "Luce fino alle sette passate, poi frontale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aderenza col freddo",
+          "quote": "aderenza ancora buona la mattina"
+        },
+        {
+          "label": "Atterraggi e crash pad",
+          "quote": "atterraggio pieno di sassi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lato nord umido",
+          "quote": "il lato nord era ancora bagnato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Molta gente da Torino",
+          "quote": "la solita banda del dopo lavoro"
+        },
+        {
+          "label": "Magnesite da spazzolare",
+          "quote": "erano bianche di magnesite vecchia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "alle undici la roccia era tiepida e si scivolava"
+        },
+        {
+          "label": "Zanzare nel bosco",
+          "quote": "Zanzare a nugoli nel bosco sotto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "Trenta gradi alle nove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Masso erratico",
+          "quote": "l'ha portato giù il ghiacciaio della valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tacca rotta sulla Traversata",
+          "kind": "attenzione",
+          "quote": "sulla Traversata del lato sud si è rotta la tacca grossa a metà"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Aderenza col freddo",
+          "quote": "freddo secco e la placca che finalmente attacca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aderenza col freddo",
+          "quote": "Cinque gradi, cielo pulito, aderenza perfetta"
+        },
+        {
+          "label": "Atterraggi e crash pad",
+          "quote": "con quattro crash pad e ci voleva tutto"
+        },
+        {
+          "label": "Uscite alte",
+          "quote": "sull'uscita dello Spigolo sei a sei metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lato nord umido",
+          "quote": "il lato nord aveva ancora la brina alle undici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aderenza col freddo",
+          "quote": "piedi che tengono su tutto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Molta gente da Torino",
+          "quote": "una dozzina di pad intorno al masso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aderenza col freddo",
+          "quote": "aderenza da sogno"
+        },
+        {
+          "label": "Uscite alte",
+          "quote": "l'uscita sulla placca che non finisce mai"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Magnesite da spazzolare",
+          "quote": "togliete i segni di magnesite prima di andare via"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Atterraggi e crash pad",
+          "quote": "Adesso con due pad si cade tranquilli"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Atterraggio del Tetto ripulito",
+          "kind": "novita",
+          "quote": "Sotto il Tetto hanno ripulito l'atterraggio: tolte le radici e i sassi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Lato nord umido",
+          "quote": "lato nord fradicio con la solita striscia nera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "Roccia unta, ho fatto solo i facili"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "un forno, e nessuno in giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Uscite alte",
+          "quote": "esce dritto in cima"
+        },
+        {
+          "label": "Atterraggi e crash pad",
+          "quote": "servono almeno tre pad"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Passaggio nuovo sul lato nord",
+          "kind": "novita",
+          "quote": "qualcuno ha aperto un passaggio nuovo a sinistra della colatura"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Molta gente da Torino",
+          "quote": "venti persone, cani, bambini, musica"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aderenza col freddo",
+          "quote": "Primo freddo vero, aderenza tornata"
+        },
+        {
+          "label": "Uscite alte",
+          "quote": "l'uscita a sei metri mette paura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Masso erratico",
+          "quote": "è un erratico, l'ha lasciato il ghiacciaio quando si è ritirato"
+        },
+        {
+          "label": "Vista sul Musinè",
+          "quote": "Dalla cima si vede bene il Musinè"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aderenza col freddo",
+          "quote": "la roccia era perfetta"
+        },
+        {
+          "label": "Magnesite da spazzolare",
+          "quote": "il lato sud era di nuovo pieno di magnesite"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lato nord umido",
+          "quote": "il nord colava"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Molta gente da Torino",
+          "quote": "Gente da tutta la cintura di Torino"
+        },
+        {
+          "label": "Aderenza col freddo",
+          "quote": "l'aria era secca e si attaccava bene"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Masso erratico",
+          "quote": "l'erratico è qui da molto prima di noi"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cartello sul rispetto del masso",
+          "kind": "novita",
+          "quote": "Il comune ha messo un cartello alla base"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Magnesite da spazzolare",
+          "quote": "nessuno spazzola mai le uscite"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Atterraggi e crash pad",
+          "quote": "Atterraggio dello Spigolo in pendenza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Molta gente da Torino",
+          "quote": "Tanta gente"
+        },
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "già caldo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cinghiali nel bosco",
+          "quote": "pieno di buche dei cinghiali"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Molta gente da Torino",
+          "quote": "già in quindici alle sei"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tacca scavata sul lato sud",
+          "kind": "attenzione",
+          "quote": "Qualcuno ha scavato una tacca sul lato sud"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Aderenza col freddo",
+          "quote": "Freddo e secco, aderenza da manuale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Masso erratico",
+          "quote": "arrivata dall'alta valle col ghiacciaio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Pino caduto sotto il Tetto",
+          "kind": "attenzione",
+          "quote": "è caduto un pino proprio sull'atterraggio del Tetto"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Molta gente da Torino",
+          "quote": "una decina di persone nonostante tutto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aderenza col freddo",
+          "quote": "Aderenza ottima"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Pino rimosso, Tetto libero",
+          "kind": "novita",
+          "quote": "Il pino è stato tagliato e portato via"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Uscite alte",
+          "quote": "se sbagli l'ultimo movimento voli da sei metri"
+        },
+        {
+          "label": "Atterraggi e crash pad",
+          "quote": "Eravamo in quattro con cinque pad"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lato nord umido",
+          "quote": "il nord era ancora bagnato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "Caldo già ad aprile"
+        },
+        {
+          "label": "Avvicinamento breve",
+          "quote": "dal parcheggio è un attimo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Parcheggi, due passi e sei sotto il masso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Molta gente da Torino",
+          "quote": "Folla sotto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Quaderno dei passaggi alla base",
+          "kind": "novita",
+          "quote": "scritto sul quadernetto che qualcuno ha lasciato in una scatola sotto il cartello"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Aderenza col freddo",
+          "quote": "tacche che sembrano incollate"
+        },
+        {
+          "label": "Magnesite da spazzolare",
+          "quote": "Il masso era pieno di magnesite"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Scritte di vernice sul lato ovest",
+          "kind": "attenzione",
+          "quote": "scritte di vernice spray sul lato ovest"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Lato nord umido",
+          "quote": "Il lato nord colava ancora"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Scritte rimosse dal lato ovest",
+          "kind": "novita",
+          "quote": "Le scritte sul lato ovest sono state tolte"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Molta gente da Torino",
+          "quote": "eravamo già in dodici, la solita compagnia di Torino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Atterraggi e crash pad",
+          "quote": "con tre pad sotto"
+        },
+        {
+          "label": "Bambini sui facili",
+          "quote": "la Placca sud l'ha salita da solo"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "osm": "n893388008",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "parcheggio_nota",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "palestra-di-roccia",
+    "activity": "falesia",
+    "place": "comune-007028",
+    "name": "Palestra di Roccia",
+    "lat": 45.65346,
+    "lon": 7.85367,
+    "aspect": "E",
+    "altMax": 1091,
+    "facts": {
+      "esposizione": "E",
+      "quota_base": 1091,
+      "avvicinamento": 5,
+      "localita_partenza": "Fontainemore",
+      "parcheggio_nota": "Pochi posti accanto alla strada; chi arriva in gruppo lascia le auto un tornante più in basso."
+    },
+    "sections": {
+      "note": "Piccola palestra di roccia a 1100 metri, esposta a est, a pochi passi dalla strada. La roccia è uno gneiss scuro e abbastanza compatto, con venature di quarzo, spesso coperto di muschio dopo le piogge. Le vie sono corte, fra i 10 e i 25 metri, dal 4a al 6c, a fix e resinati.\n\nÈ una falesia da mattina: il sole arriva presto e se ne va verso mezzogiorno, poi la parete resta in ombra. Per questo è piacevole in primavera, nelle mezze stagioni e nelle giornate più calde dell'estate, mentre d'inverno la roccia si scalda poco.\n\nIl posto è adatto ai principianti e a chi cerca un'uscita breve: la base è comoda, ci si può sedere sull'erba, e con una corda da 50 metri si fa tutto. Le vie più dure stanno a sinistra dove la parete strapiomba leggermente.",
+      "avvicinamento": "Dal parcheggio sulla strada un sentierino di pochi minuti, ben visibile e segnato con vernice, attraversa un prato e porta alla base della parete. Non c'è bisogno di altro che di scarpe comode."
+    },
+    "parts": [
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Il Brontolone",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Quarzo Rosa",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Venatura",
+          "grado": "6a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "La Strizza",
+          "grado": "6b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Bocca Aperta",
+          "grado": "6b+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Tegola",
+          "grado": "6c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Sottosopra",
+          "grado": "6c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Primo Giro",
+          "grado": "3",
+          "lunghezza": 10
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Mattina Presto",
+          "grado": "4a",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Muschio Verde",
+          "grado": "4b",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Il Gatto Nero",
+          "grado": "4c",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Piano Piano",
+          "grado": "5a",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Zucchero",
+          "grado": "5a+",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Colazione al Sole",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Vecchio Metodo",
+          "grado": "5b+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Il Cuoco",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Gradino",
+          "grado": "4a",
+          "lunghezza": 10
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Piedi Buoni",
+          "grado": "4b",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Via dei Bimbi",
+          "grado": "4c",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Scarponcino",
+          "grado": "5a",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Il Muro Giallo",
+          "grado": "5b",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Lucertola Verde",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "La Disperata",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "grado": "6a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Ultimo Sole",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-04-09",
+        "words": "Sabato di aprile, prima uscita con i bambini. La parete è a due passi dalla strada e dal prato si può guardare tutto: perfetta per iniziare. La roccia era umida nei primi metri ma poi buona."
+      },
+      {
+        "observedAt": "2022-05-14",
+        "words": "Sole fino a mezzogiorno e poi ombra, come promesso. Abbiamo fatto tutte le vie del Centro, la Colazione al Sole è la più bella. Un po' di muschio sulle prese più basse."
+      },
+      {
+        "observedAt": "2022-06-22",
+        "words": "Mercoledì, giornata di caldo in valle. In falesia stavamo bene, l'ombra dopo mezzogiorno è una benedizione. Nessun altro in giro, abbiamo avuto tutta la palestra."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Giornata limpida di settembre. Vie a fix in buone condizioni, soste con catene. Il 6b La Strizza richiede una buona lettura dei piedi: ho sbagliato due volte prima di capire il passo chiave."
+      },
+      {
+        "observedAt": "2022-10-15",
+        "words": "Primo freddo dell'anno. La parete ha preso il sole fino alle undici e poi si è spenta: dopo, brividi. Meglio vestirsi a strati. Il parcheggio è per quattro auto, non di più."
+      },
+      {
+        "observedAt": "2023-03-25",
+        "words": "Fine marzo, giornata d'inverno ma di sole. A destra la parete era bagnata dal disgelo e colava acqua. Siamo rimasti sulle vie del Centro, ancora fredde e un po' scivolose."
+      },
+      {
+        "observedAt": "2023-04-19",
+        "words": "Mercoledì di ferie, giornata splendida. Qualcuno ha pulito di recente la parete: il muschio sui primi metri non c'era quasi più. Piedi sicuri e belle prese per tutta la salita."
+      },
+      {
+        "observedAt": "2023-05-20",
+        "words": "Sabato con tutta la famiglia. C'era una scuola di arrampicata e un gruppo di ragazzi: la palestra era piena ma la gente è stata gentile. Per i più piccoli le vie del Centro sono ideali."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "Sole alle otto, già caldo, ma alle dodici siamo scesi con l'ombra. La valle sotto è un forno, qui invece tira un'aria buona. Una birra al bar giù in paese per chiudere."
+      },
+      {
+        "observedAt": "2023-08-31",
+        "words": "Giovedì di fine estate. Tra le vie di sinistra ho incontrato un vespaio sotto un tetto a metà parete: ho cambiato via senza discutere. Meglio guardare prima di infilarsi in ogni fessura."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Sabato di fine estate, bel tempo. Il 4b Muschio Verde è tenero, il 5c Il Cuoco mi ha fatto sudare per un tacco difficile. La via ha una sosta con catena nuova."
+      },
+      {
+        "observedAt": "2023-10-28",
+        "words": "Giornata frizzante di autunno. Sulla destra le prese erano ricoperte di foglie secche. Dopo mezzogiorno è in ombra e il vento rende il fresco quasi invernale."
+      },
+      {
+        "observedAt": "2024-04-27",
+        "words": "Primavera pazzerella: sole, poi nuvole, poi pioggia in venti minuti. Avevamo tutto il tempo di scappare perché la strada è a due passi. Abbiamo fatto due vie e ce ne siamo andati."
+      },
+      {
+        "observedAt": "2024-05-31",
+        "words": "Venerdì pomeriggio libero, giornata calda. Siamo arrivati alle tre e la parete era già tutta in ombra, un vantaggio per chi cerca fresco. Il muschio è tornato un po' ovunque dopo le piogge."
+      },
+      {
+        "observedAt": "2024-06-29",
+        "words": "Con una squadra di amici, scalato in coppia a rotazione. Il vespaio sulla sinistra è ancora lì, ho visto gli insetti uscire: meglio evitare le vie vicine. Il resto è godibile."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Domenica presto per approfittare del sole. Palestra deserta, aria fresca, roccia fredda. Il 6a Venatura è una bella via di tacche, sosta comoda."
+      },
+      {
+        "observedAt": "2024-10-12",
+        "words": "Giornata di caldo anomalo. Alle undici avevamo già finito per non patire sul sole del mattino; poi siamo rimasti in ombra a mangiare nel prato sotto la parete. Il posto invita."
+      },
+      {
+        "observedAt": "2025-05-10",
+        "words": "Qualcosa è cambiato: ci sono quattro vie nuove a destra, spittate bene, dal 4c al 6a. I fix sono lucidi e le soste hanno anelli per la calata. Bravi i chiodatori locali."
+      },
+      {
+        "observedAt": "2025-07-16",
+        "words": "Mercoledì d'estate. Ottima giornata di fresco in ombra. Ho provato le nuove vie di destra: per ora sono un po' sporche ma promettono bene. Parcheggio libero, ho potuto scegliere."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Sabato con vento forte da est: le catene tintinnavano e la corda faceva il pendolo. Strano, perché la parete è riparata, ma la zona dell'uscita era molto ventilata."
+      },
+      {
+        "observedAt": "2026-04-18",
+        "words": "Primavera nuova, dopo l'inverno. Muschio ovunque e roccia bagnata a destra. Il Centro è comunque asciutto da mezzogiorno. Sentierino ben tenuto, con vernice rinfrescata."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento brevissimo",
+          "quote": "a due passi dalla strada"
+        },
+        {
+          "label": "Adatta ai principianti",
+          "quote": "perfetta per iniziare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole solo al mattino",
+          "quote": "Sole fino a mezzogiorno e poi ombra"
+        },
+        {
+          "label": "Muschio sulla roccia",
+          "quote": "Un po' di muschio sulle prese più basse"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresca nelle giornate calde",
+          "quote": "l'ombra dopo mezzogiorno è una benedizione"
+        },
+        {
+          "label": "Poca gente in settimana",
+          "quote": "abbiamo avuto tutta la palestra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura ravvicinata",
+          "quote": "Vie a fix in buone condizioni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole solo al mattino",
+          "quote": "ha preso il sole fino alle undici"
+        },
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "Il parcheggio è per quattro auto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia umida dopo la pioggia",
+          "quote": "colava acqua"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Muschio sulla roccia",
+          "quote": "il muschio sui primi metri non c'era quasi più"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Parete ripulita dal muschio",
+          "kind": "novita",
+          "quote": "Qualcuno ha pulito di recente la parete"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "la palestra era piena"
+        },
+        {
+          "label": "Adatta ai principianti",
+          "quote": "Per i più piccoli le vie del Centro sono ideali"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresca nelle giornate calde",
+          "quote": "qui invece tira un'aria buona"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nido di vespe sulla sinistra",
+          "quote": "un vespaio sotto un tetto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole solo al mattino",
+          "quote": "Dopo mezzogiorno è in ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento brevissimo",
+          "quote": "la strada è a due passi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresca nelle giornate calde",
+          "quote": "la parete era già tutta in ombra"
+        },
+        {
+          "label": "Muschio sulla roccia",
+          "quote": "Il muschio è tornato un po' ovunque"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nido di vespe sulla sinistra",
+          "quote": "Il vespaio sulla sinistra è ancora lì"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole solo al mattino",
+          "quote": "Alle undici avevamo già finito"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Quattro vie nuove a destra",
+          "kind": "novita",
+          "quote": "ci sono quattro vie nuove a destra"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Parcheggio libero, ho potuto scegliere"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Muschio sulla roccia",
+          "quote": "Muschio ovunque"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

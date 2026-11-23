@@ -1,0 +1,334 @@
+{
+  "osm": "w1553223665",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "ferrata-di-camoglieres",
+    "activity": "via_ferrata",
+    "place": "comune-004112",
+    "name": "Ferrata di Camoglieres",
+    "lat": 44.50519,
+    "lon": 7.19799,
+    "altMax": 1154,
+    "facts": {},
+    "sections": {
+      "descrizione": "Una ferrata impegnativa in Val Maira, nel comune di Macra, il cui primo punto attrezzato è a circa 1150 metri. La quota bassa la rende percorribile in una stagione lunga, da aprile a novembre, ma il grado è difficile: pareti verticali e strapiombanti, spesso lisce, dove servono braccia allenate.\n\nIl tracciato alterna lunghi tratti di cavo su roccia ripida a passaggi che si fanno quasi in arrampicata, con staffe e pedali ben messi ma distanziati. Non è la ferrata per un esordio: conviene arrivarci con un po' di esperienza sulle vie di difficoltà media e con una buona preparazione fisica.\n\nSi porta il kit completo, due longe in buono stato, casco e guanti, e acqua a sufficienza: nelle giornate calde la roccia restituisce il calore.",
+      "avvicinamento": "Dal fondovalle si risale in macchina fino a un parcheggio vicino all'inizio del sentiero, poi si cammina per circa tre quarti d'ora, con una salita costante nel bosco, fino alla base della parete."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-04-23",
+        "words": "Prima uscita della stagione e subito una ferrata dura: non era l'idea migliore, le braccia non erano allenate. Sul tratto strapiombante ho dovuto fermarmi due volte. Ma la roccia era asciutta e il cavo in perfetto ordine."
+      },
+      {
+        "observedAt": "2022-06-04",
+        "words": "Sabato di inizio giugno, qualche nuvola e nessuna fila. Una ferrata che richiede fiato e polso, non c'è nulla di scontato. I pedali sono comodi dove servono e lo strapiombo centrale è un bel passaggio."
+      },
+      {
+        "observedAt": "2022-07-12",
+        "words": "Martedì mattina di luglio, partenza alle sette. Caldo già forte alle undici, la parete restituiva calore come un forno. In vetta ho bevuto quasi tre litri. Meglio salire all'alba o in primavera."
+      },
+      {
+        "observedAt": "2022-09-18",
+        "words": "Domenica di settembre con la luce giusta e l'aria asciutta. I passaggi lisci in placca sono tecnici e senza un buon piede si fatica. Il percorso è stato sistemato da poco e i cavi sono tesi."
+      },
+      {
+        "observedAt": "2022-10-29",
+        "words": "Fine ottobre, giornata fresca e tersa. Poca gente, forse perché la ferrata ha fama di essere dura. Ho trovato i colori dell'autunno nel bosco dell'avvicinamento, bellissimo."
+      },
+      {
+        "observedAt": "2023-04-08",
+        "words": "Un sabato di primavera con il sole timido. Al primo tratto strapiombante un compagno ha rinunciato: la ferrata richiede una buona condizione. Io ho fatto tutto, ma ne ho sentito le conseguenze per due giorni."
+      },
+      {
+        "observedAt": "2023-05-25",
+        "words": "Giovedì, giornata di ferie. Parete quasi deserta, in cima solo noi e il vento. L'avvicinamento nel bosco è piacevole e ombreggiato, con un buon odore di muschio e foglie bagnate."
+      },
+      {
+        "observedAt": "2023-07-29",
+        "words": "Troppo caldo per questa ferrata, sconsigliata nel pomeriggio. Il sole picchia sulla placca e il ferro scotta. Alla prossima proviamo a fare un'alba."
+      },
+      {
+        "observedAt": "2023-09-24",
+        "words": "Giornata splendida, abbiamo fatto la ferrata intera e un po' di scalata sul pezzo finale. Ho apprezzato i pedali nuovi nel tratto più duro: hanno sostituito quelli vecchi e si sente la differenza."
+      },
+      {
+        "observedAt": "2023-11-04",
+        "words": "Novembre, e la ferrata si fa ancora. Parete in ombra quasi tutto il giorno, mani intorpidite sul cavo. Strapiombo centrale faticoso con il freddo, ma panorama splendido sul fondovalle."
+      },
+      {
+        "observedAt": "2024-04-13",
+        "words": "Neve sul sentiero dell'avvicinamento a una certa quota, ma niente di serio. Sul tratto iniziale un cavo era leggermente allentato: l'abbiamo segnalato al ritorno. Ferrata solida per il resto."
+      },
+      {
+        "observedAt": "2024-05-14",
+        "words": "Martedì di maggio, bella ferrata per un giorno libero. Placche lisce al mattino con ancora un po' di umidità, ma non c'è stato nessun problema. La fatica si sente nel finale, nelle spalle."
+      },
+      {
+        "observedAt": "2024-06-29",
+        "words": "Giornata calda e un po' di coda al terzo strapiombo. Siamo stati dodici minuti appesi in attesa. Consiglio di arrivare presto e di tenere acqua e un po' di zucchero in tasca."
+      },
+      {
+        "observedAt": "2024-09-15",
+        "words": "Domenica serena, ma non ho dormito la notte prima. Il traverso in placca mi ha messo in difficoltà: il piede non teneva bene. Ho dovuto riposarmi più volte, ma la soddisfazione in cima è stata grande."
+      },
+      {
+        "observedAt": "2025-04-19",
+        "words": "Primo bel weekend primaverile. Su un tratto di sentiero c'era del fango e abbiamo scivolato un po'. Il cavo è in ordine e la ferrata asciutta. Qualche escursionista a mangiare sul prato in basso."
+      },
+      {
+        "observedAt": "2025-06-10",
+        "words": "Martedì, ferie. Salita in solitaria con la sveglia alle cinque. Il bosco in basso era silenzioso e pieno di uccelli. Il tratto strapiombante finale è duro, ma i pedali nuovi aiutano."
+      },
+      {
+        "observedAt": "2025-08-02",
+        "words": "Caldo asfissiante. Siamo partiti alle sei ma già alle nove la roccia scottava. La ferrata è dura per fisico e testa, con un caldo così quasi impossibile. Ritorno con tre litri vuoti."
+      },
+      {
+        "observedAt": "2025-10-05",
+        "words": "Giornata d'autunno nitida. Un masso caduto sul sentiero ha tolto un tratto di scalino: c'è un nuovo giro, segnalato con bolli. La parete sembra più pulita dopo le piogge di settembre."
+      },
+      {
+        "observedAt": "2026-05-02",
+        "words": "Sabato di maggio, bella giornata e alcune cordate già all'attacco. Il tratto strapiombante è sempre una bella sfida, e quello in placca mi è parso più liscio dell'ultima volta. Gran fatica ma sorrisi in cima."
+      },
+      {
+        "observedAt": "2026-10-21",
+        "words": "Mercoledì di ottobre, aria fresca e cielo limpido. Parete per noi due. I pedali nuovi sono comodi e il cavo è in ottime condizioni. Una giornata che ricorderemo, nonostante le spalle doloranti."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Impegno fisico",
+          "quote": "le braccia non erano allenate"
+        },
+        {
+          "label": "Tratti strapiombanti",
+          "quote": "Sul tratto strapiombante ho dovuto fermarmi due volte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Impegno fisico",
+          "quote": "richiede fiato e polso"
+        },
+        {
+          "label": "Tratti strapiombanti",
+          "quote": "lo strapiombo centrale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "la parete restituiva calore come un forno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche lisce",
+          "quote": "I passaggi lisci in placca sono tecnici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "Poca gente"
+        },
+        {
+          "label": "Avvicinamento nel bosco",
+          "quote": "nel bosco dell'avvicinamento"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Impegno fisico",
+          "quote": "richiede una buona condizione"
+        },
+        {
+          "label": "Tratti strapiombanti",
+          "quote": "primo tratto strapiombante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "Parete quasi deserta"
+        },
+        {
+          "label": "Avvicinamento nel bosco",
+          "quote": "L'avvicinamento nel bosco è piacevole e ombreggiato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Il sole picchia sulla placca e il ferro scotta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Impegno fisico",
+          "quote": "un po' di scalata sul pezzo finale"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Pedali nuovi nel tratto più duro",
+          "kind": "novita",
+          "quote": "hanno sostituito quelli vecchi e si sente la differenza"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratti strapiombanti",
+          "quote": "Strapiombo centrale faticoso con il freddo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cavo allentato nel tratto iniziale",
+          "kind": "attenzione",
+          "quote": "Sul tratto iniziale un cavo era leggermente allentato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche lisce",
+          "quote": "Placche lisce al mattino"
+        },
+        {
+          "label": "Impegno fisico",
+          "quote": "La fatica si sente nel finale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Giornata calda"
+        },
+        {
+          "label": "Tratti strapiombanti",
+          "quote": "coda al terzo strapiombo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche lisce",
+          "quote": "Il traverso in placca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento nel bosco",
+          "quote": "Su un tratto di sentiero c'era del fango"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento nel bosco",
+          "quote": "Il bosco in basso era silenzioso"
+        },
+        {
+          "label": "Tratti strapiombanti",
+          "quote": "Il tratto strapiombante finale è duro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "alle nove la roccia scottava"
+        },
+        {
+          "label": "Impegno fisico",
+          "quote": "La ferrata è dura per fisico e testa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Giro nuovo sul sentiero per un masso caduto",
+          "kind": "attenzione",
+          "quote": "Un masso caduto sul sentiero ha tolto un tratto di scalino: c'è un nuovo giro, segnalato con bolli."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratti strapiombanti",
+          "quote": "Il tratto strapiombante è sempre una bella sfida"
+        },
+        {
+          "label": "Placche lisce",
+          "quote": "quello in placca mi è parso più liscio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "Parete per noi due"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

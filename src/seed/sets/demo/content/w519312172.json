@@ -1,0 +1,251 @@
+{
+  "osm": "w519312172",
+  "invented": [
+    "difficolta",
+    "partenza",
+    "esposizione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "la-cialma",
+    "activity": "sci_alpinismo",
+    "place": "comune-001134",
+    "name": "La Cialma",
+    "lat": 45.40891,
+    "lon": 7.43129,
+    "aspect": "SE",
+    "facts": {
+      "difficolta": "MS",
+      "partenza": 1423,
+      "esposizione": "SE",
+      "localita_partenza": "Carello",
+      "come_arrivare": "Da Locana si sale verso il vallone fino alla borgata di Carello, dove si lascia l'auto dove la strada lo permette."
+    },
+    "sections": {
+      "descrizione": "Una gita facile e tranquilla sopra Locana, che parte dalla borgata di Carello e sale con regolarità verso La Cialma. Il tracciato segue per lungo tratto una vecchia mulattiera tra prati e boschi di larici, con poche difficoltà tecniche e una pendenza costante.\n\nPer la quota bassa di partenza serve un buon innevamento: dopo le nevicate abbondanti si sale con gli sci dal piazzale, in altri periodi bisogna camminare con gli sci in spalla nel primo tratto. Oltre il bosco i pendii si aprono e la salita finale è su dossi ampi, con bella vista sulle montagne attorno.\n\nLa discesa segue in gran parte la salita; nel bosco la neve tiene meno e in primavera si scende sulla mulattiera, a tratti pelata.",
+      "note": "Gita adatta anche a chi comincia, con le solite precauzioni: ARTVA, pala, sonda e bollettino. Meglio dopo una nevicata abbondante e in periodi freddi, perché la quota è bassa."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-03-06",
+        "words": "Primo giro con mia sorella che non aveva mai usato le pelli. Pendenza dolce e nessun passaggio delicato, ci è piaciuta."
+      },
+      {
+        "observedAt": "2022-03-20",
+        "words": "Partiti da Carello con la neve al piazzale. Nel bosco la neve era poca e in più punti si vedeva il fondo ma l'insieme era sciabile."
+      },
+      {
+        "observedAt": "2022-12-10",
+        "words": "Dopo la nevicata di inizio mese è la prima gita che ci è venuta in mente. Un giro da prima uscita della stagione, senza pensieri."
+      },
+      {
+        "observedAt": "2023-01-04",
+        "words": "Mercoledì di vacanza, sole pieno e nessuno. Il versante prende il sole quasi tutto il giorno, anche in gennaio si sta in maglietta."
+      },
+      {
+        "observedAt": "2023-02-12",
+        "words": "Salita lenta, pausa lunga nei prati sopra il bosco a mangiare. Dai dossi si vede tutta la valle e le cime in fondo, bellissimo."
+      },
+      {
+        "observedAt": "2023-03-05",
+        "words": "Tracce di una slavina vecchia sotto il bosco, ma ormai assestata. Abbiamo salito con calma, in discesa la neve nel bosco era già sottile e crostosa."
+      },
+      {
+        "observedAt": "2023-12-30",
+        "words": "Ultimo giro dell'anno. Pochi centimetri alla partenza, ci siamo portati gli sci in spalla per i primi cento metri. Con questa neve non si arriva giù sciando."
+      },
+      {
+        "observedAt": "2024-01-26",
+        "words": "Venerdì libero dal lavoro, siamo andati a vedere. Il cielo era di quelli duri e blu, il sole sui prati arrivava già alle nove. Gita senza fretta."
+      },
+      {
+        "observedAt": "2024-02-24",
+        "words": "Dopo una nevicata il bosco era una meraviglia. Una gita perfetta per portare chi vuole provare, nessuna difficoltà tecnica e fondo sempre facile da leggere."
+      },
+      {
+        "observedAt": "2024-03-12",
+        "words": "Martedì pomeriggio, siamo partiti tardi di proposito. Sulla mulattiera nel bosco c'è un larice caduto che sbarra metà del passaggio, si scavalca con gli sci in mano."
+      },
+      {
+        "observedAt": "2024-03-31",
+        "words": "A Pasqua con la famiglia: bambini di dieci e dodici anni, arrivati fino ai dossi. Con i ragazzi è andata benissimo, ritmo lento e tante soste."
+      },
+      {
+        "observedAt": "2025-01-19",
+        "words": "Neve polverosa nei prati alti, dura sotto. In cima un vento tagliente che ci ha fatto tornare giù presto. Non ho tolto le pelli per un attimo sul dosso, c'era una vista che valeva il freddo."
+      },
+      {
+        "observedAt": "2025-02-22",
+        "words": "Siamo saliti dal sentiero che qualcuno aveva aperto il giorno prima. Qualcuno ha messo dei segnali rossi sugli alberi della mulattiera, così il bosco si legge meglio."
+      },
+      {
+        "observedAt": "2025-03-08",
+        "words": "Tutto molle già alle undici. Abbiamo dovuto togliere gli sci a tratti nel bosco, sotto i 1700 metri la neve era finita. Meglio presto o il giorno dopo una nevicata."
+      },
+      {
+        "observedAt": "2025-12-21",
+        "words": "Fresca la sera prima, una decina di centimetri. Siamo saliti con pelli e con calma. Sulla vecchia mulattiera hanno pulito il pezzo franato sulla mulattiera e adesso si passa bene."
+      },
+      {
+        "observedAt": "2026-02-14",
+        "words": "San Valentino sugli sci, io e mio marito. Il sole ci ha accompagnato fino alle tre, una gita da ripetere."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Gita facile",
+          "quote": "Pendenza dolce e nessun passaggio delicato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve bassa nel bosco",
+          "quote": "Nel bosco la neve era poca e in più punti si vedeva il fondo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Prima uscita della stagione",
+          "quote": "Un giro da prima uscita della stagione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole sul versante",
+          "quote": "Il versante prende il sole quasi tutto il giorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pausa nei prati",
+          "quote": "pausa lunga nei prati sopra il bosco a mangiare"
+        },
+        {
+          "label": "Vista aperta",
+          "quote": "Dai dossi si vede tutta la valle e le cime in fondo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve bassa nel bosco",
+          "quote": "la neve nel bosco era già sottile e crostosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve bassa nel bosco",
+          "quote": "Con questa neve non si arriva giù sciando"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole sul versante",
+          "quote": "il sole sui prati arrivava già alle nove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gita facile",
+          "quote": "nessuna difficoltà tecnica e fondo sempre facile da leggere"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Albero caduto sulla mulattiera",
+          "kind": "attenzione",
+          "quote": "Sulla mulattiera nel bosco c'è un larice caduto che sbarra metà del passaggio"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Gita con i bambini",
+          "quote": "Con i ragazzi è andata benissimo, ritmo lento e tante soste"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista aperta",
+          "quote": "c'era una vista che valeva il freddo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnali nuovi sulla mulattiera",
+          "kind": "novita",
+          "quote": "Qualcuno ha messo dei segnali rossi sugli alberi della mulattiera"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve bassa nel bosco",
+          "quote": "sotto i 1700 metri la neve era finita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto riaperto dal comune",
+          "kind": "novita",
+          "quote": "hanno pulito il pezzo franato sulla mulattiera e adesso si passa bene"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole sul versante",
+          "quote": "Il sole ci ha accompagnato fino alle tre"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

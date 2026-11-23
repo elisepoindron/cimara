@@ -1,0 +1,41 @@
+# The public demo.
+#
+#   docker build -f Dockerfile.demo -t demo .
+#   docker run -p 3000:3000 -e PORT=3000 demo
+#
+# The database is built here, at image-build time, from what the repository
+# holds — the OpenStreetMap extract, the written content and the recorded
+# readings — rather than copied in from a file built elsewhere: a host that
+# builds from git needs nothing uploaded beside it, and what the image serves
+# is always what the commit says. The build reads nothing from the network and
+# needs no key, so it is the same build on every machine.
+#
+# Nothing here is the private deploy's: no volume, no seed at start, no
+# Cloudflare Access (CF_ACCESS_* unset turns the check off). The weather and
+# trail caches are written into the image's own database while it runs and
+# are lost on a restart, which is fine for a cache.
+FROM node:24-slim
+
+WORKDIR /app
+
+# The one runtime dependency, which the server imports at start.
+COPY package.json package-lock.json ./
+RUN npm ci --omit=dev && npm cache clean --force
+
+COPY . .
+
+ENV NODE_ENV=production \
+    SEED_SET=demo \
+    PUBLIC_DEMO=1 \
+    DATABASE_FILE=/app/build/demo.db \
+    UPLOADS_DIR=/app/build/demo-uploads \
+    SECURE_COOKIES=1
+
+# Fails the image build, naming every problem, when the content cannot be built.
+RUN node --disable-warning=ExperimentalWarning scripts/demo/build.ts
+
+# No seed: the database is complete. The server migrates (a no-op here) and
+# listens on PORT, which the host sets. SECURE_COOKIES assumes the host serves
+# HTTPS, as the free tiers do; over plain HTTP nothing is lost, since the demo
+# is read-only and nobody signs in.
+CMD ["node", "--disable-warning=ExperimentalWarning", "src/app/server.ts"]

@@ -1,0 +1,57 @@
+{
+  "osm": "n6695502538",
+  "invented": ["avvicinamento", "vie", "note", "parcheggio_nota", "reports", "readings"],
+  "itinerary": {
+    "key": "falesia-il-cuore",
+    "activity": "falesia",
+    "place": "comune-007033",
+    "name": "Falesia Il Cuore",
+    "lat": 45.77824,
+    "lon": 7.82031,
+    "aspect": "E",
+    "altMax": 1487,
+    "facts": {
+      "esposizione": "E",
+      "quota_base": 1487,
+      "avvicinamento": 10,
+      "localita_partenza": "Gressoney-Saint-Jean",
+      "parcheggio_nota": "Piccolo spiazzo sulla strada, pochi posti: meglio arrivare presto."
+    },
+    "sections": {
+      "note": "Roccia compatta, con buchi e tacche, e una placca più lavorata sulla destra. Vie corte, tra diciotto e ventotto metri, chiodate a fix.\n\nLa parete principale guarda a est: il sole del mattino la scalda presto, e verso mezzogiorno si entra all'ombra. D'estate conviene partire presto e lasciare le vie al pomeriggio.\n\nLe prime due vie della placca hanno chiodi poco sicuri: controllateli prima di salire, o passate oltre.\n\nPortare i rinvii, qualche fettuccia per le soste e una corda da 60.",
+      "avvicinamento": "Dieci minuti a piedi dal parcheggio su un sentiero comodo e ben segnato, poi si gira a sinistra al bordo del bosco."
+    },
+    "parts": [
+      { "group": "Parete", "fields": { "nome": "Primo battito", "grado": "4", "lunghezza": 18 } },
+      { "group": "Parete", "fields": { "nome": "Dolce attesa", "grado": "4+", "lunghezza": 20 } },
+      { "group": "Parete", "fields": { "nome": "Pulsazioni", "grado": "5a", "lunghezza": 22 } },
+      { "group": "Parete", "fields": { "nome": "Aorta", "grado": "6a", "lunghezza": 24 } },
+      { "group": "Parete", "fields": { "nome": "Valvola", "grado": "6a+", "lunghezza": 26 } },
+      { "group": "Parete", "fields": { "nome": "Cuore pesante", "grado": "6b", "lunghezza": 28 } },
+      { "group": "Placca", "fields": { "nome": "Vena cava", "grado": "5a", "lunghezza": 20 } },
+      { "group": "Placca", "fields": { "nome": "Ritmo lento", "grado": "4+", "lunghezza": 18 } },
+      { "group": "Placca", "fields": { "nome": "Aritmia", "grado": "5c", "lunghezza": 22 } },
+      { "group": "Placca", "fields": { "nome": "Battito di ciglia", "grado": "6a", "lunghezza": 24 } }
+    ],
+    "reports": [
+      { "observedAt": "2023-07-15", "words": "Giornata calda, il sole del mattino arriva forte sulla placca ma a mezzogiorno si entra all'ombra della parete e si sta bene. Tre vie in parete, la prima è corta ma bella. Dieci minuti dal parcheggio, sentiero comodo." },
+      { "observedAt": "2024-08-03", "words": "Ci siamo andati nel tardo pomeriggio con i bambini, meno gente del fine settimana. Chiodatura ravvicinata sulle vie della parete, si sta tranquilli anche sui 6a. Il parcheggio è piccolo, arrivate presto o lasciate la macchina giù alla statale." }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        { "label": "Sole del mattino", "quote": "il sole del mattino arriva forte sulla placca" },
+        { "label": "Avvicinamento breve", "quote": "Dieci minuti dal parcheggio" }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        { "label": "Chiodatura ravvicinata", "quote": "Chiodatura ravvicinata sulle vie della parete" },
+        { "label": "Poca gente", "quote": "meno gente del fine settimana" }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+ "osm": "w1474083452",
+ "invented": [
+  "avvicinamento",
+  "localita_partenza",
+  "parcheggio_nota",
+  "vie",
+  "description",
+  "reports"
+ ],
+ "itinerary": {
+  "key": "il-castello",
+  "activity": "falesia",
+  "place": "comune-004209",
+  "name": "Il Castello",
+  "lat": 44.66723,
+  "lon": 7.33452,
+  "aspect": "SE",
+  "altMax": 982,
+  "facts": {
+   "esposizione": "SE",
+   "quota_base": 982,
+   "avvicinamento": 10,
+   "localita_partenza": "Sanfront",
+   "parcheggio_nota": "Piazzale sotto il paese, ma nei giorni di festa si riempie in fretta e bisogna lasciare l'auto a distanza."
+  },
+  "sections": {
+   "note": "Il Castello è una falesia di gneiss sopra Sanfront, in Valle Po, a quasi 1000 metri. La parete è una serie di placche e spigoli che ricordano le mura di un castello, da cui il nome, e guarda a sud-est: il sole arriva presto la mattina e lascia la roccia verso le tre.\n\nLe vie sono moltissime, oltre cinquanta, dal 4a al 7a, con una netta prevalenza di gradi medi. Le più facili sono su placche appoggiate, le più dure su muri verticali con piccoli appigli. La chiodatura è generosa, con spit inox e soste a catena, e le lunghezze arrivano a trenta metri.\n\nIn questa scheda è descritta una selezione di trenta vie. La falesia ha anche un settore alto, più impegnativo, meno frequentato.",
+   "avvicinamento": "Dal parcheggio sotto il paese si prende il sentiero segnato che sale nel castagneto e poi nel bosco di roverella; dopo una decina di minuti si arriva alla base della parete."
+  },
+  "parts": [
+   {
+    "group": "Placche Basse",
+    "fields": {
+     "nome": "Il Fossato",
+     "grado": "4a",
+     "lunghezza": 18
+    }
+   },
+   {
+    "group": "Placche Basse",
+    "fields": {
+     "nome": "La Torretta",
+     "grado": "4b",
+     "lunghezza": 20
+    }
+   },
+   {
+    "group": "Placche Basse",
+    "fields": {
+     "nome": "Merlo Piccolo",
+     "grado": "4c",
+     "lunghezza": 20
+    }
+   },
+   {
+    "group": "Placche Basse",
+    "fields": {
+     "nome": "Ponte Levatoio",
+     "grado": "5a",
+     "lunghezza": 22
+    }
+   },
+   {
+    "group": "Placche Basse",
+    "fields": {
+     "nome": "Il Cavaliere",
+     "grado": "5a+",
+     "lunghezza": 22
+    }
+   },
+   {
+    "group": "Placche Basse",
+    "fields": {
+     "nome": "Scudo e Spada",
+     "grado": "5b",
+     "lunghezza": 24
+    }
+   },
+   {
+    "group": "Placche Basse",
+    "fields": {
+     "nome": "Il Sentinella",
+     "grado": "5b+",
+     "lunghezza": 24
+    }
+   },
+   {
+    "group": "Mura",
+    "fields": {
+     "nome": "La Cortina",
+     "grado": "5c",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Mura",
+    "fields": {
+     "nome": "Le Feritoie",
+     "grado": "5c+",
+     "lunghezza": 26
+    }
+   },
+   {
+    "group": "Mura",
+    "fields": {
+     "nome": "Il Bastione",
+     "grado": "6a",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Mura",
+    "fields": {
+     "nome": "Il Re Nudo",
+     "grado": "6a",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Mura",
+    "fields": {
+     "nome": "Cavallo Bianco",
+     "grado": "6a+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Mura",
+    "fields": {
+     "nome": "La Regina",
+     "grado": "6b",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Mura",
+    "fields": {
+     "nome": "Torre d'Avorio",
+     "grado": "6b",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Mura",
+    "fields": {
+     "nome": "Il Giullare",
+     "grado": "6b+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Mura",
+    "fields": {
+     "nome": "Dragoni e Draghi",
+     "grado": "6c",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Spigolo",
+    "fields": {
+     "nome": "Lo Spigolo del Mastino",
+     "grado": "6a",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Spigolo",
+    "fields": {
+     "nome": "Cuor di Leone",
+     "grado": "6b+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Spigolo",
+    "fields": {
+     "nome": "Il Tradimento",
+     "grado": "6c",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Spigolo",
+    "fields": {
+     "nome": "Cavalleria",
+     "grado": "6c+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Spigolo",
+    "fields": {
+     "nome": "L'Assedio",
+     "grado": "7a",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Torre Alta",
+    "fields": {
+     "nome": "Bandiera",
+     "grado": "5c",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Torre Alta",
+    "fields": {
+     "nome": "Merli e Pioggia",
+     "grado": "6a+",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Torre Alta",
+    "fields": {
+     "nome": "Cannone",
+     "grado": "6b",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Torre Alta",
+    "fields": {
+     "nome": "Il Tributo",
+     "grado": "6c",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Torre Alta",
+    "fields": {
+     "nome": "Ultima Torre",
+     "grado": "7a",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Torre Alta",
+    "fields": {
+     "nome": "Via del Cortile",
+     "grado": "5b",
+     "lunghezza": 22
+    }
+   }
+  ],
+  "reports": [
+   {
+    "observedAt": "2022-03-06",
+    "words": "Giornata di inizio primavera, tutte le placche in sole alle dieci. Il fondo del sentiero era fangoso ma la parete asciutta. Abbiamo fatto una via per ciascuno e pranzo sul prato in cima."
+   },
+   {
+    "observedAt": "2022-04-18",
+    "words": "Lunedì dell'Angelo ma gente quasi assente, solo due cordate. Le placche basse sono ideali per iniziare, vie chiare e gradi onesti."
+   },
+   {
+    "observedAt": "2022-05-28",
+    "words": "Troppe cordate per i miei gusti: alle undici c'erano venti persone sulla placca principale. Si aspetta, ma l'ambiente resta educato. Il castagneto dà ombra al ritorno."
+   },
+   {
+    "observedAt": "2022-07-09",
+    "words": "Con 32 gradi a fondovalle, quassù regge: ombra del bosco fino alle dieci. Ripetuto Il Giullare dopo anni, passo chiave ancora tosto."
+   },
+   {
+    "observedAt": "2022-09-18",
+    "words": "Nuova segnaletica sul sentiero: frecce bianche e rosse ai bivi, finalmente non si sbaglia più strada fra i castagni. Falesia asciutta, roccia ben pulita."
+   },
+   {
+    "observedAt": "2022-10-23",
+    "words": "Domenica d'autunno, riccio dei castagni che pungono. Tante famiglie, un cane sempre al guinzaglio. Con il gneiss ruvido si fa fatica a scivolare, ottima presa sulle scarpette."
+   },
+   {
+    "observedAt": "2023-02-21",
+    "words": "Martedì di febbraio, soli noi due. Il sole delle undici scalda bene la placca bassa, ma l'aria è fredda. Ripassate le vie facili con le dita rigide."
+   },
+   {
+    "observedAt": "2023-04-15",
+    "words": "Il settore Spigolo ha un nuovo spit all'altezza della seconda protezione: finalmente quel passo non fa più paura. Il resto della chiodatura è impeccabile."
+   },
+   {
+    "observedAt": "2023-05-20",
+    "words": "Giornata bellissima, ma al Castello c'è sempre la coda. Abbiamo cambiato settore per evitare l'attesa: Torre Alta è più isolata e il silenzio compensa la salita extra."
+   },
+   {
+    "observedAt": "2023-06-30",
+    "words": "Venerdì sera, giro dopo il lavoro. Ci siamo arrampicati fino alle otto con la luce dolce. Quasi nessuno, strano per questa falesia."
+   },
+   {
+    "observedAt": "2023-08-27",
+    "words": "Abbiamo incontrato un nido di calabroni sotto Il Re Nudo, ne abbiamo visti uscire tre. Meglio non avvicinarsi. Il resto della placca era libero."
+   },
+   {
+    "observedAt": "2023-10-14",
+    "words": "Fine ottobre, aria limpida e vista su tutta la valle dalla sosta alta. Il gneiss è asciutto, fresco al mattino, ideale per le vie dure."
+   },
+   {
+    "observedAt": "2024-03-24",
+    "words": "Dopo le piogge, la base di alcune vie era bagnata e c'era un getto d'acqua dal bordo. Rimandato alcune vie, ma le placche alte erano in condizioni perfette."
+   },
+   {
+    "observedAt": "2024-05-15",
+    "words": "Mercoledì di maggio, giornata libera. Quattro vie dal 5b al 6a+, nessuna delusione. Tutto il castello ci apparteneva, a parte un gruppo di scolari in gita."
+   },
+   {
+    "observedAt": "2024-08-04",
+    "words": "Sole alle sette, ombra alle quattro. Meglio andare presto: noi eravamo in parete alle otto e già c'erano i primi. Compresi gli insetti."
+   },
+   {
+    "observedAt": "2024-09-28",
+    "words": "Hanno ripulito la base del settore Mura da rovi e rami, ora c'è spazio per assicurare comodi. Dopo anni di lamentele, un piccolo miracolo."
+   },
+   {
+    "observedAt": "2025-01-12",
+    "words": "Domenica d'inverno con sole pieno. In parete solo tre cordate, noi compresi. Il sentiero era ghiacciato nel tratto iniziale: attenzione ai ramponcini se serve."
+   },
+   {
+    "observedAt": "2025-06-07",
+    "words": "Con i bambini abbiamo fatto base alla placca bassa, tre vie facili con corda dall'alto. Zero lamentele, un dolce di nonna a fine giornata."
+   },
+   {
+    "observedAt": "2025-10-26",
+    "words": "Giro d'autunno, ultima domenica prima dell'ora solare. Sentiero coperto di foglie, scivoloso, ma la parete era perfetta. Ho provato L'Assedio e non è passato."
+   }
+  ]
+ },
+ "readings": [
+  {
+   "themes": [
+    {
+     "label": "Sole al mattino",
+     "quote": "tutte le placche in sole alle dieci"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Adatta ai principianti",
+     "quote": "Le placche basse sono ideali per iniziare"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Affollata nel weekend",
+     "quote": "venti persone sulla placca principale"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Segnaletica nuova sul sentiero",
+     "kind": "novita",
+     "quote": "Nuova segnaletica sul sentiero"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Gneiss ruvido",
+     "quote": "il gneiss ruvido"
+    },
+    {
+     "label": "Affollata nel weekend",
+     "quote": "Tante famiglie"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole al mattino",
+     "quote": "Il sole delle undici scalda bene la placca bassa"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Chiodatura generosa",
+     "quote": "Il resto della chiodatura è impeccabile"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Spit aggiunto sullo Spigolo",
+     "kind": "novita",
+     "quote": "Il settore Spigolo ha un nuovo spit"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Affollata nel weekend",
+     "quote": "al Castello c'è sempre la coda"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "Quasi nessuno"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Gneiss ruvido",
+     "quote": "Il gneiss è asciutto"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "Tutto il castello ci apparteneva"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole al mattino",
+     "quote": "Sole alle sette"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Base del settore Mura ripulita",
+     "kind": "novita",
+     "quote": "Hanno ripulito la base del settore Mura da rovi e rami"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole al mattino",
+     "quote": "Domenica d'inverno con sole pieno"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Adatta ai principianti",
+     "quote": "tre vie facili con corda dall'alto"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  }
+ ]
+}

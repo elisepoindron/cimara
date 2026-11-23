@@ -1,0 +1,345 @@
+{
+  "osm": "w1551361670",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "ferrata-degli-alpini",
+    "activity": "via_ferrata",
+    "place": "comune-004001",
+    "name": "Ferrata degli Alpini",
+    "lat": 44.44024,
+    "lon": 6.93897,
+    "altMax": 2914,
+    "facts": {},
+    "sections": {
+      "descrizione": "Una ferrata d'alta quota nell'alta Val Maira, sopra Acceglio, il cui primo punto attrezzato si trova a circa 2900 metri. Il grado è moderato, ma l'ambiente è quello di una salita alpina: roccia a tratti rotta, cavi che restano freddi a lungo e un orizzonte che si apre su tutte le cime di confine.\n\nIl tracciato alterna tratti di cavo teso su placche appoggiate a passaggi più verticali con staffe, mai lunghi. Chi ha già fatto qualche ferrata di fondovalle la trova abbordabile, ma la quota e la lunghezza della giornata la rendono più seria di quanto dica il grado.\n\nSi fa da luglio a metà settembre. Prima, nei punti in ombra resta neve dura; dopo, il freddo e le giornate corte non lasciano margine. Servono kit da ferrata completo, casco, guanti e un guscio anche in agosto.",
+      "avvicinamento": "Dal fondovalle sopra Acceglio si sale per sentiero e tracce fino alle quote alte, in diverse ore: la giornata va pensata con partenza all'alba e ritorno prima del pomeriggio, quando i temporali sono più probabili."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Partiti alle cinque dal fondovalle, e non è un'esagerazione: l'avvicinamento è lungo e a metà mattina il sole picchia sulla pietraia. La ferrata non è difficile, ma a questa quota si sente ogni metro. In alto un panorama enorme, fino alla pianura."
+      },
+      {
+        "observedAt": "2022-08-02",
+        "words": "Giorno di ferie in mezzo alla settimana e il versante tutto per noi. I cavi sono freddissimi fino alle dieci, i guanti servono davvero anche ad agosto. C'è un tratto di roccia rotta dove conviene non farsi seguire da vicino."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Bella giornata, siamo partiti presto per anticipare il caldo. Due ore buone solo per arrivare all'attacco. Poi la ferrata scorre, con qualche staffa dove serve."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "In un angolo in ombra c'era ancora neve vecchia e dura, un metro o due, niente di che ma scivolosa con le scarpe da avvicinamento. Dall'alto si vedeva la valle intera."
+      },
+      {
+        "observedAt": "2023-07-09",
+        "words": "Troppo presto, stagione. Avevamo chiesto informazioni e ci avevano detto che il canale sotto l'attacco teneva ancora la neve: infatti, piccozza e ramponi per mezz'ora. Poi la ferrata era asciutta e pulita."
+      },
+      {
+        "observedAt": "2023-07-27",
+        "words": "Giovedì libero, tempo bellissimo. Mi ha stupito la solitudine: in sei ore due persone sole, e a distanza. I cavi sono ben tesi e gli ancoraggi sembrano a posto, solo qualche vecchia staffa un po' ossidata."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Sveglia alle quattro per essere all'attacco con il fresco. Sulla pietraia in avvicinamento bisogna guardare dove si mette il piede, alcuni massi si muovono. La ferrata in sé è divertente e per niente affollata."
+      },
+      {
+        "observedAt": "2023-09-10",
+        "words": "Nebbia in risalita da metà mattina, e il panorama che ci aspettavamo se n'è andato. Peccato. La ferrata resta bella anche così, con il vento che fischia tra i cavi."
+      },
+      {
+        "observedAt": "2024-07-14",
+        "words": "Ci hanno detto al ritorno che sotto gli attacchi c'è ancora neve, noi abbiamo fatto il giro largo per evitarla. Il cavo nuovo sul tratto verticale è lucido e sembra montato da poco. Giornata luminosa."
+      },
+      {
+        "observedAt": "2024-08-01",
+        "words": "Primo agosto, settimana di ferie. Marmotte curiose all'attacco, una ci ha fissati mentre ci mettevamo l'imbrago. Avvicinamento lungo ma di soddisfazione."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Partenza alle cinque e mezza, e comunque il sole ha vinto. Il panorama dall'alto è di quelli che fanno dimenticare le gambe. Attenzione però alla cengia dopo il primo tratto: un blocco è venuto giù e il passaggio è più stretto di prima."
+      },
+      {
+        "observedAt": "2024-09-08",
+        "words": "Giornata di fine stagione, aria frizzante. I cavi erano coperti di brina fino a mezzogiorno e le mani non hanno mai scaldato. Un'ora in più solo per la discesa sulla pietraia, ginocchia stanche."
+      },
+      {
+        "observedAt": "2024-09-26",
+        "words": "Giovedì di fine settembre, ultima occasione secondo me. Gelo nell'ombra, ma nessuna traccia di neve e tutto asciutto. Il cartello nuovo all'inizio del sentiero aiuta a non sbagliare la traccia."
+      },
+      {
+        "observedAt": "2025-07-20",
+        "words": "Sul versante nord c'erano ancora chiazze di neve sotto le rocce, le abbiamo aggirate. Partiti alle cinque, in cima verso le undici. Un temporale ci è arrivato addosso mentre scendevamo: fulmini lontani ma abbastanza da correre."
+      },
+      {
+        "observedAt": "2025-08-09",
+        "words": "Il cartello della cengia dice di fare attenzione, e dopo averla passata capisco. Il resto è tutto sommato semplice, il grado è onesto. In alto abbiamo mangiato guardando le cime di confine."
+      },
+      {
+        "observedAt": "2025-08-26",
+        "words": "Martedì di fine estate, una gita di cui ci ricorderemo. Siamo partiti alle sei e abbiamo trovato il vento già forte sulla cresta, una sciarpa è volata via. La ferrata però è tenuta bene e gli ancoraggi sembrano solidi."
+      },
+      {
+        "observedAt": "2025-09-14",
+        "words": "Con il caldo anomalo pensavamo di non trovare più neve, e infatti niente. Giornata tersissima, si vedeva fino alla pianura. Lungo l'avvicinamento abbiamo incrociato un gruppo di escursionisti che salivano senza casco, scelta discutibile con quella pietraia."
+      },
+      {
+        "observedAt": "2026-07-12",
+        "words": "Piccolo imprevisto: il sentiero sotto la parete era franato in un punto e c'è una deviazione nuova segnata con bolli freschi. Con la neve ancora in canale sull'ultimo tratto abbiamo preferito rinunciare a metà."
+      },
+      {
+        "observedAt": "2026-08-22",
+        "words": "Che salita: avvicinamento lungo, quota alta e panorama aperto sulle montagne di confine. Siamo scesi con la luce bassa e le gambe di piombo. Il cavo nuovo, sul tratto verticale, rende il passaggio più sereno."
+      },
+      {
+        "observedAt": "2026-09-03",
+        "words": "Giovedì di inizio settembre e in giro nessuno. I cavi erano caldi dopo mezzogiorno ma freddi di prima mattina, io avevo i guanti sottili e ho sofferto. Un vecchio alpino che saliva con noi ci ha raccontato che sotto c'era un ricovero, ora non più utilizzabile."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Partenza all'alba",
+          "quote": "Partiti alle cinque dal fondovalle"
+        },
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "l'avvicinamento è lungo"
+        },
+        {
+          "label": "Panorama aperto",
+          "quote": "un panorama enorme"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cavi freddi al mattino",
+          "quote": "I cavi sono freddissimi fino alle dieci"
+        },
+        {
+          "label": "Roccia friabile",
+          "quote": "un tratto di roccia rotta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partenza all'alba",
+          "quote": "siamo partiti presto"
+        },
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "Due ore buone solo per arrivare all'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve residua",
+          "quote": "ancora neve vecchia e dura"
+        },
+        {
+          "label": "Panorama aperto",
+          "quote": "Dall'alto si vedeva la valle intera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve residua",
+          "quote": "teneva ancora la neve"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "in sei ore due persone sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partenza all'alba",
+          "quote": "Sveglia alle quattro"
+        },
+        {
+          "label": "Roccia friabile",
+          "quote": "alcuni massi si muovono"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento in cresta",
+          "quote": "il vento che fischia tra i cavi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve residua",
+          "quote": "sotto gli attacchi c'è ancora neve"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cavo nuovo sul tratto verticale",
+          "kind": "novita",
+          "quote": "Il cavo nuovo sul tratto verticale è lucido e sembra montato da poco."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "Avvicinamento lungo ma di soddisfazione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama aperto",
+          "quote": "Il panorama dall'alto è di quelli che fanno dimenticare le gambe"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cengia ristretta da un blocco",
+          "kind": "attenzione",
+          "quote": "un blocco è venuto giù e il passaggio è più stretto di prima"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Cavi freddi al mattino",
+          "quote": "I cavi erano coperti di brina fino a mezzogiorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello nuovo all'inizio del sentiero",
+          "kind": "novita",
+          "quote": "Il cartello nuovo all'inizio del sentiero aiuta a non sbagliare la traccia."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Partenza all'alba",
+          "quote": "Partiti alle cinque"
+        },
+        {
+          "label": "Neve residua",
+          "quote": "ancora chiazze di neve sotto le rocce"
+        },
+        {
+          "label": "Temporale nel pomeriggio",
+          "quote": "Un temporale ci è arrivato addosso mentre scendevamo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama aperto",
+          "quote": "guardando le cime di confine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento in cresta",
+          "quote": "il vento già forte sulla cresta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia friabile",
+          "quote": "con quella pietraia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve residua",
+          "quote": "la neve ancora in canale"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Deviazione nuova sul sentiero",
+          "kind": "attenzione",
+          "quote": "il sentiero sotto la parete era franato in un punto e c'è una deviazione nuova segnata con bolli freschi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "avvicinamento lungo"
+        },
+        {
+          "label": "Panorama aperto",
+          "quote": "panorama aperto sulle montagne di confine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cavi freddi al mattino",
+          "quote": "freddi di prima mattina"
+        },
+        {
+          "label": "Poca gente",
+          "quote": "in giro nessuno"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

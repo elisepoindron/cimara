@@ -1,0 +1,252 @@
+{
+  "osm": "r7519197",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "in-bici-tra-i-fiumi",
+    "activity": "mountain_bike",
+    "place": "comune-103025",
+    "name": "In bici tra i fiumi",
+    "lat": 46.15301,
+    "lon": 8.3039,
+    "facts": {},
+    "sections": {
+      "descrizione": "L'anello «In bici tra i fiumi» parte dalla stazione di Domodossola e tocca cinque corsi d'acqua: Toce, Bogna, Diveria, Isorno e Melezzo. Sono circa 18 chilometri quasi del tutto pianeggianti, con appena 65 metri di salita, su ciclabili, argini, strade secondarie e alcuni brevi tratti sterrati.\n\nIl percorso va fatto obbligatoriamente in senso orario ed è segnalato con frecce azzurre. Si attraversano campi, boschetti di ontano e salici, ponti e piccoli paesi dell'Ossola. È più un giro turistico che sportivo: adatto a famiglie, a chi ha bici da trekking o gravel, e a chi vuole conoscere la valle senza fatica.\n\nNon ci sono difficoltà tecniche. L'unica attenzione va ai punti in cui la ciclabile attraversa strade con traffico, e ai tratti sterrati dopo le piogge.",
+      "note": "Si pedala da marzo a novembre; d'estate nelle ore centrali fa caldo ma gli argini hanno qualche ombra. Dopo piogge forti qualche tratto lungo i fiumi può essere allagato. Acqua e bar nei paesi attraversati.",
+      "avvicinamento": "Si parte dalla stazione di Domodossola, dove si trova parcheggio nelle vicinanze o si arriva in treno con la bici."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-03-20",
+        "words": "Primo giro lungo dopo l'inverno: due ore e mezza con soste, tutto in piano. Le frecce azzurre sono ben visibili e mi sono perso solo una volta, a un incrocio in cui la freccia era coperta dall'erba."
+      },
+      {
+        "observedAt": "2022-04-27",
+        "words": "Mercoledì, giorno di riposo. Quasi nessuno sugli argini, solo un pescatore e due signore a passeggio. Per chi ha i bambini piccoli è perfetto: nessun traffico per lunghi tratti."
+      },
+      {
+        "observedAt": "2022-05-14",
+        "words": "Bella giornata di primavera: la neve ancora sulle cime e i fiumi pieni di acqua verde. Arrivati ai ponti sul Melezzo ci siamo fermati a guardare l'acqua che correva."
+      },
+      {
+        "observedAt": "2022-06-12",
+        "words": "Obbligatorio il senso orario: ci ho tenuto fede, ma un ciclista che veniva dalla parte opposta mi ha detto che non lo sapeva. Il cartello alla partenza lo dice ma è piccolo."
+      },
+      {
+        "observedAt": "2022-07-22",
+        "words": "Caldo, ma gli argini con gli ontani offrono ombra a tratti. Giro tranquillo di un venerdì pomeriggio, concluso con un gelato in stazione."
+      },
+      {
+        "observedAt": "2022-08-28",
+        "words": "Con due bambini di sei e otto anni, in tutto tre ore. Qualche tratto sterrato un po' sconnesso ma niente di grave. Un gelato a metà percorso e via."
+      },
+      {
+        "observedAt": "2022-10-09",
+        "words": "I pioppi e i salici cominciano a ingiallire sulle rive. Aria fresca e cielo sereno, con le montagne tutt'attorno. Ho fatto un paio di foto dai ponti più alti."
+      },
+      {
+        "observedAt": "2023-04-15",
+        "words": "Dopo giorni di pioggia un tratto lungo l'Isorno è allagato per qualche decina di metri: ho dovuto togliere le scarpe e passare a piedi con la bici. Il resto del giro è asciutto."
+      },
+      {
+        "observedAt": "2023-05-31",
+        "words": "Ho scelto un mercoledì per evitare la folla e infatti ho trovato solo tre persone. Segnaletica azzurra bella e chiara, il percorso si fa in scioltezza."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "Giornata torrida, abbiamo aspettato le cinque del pomeriggio per partire e siamo stati bene. La luce sul Toce al tramonto era quasi dorata."
+      },
+      {
+        "observedAt": "2023-09-24",
+        "words": "Gravel e bici da trekking, lo stesso giro e sensazioni diverse: con la gravel più veloce, con la trekking più rilassato. Bei percorsi comunque."
+      },
+      {
+        "observedAt": "2024-03-30",
+        "words": "Ci hanno detto che il tratto sull'Isorno è stato rialzato con ghiaia nuova per evitare l'allagamento. Una bella notizia, perché era il punto più brutto dopo le piogge."
+      },
+      {
+        "observedAt": "2024-06-16",
+        "words": "Con la e-bike non serve, ma io volevo provarla: è il giro più rilassante dell'Ossola. Un picnic sul greto del Diveria e poi di nuovo in sella."
+      },
+      {
+        "observedAt": "2024-09-05",
+        "words": "Cartello nuovo alla partenza dalla stazione con il percorso disegnato e il senso di marcia in grande. Era ora: prima era facile sbagliare."
+      },
+      {
+        "observedAt": "2025-04-19",
+        "words": "Settimana di Pasqua e un po' più di traffico sugli argini, famiglie con carrozzine e bambini in bici. Comunque sempre spazio per tutti."
+      },
+      {
+        "observedAt": "2025-10-26",
+        "words": "Ultima uscita autunnale: nebbia sui fiumi al mattino e poi sole. Quattro ore con pranzo a Villadossola, un giro che invita alla calma."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Frecce azzurre",
+          "quote": "Le frecce azzurre sono ben visibili"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatto alle famiglie",
+          "quote": "Per chi ha i bambini piccoli è perfetto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cinque fiumi da vedere",
+          "quote": "i fiumi pieni di acqua verde"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Solo in senso orario",
+          "quote": "Obbligatorio il senso orario"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra lungo gli argini",
+          "quote": "gli argini con gli ontani offrono ombra a tratti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatto alle famiglie",
+          "quote": "Con due bambini di sei e otto anni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cinque fiumi da vedere",
+          "quote": "sulle rive"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratti allagati dopo la pioggia",
+          "quote": "un tratto lungo l'Isorno è allagato"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Tratto allagabile lungo l'Isorno",
+          "kind": "attenzione",
+          "quote": "un tratto lungo l'Isorno è allagato per qualche decina di metri"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Frecce azzurre",
+          "quote": "Segnaletica azzurra bella e chiara"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cinque fiumi da vedere",
+          "quote": "La luce sul Toce al tramonto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bici da trekking e gravel",
+          "quote": "Gravel e bici da trekking"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratti allagati dopo la pioggia",
+          "quote": "il tratto sull'Isorno è stato rialzato con ghiaia nuova"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Tratto sull'Isorno rialzato con ghiaia",
+          "kind": "novita",
+          "quote": "il tratto sull'Isorno è stato rialzato con ghiaia nuova"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Cinque fiumi da vedere",
+          "quote": "Un picnic sul greto del Diveria"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Solo in senso orario",
+          "quote": "il senso di marcia in grande"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cartello nuovo alla partenza",
+          "kind": "novita",
+          "quote": "Cartello nuovo alla partenza dalla stazione con il percorso disegnato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatto alle famiglie",
+          "quote": "famiglie con carrozzine e bambini in bici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra lungo gli argini",
+          "quote": "nebbia sui fiumi al mattino"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

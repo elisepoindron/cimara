@@ -1,0 +1,14 @@
+node_modules/
+*.db
+*.db-wal
+*.db-shm
+.env
+uploads/
+.claude/settings.local.json
+
+# A model's readings of an import, kept beside the export so a re-run asks nothing twice.
+*.readings.jsonl
+data/osm/extract/.cache/
+
+# The demo's build: npm run demo:build writes build/demo.db and its photos beside it.
+build/

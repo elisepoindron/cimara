@@ -1,0 +1,109 @@
+{
+  "osm": "w165276195",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-di-ivery",
+    "activity": "falesia",
+    "place": "comune-007052",
+    "name": "Falesia di Ivery",
+    "lat": 45.592,
+    "lon": 7.8087,
+    "aspect": "SO",
+    "altMax": 658,
+    "facts": {
+      "esposizione": "SO",
+      "quota_base": 658,
+      "avvicinamento": 15,
+      "localita_partenza": "Pont-Saint-Martin"
+    },
+    "sections": {
+      "note": "Falesia bassa sopra il paese, con roccia a scaglie e placche di calcare. Guarda a sud-ovest: il pomeriggio è al sole, in inverno è una delle poche falesie della valle dove si sta bene dopo pranzo.\n\nVie di media difficoltà, chiodate a spit con soste a due punti. Qualche tratto è sporco di terra: spazzolare le prese.\n\nBasta una corda da 60 metri e una dozzina di rinvii.",
+      "avvicinamento": "Dal parcheggio sulla strada si sale per un sentiero di una quindicina di minuti, con gradini di pietra."
+    },
+    "parts": [
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Primo passo",
+          "grado": "5a",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Scaglia",
+          "grado": "5b",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Placca bassa",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Ultimo sole",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Diedro di Ivery",
+          "grado": "6a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Muro sporco",
+          "grado": "6b+",
+          "lunghezza": 20
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2024-02-10",
+        "words": "Freddo al mattino, ma al pomeriggio il sole ha scaldato la placca e ho fatto tre vie."
+      },
+      {
+        "observedAt": "2025-11-10",
+        "words": "Prese ancora un po' sporche, ho pulito con la spazzola. Poi la via si è rivelata bella."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "il sole ha scaldato la placca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Prese sporche",
+          "quote": "Prese ancora un po' sporche"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "osm": "r6147405",
+  "invented": [
+    "difficolta",
+    "partenza",
+    "vetta",
+    "dislivello",
+    "esposizione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "skialp-vitt-emanuele-ii",
+    "activity": "sci_alpinismo",
+    "place": "comune-007070",
+    "name": "Skialp Vitt. Emanuele II",
+    "lat": 45.52449,
+    "lon": 7.2014,
+    "aspect": "E",
+    "facts": {
+      "difficolta": "MS",
+      "partenza": 1957,
+      "vetta": 2732,
+      "dislivello": 775,
+      "esposizione": "E",
+      "localita_partenza": "Pont",
+      "come_arrivare": "Da Valsavarenche si prosegue fino a Pont, ultimo piazzale della valle, da cui parte la traccia per il rifugio."
+    },
+    "sections": {
+      "descrizione": "La salita classica da Pont al Rifugio Vittorio Emanuele II, nel cuore del Parco del Gran Paradiso. È la gita che molti fanno come primo giorno di una traversata o come uscita in giornata: sette-ottocento metri di dislivello su una traccia ben leggibile, che sale prima nel bosco poi su pendii larghi fino al rifugio.\n\nDal piazzale si risale il fondovalle, si attraversa il torrente e si prende il sentiero estivo tra i larici. Sopra il bosco il tracciato fa alcuni tornanti e traversa sotto la dorsale, finché si vede il rifugio sul pianoro in alto.\n\nLa discesa segue la salita. Con poca neve conviene sapere dove si può scendere e dove è meglio togliere gli sci.",
+      "note": "Nel Parco del Gran Paradiso sono possibili avvistamenti di stambecchi: tenere i cani al guinzaglio e non avvicinarsi. Il rifugio è gestito in primavera; in inverno è aperto un locale invernale. Portare ARTVA, pala e sonda e controllare il bollettino."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-03-19",
+        "words": "Salita da Pont in tre ore e un quarto con zaino leggero. La traccia era già pulita e battuta dal giorno prima, nessun problema a seguirla."
+      },
+      {
+        "observedAt": "2022-04-09",
+        "words": "Giornata di sole splendida, rifugio gestito. Gli stambecchi erano fermi a pochi metri dal rifugio, mia figlia non voleva più andare via."
+      },
+      {
+        "observedAt": "2022-12-29",
+        "words": "Dopo le feste volevamo muoverci. Il tratto nel bosco sembra non finire mai, ma sopra tutto cambia."
+      },
+      {
+        "observedAt": "2023-01-21",
+        "words": "Neve fredda e farinosa, perfetta per la discesa. Il locale invernale era vuoto e gelato. Saliti con una traccia già tracciata da chi era partito prima di noi."
+      },
+      {
+        "observedAt": "2023-02-15",
+        "words": "Mercoledì tutta la valle per noi: due auto al piazzale, due. In settimana non c'è nessuno, ci siamo trovati soli per ore."
+      },
+      {
+        "observedAt": "2023-03-04",
+        "words": "Rifugio pieno all'ora di pranzo, tavoli fuori al sole. Fare la fila per il bagno e per il tè caldo ci ha fatto ridere. Poi discesa su neve ancora buona."
+      },
+      {
+        "observedAt": "2023-04-01",
+        "words": "Giro di fine inverno con il caldo. Nel bosco abbiamo sudato più che nei pendii alti, ho tolto lo strato di sopra dopo cinque minuti."
+      },
+      {
+        "observedAt": "2023-05-02",
+        "words": "Gita di primavera, martedì, con il firn. Neve già molle sotto i 2200, poi buona. Alle undici la neve trasformata faceva curve morbide."
+      },
+      {
+        "observedAt": "2023-12-16",
+        "words": "Neve bassa all'inizio: il torrente si attraversa sul ponte di legno ma la traccia a valle è pelata per un tratto. Abbiamo fatto metà salita con gli sci in spalla. La passerella sul torrente è segnata da una transenna e va attraversata a piedi."
+      },
+      {
+        "observedAt": "2024-02-03",
+        "words": "Giornata limpida, il Gran Paradiso lassù in fondo. Dal rifugio si vede la grande piramide innevata sopra di noi, uno spettacolo da non perdere."
+      },
+      {
+        "observedAt": "2024-03-02",
+        "words": "Tanta gente, tante pelli, tracce larghe come strade. Al rifugio tavolate piene e gestori sorridenti, bella aria da vacanza in montagna."
+      },
+      {
+        "observedAt": "2024-03-27",
+        "words": "Vento da nord alla cresta, ma al rifugio riparati. Salita di mercoledì con poche persone attorno, nel pomeriggio era quasi deserto. Discesa un po' crostosa nella parte alta."
+      },
+      {
+        "observedAt": "2024-04-13",
+        "words": "Sulla via del ritorno abbiamo incrociato dei picchetti piantati ai bordi del sentiero estivo nel bosco che segnano la traccia anche con la nebbia. Buona idea."
+      },
+      {
+        "observedAt": "2024-12-21",
+        "words": "Quasi niente neve a Pont, abbiamo camminato quaranta minuti prima di calzare. Con le pelli non si parte che dopo il bosco. Poi tutto liscio."
+      },
+      {
+        "observedAt": "2025-01-11",
+        "words": "Il locale invernale ha il fornello e le coperte, ma si congela. Abbiamo mangiato fuori e siamo scesi presto, c'era un gruppo di stambecchi che ci guardava dal dosso."
+      },
+      {
+        "observedAt": "2025-03-22",
+        "words": "Primavera presto. Neve ottima, nessun vento. Alle dieci ancora dura, alle dodici perfetta per scendere, quasi mai ci capita così."
+      },
+      {
+        "observedAt": "2025-04-12",
+        "words": "In primavera inoltrata il bosco è tutto un acquazzone. Nel canale sotto il rifugio sono scesi più scaricamenti primaverili e la traccia va tenuta a sinistra. Noi abbiamo evitato il canale."
+      },
+      {
+        "observedAt": "2026-03-07",
+        "words": "Giornata un po' grigia, ma la valle è bella anche così. Salita facile da seguire grazie alla traccia battuta, in discesa neve pesante."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Tre ore di salita",
+          "quote": "Salita da Pont in tre ore e un quarto con zaino leggero"
+        },
+        {
+          "label": "Traccia ben battuta",
+          "quote": "La traccia era già pulita e battuta dal giorno prima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi vicino al rifugio",
+          "quote": "Gli stambecchi erano fermi a pochi metri dal rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga nel bosco",
+          "quote": "Il tratto nel bosco sembra non finire mai"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Locale invernale gelato",
+          "quote": "Il locale invernale era vuoto e gelato"
+        },
+        {
+          "label": "Traccia ben battuta",
+          "quote": "una traccia già tracciata da chi era partito prima di noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "In settimana non c'è nessuno, ci siamo trovati soli per ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio affollato",
+          "quote": "Fare la fila per il bagno e per il tè caldo ci ha fatto ridere"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga nel bosco",
+          "quote": "Nel bosco abbiamo sudato più che nei pendii alti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve trasformata",
+          "quote": "Alle undici la neve trasformata faceva curve morbide"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Passerella sul torrente da controllare",
+          "kind": "attenzione",
+          "quote": "La passerella sul torrente è segnata da una transenna e va attraversata a piedi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Gran Paradiso",
+          "quote": "Dal rifugio si vede la grande piramide innevata sopra di noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio affollato",
+          "quote": "Al rifugio tavolate piene e gestori sorridenti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "nel pomeriggio era quasi deserto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tracciato con picchetti",
+          "kind": "novita",
+          "quote": "dei picchetti piantati ai bordi del sentiero estivo nel bosco"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve scarsa a Pont",
+          "quote": "Quasi niente neve a Pont, abbiamo camminato quaranta minuti prima di calzare"
+        },
+        {
+          "label": "Salita lunga nel bosco",
+          "quote": "Con le pelli non si parte che dopo il bosco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi vicino al rifugio",
+          "quote": "c'era un gruppo di stambecchi che ci guardava dal dosso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve trasformata",
+          "quote": "Alle dieci ancora dura, alle dodici perfetta per scendere"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Valanghe nel canale sotto il rifugio",
+          "kind": "attenzione",
+          "quote": "Nel canale sotto il rifugio sono scesi più scaricamenti primaverili e la traccia va tenuta a sinistra"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Traccia ben battuta",
+          "quote": "Salita facile da seguire grazie alla traccia battuta"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

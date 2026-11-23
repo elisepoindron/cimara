@@ -1,0 +1,236 @@
+{
+  "osm": "r11971313",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d14",
+    "activity": "escursionismo",
+    "place": "comune-002170",
+    "name": "Via Alpina Blue D14",
+    "lat": 45.88551,
+    "lon": 7.99902,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 1565,
+      "localita_partenza": "Carcoforo",
+      "come_arrivare": "Carcoforo è l'ultimo villaggio della Val d'Egua, raggiungibile in auto da Rimasco risalendo la valle, con parcheggio all'ingresso del paese. L'arrivo al Rifugio Ferioli è a piedi: il ritorno è sulla stessa via."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu da Carcoforo al Rifugio Ferioli, in Valsesia. Circa 11 chilometri ma con quasi 1.600 metri di salita: una tappa corta in distanza e molto faticosa in pendenza.\n\nSi esce dal paese e si sale a lungo nel bosco, poi su pascoli ripidi e pietraie fino a un valico alto. L'ultima parte è una traversata su roccia e sfasciumi fino al rifugio, in un ambiente di alta quota.\n\nÈ una tappa che richiede un buon allenamento: la quota è alta, il sentiero è ripido e il tempo cambia in fretta. Il rifugio è l'unico punto di appoggio."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Millecinquecento metri di salita in undici chilometri non perdonano. Ho camminato per sei ore e sono arrivato al Ferioli con le gambe a pezzi."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Il rifugio è accogliente e la cena era ottima. Dopo una giornata così, una minestra calda e un letto sono un lusso."
+      },
+      {
+        "observedAt": "2022-09-16",
+        "words": "Settimana di ferie in Val d'Egua. Il lungo bosco sopra Carcoforo mi è sembrato infinito, ma con la luce filtrata dai faggi non pesava."
+      },
+      {
+        "observedAt": "2023-06-03",
+        "words": "Sopra i duemila neve vecchia e un cielo che minacciava. Siamo passati con i bastoncini e abbiamo trovato il rifugio in apertura."
+      },
+      {
+        "observedAt": "2023-07-30",
+        "words": "La traversata finale su sfasciumi è insidiosa col bagnato, e fa girare la testa a chi soffre di vertigini. Con la nebbia sono passato lento."
+      },
+      {
+        "observedAt": "2023-08-28",
+        "words": "Giorno infrasettimanale, nessun altro sul valico. Mi sono seduto e ho mangiato in silenzio con un vento che pareva una lama."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Cielo di cristallo al mattino e nuvole nel pomeriggio. Siamo arrivati al rifugio prima del temporale, giusto in tempo per vederlo da dentro."
+      },
+      {
+        "observedAt": "2023-10-22",
+        "words": "Ultima apertura prima della chiusura invernale, il gestore ci ha regalato una grappa. Fuori già gelava e i laghetti avevano un velo di ghiaccio."
+      },
+      {
+        "observedAt": "2024-06-08",
+        "words": "La passerella sul rio a metà salita è stata ricostruita dopo l'inverno e sembra solida. La vecchia era stata portata via da una piena."
+      },
+      {
+        "observedAt": "2024-07-21",
+        "words": "Siamo partiti alle cinque e mezza e l'aria era freschissima. Salita lenta e costante, con pause ogni quarto d'ora per non spremersi."
+      },
+      {
+        "observedAt": "2024-08-20",
+        "words": "Con un amico abbiamo dormito al Ferioli e visto la Via Lattea con una chiarezza che in città non si immagina. Una notte d'agosto da ricordare."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Un grosso sasso è rotolato sul sentiero nel tratto roccioso poco sotto il valico e blocca metà della traccia: si passa a fianco con attenzione. Il segnavia è stato ripassato dopo."
+      },
+      {
+        "observedAt": "2024-10-27",
+        "words": "Neve fresca nella notte e sentiero bianco nella parte alta. Eravamo gli unici a salire e le impronte di camoscio mi hanno guidato."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "La salita sopra Carcoforo mi ha fatto pentire di aver mangiato troppo a colazione, ma l'orizzonte ha ripagato. Il rifugio sembrava un miraggio."
+      },
+      {
+        "observedAt": "2025-08-31",
+        "words": "Il masso sul sentiero è ancora lì, ma c'è un varco segnato con vernice rossa: si passa tranquilli. Il rifugio ha rinnovato la sala da pranzo."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Un'alba in cresta, con le nuvole sotto di noi. Ne è valsa la pena dopo tutto quel dislivello."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita ripida e lunga",
+          "quote": "Millecinquecento metri di salita in undici chilometri non perdonano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio accogliente",
+          "quote": "Il rifugio è accogliente e la cena era ottima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco ripido sopra il paese",
+          "quote": "Il lungo bosco sopra Carcoforo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve in quota",
+          "quote": "Sopra i duemila neve vecchia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Traversata su sfasciumi",
+          "quote": "La traversata finale su sfasciumi è insidiosa col bagnato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Valico ventoso",
+          "quote": "un vento che pareva una lama"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "prima del temporale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiusura di fine stagione",
+          "quote": "Ultima apertura prima della chiusura invernale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Passerella ricostruita sul rio",
+          "kind": "novita",
+          "quote": "La passerella sul rio a metà salita è stata ricostruita dopo l'inverno e sembra solida."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita ripida e lunga",
+          "quote": "Salita lenta e costante, con pause ogni quarto d'ora"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cielo stellato al rifugio",
+          "quote": "abbiamo dormito al Ferioli e visto la Via Lattea"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Masso sul sentiero sotto il valico",
+          "kind": "attenzione",
+          "quote": "Un grosso sasso è rotolato sul sentiero nel tratto roccioso poco sotto il valico e blocca metà della traccia: si passa a fianco con attenzione."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve in quota",
+          "quote": "Neve fresca nella notte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita ripida e lunga",
+          "quote": "La salita sopra Carcoforo mi ha fatto pentire"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio accogliente",
+          "quote": "Il rifugio ha rinnovato la sala da pranzo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

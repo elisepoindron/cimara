@@ -1,0 +1,236 @@
+{
+  "osm": "r11971158",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d12",
+    "activity": "escursionismo",
+    "place": "comune-002113",
+    "name": "Via Alpina Blue D12",
+    "lat": 45.9084,
+    "lon": 8.18095,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 573,
+      "localita_partenza": "Campello Monti",
+      "come_arrivare": "Campello Monti si raggiunge da Strona risalendo la Valstrona in auto, fino al piccolo paese walser in fondo alla strada, con parcheggio all'ingresso. L'arrivo a Santa Maria di Fobello è in un'altra valle e il rientro richiede un secondo mezzo o un trasferimento."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu da Campello Monti, nella Valstrona, a Santa Maria di Fobello, in Val Mastallone. Circa 14 chilometri con meno di 600 metri di salita e una discesa di poco superiore: una giornata comoda per gli standard della Via.\n\nSi esce dal paese per una mulattiera che sale nel bosco, poi si prosegue su pascoli e cresta fino a un colle che apre sull'altra valle. Dal colle si scende a lungo su sentiero e tratti di strada sterrata fino a Fobello.\n\nÈ una tappa dolce e di buon ritmo, adatta anche a chi cammina da poco; i segnavia sono continui. Periodo consigliato da giugno a ottobre."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-06-26",
+        "words": "La più rilassata delle tappe della zona: niente salite cattive, sentiero morbido e i prati ancora fioriti. Mi è sembrata quasi troppo facile."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Camminata con bambini di sette e nove anni, partenza da Campello senza fretta. Hanno retto bene e si sono fermati solo per i mirtilli."
+      },
+      {
+        "observedAt": "2022-09-16",
+        "words": "Un mercoledì d'autunno già con aria fina, il paese di Campello Monti con i tetti in pietra mi ha fatto fermare per delle foto."
+      },
+      {
+        "observedAt": "2022-10-09",
+        "words": "Bosco in autunno, castagni rossi e un po' di nebbia nelle prime ore. Il sentiero era coperto di foglie e scivolava."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Al colle si apre una veduta ampia sulla Val Mastallone e sul Rosa che emerge dalle nuvole. Merenda in cima, con il fiato del vento che sembrava un sollievo."
+      },
+      {
+        "observedAt": "2023-07-16",
+        "words": "Mi aspettavo una tappa banale e invece la discesa verso Fobello è lunga e piena di tornanti. Ho finito con i piedi accesi."
+      },
+      {
+        "observedAt": "2023-08-31",
+        "words": "Feriale di agosto, in giro solo qualche fungaiolo. Tre cartelli con il nome del sentiero, uno solo con i tempi giusti."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Le mucche al pascolo con i vitelli sul sentiero: abbiamo aspettato che si spostassero senza avvicinarci troppo."
+      },
+      {
+        "observedAt": "2024-05-26",
+        "words": "Hanno aperto una variante per evitare un tratto di strada asfaltata subito dopo il paese, ora si cammina su sterrato in mezzo ai prati. Segnata con i nuovi cartelli gialli."
+      },
+      {
+        "observedAt": "2024-07-20",
+        "words": "Tempo ottimo, colazione al sacco sul colle e una gran dormita sul prato. Non ricordo di aver visto più di cinque persone in tutto il giorno."
+      },
+      {
+        "observedAt": "2024-08-20",
+        "words": "Venerdì con temporali la sera: abbiamo anticipato la partenza e finito a pranzo. Il sentiero in bosco era ancora asciutto."
+      },
+      {
+        "observedAt": "2024-09-01",
+        "words": "Camminata d'autunno con il fieno ancora steso nei prati sotto il paese. Un cane da pastore ci ha accompagnati per un pezzo."
+      },
+      {
+        "observedAt": "2024-10-26",
+        "words": "Una lastra di roccia a metà discesa si è staccata e il sentiero è stato deviato di qualche metro. C'è un nastro bianco e rosso che segna il passaggio."
+      },
+      {
+        "observedAt": "2025-06-08",
+        "words": "La passerella nuova sul torrente alla fine della salita è comoda, anche per i bambini. L'avevo ricordata piena di fango."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Lungo la salita i lamponi selvatici erano maturi: la tappa si è trasformata in un giro di assaggi."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Ci siamo fermati più volte sul colle per il panorama, ma la tappa si è chiusa a Fobello con la luce giusta e la fontana in piazza."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Adatta alle famiglie",
+          "quote": "La più rilassata delle tappe della zona"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta alle famiglie",
+          "quote": "Camminata con bambini di sette e nove anni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Paese walser di Campello",
+          "quote": "il paese di Campello Monti con i tetti in pietra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori d'autunno",
+          "quote": "castagni rossi e un po' di nebbia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista dal colle",
+          "quote": "Al colle si apre una veduta ampia sulla Val Mastallone"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa verso Fobello",
+          "quote": "la discesa verso Fobello è lunga e piena di tornanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "in giro solo qualche fungaiolo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mucche sul sentiero",
+          "quote": "Le mucche al pascolo con i vitelli sul sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Variante su sterrato dopo il paese",
+          "kind": "novita",
+          "quote": "Hanno aperto una variante per evitare un tratto di strada asfaltata subito dopo il paese, ora si cammina su sterrato in mezzo ai prati."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "più di cinque persone in tutto il giorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "temporali la sera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Lastra staccata sul sentiero",
+          "kind": "attenzione",
+          "quote": "Una lastra di roccia a metà discesa si è staccata e il sentiero è stato deviato di qualche metro."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta alle famiglie",
+          "quote": "comoda, anche per i bambini"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Frutti di bosco",
+          "quote": "i lamponi selvatici erano maturi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista dal colle",
+          "quote": "Ci siamo fermati più volte sul colle per il panorama"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

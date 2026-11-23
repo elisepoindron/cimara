@@ -1,0 +1,516 @@
+{
+  "osm": "n9031884635",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "droide",
+    "activity": "falesia",
+    "place": "comune-001073",
+    "name": "Droide",
+    "lat": 45.43799,
+    "lon": 7.26086,
+    "aspect": "S",
+    "altMax": 1625,
+    "facts": {
+      "quota_base": 1625,
+      "esposizione": "S",
+      "avvicinamento": 10,
+      "localita_partenza": "Ceresole Reale"
+    },
+    "sections": {
+      "note": "Droide è una parete di granito che guarda a sud, sopra il fondo della valle di Ceresole Reale, a 1600 metri. La roccia è compatta, a grana media, con placche appoggiate in basso e un muro verticale più in alto che chiude con un tetto grigio. Le vie sono una trentina, dal 4a all'8b+, quasi tutte spittate; in qualche fessura si può integrare con friend piccoli.\n\nIl sole arriva presto e resta fino a sera, quindi in piena estate si sceglie l'ora giusta o si sale al mattino presto. La stagione comoda va da giugno a ottobre: in primavera la neve resta a lungo ai piedi della parete, e in inverno il posto è chiuso.\n\nLa parete è divisa in quattro settori: Zoccolo con le vie facili, il Muro Centrale per chi sta fra il 5c e il 6b+, la Placca Alta più tecnica e il Tetto, dove stanno i gradi duri. Servono una corda da 60 metri e dodici rinvii.",
+      "avvicinamento": "Dal parcheggio un sentiero segnato risale il pendio fra massi e ontani e arriva alla base dello Zoccolo in una decina di minuti; per gli altri settori si segue la base della parete verso destra."
+    },
+    "parts": [
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Primo Passo",
+          "grado": "4a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "La Scaletta",
+          "grado": "4b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Mattina Dolce",
+          "grado": "4c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Tutto Tondo",
+          "grado": "5a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Il Gradino",
+          "grado": "5a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Giro di Prova",
+          "grado": "5b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Lo Zio Rocco",
+          "grado": "5b+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Rampa Nord",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Dito Medio",
+          "grado": "5c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Pane e Granito",
+          "grado": "6a",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "La Gattoia",
+          "grado": "6a+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Merenda Sinoira",
+          "grado": "6a+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Il Lungo Respiro",
+          "grado": "6b",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Aria Sottile",
+          "grado": "6b",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Fra le Nuvole",
+          "grado": "6b+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Cielo di Piombo",
+          "grado": "6b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Il Tedesco",
+          "grado": "6c",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Scarponi Bagnati",
+          "grado": "6c+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Placca Alta",
+        "fields": {
+          "nome": "Cuore di Pietra",
+          "grado": "6c+",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Placca Alta",
+        "fields": {
+          "nome": "Formica Atomica",
+          "grado": "7a",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Placca Alta",
+        "fields": {
+          "nome": "Il Grigio",
+          "grado": "7a+",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Placca Alta",
+        "fields": {
+          "nome": "Occhi di Gatto",
+          "grado": "7b",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Placca Alta",
+        "fields": {
+          "nome": "Sottozero",
+          "grado": "7b",
+          "lunghezza": 36
+        }
+      },
+      {
+        "group": "Placca Alta",
+        "fields": {
+          "nome": "Questione di Dita",
+          "grado": "7b+",
+          "lunghezza": 36
+        }
+      },
+      {
+        "group": "Placca Alta",
+        "fields": {
+          "nome": "Il Controllore",
+          "grado": "7c",
+          "lunghezza": 36
+        }
+      },
+      {
+        "group": "Tetto",
+        "fields": {
+          "nome": "Droide",
+          "grado": "7c+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Tetto",
+        "fields": {
+          "nome": "Robot da Cucina",
+          "grado": "8a",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Tetto",
+        "fields": {
+          "nome": "Bullone Ribelle",
+          "grado": "8a+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Tetto",
+        "fields": {
+          "nome": "Ultima Corsa",
+          "grado": "8b",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Tetto",
+        "fields": {
+          "nome": "Pensiero Fisso",
+          "grado": "8b+",
+          "lunghezza": 34
+        }
+      },
+      {
+        "group": "Tetto",
+        "fields": {
+          "nome": "Il Maniscalco",
+          "grado": "7c",
+          "lunghezza": 28
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-02",
+        "words": "Prima volta a Droide, saliti dal parcheggio in pochi minuti. Sole sul granito già alle dieci, perciò abbiamo scelto lo Zoccolo e poi il Muro Centrale. Chiodatura sicura, soste con catena."
+      },
+      {
+        "observedAt": "2022-08-17",
+        "words": "Mercoledì di ferie, caldo vero e nemmeno una nuvola. Siamo stati al Tetto solo fino alle undici, poi ritirata all'ombra del bosco. Dito Medio mi ha dato una bella lezione."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Giornata perfetta di inizio autunno. Granito fresco, buone prese e gradi onesti sul Muro Centrale. Il lago di Ceresole visto dalla sosta vale da solo la salita."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Con una coppia di amici alla prima falesia in granito. Lo Zoccolo è andato benissimo per tutti, vie corte e ben protette. Ci siamo fermati a mangiare sul prato sotto la parete."
+      },
+      {
+        "observedAt": "2023-06-03",
+        "words": "Troppo presto: la neve copre ancora la base del Muro Centrale e per arrivare alle vie abbiamo affondato fino al ginocchio. Con il sole la roccia asciuga in fretta ma i piedi restano bagnati fino a sera."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Il sentiero è libero dalla neve e le vie sono asciutte. Nella Placca Alta ho provato Formica Atomica, passo di dita al terzo rinvio e uscita sicura. Marmotte curiose accanto allo zaino."
+      },
+      {
+        "observedAt": "2023-07-19",
+        "words": "Mercoledì in solitaria con un amico che lavora a turni. Zero code, ma sole fortissimo dalle undici: partenza all'alba consigliata. La fessura di Cuore di Pietra vuole friend piccoli, la sosta in alto è comoda."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Sabato di agosto ma si sta in pochi, il posto è tranquillo. Abbiamo ripetuto un paio di vie sul Muro Centrale. In una delle soste sul Tetto una piastrina si muove: da controllare."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Tornati a settembre con le mani più fredde, che per il granito è l'ideale. Il Tetto non l'abbiamo nemmeno guardato, ma le vie centrali sono splendide. Strada della valle un po' stretta con i camper."
+      },
+      {
+        "observedAt": "2024-05-30",
+        "words": "Giovedì di ponte, sole e aria ancora frizzante. La neve sotto lo Zoccolo si è sciolta da pochi giorni, il sentiero è fangoso ma si passa. Sulle placche basse i piedi tengono benissimo."
+      },
+      {
+        "observedAt": "2024-07-06",
+        "words": "Qualcuno ha riattrezzato le soste dello Zoccolo con catene nuove e anelli più grossi. Si nota la differenza, soprattutto nelle calate con i bambini. Il sole picchia, portare tanta acqua."
+      },
+      {
+        "observedAt": "2024-08-27",
+        "words": "Martedì mattina, sole dall'alba e granito già caldo alle nove. Bullone Ribelle è un'altra categoria, io ho fatto solo i tiri di riscaldamento sulla Placca Alta. Cane sciolto di un altro gruppo, ma tranquillo."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Giornata limpida, i larici cominciavano a ingiallire. Abbiamo fatto una dozzina di vie facili e poi il merenda sinoira, che a 6a+ è uno dei miei preferiti. Zoccolo ottimo per riscaldarsi e per i ragazzini."
+      },
+      {
+        "observedAt": "2025-06-14",
+        "words": "Prima uscita dell'estate e si vede: alla base c'è ancora un campo di neve, la parte bassa è bagnata. Oltre il Muro Centrale invece la roccia era perfetta. Avvicinamento di dieci minuti, più corto del previsto."
+      },
+      {
+        "observedAt": "2025-08-05",
+        "words": "Martedì pomeriggio, nuvole e vento fresco che rendevano tutto piacevole. Una scarica di sassi dal costone sopra il Tetto ha fatto tremare tutti: la cengia terminale è ora instabile, meglio non sostare sotto."
+      },
+      {
+        "observedAt": "2025-10-04",
+        "words": "Ultima uscita prima del freddo. Roccia sporca di licheni in alcune placche e un po' unta nelle prese più usate di Pane e Granito. Fessure ben pulite, ma portare i friend sottili."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "saliti dal parcheggio in pochi minuti"
+        },
+        {
+          "label": "Sole tutto il giorno",
+          "quote": "Sole sul granito già alle dieci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole tutto il giorno",
+          "quote": "caldo vero e nemmeno una nuvola"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lago vicino",
+          "quote": "Il lago di Ceresole visto dalla sosta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie facili alla base",
+          "quote": "Lo Zoccolo è andato benissimo per tutti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "la neve copre ancora la base del Muro Centrale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte alla base",
+          "quote": "Marmotte curiose accanto allo zaino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fessure da proteggere",
+          "quote": "vuole friend piccoli"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Piastrina lenta sul Tetto",
+          "kind": "attenzione",
+          "quote": "In una delle soste sul Tetto una piastrina si muove: da controllare."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada stretta",
+          "quote": "Strada della valle un po' stretta con i camper"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "La neve sotto lo Zoccolo si è sciolta da pochi giorni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole tutto il giorno",
+          "quote": "Il sole picchia"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Soste nuove allo Zoccolo",
+          "kind": "novita",
+          "quote": "Qualcuno ha riattrezzato le soste dello Zoccolo con catene nuove e anelli più grossi."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole tutto il giorno",
+          "quote": "granito già caldo alle nove"
+        },
+        {
+          "label": "Cani sciolti",
+          "quote": "Cane sciolto di un altro gruppo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie facili alla base",
+          "quote": "Zoccolo ottimo per riscaldarsi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "alla base c'è ancora un campo di neve"
+        },
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Avvicinamento di dieci minuti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cengia instabile sopra il Tetto",
+          "kind": "attenzione",
+          "quote": "Una scarica di sassi dal costone sopra il Tetto ha fatto tremare tutti: la cengia terminale è ora instabile, meglio non sostare sotto."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Prese unte",
+          "quote": "un po' unta nelle prese più usate"
+        },
+        {
+          "label": "Fessure da proteggere",
+          "quote": "portare i friend sottili"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

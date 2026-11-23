@@ -1,0 +1,109 @@
+{
+  "osm": "n12017352168",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-di-outrefer",
+    "activity": "falesia",
+    "place": "comune-007023",
+    "name": "Falesia di Outrefer",
+    "lat": 45.59739,
+    "lon": 7.75462,
+    "aspect": "NE",
+    "altMax": 451,
+    "facts": {
+      "esposizione": "NE",
+      "quota_base": 451,
+      "avvicinamento": 12,
+      "localita_partenza": "Donnas"
+    },
+    "sections": {
+      "note": "Falesia bassa a un passo dalla strada, roccia di gneiss con buchi e svasi. Guarda a nord-est: in inverno è all'ombra quasi tutto il giorno e si arrampica al fresco; in primavera e in autunno il sole arriva solo dopo mezzogiorno.\n\nChiodatura a spit, soste con due punti. Le vie sono brevi e divertenti, adatte anche per allenarsi.\n\nBasta una corda da 50 metri.",
+      "avvicinamento": "Dal parcheggio sulla strada bisogna solo attraversare il prato, circa dieci minuti."
+    },
+    "parts": [
+      {
+        "group": "Settore DX",
+        "fields": {
+          "nome": "Prima",
+          "grado": "4a",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Settore DX",
+        "fields": {
+          "nome": "Buchi",
+          "grado": "5a",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Settore DX",
+        "fields": {
+          "nome": "Lunga",
+          "grado": "5b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Settore DX",
+        "fields": {
+          "nome": "Diedro",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Settore DX",
+        "fields": {
+          "nome": "Svasi",
+          "grado": "5a+",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Settore DX",
+        "fields": {
+          "nome": "Ultima",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-12-03",
+        "words": "Freddo e sole mancante, ma le mani si scaldano presto con il primo tiro. Ho chiuso la via lunga."
+      },
+      {
+        "observedAt": "2025-03-22",
+        "words": "Primavera bella, poca gente. Dopo mezzogiorno si sta bene anche in maglietta."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "All'ombra in inverno",
+          "quote": "Freddo e sole mancante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "poca gente"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

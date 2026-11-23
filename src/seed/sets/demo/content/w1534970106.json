@@ -1,0 +1,458 @@
+{
+  "osm": "w1534970106",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "parcheggio_nota",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "arrampoigranda-wall",
+    "activity": "falesia",
+    "place": "comune-004190",
+    "name": "Arrampoigranda Wall",
+    "lat": 44.25416,
+    "lon": 7.71554,
+    "aspect": "NE",
+    "altMax": 1068,
+    "facts": {
+      "esposizione": "NE",
+      "quota_base": 1068,
+      "avvicinamento": 8,
+      "localita_partenza": "Roccaforte Mondovì",
+      "parcheggio_nota": "Spiazzo a bordo strada per cinque o sei auto; oltre il cartello non si passa, soprattutto con il fango."
+    },
+    "sections": {
+      "note": "Piccola parete di quarzite a circa 1000 metri, esposta a nord-est, con una ventina di vie corte (fino a 15 metri) dal 5c all'8a. È una falesia di forza: strapiombi, piccole tacche, passi di blocco ravvicinati, spesso in poche prese. La roccia è liscia e compatta, un po' scivolosa con l'umido.\n\nGli spit sono vicini e le soste hanno catene con moschettone di calata. Con tre o quattro rinvii in più si fa quasi tutto in moulinette dall'alto: la parete è bassa e il terreno sotto è comodo e piano.\n\nEssendo a nord-est è all'ombra quasi tutto il giorno e prende solo qualche raggio all'alba: ideale d'estate quando le altre falesie scottano, meno consigliabile in inverno o dopo giorni di pioggia, quando la quarzite resta bagnata a lungo.",
+      "avvicinamento": "Dal parcheggio si segue una traccia che entra nel bosco a sinistra e sale con pendenza dolce: otto minuti scarsi. Il sentiero non è segnato in modo evidente ma si distingue bene fra gli alberi; la parete compare all'improvviso dietro un gruppo di faggi."
+    },
+    "parts": [
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Prima Colazione",
+          "grado": "5c",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Il Faggio",
+          "grado": "6a",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Corda Corta",
+          "grado": "6a+",
+          "lunghezza": 13
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Mani Nude",
+          "grado": "6b",
+          "lunghezza": 13
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Passo Doppio",
+          "grado": "6b+",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Nebbia Rossa",
+          "grado": "6c",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Il Lamento",
+          "grado": "6c+",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Fulmine a Ciel Sereno",
+          "grado": "7a",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Cinque Dita",
+          "grado": "7a+",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Tacca Dopo Tacca",
+          "grado": "7b",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Il Cinghiale",
+          "grado": "7b+",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Sotto Zero",
+          "grado": "7c",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Rabbia",
+          "grado": "7c+",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "La Sfinge",
+          "grado": "8a",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Muro Verde",
+        "fields": {
+          "nome": "Pioggia di Maggio",
+          "grado": "6b",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Muro Verde",
+        "fields": {
+          "nome": "Scoglio",
+          "grado": "6b+",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Muro Verde",
+        "fields": {
+          "nome": "Il Respiro",
+          "grado": "6c",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Muro Verde",
+        "fields": {
+          "nome": "Tre Spit e Via",
+          "grado": "6c+",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Pilastrino",
+        "fields": {
+          "nome": "Pilastro Dolce",
+          "grado": "5c+",
+          "lunghezza": 11
+        }
+      },
+      {
+        "group": "Pilastrino",
+        "fields": {
+          "grado": "7a",
+          "lunghezza": 13
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-06-04",
+        "words": "Prima volta in questa piccola falesia. Subito colpito dalla quarzite liscia e dai movimenti di forza: si sente nelle dita. Con l'ombra continua si sta benissimo, anche a giugno."
+      },
+      {
+        "observedAt": "2022-07-27",
+        "words": "Mercoledì di caldo afoso. A valle quaranta gradi, qui con l'ombra quasi tutto il giorno si respirava. Ho fatto Il Faggio e Corda Corta, poi ho provato un 7a ma mi sono arreso al terzo spit."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Sabato di agosto, tutti gli appassionati della zona erano qui: sette persone sulla stessa via, un po' di coda. Gli spit sono vicini e lo stile è fisico. La roccia ha un buon grip ma scivola dopo la pioggia."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Giornata tra due temporali. All'attacco la roccia era umida e scivolosa, ho dovuto asciugare le prese con un panno. Sullo strapiombo l'acqua non arrivava: lì era tutto asciutto."
+      },
+      {
+        "observedAt": "2022-10-22",
+        "words": "Con le foglie rosse tutto il bosco è più bello. Ho provato Tacca Dopo Tacca, 7b che richiede un sacco di pazienza. Cinque tentativi, ancora niente. Tornerò. Parcheggio quasi vuoto."
+      },
+      {
+        "observedAt": "2023-05-13",
+        "words": "Primavera piovosa, roccia bagnata sul lato sinistro. Il Muro Verde era una cascatella. Abbiamo dovuto restare sullo strapiombo, l'unico asciutto. Una bella lezione di umiltà con i 7a."
+      },
+      {
+        "observedAt": "2023-06-23",
+        "words": "Venerdì, pomeriggio caldo. In falesia stavamo bene, tutta ombra e brezza. Siamo in quattro e abbiamo diviso le corde. Il Respiro è un 6c bellissimo, più mentale che fisico."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Weekend d'agosto. Il parcheggio è per cinque auto e noi eravamo in tre macchine; gli altri hanno dovuto lasciare più in basso. Dopo l'ultima pioggia c'erano ancora chiazze di fango sul sentiero."
+      },
+      {
+        "observedAt": "2023-09-14",
+        "words": "Giovedì di settembre. Sono venuto da solo e ho scalato in moulinette: si fa facilmente dall'alto. La zona è tranquilla, sentivo solo il torrente più giù. Ottime le catene di sosta."
+      },
+      {
+        "observedAt": "2023-10-07",
+        "words": "Una novità: sono state aggiunte due vie sul pilastrino, 5c+ e 6a, poco ripide e perfette per scaldarsi. I fix sono nuovi e brillanti. Una piccola aggiunta, ma utile."
+      },
+      {
+        "observedAt": "2024-04-20",
+        "words": "Primo giorno dopo l'inverno. Alla base c'era un grosso ramo spezzato e a metà della Sinistra un albero era caduto sulla parete, rovinando una via. Fatto attenzione."
+      },
+      {
+        "observedAt": "2024-05-31",
+        "words": "Venerdì, tempo variabile. L'albero caduto è stato rimosso: restano i graffi sulla roccia ma la via è di nuovo libera. Roccia ancora bagnata per metà. Abbiamo fatto il Pilastrino e un paio di 6a."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Sabato, sole sul fondovalle e fresco qui. Ho trovato Rabbia, 7c+, durissimo, con un tetto e un passo di blocco incredibile: per me, ancora un sogno. Una coppia sta lavorando La Sfinge."
+      },
+      {
+        "observedAt": "2024-08-28",
+        "words": "Mercoledì, assolutamente deserto. Giornata calda altrove ma qui fresca e quasi umida. Per chi cerca un'ora di scalata tranquilla vicino a casa, è il posto ideale."
+      },
+      {
+        "observedAt": "2024-10-05",
+        "words": "Sole timido, rocce un po' scivolose per l'umidità autunnale. Le vie del Muro Verde richiedono scarpette pulite. Due ragazzi alla loro prima volta si sono divertiti e hanno chiesto consigli."
+      },
+      {
+        "observedAt": "2025-05-24",
+        "words": "Dopo giorni di pioggia, prese sotto lo strapiombo asciutte ma sui muri verdi tutto lucido. Un buon momento per riprovare Fulmine a Ciel Sereno, quasi chiusa. Poca gente, tranquillità."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Sabato bollente in pianura, qui invece era perfetto. Tutta ombra fin dalle nove. Il parcheggio era pieno, abbiamo lasciato l'auto sul bordo della strada con un po' di timore."
+      },
+      {
+        "observedAt": "2025-09-05",
+        "words": "Venerdì di fine estate. Ho chiuso finalmente Tacca Dopo Tacca al settimo tentativo: festeggiato con una bibita nel prato. La sosta ha un anello nuovo, un po' più alto del precedente."
+      },
+      {
+        "observedAt": "2026-06-13",
+        "words": "Sabato di giugno, sole alle otto e poi ombra. In tre cordate, siamo stati bene tutti. Gli spit sono vicini ma da qualche via emerge una piastrina che gira: da controllare."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Ombra tutto il giorno",
+          "quote": "l'ombra continua"
+        },
+        {
+          "label": "Vie di forza",
+          "quote": "movimenti di forza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra tutto il giorno",
+          "quote": "qui con l'ombra quasi tutto il giorno si respirava"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "tutti gli appassionati della zona erano qui"
+        },
+        {
+          "label": "Chiodatura ravvicinata",
+          "quote": "Gli spit sono vicini"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lenta ad asciugare",
+          "quote": "All'attacco la roccia era umida e scivolosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie di forza",
+          "quote": "Tacca Dopo Tacca, 7b che richiede un sacco di pazienza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lenta ad asciugare",
+          "quote": "Il Muro Verde era una cascatella"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra tutto il giorno",
+          "quote": "tutta ombra e brezza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "Il parcheggio è per cinque auto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Due vie nuove sul Pilastrino",
+          "kind": "novita",
+          "quote": "sono state aggiunte due vie sul pilastrino"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Albero caduto sulla parete di sinistra",
+          "kind": "attenzione",
+          "quote": "un albero era caduto sulla parete"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Albero rimosso dalla parete di sinistra",
+          "kind": "novita",
+          "quote": "L'albero caduto è stato rimosso"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie di forza",
+          "quote": "un passo di blocco incredibile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra tutto il giorno",
+          "quote": "fresca e quasi umida"
+        },
+        {
+          "label": "Poca gente in settimana",
+          "quote": "assolutamente deserto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lenta ad asciugare",
+          "quote": "rocce un po' scivolose per l'umidità autunnale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lenta ad asciugare",
+          "quote": "sui muri verdi tutto lucido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra tutto il giorno",
+          "quote": "Tutta ombra fin dalle nove"
+        },
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "Il parcheggio era pieno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie di forza",
+          "quote": "chiuso finalmente Tacca Dopo Tacca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura ravvicinata",
+          "quote": "Gli spit sono vicini"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "osm": "r17906427",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "giro-al-santuario-della-madonna-della-neve",
+    "activity": "mountain_bike",
+    "place": "comune-006167",
+    "name": "Giro al Santuario della Madonna della Neve",
+    "lat": 44.71926,
+    "lon": 8.88552,
+    "facts": {},
+    "sections": {
+      "descrizione": "Un anello di circa 21 chilometri che parte e torna a Stazzano e porta al santuario della Madonna della Neve, sulle colline tra la Valle Scrivia e la Val Borbera. Il dislivello è di quasi 700 metri, distribuiti senza grandi strappi: si parte su strade secondarie asfaltate tra le case e i campi, poi si passa a carrarecce e tratti di sterrato che salgono nel bosco di roverelle e castagni.\n\nLa salita è costante, con un paio di rampe più ripide verso il santuario, dove il fondo diventa sassoso e a tratti smosso. Sul crinale si aprono alcune balconate da cui si guarda in basso la valle e, nelle giornate limpide, si distinguono le cime dell'Appennino ligure-piemontese.\n\nLa discesa segue in parte lo stesso versante per poi allungarsi su un altro tratto di sterrato più veloce, e rientra in paese sull'asfalto. Un giro adatto a chi ha un buon allenamento di base ma non cerca difficoltà tecniche: la bici da cross country o una gravel robusta vanno benissimo.",
+      "note": "Si pedala bene da marzo a novembre; in piena estate il caldo sulle rampe esposte si fa sentire e conviene partire presto. Dopo giorni di pioggia l'argilla dei tratti sterrati diventa pesante e scivolosa. Acqua da portare con sé: lungo il percorso le fonti sono poche.",
+      "avvicinamento": "Si parte dal centro di Stazzano, dove si lascia l'auto senza problemi; i primi chilometri sono su asfalto in leggera salita prima di imboccare il primo sterrato."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-03-19",
+        "words": "Primo giro lungo della stagione. Dal paese all'inizio si sale su strada secondaria tranquilla, poi lo sterrato nel bosco. Le gambe ancora fredde ma il fondo era asciutto e la salita costante non mi ha mai messo in crisi."
+      },
+      {
+        "observedAt": "2022-04-10",
+        "words": "Con due amici dopo una settimana di pioggia: l'argilla si attacca alle gomme e al telaio, ci siamo fermati più volte a staccare il fango dai parafanghi. Il panorama dalle balconate però valeva la fatica, si vede tutta la Valle Scrivia."
+      },
+      {
+        "observedAt": "2022-05-25",
+        "words": "Mercoledì libero dal lavoro e giro con calma. Non ho incontrato nessuno per tutta la salita, solo un contadino col trattore vicino a una cascina. Le rampe finali verso il santuario sono ripide e sassose, ho messo il rapporto più agile e spinto piano."
+      },
+      {
+        "observedAt": "2022-06-12",
+        "words": "Santuario raggiunto in circa due ore dal paese, vento leggero e sole. Sulla fontana vicino alla chiesetta si può riempire la borraccia, molto utile perché prima non c'è nulla."
+      },
+      {
+        "observedAt": "2022-07-16",
+        "words": "Sbagliato a partire alle 10. Il caldo sulle rampe scoperte era davvero pesante, 33 gradi all'ombra e io senza abbastanza acqua. In estate meglio l'alba o niente."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Giornata perfetta di fine settembre, aria limpida e le balconate piene di luce bassa. Dalla cima del crinale si leggevano benissimo la Val Borbera e, più lontano, le prime cime innevate."
+      },
+      {
+        "observedAt": "2022-10-29",
+        "words": "Il bosco è tutto giallo e arancio, ho fatto il giro in senso orario con calma e molte foto. Qualche castagna sul sentiero, una ricci sotto la gomma e via, ma niente di grave."
+      },
+      {
+        "observedAt": "2023-03-26",
+        "words": "Primo giro dell'anno con la nuova bici. Fondo ancora umido nei tratti ombreggiati ma si pedala bene, e la salita regolare lascia il tempo di respirare. Colazione al paese prima della partenza."
+      },
+      {
+        "observedAt": "2023-05-06",
+        "words": "Incontrati tre cani pastore vicino a una cascina a metà salita: abbaiavano ma sono rimasti al recinto. Meglio rallentare e passare con calma. Il resto del giro tranquillo, qualche vecchio con la bici da corsa sull'asfalto iniziale."
+      },
+      {
+        "observedAt": "2023-06-21",
+        "words": "Giornata di ferie, partito alle 7 per anticipare il caldo e fatto bene. Alle 10 ero già in discesa sull'ultimo sterrato veloce. Due caprioli attraversato davanti a me nel bosco, bellissimo."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Segnaletica sul percorso sempre più chiara: hanno rimesso i cartelli bianchi e rossi in corrispondenza degli incroci principali, adesso non serve più guardare la traccia ogni cinquecento metri."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Autunno inoltrato e giro sereno. Le rampe verso il santuario sono ripide ma brevi, e subito dopo c'è una discesa su sterrato che fa girare le gambe. Pranzo al sacco sul sagrato."
+      },
+      {
+        "observedAt": "2024-04-07",
+        "words": "Un albero caduto attraversa la carrareccia poco dopo il secondo bivio, si passa a piedi con la bici sulla spalla. Dopo una settimana di vento forte: forse lo spostano presto."
+      },
+      {
+        "observedAt": "2024-05-22",
+        "words": "Un giro infrasettimanale in solitaria. Silenzio quasi totale, solo uccelli e il rumore della catena. Ho incontrato un altro ciclista soltanto alla fontana del santuario."
+      },
+      {
+        "observedAt": "2024-06-30",
+        "words": "Caldo già alle 9 ma ombra buona nel bosco. Il tratto di crinale è pieno di sole, a tratti si avverte il vento che viene dalla valle. In generale un giro che consiglierei a chi vuole fare dislivello senza tecnica."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Il tronco caduto è stato tagliato e spostato, adesso si passa in sella senza problemi. Bella giornata di fine estate, con un po' di nebbia nella valle che sale lentamente."
+      },
+      {
+        "observedAt": "2025-04-12",
+        "words": "Panorama limpido sulla Val Borbera dopo la pioggia della notte. Due cinghiali attraversano a pochi metri, io fermo ad aspettare. Giro lungo ma sempre piacevole."
+      },
+      {
+        "observedAt": "2025-10-05",
+        "words": "Ultimo giro prima dell'inverno: castagne ovunque e aria fresca. Con la gravel ci si diverte, ma sulle rampe sassose ci vuole una gomma generosa. Pranzo a Stazzano con una focaccia."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita costante e regolare",
+          "quote": "la salita costante non mi ha mai messo in crisi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fango dopo la pioggia",
+          "quote": "l'argilla si attacca alle gomme e al telaio"
+        },
+        {
+          "label": "Panorami sulla valle",
+          "quote": "si vede tutta la Valle Scrivia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rampe ripide verso il santuario",
+          "quote": "Le rampe finali verso il santuario sono ripide e sassose"
+        },
+        {
+          "label": "Strade quasi deserte",
+          "quote": "Non ho incontrato nessuno per tutta la salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua al santuario",
+          "quote": "Sulla fontana vicino alla chiesetta si può riempire la borraccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nelle ore centrali",
+          "quote": "Il caldo sulle rampe scoperte era davvero pesante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorami sulla valle",
+          "quote": "si leggevano benissimo la Val Borbera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori autunnali nel bosco",
+          "quote": "Il bosco è tutto giallo e arancio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita costante e regolare",
+          "quote": "la salita regolare lascia il tempo di respirare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cani da pastore vicino alle cascine",
+          "quote": "Incontrati tre cani pastore vicino a una cascina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nelle ore centrali",
+          "quote": "partito alle 7 per anticipare il caldo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuova segnaletica sugli incroci",
+          "kind": "novita",
+          "quote": "hanno rimesso i cartelli bianchi e rossi in corrispondenza degli incroci principali"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Rampe ripide verso il santuario",
+          "quote": "Le rampe verso il santuario sono ripide ma brevi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Albero caduto sulla carrareccia",
+          "kind": "attenzione",
+          "quote": "Un albero caduto attraversa la carrareccia poco dopo il secondo bivio"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Strade quasi deserte",
+          "quote": "Silenzio quasi totale"
+        },
+        {
+          "label": "Acqua al santuario",
+          "quote": "alla fontana del santuario"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorami sulla valle",
+          "quote": "il vento che viene dalla valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tronco rimosso dalla carrareccia",
+          "kind": "novita",
+          "quote": "Il tronco caduto è stato tagliato e spostato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorami sulla valle",
+          "quote": "Panorama limpido sulla Val Borbera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fondo sassoso verso il santuario",
+          "quote": "sulle rampe sassose ci vuole una gomma generosa"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "osm": "r11993823",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d15",
+    "activity": "escursionismo",
+    "place": "comune-002002",
+    "name": "Via Alpina Blue D15",
+    "lat": 45.87742,
+    "lon": 7.95891,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 439,
+      "localita_partenza": "Rifugio Ferioli",
+      "come_arrivare": "Il Rifugio Ferioli si raggiunge solo a piedi, dalla Val d'Egua o dalla Valsesia. L'arrivo a Sant'Antonio, in Val Vogna, ha una strada percorribile: il rientro in auto è possibile dopo un trasferimento tra le due località."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu dal Rifugio Ferioli a Sant'Antonio di Valvogna, un piccolo insediamento walser in Val Vogna, sopra Alagna. Circa 10 chilometri con poca salita (meno di 450 metri) e una discesa di oltre 1.300.\n\nSi parte dal rifugio e si attraversa un altopiano di pietre e pascoli, poi si scende a lungo per vecchie mulattiere verso la Val Vogna. Gli ultimi chilometri passano nel bosco di larici fino alle baite di Sant'Antonio, dove si trova una cappella antica.\n\nÈ una tappa di discesa, panoramica nella prima parte e riposante nella seconda. Conviene partire presto per godersi il bosco senza fretta."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Dopo la fatica dei giorni scorsi questa tappa è un regalo: dal Ferioli il sentiero è tutto in discesa e si respira. Ho mangiato i mirtilli in marcia."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Le baite di Sant'Antonio con la cappella sono come un set cinematografico. Siamo rimasti mezz'ora a guardare il tetto in pietra."
+      },
+      {
+        "observedAt": "2022-09-16",
+        "words": "Un mercoledì con l'aria fresca, il bosco di larici che odorava di resina. Non ho incontrato nessuno e mi sono preso il tempo per fermarmi."
+      },
+      {
+        "observedAt": "2023-06-03",
+        "words": "Neve vecchia nelle conche sotto il rifugio, ma il sentiero scende a zig-zag e si evita bene. Prima mattina ghiacciata e poi sole."
+      },
+      {
+        "observedAt": "2023-07-30",
+        "words": "La discesa in mulattiera è bella ma i sassi lisci fanno lavorare le caviglie. Abbiamo usato i bastoncini quasi sempre."
+      },
+      {
+        "observedAt": "2023-08-28",
+        "words": "Feriale, cielo di cobalto. Tre marmotte sul prato appena sotto il rifugio, per niente intimorite, e un gipeto altissimo."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Ho visto la Val Vogna al mattino con le nuvole nel fondo e il sole che entrava dai pendii: uno spettacolo."
+      },
+      {
+        "observedAt": "2023-10-22",
+        "words": "Aria frizzante e fieno profumato nelle baite. Il locale a Sant'Antonio era già chiuso per la stagione ma una signora ci ha regalato un bicchier d'acqua."
+      },
+      {
+        "observedAt": "2024-06-08",
+        "words": "Passerella e un tratto di sentiero rifatti dopo una piena: ora il percorso è in buone condizioni e segnato con paline nuove."
+      },
+      {
+        "observedAt": "2024-07-21",
+        "words": "Tratti di sentiero fangosi dopo giorni di pioggia. Con le scarpe sbagliate sarebbe stata una slittata continua, le mie suole nuove hanno tenuto."
+      },
+      {
+        "observedAt": "2024-08-20",
+        "words": "Il giovedì di agosto più silenzioso della mia vita: solo il rumore del ruscello e il campanaccio di una capra."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Una lunga lingua di sassi è scesa sul sentiero poco sotto le baite alte, e il passaggio si fa su un tratto stretto e instabile. Meglio non fermarsi lì sotto."
+      },
+      {
+        "observedAt": "2024-10-27",
+        "words": "Foglie rosse e gialle di larice, aria limpida. La discesa a Sant'Antonio è stata un tuffo nei colori."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Ho preso il pulmino da Sant'Antonio verso Alagna alla fine, comodissimo. Chi ha l'auto a Sant'Antonio non ha problemi."
+      },
+      {
+        "observedAt": "2025-08-31",
+        "words": "La frana sul sentiero è stata ripulita e c'è un percorso ben battuto. Sulla mulattiera sotto il rifugio hanno ripristinato i muretti a secco."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Camosci in massa appena dopo il rifugio, più di venti. La tappa si è conclusa con una birra e una polenta nel rifugio di Sant'Antonio."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Discesa riposante",
+          "quote": "dal Ferioli il sentiero è tutto in discesa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sant'Antonio e la cappella",
+          "quote": "Le baite di Sant'Antonio con la cappella"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Larici in discesa",
+          "quote": "il bosco di larici che odorava di resina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve e fango",
+          "quote": "Neve vecchia nelle conche sotto il rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mulattiera con sassi lisci",
+          "quote": "i sassi lisci fanno lavorare le caviglie"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna alpina",
+          "quote": "Tre marmotte sul prato appena sotto il rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla Val Vogna",
+          "quote": "Ho visto la Val Vogna al mattino con le nuvole nel fondo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiusura di fine stagione",
+          "quote": "già chiuso per la stagione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero rifatto dopo la piena",
+          "kind": "novita",
+          "quote": "Passerella e un tratto di sentiero rifatti dopo una piena: ora il percorso è in buone condizioni e segnato con paline nuove."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve e fango",
+          "quote": "Tratti di sentiero fangosi dopo giorni di pioggia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "Il giovedì di agosto più silenzioso della mia vita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sassi caduti sul sentiero",
+          "kind": "attenzione",
+          "quote": "Una lunga lingua di sassi è scesa sul sentiero poco sotto le baite alte, e il passaggio si fa su un tratto stretto e instabile."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Larici in discesa",
+          "quote": "La discesa a Sant'Antonio è stata un tuffo nei colori"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rientro con il pulmino",
+          "quote": "Ho preso il pulmino da Sant'Antonio verso Alagna"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mulattiera con sassi lisci",
+          "quote": "Sulla mulattiera sotto il rifugio hanno ripristinato i muretti a secco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna alpina",
+          "quote": "Camosci in massa appena dopo il rifugio"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

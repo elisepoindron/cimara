@@ -1,0 +1,347 @@
+{
+  "osm": "w1531349091",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-degli-angeli-settore-grand-falaise",
+    "activity": "falesia",
+    "place": "comune-004248",
+    "name": "Falesia degli Angeli settore Grand Falaise",
+    "lat": 44.21239,
+    "lon": 7.19293,
+    "aspect": "SO",
+    "altMax": 2176,
+    "facts": {
+      "quota_base": 2176,
+      "esposizione": "SO",
+      "avvicinamento": 30,
+      "localita_partenza": "Vinadio"
+    },
+    "sections": {
+      "note": "Grand Falaise è il settore più ampio della falesia degli Angeli, a 2170 metri, su una paretina di gneiss rivolta a sud-ovest. Dodici vie fra il 4a e il 6a, lunghe fino a 25 metri, tutte spittate e adatte a chi comincia o a chi cerca una giornata rilassata d'alta quota.\n\nLa roccia è compatta e abbastanza ruvida, con prese regolari. Il sole arriva a metà mattina e resta fino al tramonto: a luglio e agosto è piacevole, in giugno e a fine settembre può servire un pile. D'inverno la quota non lo permette.\n\nI settori vicini, Specialist, The Face e Water Front, sono a pochi passi: si può fare un giro completo con una corda da 60 metri e dieci rinvii.",
+      "avvicinamento": "Dal punto in cui finisce la strada si sale per mezz'ora su sentiero e tracce fra prati e massi, con qualche tratto ripido; la parete è ben visibile da lontano."
+    },
+    "parts": [
+      {
+        "group": "Grand Falaise",
+        "fields": {
+          "nome": "Prima Luce",
+          "grado": "4a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Grand Falaise",
+        "fields": {
+          "nome": "Il Gradino Facile",
+          "grado": "4b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Grand Falaise",
+        "fields": {
+          "nome": "Passi Piccoli",
+          "grado": "4c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Grand Falaise",
+        "fields": {
+          "nome": "Marmotta Distratta",
+          "grado": "5a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Grand Falaise",
+        "fields": {
+          "nome": "Aria di Montagna",
+          "grado": "5a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Grand Falaise",
+        "fields": {
+          "nome": "Fratello Lupo",
+          "grado": "5b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Grand Falaise",
+        "fields": {
+          "nome": "La Tana",
+          "grado": "5b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Grand Falaise",
+        "fields": {
+          "nome": "Sentiero Segreto",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Grand Falaise",
+        "fields": {
+          "nome": "Il Fischio",
+          "grado": "5c+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Grand Falaise",
+        "fields": {
+          "nome": "Gneiss Dolce",
+          "grado": "6a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Grand Falaise",
+        "fields": {
+          "nome": "Ultimo Sole",
+          "grado": "6a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Grand Falaise",
+        "fields": {
+          "nome": "La Cima Vicina",
+          "grado": "6a",
+          "lunghezza": 25
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-23",
+        "words": "Giornata limpida e quasi estiva a oltre duemila metri. Siamo saliti con due bambini in mezz'ora, vie facili e belle sulla parte sinistra della parete. Le marmotte fischiavano per tutto il tempo."
+      },
+      {
+        "observedAt": "2022-08-09",
+        "words": "Martedì in ferie, tutto per noi. Aria fine e sole caldo, ma appena arriva un nuvolone la temperatura scende di dieci gradi. Portare una felpa e un k-way, anche in agosto."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Gneiss ruvido e vie ben chiodate, una giornata da scuola di arrampicata. Il Fratello Lupo mi è sembrato più duro del suo grado, ma il resto era regalato. Si vedeva il lago in lontananza."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Fine settembre e già fresco: alle nove la parete era in ombra e le mani gelate. Dalle undici il sole è arrivato e si scalava bene. Salita lunga ma sentiero chiaro."
+      },
+      {
+        "observedAt": "2023-07-01",
+        "words": "Neve ancora in tracce sul sentiero ma le vie erano asciutte. Prima uscita in quota quest'anno: la roccia è asciutta e ruvida, ideale per riprendere. Il giro delle dodici vie si fa in una mattina."
+      },
+      {
+        "observedAt": "2023-07-26",
+        "words": "Mercoledì sera tardi dopo il lavoro, saliti con il frontale per la discesa. Tramonto sulle montagne incredibile, roccia calda anche alle sette. Ho ripetuto La Tana tre volte con tre varianti diverse."
+      },
+      {
+        "observedAt": "2023-08-19",
+        "words": "Sabato di fine estate, c'erano parecchi gruppi di ragazzi. Code alle prime due vie ma tutti molto educati. I rinvii si trovano tutti, nessuna sosta mancante."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Caldo anche a 2170 metri: la parete è rivolta a sud-ovest e dal pomeriggio fa effetto forno. Meglio salire presto e scendere a pranzo. Le prese regolari aiutano sul 5c."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Sono arrivati nuovi cartelli con il nome dei settori alla base del sentiero. Chiaro e comodo. Giornata ventosa ma molto limpida, panorama bellissimo sulle cime del Parco delle Alpi Marittime."
+      },
+      {
+        "observedAt": "2024-08-01",
+        "words": "Giovedì mattina, silenzio assoluto. Abbiamo salito tutto il settore partendo dal 4a e fermandoci al 6a, senza nessuna fretta. Gneiss pulito e senza polvere."
+      },
+      {
+        "observedAt": "2024-08-24",
+        "words": "Un frammento di roccia si è staccato a sinistra di Gneiss Dolce lasciando una zona chiara: la via è ora più sporca nei primi metri. Chi sale deve fare attenzione e non stare sotto in coppia."
+      },
+      {
+        "observedAt": "2024-09-15",
+        "words": "Bella giornata tersa, poca gente. Abbiamo passato il pomeriggio sull'erba sotto la parete a mangiare formaggio e guardare chi saliva. Il sentiero è facile da trovare."
+      },
+      {
+        "observedAt": "2025-06-28",
+        "words": "Arrampicata di inizio stagione con neve sparsa sui prati. Le vie però erano perfette e il sole scaldava subito. Sentiero un po' fangoso nell'ultimo tratto prima della parete."
+      },
+      {
+        "observedAt": "2025-07-20",
+        "words": "Domenica mattina con tutta la famiglia. Passi Piccoli è perfetta per chi parte da zero, la sosta è comoda e c'è spazio per stare in tre. Gli altri settori sono a due passi."
+      },
+      {
+        "observedAt": "2025-08-13",
+        "words": "Mercoledì di mezza estate, temporale in arrivo da ovest alle tre del pomeriggio. Siamo scesi di corsa e ci è andata bene. A quota così alta le nuvole crescono molto in fretta."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Ultime vie del 2025 sul Grand Falaise. Mani fredde al mattino e sole pieno nel pomeriggio, la combinazione migliore. Sentiero segnato con ometti nuovi, si trova senza problemi."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Adatta ai principianti",
+          "quote": "vie facili e belle sulla parte sinistra"
+        },
+        {
+          "label": "Avvicinamento di mezz'ora",
+          "quote": "in mezz'ora"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo che cambia",
+          "quote": "appena arriva un nuvolone la temperatura scende"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai principianti",
+          "quote": "una giornata da scuola di arrampicata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole dal mattino tardi",
+          "quote": "Dalle undici il sole è arrivato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Neve ancora in tracce sul sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tramonto in parete",
+          "quote": "Tramonto sulle montagne incredibile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gruppi numerosi",
+          "quote": "parecchi gruppi di ragazzi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole forte nel pomeriggio",
+          "quote": "dal pomeriggio fa effetto forno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartelli nuovi ai settori",
+          "kind": "novita",
+          "quote": "Sono arrivati nuovi cartelli con il nome dei settori alla base del sentiero."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Giovedì mattina, silenzio assoluto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Placca staccata su Gneiss Dolce",
+          "kind": "attenzione",
+          "quote": "Un frammento di roccia si è staccato a sinistra di Gneiss Dolce lasciando una zona chiara"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "neve sparsa sui prati"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai principianti",
+          "quote": "Passi Piccoli è perfetta per chi parte da zero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo che cambia",
+          "quote": "A quota così alta le nuvole crescono molto in fretta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole dal mattino tardi",
+          "quote": "sole pieno nel pomeriggio"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Ometti nuovi sul sentiero",
+          "kind": "novita",
+          "quote": "Sentiero segnato con ometti nuovi, si trova senza problemi."
+        }
+      ]
+    }
+  ]
+}

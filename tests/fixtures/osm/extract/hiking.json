@@ -1,0 +1,6 @@
+{"timestamp":"2026-11-19T17:31:00Z","query":"(fixture)","elements":[
+ {"type":"relation","id":30,"tags":{"name":"Anello di Prova","route":"hiking","cai_scale":"E","network":"lwn"},"geometry":[{"lat":45.6,"lon":7.76},{"lat":45.605,"lon":7.765},{"lat":45.61,"lon":7.77}],"members":[{"type":"way","ref":300,"role":""}]},
+ {"type":"relation","id":31,"tags":{"ref":"7A","route":"hiking"},"geometry":[{"lat":45.601,"lon":7.761},{"lat":45.606,"lon":7.766}],"members":[{"type":"way","ref":310,"role":""}]},
+ {"type":"relation","id":32,"tags":{"route":"hiking"},"geometry":[{"lat":45.602,"lon":7.762},{"lat":45.607,"lon":7.767}]},
+ {"type":"relation","id":33,"tags":{"name":"Grande Traversata di Prova","route":"hiking","type":"superroute"},"members":[{"type":"relation","ref":30,"role":""}]}
+]}

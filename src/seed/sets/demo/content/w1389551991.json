@@ -1,0 +1,347 @@
+{
+ "osm": "w1389551991",
+ "invented": [
+  "avvicinamento",
+  "localita_partenza",
+  "vie",
+  "description",
+  "reports"
+ ],
+ "itinerary": {
+  "key": "gran-rotsa-settore-degli-amici",
+  "activity": "falesia",
+  "place": "comune-001114",
+  "name": "Falesia Gran Rotsa - Settore degli Amici",
+  "lat": 45.14067,
+  "lon": 6.97987,
+  "aspect": "S",
+  "altMax": 1107,
+  "facts": {
+   "esposizione": "S",
+   "quota_base": 1107,
+   "avvicinamento": 12,
+   "localita_partenza": "Giaglione"
+  },
+  "sections": {
+   "note": "Il Settore degli Amici è la parte alta e più estesa della Gran Rotsa, qualche decina di metri sopra i Calli, sempre a circa 1100 metri e con la stessa esposizione a sud. Sono dieci vie di gneiss grigio, lunghe una trentina di metri, dal 5a al 6c, quindi un settore adatto anche a chi inizia.\n\nLa roccia è compatta, con placche inclinate e qualche muro verticale dove si lavora di dita. Le vie sono ben spittate, i primi spit sono alti sulle più facili ma poi la protezione è regolare. Alla base c'è un pianoro erboso dove stare con i bambini.\n\nDa aprile a novembre si scala bene, in piena estate è meglio andarci la mattina presto.",
+   "avvicinamento": "Si parte dal posteggio e si segue il sentiero verso la Gran Rotsa; ai primi massi si prende a destra, poi si sale in diagonale fino a un pianoro sotto la parete. Una dozzina di minuti, con un tratto ripido."
+  },
+  "parts": [
+   {
+    "group": "Placche",
+    "fields": {
+     "nome": "Primo Amico",
+     "grado": "5a",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Placche",
+    "fields": {
+     "nome": "Buongiorno Valle",
+     "grado": "5a+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Placche",
+    "fields": {
+     "nome": "Passo di Danza",
+     "grado": "5b",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Placche",
+    "fields": {
+     "nome": "La Compagna",
+     "grado": "5c",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Placche",
+    "fields": {
+     "nome": "Tre Gradini",
+     "grado": "5c+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Muro",
+    "fields": {
+     "nome": "L'Invito",
+     "grado": "6a",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Muro",
+    "fields": {
+     "nome": "Grigio Perla",
+     "grado": "6a+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Muro",
+    "fields": {
+     "nome": "Il Rivale",
+     "grado": "6b",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Muro",
+    "fields": {
+     "nome": "Sorriso a Metà",
+     "grado": "6b+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Muro",
+    "fields": {
+     "nome": "Ultimo Brindisi",
+     "grado": "6c",
+     "lunghezza": 30
+    }
+   }
+  ],
+  "reports": [
+   {
+    "observedAt": "2022-03-27",
+    "words": "Primo test della stagione, in tre contro il vento freddo che scendeva dalla valle. Con il sole sulla placca si stava bene, le vie facili sono ideali per scaldarsi."
+   },
+   {
+    "observedAt": "2022-05-14",
+    "words": "Con la scuola di arrampicata, otto ragazzi sulle prime vie. Il pianoro alla base è comodo, nessuno rischia di ruzzolare giù. Gli istruttori hanno apprezzato la sosta lunga e comoda."
+   },
+   {
+    "observedAt": "2022-08-10",
+    "words": "Mercoledì di agosto, siamo saliti presto per fuggire il caldo della pianura. Alle undici l'ombra non c'era più, ma alle otto si scalava benissimo."
+   },
+   {
+    "observedAt": "2022-10-08",
+    "words": "Bella giornata di ottobre, qualche bambino con i genitori sul pianoro. Il 6b vale la salita: movimento chiaro, nessun passo dubbio."
+   },
+   {
+    "observedAt": "2023-03-05",
+    "words": "Ci siamo svegliati col freddo ma in parete già alle dieci c'era tutto il sole. Le dita si scaldano subito, e il gneiss è asciutto anche dopo giorni di brutto."
+   },
+   {
+    "observedAt": "2023-04-24",
+    "words": "Lunedì dell'Angelo, tutto in pace. La nuova catena sulla sosta di Passo di Danza fa un'altra figura rispetto ai cordini di prima."
+   },
+   {
+    "observedAt": "2023-06-17",
+    "words": "Sabato di giugno: arrivati alle sette per non cuocere. Fatto cinque vie prima delle dieci, poi ritirata a bere qualcosa giù al paese."
+   },
+   {
+    "observedAt": "2023-09-09",
+    "words": "Gruppo numeroso nel settore, quattro cordate; non ci siamo dati fastidio ma l'attesa alla base di Il Rivale è stata lunga. Roccia ottima, ben pulita."
+   },
+   {
+    "observedAt": "2023-11-11",
+    "words": "Fine stagione, ci si arrampica con la giacca e poi si toglie quando arriva il sole. Una vipera sul sentiero all'andata, in novembre inaspettata."
+   },
+   {
+    "observedAt": "2024-02-18",
+    "words": "Neve sul sentiero ma parete pulita, un tratto ghiacciato alla base che va superato con attenzione. Con il sole di pieno giorno si sta in maglietta."
+   },
+   {
+    "observedAt": "2024-04-13",
+    "words": "Seconda uscita con i miei figli. Hanno fatto Primo Amico e Buongiorno Valle con la corda dall'alto, felicissimi. Qualche spit alto che per i piccoli è una sfida."
+   },
+   {
+    "observedAt": "2024-05-30",
+    "words": "Giovedì mattina, due ore di scalata prima di tornare al lavoro. Parete deserta, ho scalato in solitaria con il moschettone appeso al tiro. Bellissimo."
+   },
+   {
+    "observedAt": "2024-07-21",
+    "words": "Un errore: arrivati alle undici, già troppo caldo. Dopo un tiro e mezzo abbiamo cambiato programma. Servono sveglie presto o un'altra stagione."
+   },
+   {
+    "observedAt": "2024-09-28",
+    "words": "Qualcuno ha segnalato un blocco instabile a destra del pianoro, abbiamo visto il nastro e abbiamo evitato quella zona. Per il resto una giornata perfetta di fine estate."
+   },
+   {
+    "observedAt": "2025-03-09",
+    "words": "Domenica con vento da nord ma parete riparata, il sole di marzo scalda bene. Le vie centrali un po' lisce sulle prese migliori ma sempre sicure."
+   },
+   {
+    "observedAt": "2025-05-17",
+    "words": "Giorno di festa in valle, il posteggio era pieno e abbiamo camminato lungo la strada. Ma in parete c'era posto: ognuno la sua via, senza fretta."
+   },
+   {
+    "observedAt": "2025-10-03",
+    "words": "Venerdì, giornata di sole e foglie dorate. Cinque vie senza fretta, buonissimo il 6a+, compatto e continuo. Tornerò con gli amici, come dice il nome."
+   },
+   {
+    "observedAt": "2026-04-04",
+    "words": "Primo giro dopo un inverno di riposo: la nuova catena all'inizio del sentiero evita di sbagliare strada, il cartello è chiaro. Roccia asciutta, pomeriggio di sole."
+   }
+  ]
+ },
+ "readings": [
+  {
+   "themes": [
+    {
+     "label": "Adatta ai principianti",
+     "quote": "le vie facili sono ideali per scaldarsi"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Pianoro comodo alla base",
+     "quote": "Il pianoro alla base è comodo"
+    },
+    {
+     "label": "Adatta ai principianti",
+     "quote": "otto ragazzi sulle prime vie"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Esposta al sole",
+     "quote": "Alle undici l'ombra non c'era più"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Pianoro comodo alla base",
+     "quote": "sul pianoro"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Esposta al sole",
+     "quote": "in parete già alle dieci c'era tutto il sole"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "tutto in pace"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Soste con catena nuova",
+     "kind": "novita",
+     "quote": "La nuova catena sulla sosta di Passo di Danza"
+    }
+   ]
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Affollata nei fine settimana",
+     "quote": "quattro cordate"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Esposta al sole",
+     "quote": "Con il sole di pieno giorno si sta in maglietta"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Adatta ai principianti",
+     "quote": "Primo Amico e Buongiorno Valle"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "Parete deserta"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Esposta al sole",
+     "quote": "già troppo caldo"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Blocco instabile a destra del pianoro",
+     "kind": "attenzione",
+     "quote": "un blocco instabile a destra del pianoro"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Roccia lisciata",
+     "quote": "un po' lisce sulle prese migliori"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Affollata nei fine settimana",
+     "quote": "il posteggio era pieno"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Nuovo cartello ai bivi del sentiero",
+     "kind": "novita",
+     "quote": "il cartello è chiaro"
+    }
+   ]
+  }
+ ]
+}

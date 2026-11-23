@@ -1,0 +1,261 @@
+{
+  "osm": "r9772182",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-red-r144",
+    "activity": "escursionismo",
+    "place": "comune-004084",
+    "name": "Via Alpina Red R144",
+    "lat": 44.13985,
+    "lon": 7.36395,
+    "facts": {
+      "difficolta": "EE",
+      "localita_partenza": "Rifugio Ellena-Soria",
+      "come_arrivare": "Il Rifugio Ellena-Soria si trova sopra Entracque, in alta Valle Gesso, e si raggiunge a piedi o in parte in auto lungo la strada del Colle. L'arrivo alla Madone de Fenestre, in Francia, richiede un rientro organizzato."
+    },
+    "sections": {
+      "descrizione": "Tappa di confine della Via Alpina Rossa: dal Rifugio Ellena-Soria, nelle Alpi Marittime, alla Madone de Fenestre, in territorio francese. Si sale a un colle sul crinale di confine e si scende dall'altra parte, in un vallone selvaggio e quasi sempre deserto.\n\nIl fondo è sentiero di terra e pietrame, con qualche tratto su roccette. L'ambiente è alpino, con laghi nei dintorni, pietraie e pareti. La discesa sul versante francese è lunga, con la vista del santuario sul fondo.\n\nIl periodo è da luglio a ottobre. È una tappa non breve, con un valico da superare e un confine da attraversare: documento nello zaino e attenzione al meteo."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-17",
+        "words": "Il sentiero verso il colle sale con regolarità, in mezz'ora si lascia l'ultimo albero. Poi solo erba bassa e massi."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Dal colle la valle francese si apre come un anfiteatro. Un colpo d'occhio, con in fondo la Madone nascosta tra le rocce."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Un temporale a mezzogiorno proprio sul valico. Fulmini sulle creste vicine, siamo scesi di corsa senza fermarci."
+      },
+      {
+        "observedAt": "2023-07-13",
+        "words": "Martedì a metà settimana e solo un altro escursionista in tutto il giorno. Un camoscio ci ha accompagnati per un pezzo."
+      },
+      {
+        "observedAt": "2023-08-06",
+        "words": "Salendo dall'Ellena-Soria, il rifugio sembra piccolo ma la colazione è ottima: pane, burro, marmellata fatta in casa."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Il laghetto sotto il colle, nel pietrame, è color ardesia. Un posto solitario dove una sosta lunga è quasi obbligatoria."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "La discesa dal colle verso la Madone è lunga e a tratti ripida, con terra smossa. Meglio con i bastoncini."
+      },
+      {
+        "observedAt": "2024-07-17",
+        "words": "Giovedì di ferie, il colle in nebbia. Il sentiero in pietraia era indistinguibile e abbiamo seguito gli ometti uno ad uno."
+      },
+      {
+        "observedAt": "2024-08-18",
+        "words": "Documento sempre nello zaino: noi non ce l'hanno chiesto ma al santuario c'erano due gendarmi a controllare qualcuno."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Camosci, marmotte e una coppia di aquile in cerchio sopra il colle. Una tappa piena di vita."
+      },
+      {
+        "observedAt": "2025-07-13",
+        "words": "Un nevaio ancora a inizio luglio sul lato nord del colle, ripido e duro. Ramponcini obbligatori al mattino."
+      },
+      {
+        "observedAt": "2025-08-06",
+        "words": "Alla Madone un piccolo rifugio e il santuario con la sua chiesetta di pietra. Sul prato davanti un gruppo di famiglie francesi in gita."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "La traccia francese è diversa nei segni: strisce rosse e bianche invece dei bolli giallo-rossi. Ma si segue bene."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Una frana in primavera ha portato via un tratto di sentiero poco prima del colle: il passaggio è stato rifatto più in alto con pietre messe a mano."
+      },
+      {
+        "observedAt": "2026-07-18",
+        "words": "Hanno posato una targa nuova al valico, con i nomi dei due versanti e le quote. Una bella foto ricordo."
+      },
+      {
+        "observedAt": "2026-08-06",
+        "words": "Lunedì di vento forte al colle: ho dovuto tenere il cappello con la mano per tutto il tratto di cresta."
+      },
+      {
+        "observedAt": "2026-08-30",
+        "words": "Autunno già avanzato: larici in basso gialli, prime nevicate sulle cime. Il santuario con il tetto bianco era una cartolina."
+      },
+      {
+        "observedAt": "2026-09-26",
+        "words": "Tappa non lunghissima ma intensa. Il confine è passato con un sorriso e un panino, nient'altro."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita verso il colle",
+          "quote": "Il sentiero verso il colle sale con regolarità"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul versante francese",
+          "quote": "Dal colle la valle francese si apre come un anfiteatro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali al valico",
+          "quote": "Un temporale a mezzogiorno proprio sul valico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Valle quasi deserta",
+          "quote": "solo un altro escursionista in tutto il giorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Ellena-Soria",
+          "quote": "la colazione è ottima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Laghetti sotto il colle",
+          "quote": "Il laghetto sotto il colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga sul versante francese",
+          "quote": "La discesa dal colle verso la Madone è lunga"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sul colle",
+          "quote": "il colle in nebbia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Confine e documenti",
+          "quote": "Documento sempre nello zaino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio estate",
+          "quote": "Un nevaio ancora a inizio luglio sul lato nord del colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Santuario e rifugio alla Madone",
+          "quote": "Alla Madone un piccolo rifugio e il santuario"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica diversa oltre confine",
+          "quote": "strisce rosse e bianche invece dei bolli giallo-rossi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero rifatto prima del colle",
+          "kind": "attenzione",
+          "quote": "Una frana in primavera ha portato via un tratto di sentiero"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Targa nuova al valico",
+          "kind": "novita",
+          "quote": "Hanno posato una targa nuova al valico"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali al valico",
+          "quote": "vento forte al colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Santuario e rifugio alla Madone",
+          "quote": "Il santuario con il tetto bianco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Confine e documenti",
+          "quote": "Il confine è passato con un sorriso"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

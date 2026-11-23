@@ -1,0 +1,293 @@
+{
+  "osm": "w399860652",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "ferrata-la-ruceia",
+    "activity": "via_ferrata",
+    "place": "comune-001093",
+    "name": "Ferrata “La Rucèia”",
+    "lat": 45.11825,
+    "lon": 7.29585,
+    "aspect": "S",
+    "altMax": 620,
+    "facts": {},
+    "sections": {
+      "descrizione": "Una ferrata facile e breve sulle pendici sopra Condove, in bassa Val di Susa, a pochi minuti dal fondovalle. Parte da circa 420 metri e sale sul fianco roccioso con un cavo continuo, qualche staffa e due o tre passaggi leggermente verticali. Non è mai difficile e si presta bene a una prima volta, a un'uscita con i bambini più grandi o a una mattinata di allenamento.\n\nLa parete guarda a sud: d'inverno è un'ottima scelta nelle giornate fredde e limpide, d'estate diventa un forno e conviene farla presto. La roccia è levigata nei punti dove si passa di più e, se è bagnata, scivola.\n\nSi porta il set da ferrata omologato, casco e guanti; dall'alto si rientra per un sentiero senza particolari difficoltà, in poco tempo.",
+      "avvicinamento": "Dal paese si raggiunge il parcheggio e si segue il sentiero segnalato per l'attacco: dieci minuti di camminata tra bosco e muretti a secco."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-03-12",
+        "words": "Primo giro dell'anno con il sole di marzo. La parete asciutta e calda, il cavo in ordine. Ho incontrato due scolaresche con istruttori, un po' di coda, niente di grave."
+      },
+      {
+        "observedAt": "2022-04-14",
+        "words": "Giovedì di ferie, la ferrata tutta per noi. Bella da fare con un'amica alla prima volta: nessuna paura, nessuna fatica, ci siamo goduti il panorama sulla valle."
+      },
+      {
+        "observedAt": "2022-05-08",
+        "words": "Abbiamo portato i bambini di nove e undici anni. Ci sono stati solo due passaggi dove ho dovuto aiutarli, per il resto sono andati su da soli come gatti."
+      },
+      {
+        "observedAt": "2022-06-26",
+        "words": "Troppo caldo, la parete prende il sole dalle nove. Partiti alle sette, finito a metà mattina, bagnati fradici in ogni caso. Da giugno in poi meglio l'alba."
+      },
+      {
+        "observedAt": "2022-10-02",
+        "words": "Domenica di ottobre, bel sole, un po' di gente ma niente code. Nei punti dove tutti mettono i piedi la roccia è lucida, occhio dopo la pioggia."
+      },
+      {
+        "observedAt": "2022-11-19",
+        "words": "Giornata fredda e limpida, perfetta per una ferrata in pianura. Al sole si stava in maglietta, all'ombra del bosco di avvicinamento avevo le mani gelate."
+      },
+      {
+        "observedAt": "2023-01-07",
+        "words": "Sabato di gennaio, aria pungente e nessuna neve sul percorso. Una ferrata facile ma ben fatta, ottima per scaldare le gambe in pieno inverno."
+      },
+      {
+        "observedAt": "2023-03-22",
+        "words": "Mercoledì mattina. Un tratto di cavo vicino al passaggio centrale era lento e dondolava appena. Ho tirato forte e l'ancoraggio sembrava a posto, ma controllate."
+      },
+      {
+        "observedAt": "2023-05-13",
+        "words": "In giornata, con zaino piccolo e niente fretta. La salita dura mezz'ora, poi si scende per il sentiero. In tutto due ore comprese le foto."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Zecche sul sentiero di rientro, ne ho tolte due dalla caviglia. Per il resto una giornata tranquilla, con la valle che si colorava d'autunno."
+      },
+      {
+        "observedAt": "2023-11-04",
+        "words": "Con un gruppo di colleghi per una giornata fuori ufficio. Siamo in dodici, tre mai saliti su una ferrata: tutti contenti, tutti in cima prima di pranzo."
+      },
+      {
+        "observedAt": "2024-02-17",
+        "words": "Sole, vento zero e 8 gradi in parete. Qualche passaggio ghiacciato nel bosco in basso, poi la ferrata asciutta. Qui l'inverno è una stagione da non perdere."
+      },
+      {
+        "observedAt": "2024-04-23",
+        "words": "Martedì pomeriggio, due ore tra il lavoro e il tramonto. Hanno aggiunto una scaletta nel primo tratto, comoda per i bambini piccoli e per chi parte da zero."
+      },
+      {
+        "observedAt": "2024-07-06",
+        "words": "Idea sbagliata: arrivare alle dieci di luglio. La roccia scottava e il cavo bruciava le mani, abbiamo fatto la ferrata in modalità sopravvivenza."
+      },
+      {
+        "observedAt": "2024-10-26",
+        "words": "Pomeriggio di fine ottobre, luce dorata. Ferrata breve ma piacevole, l'ideale per chi viene da Torino e ha poco tempo. Nei tratti in ombra la roccia è ancora umida."
+      },
+      {
+        "observedAt": "2025-03-08",
+        "words": "Primo sabato di sole dopo settimane di pioggia. Abbiamo fatto la ferrata con scarponi asciutti, grazie al fondo che si asciuga in fretta. Pochi in giro."
+      },
+      {
+        "observedAt": "2025-09-14",
+        "words": "Tornato dopo un anno. Segnaletica rinnovata all'attacco e cartelli più chiari lungo il sentiero. La ferrata resta quel che era: facile, breve, simpatica."
+      },
+      {
+        "observedAt": "2026-04-08",
+        "words": "Mercoledì dopo Pasqua, ancora in vacanza. Giornata limpida, tre ore tra salita e rientro con pausa pranzo al sacco sul belvedere in cima."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "La parete asciutta e calda"
+        },
+        {
+          "label": "Adatta ai principianti",
+          "quote": "scolaresche con istruttori"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai principianti",
+          "quote": "alla prima volta"
+        },
+        {
+          "label": "Vicina a Torino",
+          "quote": "panorama sulla valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Con i bambini",
+          "quote": "Abbiamo portato i bambini di nove e undici anni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "la parete prende il sole dalle nove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lucida",
+          "quote": "la roccia è lucida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Al sole si stava in maglietta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "nessuna neve sul percorso"
+        },
+        {
+          "label": "Facile e corta",
+          "quote": "Una ferrata facile ma ben fatta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ancoraggio lento",
+          "quote": "Un tratto di cavo vicino al passaggio centrale era lento"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Ancoraggio lento al passaggio centrale",
+          "kind": "attenzione",
+          "quote": "Un tratto di cavo vicino al passaggio centrale era lento e dondolava appena."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Facile e corta",
+          "quote": "La salita dura mezz'ora"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Zecche sul sentiero",
+          "quote": "Zecche sul sentiero di rientro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai principianti",
+          "quote": "tre mai saliti su una ferrata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Sole, vento zero e 8 gradi in parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Con i bambini",
+          "quote": "comoda per i bambini piccoli"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Scaletta nuova nel primo tratto",
+          "kind": "novita",
+          "quote": "Hanno aggiunto una scaletta nel primo tratto"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "La roccia scottava"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vicina a Torino",
+          "quote": "chi viene da Torino e ha poco tempo"
+        },
+        {
+          "label": "Roccia lucida",
+          "quote": "la roccia è ancora umida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Primo sabato di sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Facile e corta",
+          "quote": "facile, breve, simpatica"
+        },
+        {
+          "label": "Segnaletica nuova",
+          "quote": "Segnaletica rinnovata all'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vicina a Torino",
+          "quote": "tre ore tra salita e rientro"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

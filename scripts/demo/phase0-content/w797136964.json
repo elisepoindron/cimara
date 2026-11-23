@@ -1,0 +1,57 @@
+{
+  "osm": "w797136964",
+  "invented": ["avvicinamento", "note", "vie", "parcheggio_nota", "reports", "themes", "flags"],
+  "itinerary": {
+    "key": "falesia-di-cesnola",
+    "activity": "falesia",
+    "place": "comune-001266",
+    "name": "Falesia di Cesnola",
+    "lat": 45.56191,
+    "lon": 7.82675,
+    "aspect": "SO",
+    "altMax": 351,
+    "facts": {
+      "esposizione": "SO",
+      "quota_base": 351,
+      "avvicinamento": 10,
+      "localita_partenza": "Settimo Vittone",
+      "parcheggio_nota": "Spazio sulla strada prima della curva, si riempie nel weekend"
+    },
+    "sections": {
+      "note": "Falesia su roccia compatta, con placche inclinate e qualche strapiombo breve nella parte alta. Le vie sono attrezzate a spit con soste a catena, la chiodatura è regolare e le soste sono comode.\n\nIl sole arriva nel pomeriggio: d'inverno è il posto giusto per passare la giornata in maglietta, d'estate va evitato nelle ore calde. La mattina la parete è in ombra e si parte con il freddo.\n\nPortare una corda da 60 metri, una decina di rinvii e qualche fettuccia per le soste. Sotto la falesia c'è un piccolo prato, comodo per lasciare lo zaino.",
+      "avvicinamento": "Dal parcheggio si scende per un sentiero ripido e ben segnato di una decina di minuti, fino alla base della parete. Il fondo è sassoso e in discesa dopo la pioggia è scivoloso."
+    },
+    "parts": [
+      { "group": "Settore basso", "fields": { "nome": "Placca dei principianti", "grado": "5c", "lunghezza": 20 } },
+      { "group": "Settore basso", "fields": { "nome": "Il diedro", "grado": "6a", "lunghezza": 22 } },
+      { "group": "Settore basso", "fields": { "grado": "6a+", "lunghezza": 18 } },
+      { "group": "Settore basso", "fields": { "nome": "Vento di Cesnola", "grado": "6b", "lunghezza": 24 } },
+      { "group": "Settore basso", "fields": { "nome": "Spigolo corto", "grado": "6b+", "lunghezza": 18 } },
+      { "group": "Settore basso", "fields": { "nome": "Gialla", "grado": "6c", "lunghezza": 25 } },
+      { "group": "Settore alto", "fields": { "nome": "Il Cuore", "grado": "6c+", "lunghezza": 26 } },
+      { "group": "Settore alto", "fields": { "nome": "Strapiombo lungo", "grado": "7a", "lunghezza": 28 } },
+      { "group": "Settore alto", "fields": { "grado": "7a+", "lunghezza": 24 } },
+      { "group": "Settore alto", "fields": { "nome": "Ultima chance", "grado": "7b", "lunghezza": 27 } },
+      { "group": "Settore alto", "fields": { "nome": "Sorriso", "grado": "7b+", "lunghezza": 22 } },
+      { "group": "Settore alto", "fields": { "nome": "Tetto dei gatti", "grado": "7c", "lunghezza": 23 } },
+      { "group": "Settore alto", "fields": { "nome": "Dal sole all'ombra", "grado": "7c+", "lunghezza": 25 } },
+      { "group": "Settore alto", "fields": { "grado": "6a", "lunghezza": 20 } }
+    ],
+    "reports": [
+      { "observedAt": "2022-12-11", "words": "Giornata di sole pieno, a dicembre non è poco. Dal parcheggio ci abbiamo messo dieci minuti scarsi, sotto la parete si sta in maglietta. Ho fatto la Placca dei principianti e il diedro, tutto pulito e le soste comode." },
+      { "observedAt": "2023-03-18", "words": "Chiodatura fitta, si arriva in sosta senza pensieri anche sulle vie più dure. Il settore alto è più duro di quanto sembri, ho sudato sul tetto. Il sole ci ha tenuto caldi fino alle cinque e poi la parete è tornata fresca." },
+      { "observedAt": "2023-10-07", "words": "Pieno weekend e la falesia piena di gente, tre cordate in attesa al tiro dello strapiombo. Pazienza. Avvicinamento di pochi minuti, si cammina bene anche con il caldo. Gialla e Il Cuore, meglio del previsto." },
+      { "observedAt": "2024-02-24", "words": "Spit ravvicinati, quasi troppo: sembra di fare la palestra. Ho preso il tiro 7 del settore alto con gli occhi chiusi e poi mi sono rilassato. Nuovi resinati nel settore basso, messi da poco, e si vedono ancora lucidi." },
+      { "observedAt": "2024-09-29", "words": "Domenica, c'era il sole ma la falesia è all'ombra la mattina, quindi si parte col freddo. Affollata come sempre nel weekend, due cani sotto la parete e una famiglia con i bambini al settore basso. Il parcheggio alle nove era già pieno." },
+      { "observedAt": "2025-11-02", "words": "Ultima uscita di questo autunno, con poca gente e il sole del pomeriggio. Il parcheggio era pieno anche se di mattina presto, bisogna arrivare prima. Gialla e Strapiombo lungo, belle soste e roccia asciutta. Passerei qui ogni fine settimana d'autunno." }
+    ]
+  },
+  "readings": [
+    { "themes": [ { "label": "Sole d'inverno", "quote": "Giornata di sole pieno, a dicembre non è poco" } ], "flags": [] },
+    { "themes": [ { "label": "Chiodatura ravvicinata", "quote": "Chiodatura fitta" }, { "label": "Sole d'inverno", "quote": "Il sole ci ha tenuto caldi fino alle cinque" } ], "flags": [] },
+    { "themes": [ { "label": "Affollata nel weekend", "quote": "Pieno weekend e la falesia piena di gente" } ], "flags": [] },
+    { "themes": [ { "label": "Chiodatura ravvicinata", "quote": "Spit ravvicinati, quasi troppo" } ], "flags": [ { "label": "Resinati nuovi nel settore basso", "kind": "novita", "quote": "Nuovi resinati nel settore basso, messi da poco" } ] },
+    { "themes": [ { "label": "Affollata nel weekend", "quote": "Affollata come sempre nel weekend" } ], "flags": [] },
+    { "themes": [ { "label": "Sole d'inverno", "quote": "il sole del pomeriggio" } ], "flags": [] }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "osm": "n14119752903",
+  "invented": [
+    "grado_obbligatorio",
+    "sviluppo",
+    "avvicinamento",
+    "protezione",
+    "localita_partenza",
+    "come_arrivare",
+    "tiri",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "adrien-le-grand-chef",
+    "activity": "multipitch",
+    "place": "comune-004233",
+    "name": "Adrien le Grand Chef",
+    "lat": 44.17116,
+    "lon": 7.29689,
+    "aspect": "SO",
+    "altMax": 2930,
+    "facts": {
+      "grado_obbligatorio": "5c",
+      "sviluppo": 210,
+      "avvicinamento": 75,
+      "protezione": "da_integrare",
+      "localita_partenza": "Valdieri",
+      "come_arrivare": "Da Valdieri si sale in valle fino al termine della strada e si prosegue a piedi su sentiero fino al vallone alto, poi su pietraie e canali fino all'attacco. Giornata lunga già solo per arrivare.",
+      "quota_base": 2718,
+      "esposizione": "SO",
+      "grado_max": "6a",
+      "tiri": 6
+    },
+    "sections": {
+      "descrizione": "Sei tiri su gneiss grigio e compatto, in un ambiente grande e solitario sopra i 2700 metri. Adrien le Grand Chef è una via dal carattere deciso: placche verticali, un diedro ben marcato e un tetto finale che si supera con un traverso a sinistra.\n\nLa chiodatura è presente sui passaggi più duri ma bisogna aggiungere friend nei diedri; le soste sono a catena. Il tiro chiave è il quarto, un 6a su placca con aderenza.\n\nParete a sud-ovest: il sole arriva a metà mattina e dura fin dopo il tramonto d'estate. Portare molta acqua e un abbigliamento a strati.",
+      "discesa": "Dalla sosta finale si scende in doppia lungo la via, sei calate con corde da 60 metri. Attenzione a recuperare bene le corde nel tratto del tetto, dove tendono a incastrarsi.",
+      "materiale": "Corde da 60 metri, dodici rinvii, una serie di friend dallo 0.4 al 2, qualche dado, cordini, casco e giacca antivento.",
+      "avvicinamento": "Dal termine della strada si segue il sentiero nel vallone, poi si risale una pietraia verso destra e un canale ripido fino a un ripiano sotto la parete."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 35,
+          "descrizione": "Placca appoggiata con buoni appigli."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 35,
+          "descrizione": "Muro a lame e sosta su ripiano."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 35,
+          "descrizione": "Diedro con fessura sul fondo, integrare con friend."
+        }
+      },
+      {
+        "fields": {
+          "grado": "6a",
+          "lunghezza": 35,
+          "descrizione": "Placca verticale di aderenza, il tratto più impegnativo."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 35,
+          "descrizione": "Rampa obliqua verso destra e sosta sotto il tetto."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 35,
+          "descrizione": "Tetto con traverso a sinistra e uscita su placca facile."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-30",
+        "words": "Il vallone sembra non finire mai, quasi due ore di marcia solo per arrivare all'attacco. Ma una volta lì, la parete è maestosa e il gneiss pulito."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Tempo variabile, nubi sul crinale ogni pomeriggio. Siamo partiti con il buio e abbiamo finito prima di mezzogiorno, per fortuna. Il tetto finale è stato l'unico momento di tensione."
+      },
+      {
+        "observedAt": "2022-09-14",
+        "words": "Mercoledì di metà settembre, completamente soli nel vallone. Si sentiva solo il vento e qualche camoscio sulle rocce sopra la via."
+      },
+      {
+        "observedAt": "2023-07-23",
+        "words": "Ancora neve nel canale di avvicinamento e abbiamo calzato i ramponcini per l'ultimo tratto. La via invece asciutta, già a mezzogiorno si stava in maglietta."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Quarto tiro: placca grigia con un passo di aderenza obbligato. Mi sono fermato a lungo prima di decidere, poi è andato. Gli spit sono distanti, bisogna crederci."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "In diedro del terzo tiro ho messo tre friend e due dadi, tutti ben saldi. Una fessura da godere, anche se il vento era già gelido."
+      },
+      {
+        "observedAt": "2023-09-20",
+        "words": "Un mercoledì splendido, cielo trasparente fino alla pianura. Doppie lunghe ma ben liscia la linea, nessuna corda bloccata."
+      },
+      {
+        "observedAt": "2024-07-07",
+        "words": "Con questo caldo la parete in pieno sole nel primo pomeriggio è quasi un forno: portare molta acqua e proteggere la testa. Poi il vento è calato e si è stati bene."
+      },
+      {
+        "observedAt": "2024-08-03",
+        "words": "Una frana ha spazzato via un tratto del sentiero nel vallone, adesso si passa su un breve tratto di sassi smossi. Con prudenza si passa, ma meglio non farlo col buio."
+      },
+      {
+        "observedAt": "2024-08-28",
+        "words": "Mercoledì di fine agosto. Il tetto finale si passa meglio di quanto sembri: fessura a sinistra, buoni appigli, poi uscita facile."
+      },
+      {
+        "observedAt": "2024-09-15",
+        "words": "Gli spit del quarto tiro sono stati ribattuti da qualcuno che ha anche aggiunto un fix a metà placca. La via è ora meno ardua per chi ha poco allenamento."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Pomeriggio di bufera in arrivo da ovest e noi ancora sul terzo tiro. Rinunciato e scesi in due ore con le gambe che tremavano, ma sicuri."
+      },
+      {
+        "observedAt": "2025-08-09",
+        "words": "Due camosci hanno attraversato il canale mentre risalivamo, abbiamo smesso di parlare e li abbiamo guardati. Poi via, verso l'attacco."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Nel canale di avvicinamento è stata messa una corda fissa con ancoraggi nuovi, utile quando c'è ghiaccio. Lavoro fatto bene."
+      },
+      {
+        "observedAt": "2026-07-25",
+        "words": "Ritorno dopo tre anni. Via sempre bella e il gneiss grigio sempre solido. L'avvicinamento è sempre lungo, ma una volta sul vallone si cammina bene."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "quasi due ore di marcia solo per arrivare all'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partire con il buio",
+          "quote": "Siamo partiti con il buio"
+        },
+        {
+          "label": "Tetto finale",
+          "quote": "Il tetto finale è stato l'unico momento di tensione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ambiente solitario",
+          "quote": "completamente soli nel vallone"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve nel canale",
+          "quote": "Ancora neve nel canale di avvicinamento"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placca del quarto tiro",
+          "quote": "Quarto tiro: placca grigia con un passo di aderenza obbligato"
+        },
+        {
+          "label": "Spit distanti",
+          "quote": "Gli spit sono distanti, bisogna crederci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Da integrare nei diedri",
+          "quote": "In diedro del terzo tiro ho messo tre friend e due dadi"
+        },
+        {
+          "label": "Freddo e vento in quota",
+          "quote": "il vento era già gelido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Doppie senza intoppi",
+          "quote": "nessuna corda bloccata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo sulla parete al pomeriggio",
+          "quote": "la parete in pieno sole nel primo pomeriggio è quasi un forno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero franato nel vallone",
+          "kind": "attenzione",
+          "quote": "Una frana ha spazzato via un tratto del sentiero nel vallone, adesso si passa su un breve tratto di sassi smossi."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tetto finale",
+          "quote": "Il tetto finale si passa meglio di quanto sembri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Spit distanti",
+          "quote": "un fix a metà placca"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Fix aggiunto sul quarto tiro",
+          "kind": "novita",
+          "quote": "Gli spit del quarto tiro sono stati ribattuti da qualcuno che ha anche aggiunto un fix a metà placca."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali pomeridiani",
+          "quote": "Pomeriggio di bufera in arrivo da ovest"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ambiente solitario",
+          "quote": "Due camosci hanno attraversato il canale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Corda fissa nel canale",
+          "kind": "novita",
+          "quote": "Nel canale di avvicinamento è stata messa una corda fissa con ancoraggi nuovi, utile quando c'è ghiaccio."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "L'avvicinamento è sempre lungo"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

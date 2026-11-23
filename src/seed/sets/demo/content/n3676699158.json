@@ -1,0 +1,475 @@
+{
+  "osm": "n3676699158",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "parcheggio_nota",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-zuppa",
+    "activity": "falesia",
+    "place": "comune-004233",
+    "name": "Falesia Zuppa",
+    "lat": 44.17837,
+    "lon": 7.29516,
+    "aspect": "O",
+    "altMax": 2416,
+    "facts": {
+      "esposizione": "O",
+      "quota_base": 2416,
+      "avvicinamento": 50,
+      "localita_partenza": "Valdieri",
+      "parcheggio_nota": "Si lascia l'auto dove finisce la strada carrozzabile; in estate nei fine settimana lo spiazzo si riempie."
+    },
+    "sections": {
+      "note": "Granito alpino a quasi 2400 metri, esposto a ovest, con una ventina di vie tra monotiri e brevi vie a più tiri, il tutto fino a 115 metri di sviluppo. La roccia è compatta, chiara e rugosa, di ottima qualità, con placche, diedri e qualche fessura svasata.\n\nLa chiodatura è corta: gli spit sono vicini e le soste hanno l'anello di calata, quindi si scende in doppia sulla via. I gradi arrivano al 7a+, ma la maggior parte è fra il 5c e il 6b+. Alcune vie lunghe richiedono un set di rinvii in più e due mezze corde da 60 metri.\n\nLa falesia è libera dalla neve solo da luglio a metà settembre. La mattina è all'ombra e fredda, il sole arriva a mezzogiorno e rimane fino a sera: pile e giacca nello zaino anche d'estate.",
+      "avvicinamento": "Dal parcheggio si sale per un sentiero ben segnato lungo la valle, poi si piega a destra su una traccia che attraversa un pendio di sfasciumi e prati fino all'attacco: circa cinquanta minuti. Gli ultimi tratti sono ripidi e con pietre mobili."
+    },
+    "parts": [
+      {
+        "group": "Placche del Sole",
+        "fields": {
+          "nome": "Zuppa di Cipolle",
+          "grado": "5a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Placche del Sole",
+        "fields": {
+          "nome": "Brodo Caldo",
+          "grado": "5b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Placche del Sole",
+        "fields": {
+          "nome": "Minestrone",
+          "grado": "5c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Placche del Sole",
+        "fields": {
+          "nome": "Il Mestolo",
+          "grado": "5c+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Placche del Sole",
+        "fields": {
+          "nome": "Cucchiaino",
+          "grado": "6a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Placche del Sole",
+        "fields": {
+          "nome": "Il Cuoco Pazzo",
+          "grado": "6a+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Placche del Sole",
+        "fields": {
+          "nome": "Passaggio Obbligato",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Diedro Centrale",
+        "fields": {
+          "nome": "Il Diedro",
+          "grado": "5c",
+          "lunghezza": 40
+        }
+      },
+      {
+        "group": "Diedro Centrale",
+        "fields": {
+          "nome": "Sale e Pepe",
+          "grado": "6a+",
+          "lunghezza": 45
+        }
+      },
+      {
+        "group": "Diedro Centrale",
+        "fields": {
+          "nome": "Fumo Nero",
+          "grado": "6b",
+          "lunghezza": 40
+        }
+      },
+      {
+        "group": "Diedro Centrale",
+        "fields": {
+          "nome": "Senza Dadi",
+          "grado": "6b+",
+          "lunghezza": 42
+        }
+      },
+      {
+        "group": "Diedro Centrale",
+        "fields": {
+          "nome": "Cielo di Luglio",
+          "grado": "6c",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Pilastro Alto",
+        "fields": {
+          "nome": "Primi Passi in Quota",
+          "grado": "5b",
+          "lunghezza": 60
+        }
+      },
+      {
+        "group": "Pilastro Alto",
+        "fields": {
+          "nome": "La Lunga Zuppa",
+          "grado": "5c",
+          "lunghezza": 90
+        }
+      },
+      {
+        "group": "Pilastro Alto",
+        "fields": {
+          "nome": "Fine Pasto",
+          "grado": "6b+",
+          "lunghezza": 115
+        }
+      },
+      {
+        "group": "Muro Strapiombante",
+        "fields": {
+          "nome": "Peperoncino",
+          "grado": "6c+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Muro Strapiombante",
+        "fields": {
+          "nome": "Cuore Duro",
+          "grado": "7a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro Strapiombante",
+        "fields": {
+          "nome": "Mal di Testa",
+          "grado": "7a",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Muro Strapiombante",
+        "fields": {
+          "nome": "Digiuno",
+          "grado": "7a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro Strapiombante",
+        "fields": {
+          "nome": "Dolce Veleno",
+          "grado": "6c",
+          "lunghezza": 27
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-23",
+        "words": "Prima salita in agosto... quasi: luglio, ma tardi. Il sentiero è lungo e il sole picchia sul pendio. In parete invece mattina all'ombra e freddo, abbiamo aspettato mezzogiorno per toglierci la giacca."
+      },
+      {
+        "observedAt": "2022-08-13",
+        "words": "Granito stupendo, granulosità perfetta. Siamo andati sul Pilastro Alto con due mezze da 60: sostare e calarsi è comodo grazie agli anelli. Il 6a Tre Tiri e un Caffè è un classico che farei di nuovo."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Cielo azzurro e vento da ovest: si sentiva sul pilastro. Il parcheggio era un po' pieno ma il sentiero ci ha disperso subito. Un 6b fisico con un passo di dito inaspettato: Passaggio Obbligato fa il suo nome."
+      },
+      {
+        "observedAt": "2022-09-21",
+        "words": "Mercoledì di settembre, nessuno in tutta la parete. Atmosfera stupenda, marmotte che fischiano e un camoscio sul crinale. Abbiamo fatto cinque tiri in solitudine."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "Tutta la strada di salita ancora con chiazze di neve vecchia. Sulle vie basse la roccia era bagnata dallo scioglimento: abbiamo atteso mezzogiorno. Qui in luglio fa freddo mattina e sera."
+      },
+      {
+        "observedAt": "2023-07-29",
+        "words": "Weekend pieno: sei cordate sul Diedro, abbiamo fatto la coda. Per fortuna le vie lunghe si dispongono in modo da non intralciarsi. Il passaggio del 6b+ Senza Dadi mi ha fatto tremare le gambe."
+      },
+      {
+        "observedAt": "2023-08-18",
+        "words": "Venerdì di Ferragosto lungo, sole eterno e caldo nel sole del pomeriggio. Dalle due la parete è un forno, anche a 2400. Abbiamo fatto due tiri e ci siamo rifugiati all'ombra di un masso."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Giornata di tempo bello, ma con il temporale in arrivo verso le quattro. Siamo scesi di corsa dalle doppie: in alta quota non si scherza. Il sentiero in discesa era scivoloso con la pioggia."
+      },
+      {
+        "observedAt": "2023-09-24",
+        "words": "Granito gelido e cielo terso. Una nuova sosta è stata installata sulla Lunga Zuppa, con catene e maillon: molto più comodo per calarsi in due. Nel pomeriggio il sole sparisce presto e si congela."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Primo giorno stagione per noi. Sentiero sotto una coltre di neve residua che non permetteva di vedere la traccia: abbiamo seguito gli ometti. Una settimana prima il pendio era ancora bianco."
+      },
+      {
+        "observedAt": "2024-07-26",
+        "words": "Venerdì, siamo partiti all'alba. Il Muro Strapiombante ha una roccia incredibile, il 7a Cuore Duro è un incubo di tacche e piedi sbriciolati. Nessuno quando siamo arrivati."
+      },
+      {
+        "observedAt": "2024-08-10",
+        "words": "Giornata d'estate piena di sole. Il sentiero alle undici scotta, ma in parete alle due fa ancora fresco per via dell'altezza. Peperoncino è un 6c+ molto atletico, richiede un grosso fiato."
+      },
+      {
+        "observedAt": "2024-08-25",
+        "words": "Durante la salita abbiamo trovato un pezzo di sentiero franato dopo una frana di sassi: un'ottantina di metri da attraversare in fretta, con attenzione ai sassi che cadono. Al ritorno ne abbiamo parlato con altri."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Dopo la frana hanno segnato un nuovo passaggio con bandierine, più a monte: allunga di dieci minuti ma si sta tranquilli. Sulle placche del Sole il granito era perfetto e il sole alto."
+      },
+      {
+        "observedAt": "2025-07-05",
+        "words": "Sabato di luglio con ancora un po' di neve in alto. Granito liscio e vento freddo. Siamo andati a Pilastro Alto: le doppie sono lunghe ma gli anelli sono ottimi, nessun problema."
+      },
+      {
+        "observedAt": "2025-08-08",
+        "words": "Venerdì d'agosto, parete mezza vuota. A mezzogiorno il sole è arrivato come un martello. Granito caldo nonostante l'altitudine, ma si scala bene con la magnesite."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Temporale improvviso verso le tre: lampi e grandine sul pendio. Abbiamo corso giù con la corda ancora in spalla. Raccomando di guardare il cielo fin dal mattino: sul pilastro non c'è riparo."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Una delle ultime giornate belle. Il sentiero è sempre lungo ma si fa volentieri, tra mirtilli e larici. La mattina la parete è una ghiacciaia, meglio attaccare verso le undici."
+      },
+      {
+        "observedAt": "2026-07-18",
+        "words": "Salita lunga con sole in faccia. Siamo arrivati alle undici e il Diedro era già pieno di sole, bella luce sul granito chiaro. Ho fatto Fumo Nero in libera con grande soddisfazione."
+      },
+      {
+        "observedAt": "2026-08-26",
+        "words": "Mercoledì, bella giornata. Nessuna nuvola fino alle cinque. Pochi nel parcheggio: tre auto. Placche del Sole tutte nostre, una per una. Il Mestolo è un 5c+ fine e delicato, ben chiodato."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Mattina in ombra",
+          "quote": "mattina all'ombra e freddo"
+        },
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "Il sentiero è lungo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Granito alpino di qualità",
+          "quote": "Granito stupendo"
+        },
+        {
+          "label": "Soste con anello di calata",
+          "quote": "sostare e calarsi è comodo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "nessuno in tutta la parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve fino a luglio",
+          "quote": "chiazze di neve vecchia"
+        },
+        {
+          "label": "Mattina in ombra",
+          "quote": "fa freddo mattina e sera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "sei cordate sul Diedro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole forte nel pomeriggio",
+          "quote": "Dalle due la parete è un forno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "il temporale in arrivo verso le quattro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuova sosta sulla Lunga Zuppa",
+          "kind": "novita",
+          "quote": "Una nuova sosta è stata installata sulla Lunga Zuppa"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve fino a luglio",
+          "quote": "coltre di neve residua"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Nessuno quando siamo arrivati"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana sul sentiero d'accesso",
+          "kind": "attenzione",
+          "quote": "un pezzo di sentiero franato dopo una frana di sassi"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuovo passaggio segnato dopo la frana",
+          "kind": "novita",
+          "quote": "hanno segnato un nuovo passaggio con bandierine"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Soste con anello di calata",
+          "quote": "gli anelli sono ottimi"
+        },
+        {
+          "label": "Neve fino a luglio",
+          "quote": "ancora un po' di neve in alto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole forte nel pomeriggio",
+          "quote": "il sole è arrivato come un martello"
+        },
+        {
+          "label": "Poca gente in settimana",
+          "quote": "parete mezza vuota"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Temporale improvviso verso le tre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "Il sentiero è sempre lungo"
+        },
+        {
+          "label": "Mattina in ombra",
+          "quote": "La mattina la parete è una ghiacciaia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Granito alpino di qualità",
+          "quote": "bella luce sul granito chiaro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Pochi nel parcheggio: tre auto"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

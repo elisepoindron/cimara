@@ -1,0 +1,264 @@
+{
+  "osm": "r20423901",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "anello-ceronda-mountain-bike-variante-2",
+    "activity": "mountain_bike",
+    "place": "comune-001229",
+    "name": "Anello Ceronda mountain bike - variante 2",
+    "lat": 45.15894,
+    "lon": 7.40573,
+    "facts": {},
+    "sections": {
+      "descrizione": "La seconda variante dell'Anello Ceronda raggiunge la Madonna della Bassa, nel comune di Rubiana: un tratto di quasi 6 chilometri con circa 180 metri di salita complessiva. È la più breve e la più semplice delle tre varianti, una passeggiata tranquilla tra campi e boschi che porta a una chiesetta isolata su un poggio.\n\nLa salita è dolce e quasi tutta su strada sterrata larga; il fondo è compatto e adatto anche a bici da città robuste e a bambini. Il percorso ha pochi tornanti, e per ampi tratti segue il bordo di un bosco con ombra continua.\n\nIl santuario è un luogo di pausa: un prato per picnic, un portico per ripararsi dal sole o dalla pioggia e una vista aperta sulla valle. Non è un tracciato per chi cerca sfide, ma un'uscita rilassante in famiglia.",
+      "note": "Si pedala tutto l'anno, tranne dopo nevicate abbondanti. In primavera molti fiori, in autunno colori caldi. Non c'è acqua lungo la strada: portarla da casa.",
+      "avvicinamento": "Si parte dal paese di Rubiana, con piccoli parcheggi vicino alla strada principale. Il tracciato segue i segnali ACM e raggiunge in poco tempo la chiesetta."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-03-26",
+        "words": "Primo giretto in famiglia dopo l'inverno: i bambini hanno fatto tutta la salita senza fatica e siamo arrivati alla Madonna della Bassa in poco più di mezz'ora. Un portico dove mangiare la merenda al riparo dal vento."
+      },
+      {
+        "observedAt": "2022-05-01",
+        "words": "Giornata di sole e tanti fiori ai bordi del sentiero. Ho fatto il giro con la mia vecchia bici da trekking senza alcun problema, tutto ben battuto."
+      },
+      {
+        "observedAt": "2022-06-08",
+        "words": "Un'oretta di pedalata dopo il lavoro, con luce calda e silenzio. Alla chiesetta non c'era nessuno, solo un gatto che ha reclamato carezze."
+      },
+      {
+        "observedAt": "2022-07-23",
+        "words": "In piena estate l'ombra del bosco è un sollievo, ma l'ultimo tratto verso il poggio è scoperto e il sole picchia. Meglio salire al mattino presto o a fine giornata."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "Passeggiata tranquilla con tanti camminatori: nessuno ha avuto problemi a condividere la strada. Un signore anziano ha detto che qui ci passa da quarant'anni e lo vedremo ancora."
+      },
+      {
+        "observedAt": "2022-10-15",
+        "words": "Foglie rosse e gialle sul prato davanti alla chiesetta, luce bassa e aria frizzante. Mi sono fermato mezz'ora a leggere un libro sul gradino del portico."
+      },
+      {
+        "observedAt": "2022-12-10",
+        "words": "Ho provato in dicembre con la bici da fat bike: un po' di neve sul prato e fondo ghiacciato nelle zone d'ombra, ma si pedala. Freddo pungente, copritevi bene."
+      },
+      {
+        "observedAt": "2023-03-18",
+        "words": "Il tratto vicino al torrente è fangoso dopo la pioggia, ma poi si risale su fondo compatto. Passeggiata di circa un'ora con tutte le soste."
+      },
+      {
+        "observedAt": "2023-05-24",
+        "words": "Pausa di un mercoledì pomeriggio: percorso rilassante, luce dorata attraverso i castagni, nessun rumore di motori. Perfetto per staccare dal lavoro."
+      },
+      {
+        "observedAt": "2023-06-18",
+        "words": "Una giornata tra amici con le e-bike: ci siamo fermati più volte e abbiamo fatto tre pic nic diversi sul percorso. Si può dire che sia un giro più mangereccio che sportivo."
+      },
+      {
+        "observedAt": "2023-08-19",
+        "words": "Caldo notevole ma sulla via di ritorno ci siamo fermati a un ruscello a bagnarci le mani. I bimbi hanno voluto fare una gara di barchette con le foglie."
+      },
+      {
+        "observedAt": "2023-10-08",
+        "words": "Qui in autunno si trovano castagne a terra e qualche porcino ai margini del bosco, meglio non toccare nulla senza esperienza. Il giro in sé è molto semplice."
+      },
+      {
+        "observedAt": "2024-04-06",
+        "words": "Ho notato che hanno aggiunto una staccionata in legno attorno al prato della chiesetta e due panche nuove. Sembra un'area picnic ben tenuta, molto piacevole."
+      },
+      {
+        "observedAt": "2024-06-26",
+        "words": "Un tratto della strada vicino al torrente è stato rovinato da un temporale: ora c'è un solco profondo da superare con attenzione. Con una bici da città conviene scendere e spingere."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Il solco è stato riempito di ghiaia nuova e il percorso è tornato regolare. Con le nuvole basse e l'aria umida il bosco aveva un aspetto bellissimo."
+      },
+      {
+        "observedAt": "2025-04-26",
+        "words": "Primavera piena, tanto verde e tanta gente. La chiesetta aveva un piccolo mercatino di prodotti locali: miele e formaggi. Ho comprato un vasetto di miele e l'ho mangiato in sella al ritorno."
+      },
+      {
+        "observedAt": "2025-10-19",
+        "words": "Ultimo giretto prima del freddo con mia moglie: aria limpida, colori caldi, quasi nessuno in giro. Siamo scesi con calma, mano nella mano sulle bici."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Giro adatto alle famiglie",
+          "quote": "i bambini hanno fatto tutta la salita senza fatica"
+        },
+        {
+          "label": "Portico e prato alla chiesetta",
+          "quote": "Un portico dove mangiare la merenda al riparo dal vento"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fondo compatto e semplice",
+          "quote": "con la mia vecchia bici da trekking senza alcun problema"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiesetta quasi sempre deserta",
+          "quote": "Alla chiesetta non c'era nessuno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra nel bosco",
+          "quote": "l'ombra del bosco è un sollievo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Camminatori e ciclisti insieme",
+          "quote": "tanti camminatori: nessuno ha avuto problemi a condividere la strada"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Portico e prato alla chiesetta",
+          "quote": "sul gradino del portico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve e ghiaccio d'inverno",
+          "quote": "un po' di neve sul prato e fondo ghiacciato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fondo compatto e semplice",
+          "quote": "si risale su fondo compatto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra nel bosco",
+          "quote": "luce dorata attraverso i castagni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giro adatto alle famiglie",
+          "quote": "abbiamo fatto tre pic nic diversi sul percorso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giro adatto alle famiglie",
+          "quote": "I bimbi hanno voluto fare una gara di barchette"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Castagne e funghi",
+          "quote": "castagne a terra e qualche porcino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Portico e prato alla chiesetta",
+          "quote": "due panche nuove"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Staccionata e panche nuove alla chiesetta",
+          "kind": "novita",
+          "quote": "hanno aggiunto una staccionata in legno attorno al prato della chiesetta"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Solco profondo sulla strada vicino al torrente",
+          "kind": "attenzione",
+          "quote": "ora c'è un solco profondo da superare con attenzione"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra nel bosco",
+          "quote": "il bosco aveva un aspetto bellissimo"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Solco riempito di ghiaia",
+          "kind": "novita",
+          "quote": "Il solco è stato riempito di ghiaia nuova"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiesetta quasi sempre deserta",
+          "quote": "La chiesetta aveva un piccolo mercatino di prodotti locali"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giro adatto alle famiglie",
+          "quote": "Ultimo giretto prima del freddo con mia moglie"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "osm": "w455812228",
+  "invented": [
+    "difficolta",
+    "vetta",
+    "esposizione",
+    "aspect",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "dosso-varzo",
+    "activity": "sci_alpinismo",
+    "place": "comune-103071",
+    "name": "Dosso",
+    "lat": 46.26262,
+    "lon": 8.21783,
+    "aspect": "NE",
+    "facts": {
+      "difficolta": "OS",
+      "partenza": 2456,
+      "esposizione": "NE",
+      "localita_partenza": "Varzo",
+      "come_arrivare": "Da Varzo si sale in valle fino alla zona degli impianti e della partenza della gita, a circa 2456 metri."
+    },
+    "sections": {
+      "descrizione": "Una discesa da sciatori esperti sopra Varzo, con pendenze sostenute e un tracciato che parte intorno ai 2450 metri. Si sale con le pelli per un tratto di dorsale aperta, poi la gita si fa più ripida e si arriva alla partenza di una discesa che richiede sci buoni, gambe ferme e occhio sul manto nevoso.\n\nLa discesa è su pendii ampi nella parte alta e più stretti scendendo, esposti a nord-est: la neve si conserva fredda e polverosa per giorni dopo una nevicata, ma dopo vento o con le gelate notturne in primavera diventa dura. Sono presenti tratti dove una caduta non si ferma, quindi è una gita da fare solo con condizioni sicure.\n\nSi fa da gennaio ad aprile, meglio con neve assestata e bollettino favorevole. ARTVA, pala e sonda sono obbligatori e non si va da soli.",
+      "note": "Gita impegnativa: vanno valutati ogni volta il bollettino valanghe, la temperatura e il vento. Con visibilità scarsa meglio rinunciare."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-03-19",
+        "words": "Sabato di neve ottima. La dorsale di salita era ventata, ma la discesa nella parte alta ha dato polvere vera. Pendenza sostenuta, serve rimanere concentrati e sciare con curve corte."
+      },
+      {
+        "observedAt": "2022-04-16",
+        "words": "Primavera inoltrata: siamo partiti prima dell'alba e alle nove eravamo in cima. La neve era dura come il cemento per la gelata notturna e abbiamo aspettato un'ora che si ammorbidisse. Poi una discesa perfetta."
+      },
+      {
+        "observedAt": "2022-05-04",
+        "words": "Mercoledì, giorno libero, senza anima viva. Fine stagione ma ancora tanta neve in quota, anche se a bassa quota si camminava sull'erba. Silenzio assoluto durante tutta la salita."
+      },
+      {
+        "observedAt": "2023-02-11",
+        "words": "Sabato dopo una nevicata abbondante: polvere fino alla cintola in alto, ma abbiamo scelto di non scendere dal canale più ripido perché c'era troppo accumulo. Siamo scesi per la dorsale, comunque bellissimo."
+      },
+      {
+        "observedAt": "2023-03-04",
+        "words": "Cielo velato e vento forte in cresta, sembrava di essere in Groenlandia. In discesa il vento aveva formato placche dure che non reggevano il peso. Tornati indietro dopo il primo tratto."
+      },
+      {
+        "observedAt": "2023-03-22",
+        "words": "Giorno feriale e neve in condizioni quasi perfette, assestata e portante. Il tratto in alto è ripido ma si sciava bene con curve ampie. In fondo la neve diventa più pesante."
+      },
+      {
+        "observedAt": "2023-04-16",
+        "words": "Domenica di aprile, partenza alle sei con la luce delle frontali. Su in cima alle otto e mezza, con la valle ancora nell'ombra. La neve era dura come la roccia e solo verso le dieci si poteva sciare."
+      },
+      {
+        "observedAt": "2024-01-27",
+        "words": "Prima uscita grande dopo la nevicata di Natale. Neve fredda e secca, esposta a nord-est: ottima. Giornata corta, appena sette ore di luce, ma ce la siamo goduta."
+      },
+      {
+        "observedAt": "2024-02-24",
+        "words": "Sabato con vento forte da nord e visibilità scarsa. In salita l'ARTVA era acceso e controllato più volte. Nel tratto ripido ci siamo fermati un attimo per studiare la traccia e valutare la placca."
+      },
+      {
+        "observedAt": "2024-03-13",
+        "words": "Mercoledì sereno: neve assestata e vista fino a Milano. Il restringimento in basso era morbido e pulito. In tutta la gita non abbiamo incontrato nessuno, strano per marzo."
+      },
+      {
+        "observedAt": "2024-04-07",
+        "words": "Domenica di sole e caldo, già a mezzogiorno la neve in basso era bagnata. Nella parte alta ancora asciutta e fredda. Giornata lunga ma con la discesa che non delude, soprattutto sul lato esposto a nord-est."
+      },
+      {
+        "observedAt": "2024-04-24",
+        "words": "Mercoledì di fine aprile, il fondo era già in primavera piena e ho visto un gruppo che saliva dalla parte opposta. Ho sciato fino a quota duemila e poi ho tolto gli sci per la strada. Neve a chiazze."
+      },
+      {
+        "observedAt": "2025-03-01",
+        "words": "Sabato con neve ancora fresca di tre giorni. L'inizio del percorso ha un nuovo segnale di pericolo valanghe con la scala del bollettino, comodo per chi arriva senza conoscere la zona. Salita lenta ma pulita."
+      },
+      {
+        "observedAt": "2025-03-23",
+        "words": "Domenica con il cielo terso ma una lastra sotto la cresta ha fatto rinunciare i due gruppi davanti a noi. Dopo un lungo consulto abbiamo fatto lo stesso. Meglio tornare un altro giorno."
+      },
+      {
+        "observedAt": "2025-04-18",
+        "words": "Venerdì Santo, giorno di ferie. Siamo partiti alle cinque con la neve gelata, per sicurezza abbiamo tenuto i ramponi fino a metà salita. La discesa a mezzogiorno era già pesante e bagnata."
+      },
+      {
+        "observedAt": "2025-05-03",
+        "words": "Fine stagione e ancora neve sopra i duemila e quattrocento. La parte bassa è sparita: un tratto di sentiero con gli sci in spalla. Un masso grosso è caduto nel canale e ora c'è un passaggio da fare con attenzione."
+      },
+      {
+        "observedAt": "2026-02-21",
+        "words": "Sabato di neve incredibile. Polvere asciutta, pendenza che non perdona, nessuna traccia fino a metà discesa. Un gruppo ha segnato la traccia di salita con le bandierine rosse, comoda con la nebbia."
+      },
+      {
+        "observedAt": "2026-03-14",
+        "words": "Sabato con meteo instabile: sole al mattino e nebbia alle undici. Siamo rientrati velocemente quando la visibilità è crollata, con la cresta sparita in dieci minuti. Tornati sani e salvi, ma con l'adrenalina."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Pendio ripido e sostenuto",
+          "quote": "Pendenza sostenuta, serve rimanere concentrati"
+        },
+        {
+          "label": "Polvere dopo la nevicata",
+          "quote": "la discesa nella parte alta ha dato polvere vera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partenza prima dell'alba",
+          "quote": "siamo partiti prima dell'alba"
+        },
+        {
+          "label": "Neve dura dopo la gelata",
+          "quote": "dura come il cemento per la gelata notturna"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "senza anima viva"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Polvere dopo la nevicata",
+          "quote": "polvere fino alla cintola in alto"
+        },
+        {
+          "label": "Accumuli da vento",
+          "quote": "c'era troppo accumulo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pendio ripido e sostenuto",
+          "quote": "Il tratto in alto è ripido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve dura dopo la gelata",
+          "quote": "La neve era dura come la roccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pendio ripido e sostenuto",
+          "quote": "Nel tratto ripido ci siamo fermati"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "non abbiamo incontrato nessuno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fine stagione già primaverile",
+          "quote": "il fondo era già in primavera piena"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuovo cartello di pericolo valanghe",
+          "kind": "novita",
+          "quote": "L'inizio del percorso ha un nuovo segnale di pericolo valanghe"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Accumuli da vento",
+          "quote": "una lastra sotto la cresta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve dura dopo la gelata",
+          "quote": "partiti alle cinque con la neve gelata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Masso caduto nel canale",
+          "kind": "attenzione",
+          "quote": "Un masso grosso è caduto nel canale"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Polvere dopo la nevicata",
+          "quote": "Polvere asciutta"
+        },
+        {
+          "label": "Pendio ripido e sostenuto",
+          "quote": "pendenza che non perdona"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Bandierine sulla traccia di salita",
+          "kind": "novita",
+          "quote": "Un gruppo ha segnato la traccia di salita con le bandierine rosse"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Visibilità scarsa in nebbia",
+          "quote": "la visibilità è crollata"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

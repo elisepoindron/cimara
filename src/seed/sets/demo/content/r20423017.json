@@ -1,0 +1,242 @@
+{
+  "osm": "r20423017",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "anello-ceronda-mountain-bike-tappa-2",
+    "activity": "mountain_bike",
+    "place": "comune-001289",
+    "name": "Anello Ceronda mountain bike - tappa 2",
+    "lat": 45.20285,
+    "lon": 7.51043,
+    "facts": {},
+    "sections": {
+      "descrizione": "La seconda tappa dell'Anello Ceronda unisce la Val Ceronda e la valle del Casternone: circa 18 chilometri con un dislivello di 600 metri, da Varisella verso un tracciato di crinale che segue a lungo carrarecce e vecchie strade tra i boschi. È una tappa più breve e più tranquilla della prima, adatta a chi vuole fare dislivello senza troppi chilometri.\n\nLa salita sale da Varisella su asfalto e poi su strada bianca, entra nel bosco di castagni e faggi e raggiunge una dorsale panoramica. Il ritorno non è un anello chiuso: la tappa è pensata per collegare le due valli e segue la dorsale prima di scendere.\n\nTecnicamente è facile, con qualche tratto sassoso. I segnali ACM guidano per tutto il percorso, e nei punti più fitti del bosco i cartelli sono ben visibili.",
+      "note": "Da aprile a novembre. In primavera l'erba alta nei prati può nascondere i segnali; in autunno le foglie rendono scivolose le mulattiere. Fontane a Varisella e poco altro: portare acqua.",
+      "avvicinamento": "Si parte da Varisella, dove si lascia l'auto in una piazza in centro; l'arrivo è in un'altra località della valle, per cui conviene organizzare il rientro con una seconda auto o un autobus."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-05-14",
+        "words": "Tappa corta ma di buon dislivello. In totale tre ore e un quarto con le soste. La salita su strada bianca è regolare, mai troppo ripida, con ombra quasi continua nella parte alta."
+      },
+      {
+        "observedAt": "2022-06-19",
+        "words": "Seconda tappa dell'ACM e primo rientro con il bus: l'autobus parte alle 17, con poco margine ma ce l'ho fatta. Informatevi prima sugli orari perché la linea è limitata e di domenica ci sono poche corse."
+      },
+      {
+        "observedAt": "2022-07-27",
+        "words": "Mercoledì d'estate, dorsale quasi deserta. Bellissima luce sul crinale e un vento fresco che aiutava. Ho incontrato soltanto un taglialegna con il trattore e due cani che non mi hanno degnato di uno sguardo."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Dopo i castagni la dorsale si apre sulla pianura e si vede Torino in lontananza, con un po' di foschia. Qui il giro cambia ritmo: pedali in piano e guardi il paesaggio."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Foglie rosse e gialle ovunque sulla mulattiera. Bello ma scivoloso in discesa dopo le piogge dei giorni scorsi, con le radici bagnate e fango. Ho scelto di scendere piano."
+      },
+      {
+        "observedAt": "2022-11-05",
+        "words": "Primo freddo vero, a 1200 metri un po' di brina sull'erba la mattina. Con i guanti lunghi si sta benissimo. Mi sono fermato a mangiare un panino su un tronco al sole."
+      },
+      {
+        "observedAt": "2023-04-29",
+        "words": "In primavera l'erba è alta nei prati sopra la dorsale e i segnali sono quasi nascosti. Ho fatto un paio di errori prima di accorgermi che il percorso girava a sinistra, ma senza conseguenze."
+      },
+      {
+        "observedAt": "2023-06-11",
+        "words": "Giornata di caldo ma sul crinale c'è sempre un filo d'aria. Il percorso mi è sembrato più facile della prima tappa, quasi rilassante. Buona anche con una bici muscolare, senza motore."
+      },
+      {
+        "observedAt": "2023-08-16",
+        "words": "Ferragosto passato in bici: strade deserte e un'aria incredibile. Al bivio sulla dorsale c'è un tavolo con panche dove mi sono fermato a pranzo, vista sulle Valli di Lanzo."
+      },
+      {
+        "observedAt": "2023-09-24",
+        "words": "La discesa dopo la dorsale è sassosa e a tratti ripida, con qualche gradino naturale. Niente di serio per chi ha un minimo di pratica, ma bisogna restare concentrati."
+      },
+      {
+        "observedAt": "2024-04-28",
+        "words": "I volontari hanno ripulito i sentieri dai rami caduti dopo l'inverno e ripristinato i segnali nascosti dall'erba. Ora il percorso si legge benissimo e si pedala più sereni."
+      },
+      {
+        "observedAt": "2024-06-15",
+        "words": "Un tratto di mulattiera dopo la dorsale è franato per un temporale: bisogna scendere e passare a piedi per una decina di metri. Il cartello lo segnala. Per il resto il giro è tranquillo."
+      },
+      {
+        "observedAt": "2024-08-07",
+        "words": "Una giornata caldissima, ma il bosco regala tanta ombra. Il percorso è un po' sottovalutato: lo consiglio a chi vuole una tappa breve ma panoramica. Ho preso l'autobus alle 16.30, in orario."
+      },
+      {
+        "observedAt": "2024-10-20",
+        "words": "Il tratto franato è stato risistemato con un piccolo muretto a secco. Ora si passa pedalando e senza rischi. Autunno spettacolare, con colori fortissimi e aria tersa."
+      },
+      {
+        "observedAt": "2025-05-24",
+        "words": "Con un amico che usa la bici elettrica: lui davanti in salita, io dietro e sudato. La seconda parte, in dorsale, ci siamo rimessi alla pari e abbiamo riso tutto il tempo."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Il bosco è pieno di funghi, ho visto alcune persone con i cestini. Mi raccomando di rispettare le regole locali. Giro lento e rilassante, fermata alla tavola picnic sul crinale."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita regolare nel bosco",
+          "quote": "La salita su strada bianca è regolare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rientro da organizzare",
+          "quote": "l'autobus parte alle 17"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Dorsale panoramica",
+          "quote": "Bellissima luce sul crinale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Dorsale panoramica",
+          "quote": "la dorsale si apre sulla pianura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Foglie e radici scivolose",
+          "quote": "scivoloso in discesa dopo le piogge dei giorni scorsi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Freddo e brina in autunno",
+          "quote": "un po' di brina sull'erba la mattina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnali coperti dall'erba",
+          "quote": "l'erba è alta nei prati sopra la dorsale e i segnali sono quasi nascosti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa più facile della prima",
+          "quote": "più facile della prima tappa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Area picnic sul crinale",
+          "quote": "un tavolo con panche"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa sassosa",
+          "quote": "La discesa dopo la dorsale è sassosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnali coperti dall'erba",
+          "quote": "ripristinato i segnali nascosti dall'erba"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Sentiero ripulito e segnali ripristinati",
+          "kind": "novita",
+          "quote": "I volontari hanno ripulito i sentieri dai rami caduti dopo l'inverno"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Franamento su un tratto della mulattiera",
+          "kind": "attenzione",
+          "quote": "Un tratto di mulattiera dopo la dorsale è franato per un temporale"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Rientro da organizzare",
+          "quote": "Ho preso l'autobus alle 16.30"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto franato rimesso a posto",
+          "kind": "novita",
+          "quote": "Il tratto franato è stato risistemato con un piccolo muretto a secco"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Dorsale panoramica",
+          "quote": "seconda parte, in dorsale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Area picnic sul crinale",
+          "quote": "fermata alla tavola picnic sul crinale"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

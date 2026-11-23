@@ -1,0 +1,262 @@
+{
+  "osm": "r12142841",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d44",
+    "activity": "escursionismo",
+    "place": "comune-001026",
+    "name": "Via Alpina Blue D44",
+    "lat": 44.77334,
+    "lon": 7.03847,
+    "facts": {
+      "difficolta": "EE",
+      "dislivello": 1100,
+      "localita_partenza": "Rifugio W. Jervis",
+      "come_arrivare": "Il Rifugio Jervis si trova in alta Val Pellice, sopra Bobbio Pellice, e si raggiunge a piedi dal parcheggio in fondo alla strada. L'arrivo è al Rifugio Barbara Lowrie: per rientrare serve un secondo mezzo o un trasferimento."
+    },
+    "sections": {
+      "descrizione": "Tappa di traversata della Via Alpina Blu da un rifugio all'altro dell'alta Val Pellice: dal Jervis al Barbara Lowrie, 12,3 km con circa 1.100 m di salita e altrettanti di discesa, a cavallo di un colle. È una giornata lunga, con tratti di pietraia e un dislivello continuo.\n\nSi comincia salendo per erba e sfasciumi verso il colle, poi si scende sull'altro versante con ripidi tornanti. Il sentiero è ben segnato, ma in caso di nebbia i tratti sassosi richiedono attenzione. Qualche nevaio può resistere fino a luglio.\n\nIl periodo è da luglio a fine settembre. Una buona partenza è alle sette dal Jervis, per arrivare al Lowrie nel primo pomeriggio con il tempo di una merenda."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Partenza alle sette dal Jervis con il sole che arrivava sui pendii di fronte. Prima oretta in salita sull'erba, bellissima."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Dodici chilometri e mezzo ma ci siamo messi cinque ore buone di passo fermo. Tappa che mette alla prova più per i saliscendi che per il dislivello."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Dal colle si vede il Monviso, anche se in controluce. La discesa sull'altro versante è ripida e sassosa."
+      },
+      {
+        "observedAt": "2023-07-12",
+        "words": "Martedì di agosto, un tizio col cane e nessun altro. Silenzio assoluto nella pietraia, solo gli zoccoli di un camoscio lontano."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Nevaio sotto il colle ancora bello sodo a inizio luglio, passato col sole e con le racchette tenute ben fisse. Meglio i ramponcini."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "I tratti di pietraia sono tanti e si lavora molto di piedi. Alla fine le caviglie mi hanno ringraziato."
+      },
+      {
+        "observedAt": "2023-09-17",
+        "words": "Nebbia in cresta, abbiamo seguito i segni rossi uno ad uno. Con visibilità ridotta qui si va piano."
+      },
+      {
+        "observedAt": "2024-07-16",
+        "words": "Giovedì feriale, valle quasi deserta. Colazione al Jervis, caffè dal Lowrie all'arrivo: ottima doppietta."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Il rifugio d'arrivo ha una veranda che prende il sole di sera. Birra, fette di torta e le gambe fuori uso."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Gran giornata, ma il vento al colle taglia le orecchie anche a settembre. Cappello e guanti nello zaino."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Una scarica di sassi in cima al canalino nord: segnalata con un cartello fatto a mano. Si passa uno alla volta e senza fermarsi."
+      },
+      {
+        "observedAt": "2025-08-04",
+        "words": "Discesa lunghissima con i bastoncini e nessun cedimento. Arrivati a Barbara Lowrie con un brindisi alla fatica."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Quasi un'ora in meno del tempo indicato, ma non ci siamo mai fermati. Il Monviso ci ha tenuto compagnia a ogni valico."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Lungo il tratto sassoso sono stati posati nuovi paletti bianchi e rossi, utilissimi con le nuvole. Si distinguono da lontano."
+      },
+      {
+        "observedAt": "2026-07-12",
+        "words": "Nuvole alte, caldo nella salita, fresco al colle. L'arrivo nel pomeriggio con un po' di pioggia fine."
+      },
+      {
+        "observedAt": "2026-08-03",
+        "words": "Lunedì di ferragosto, comunque pochi: una famiglia con bambini che andava piano e ci ha salutati con calore."
+      },
+      {
+        "observedAt": "2026-08-29",
+        "words": "Larici in autunno e una luce da cartolina. Ho incontrato tre camosci sul crinale e li ho fotografati con calma."
+      },
+      {
+        "observedAt": "2026-09-19",
+        "words": "Fine stagione: qualche macchia di neve fresca sopra il colle e prima brina sull'erba. La tappa si fa lo stesso, ma con calma."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Alba sui pendii",
+          "quote": "Partenza alle sette dal Jervis con il sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e impegnativa",
+          "quote": "Tappa che mette alla prova più per i saliscendi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa ripida sull'altro versante",
+          "quote": "La discesa sull'altro versante è ripida e sassosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "Silenzio assoluto nella pietraia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio estate",
+          "quote": "Nevaio sotto il colle ancora bello sodo a inizio luglio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie e massi",
+          "quote": "I tratti di pietraia sono tanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sul colle",
+          "quote": "Nebbia in cresta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Due rifugi accoglienti",
+          "quote": "Colazione al Jervis"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Due rifugi accoglienti",
+          "quote": "Il rifugio d'arrivo ha una veranda che prende il sole di sera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento al colle",
+          "quote": "il vento al colle taglia le orecchie"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Scarica di sassi sul canalino",
+          "kind": "attenzione",
+          "quote": "Una scarica di sassi in cima al canalino nord"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa ripida sull'altro versante",
+          "quote": "Discesa lunghissima con i bastoncini"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e impegnativa",
+          "quote": "Quasi un'ora in meno del tempo indicato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Paletti segnavia nuovi",
+          "kind": "novita",
+          "quote": "sono stati posati nuovi paletti bianchi e rossi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sul colle",
+          "quote": "fresco al colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "comunque pochi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio estate",
+          "quote": "qualche macchia di neve fresca sopra il colle"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

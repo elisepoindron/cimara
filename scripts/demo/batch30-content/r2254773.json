@@ -1,0 +1,56 @@
+{
+  "osm": "r2254773",
+  "invented": [
+    "description",
+    "reports",
+    "esposizione"
+  ],
+  "itinerary": {
+    "key": "ru-courtod",
+    "activity": "escursionismo",
+    "place": "comune-007007",
+    "name": "Ru Courtod",
+    "lat": 45.87859,
+    "lon": 7.70839,
+    "aspect": "S",
+    "altMax": 2118,
+    "facts": {
+      "partenza": 2118,
+      "localita_partenza": "Ayas"
+    },
+    "sections": {
+      "descrizione": "Dal villaggio di Barmasc il sentiero sale lungo il ru fino all'alpe Courtod, su pascoli e tratti di bosco di larici. Il percorso è lungo e sale con regolarità, con alcuni tornanti.\n\nIn alto l'alpe è aperta: si vede tutta la valle di Ayas. Il sentiero è segnato con il numero 5."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2023-08-12",
+        "words": "Caldo in salita, abbiamo bevuto tanto al ru. Arrivati all'alpe c'era un po' di vento fresco."
+      },
+      {
+        "observedAt": "2025-07-07",
+        "words": "Pascoli in fiore, mucche nei prati vicino all'alpe. Tenere il cane al guinzaglio."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Caldo in salita",
+          "quote": "Caldo in salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mucche sul sentiero",
+          "quote": "mucche nei prati vicino all'alpe"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

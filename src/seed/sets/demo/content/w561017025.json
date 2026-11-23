@@ -1,0 +1,272 @@
+{
+  "osm": "w561017025",
+  "invented": [
+    "difficolta",
+    "vetta",
+    "esposizione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "canal-grande",
+    "activity": "sci_alpinismo",
+    "place": "comune-007032",
+    "name": "Canal Grande",
+    "lat": 45.89254,
+    "lon": 7.85623,
+    "aspect": "SE",
+    "facts": {
+      "difficolta": "BS",
+      "vetta": 3282,
+      "esposizione": "SE",
+      "localita_partenza": "Gressoney-La-Trinité",
+      "come_arrivare": "Da Gressoney-La-Trinité si sale agli impianti e dalla stazione alta si risale a piedi con le pelli verso la partenza del canale."
+    },
+    "sections": {
+      "descrizione": "Il Canal Grande è una delle discese più riconoscibili dell'alta Valle di Gressoney: parte oltre i 3200 metri e scende per un ampio canale aperto, lungo e di pendenza media, che si lascia sciare a tutta larghezza. Alla fine si esce nel vallone sottostante verso gli impianti.\n\nLa neve, a quella quota, è spesso bella anche in primavera: asciutta nelle conche, ventata sui dossi. Nella parte centrale il canale si restringe in un tratto più ripido, da affrontare con attenzione dopo nevicate abbondanti. In alto la visibilità cambia in fretta: nebbia e vento possono comparire in pochi minuti.\n\nQuasi tutta la discesa segue linee naturali: con neve buona non c'è bisogno di cercare altro.",
+      "note": "Gita di alta quota con ambiente glaciale vicino: attenzione ai crepacci fuori percorso. Equipaggiamento invernale completo, ARTVA, pala e sonda, rampanti nello zaino. Bollettino valanghe obbligatorio."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-03-20",
+        "words": "Partenza alle otto, in cima alle dieci. Il canale aperto da subito, si scia a tutta larghezza senza stringere mai. Siamo tornati al paese con le gambe che tremavano."
+      },
+      {
+        "observedAt": "2022-04-23",
+        "words": "Neve fresca la notte prima, ben ventata. In alto lastre morbide, il vento ha lavorato la parte alta, con tratti duri e tratti polverosi. Giornata splendida."
+      },
+      {
+        "observedAt": "2022-05-21",
+        "words": "Fine maggio, e ancora bellissimo. Siamo saliti con gli impianti ancora aperti e poi pelli. A questa quota la neve primaverile dura fino a maggio, un regalo."
+      },
+      {
+        "observedAt": "2022-12-04",
+        "words": "Prima neve della stagione. Aperta da poco la stagione, siamo partiti di buon'ora. Larghissimo, si trova sempre la linea giusta. Tanti sciatori, ma c'era posto."
+      },
+      {
+        "observedAt": "2023-01-18",
+        "words": "Mercoledì d'inverno, tempo fantastico. Il canale era mezzo vuoto, solo un altro gruppo in tutto il canale. Neve ben assestata e piacevole."
+      },
+      {
+        "observedAt": "2023-02-11",
+        "words": "Con un'amica alla prima discesa su un canale lungo. Nella parte centrale ci vuole un po' di attenzione dove si stringe, ma poi si riapre. Una gita perfetta."
+      },
+      {
+        "observedAt": "2023-03-19",
+        "words": "Giornata splendida ma vento forte in cresta. Abbiamo fatto fatica a stare dritti a quota 3200. Il vento ci ha fermato a metà salita per qualche minuto."
+      },
+      {
+        "observedAt": "2023-04-12",
+        "words": "Mercoledì, sole pieno. Dopo giorni di caldo la neve in alto era ancora ottima. Pochissima gente."
+      },
+      {
+        "observedAt": "2023-05-07",
+        "words": "Siamo andati con le pelli fino al colletto. In discesa la neve era molle, negli ultimi trecento metri era neve da primavera avanzata, pesante. Ma per maggio un bel regalo."
+      },
+      {
+        "observedAt": "2024-01-13",
+        "words": "Un freddo cane e nebbia fitta. Abbiamo rinunciato alla partenza dal colletto e siamo scesi alle piste. La nebbia a 3200 metri era così fitta che non si vedeva la punta degli sci."
+      },
+      {
+        "observedAt": "2024-02-17",
+        "words": "Dopo giorni di sole, la neve dentro il canale era in condizioni perfette. Dalla partenza alla fine si scende in un'unica lunga linea, senza incontrare ostacoli."
+      },
+      {
+        "observedAt": "2024-03-14",
+        "words": "Giovedì con cielo limpido, nessun impianto affollato. Poco fuori dal percorso, a sinistra della partenza, si è aperto un crepaccio che va tenuto d'occhio. Noi ci siamo tenuti a destra."
+      },
+      {
+        "observedAt": "2024-03-30",
+        "words": "Pasqua con il sole. Una fila di sciatori sulla traccia, il canale è già tutto segnato dalle tracce degli altri, ma andava bene lo stesso."
+      },
+      {
+        "observedAt": "2024-04-27",
+        "words": "Fine aprile, canale ancora lungo e coperto di neve vecchia. Il sole in alto lo scalda alle undici. Più sotto la neve è diventata pesantissima. Meglio presto."
+      },
+      {
+        "observedAt": "2025-02-22",
+        "words": "Neve ottima, aria cristallina. Hanno messo dei pali con il numero del percorso lungo il canale per aiutare con poca visibilità. Con la nebbia sono utili."
+      },
+      {
+        "observedAt": "2025-03-26",
+        "words": "Mercoledì grigio, ma si scia. Siamo scesi con prudenza: sul tratto stretto il pendio si fa più ripido e le lastre si staccano. Meglio un controllo in più."
+      },
+      {
+        "observedAt": "2025-04-19",
+        "words": "Sabato di Pasqua con un grande sole. Un gruppo di dieci ragazzi con le guide, tutti in fila. Il vento in cima ci ha fatto stringere i denti, ma il canale era meraviglioso."
+      },
+      {
+        "observedAt": "2026-02-14",
+        "words": "Febbraio con tempo bellissimo. Canale pulito e neve compatta. Il sabato era quasi vuoto, forse per il freddo. Tutto sommato una grande giornata."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Canale largo e aperto",
+          "quote": "si scia a tutta larghezza senza stringere mai"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve ventata in alto",
+          "quote": "il vento ha lavorato la parte alta, con tratti duri e tratti polverosi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve fino a primavera inoltrata",
+          "quote": "A questa quota la neve primaverile dura fino a maggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Canale largo e aperto",
+          "quote": "Larghissimo, si trova sempre la linea giusta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "solo un altro gruppo in tutto il canale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto centrale più ripido",
+          "quote": "ci vuole un po' di attenzione dove si stringe"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Freddo e vento in quota",
+          "quote": "Il vento ci ha fermato a metà salita per qualche minuto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve fino a primavera inoltrata",
+          "quote": "Dopo giorni di caldo la neve in alto era ancora ottima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve pesante nel basso",
+          "quote": "negli ultimi trecento metri era neve da primavera avanzata, pesante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia in quota",
+          "quote": "La nebbia a 3200 metri era così fitta che non si vedeva la punta degli sci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Canale largo e aperto",
+          "quote": "Dalla partenza alla fine si scende in un'unica lunga linea"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Crepaccio vicino alla partenza",
+          "kind": "attenzione",
+          "quote": "Poco fuori dal percorso, a sinistra della partenza, si è aperto un crepaccio che va tenuto d'occhio"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tracce di altri sul pendio",
+          "quote": "il canale è già tutto segnato dalle tracce degli altri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve pesante nel basso",
+          "quote": "Più sotto la neve è diventata pesantissima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Pali segnaletici sul canale",
+          "kind": "novita",
+          "quote": "Hanno messo dei pali con il numero del percorso lungo il canale per aiutare con poca visibilità"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto centrale più ripido",
+          "quote": "il pendio si fa più ripido e le lastre si staccano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Freddo e vento in quota",
+          "quote": "Il vento in cima ci ha fatto stringere i denti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Il sabato era quasi vuoto, forse per il freddo"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

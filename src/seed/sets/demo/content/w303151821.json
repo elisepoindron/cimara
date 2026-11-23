@@ -1,0 +1,467 @@
+{
+  "osm": "w303151821",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "palestra-di-roccia-di-lillaz",
+    "activity": "falesia",
+    "place": "comune-007021",
+    "name": "Palestra di Roccia di Lillaz",
+    "lat": 45.59634,
+    "lon": 7.39889,
+    "aspect": "S",
+    "altMax": 1756,
+    "facts": {
+      "quota_base": 1756,
+      "esposizione": "S",
+      "avvicinamento": 10,
+      "localita_partenza": "Cogne"
+    },
+    "sections": {
+      "note": "La palestra di roccia di Lillaz è una parete rivolta a sud, a 1750 metri, sopra il piccolo abitato che è anche famoso per le sue cascate. Le vie sono quasi tutte spittate, dal 3 al 6b, con qualche linea più lunga che si fa in due tiri: è un posto pensato per imparare e per le giornate in famiglia, non per cercare il grado.\n\nLa roccia è un calcescisto compatto, a gradini nella parte bassa e più liscio in alto. Il sole arriva presto e resta fino al tardo pomeriggio, quindi in primavera e in autunno si sta bene anche con la giacca, mentre d'estate si preferisce arrivare al mattino.\n\nLa stagione va da maggio a ottobre. In basso si trovano anche tavoli e prati per i picnic; il torrente ai piedi della valle ricorda che il fondo resta a lungo umido dopo i temporali.",
+      "avvicinamento": "Dal parcheggio si risale in un quarto d'ora su un sentiero ben segnato fra larici e ontani, fino alla base della parete; per i settori alti si prosegue a destra per un altro paio di minuti."
+    },
+    "parts": [
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Il Primo Giorno",
+          "grado": "3",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "La Scala del Nonno",
+          "grado": "3",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Passetto",
+          "grado": "4a",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Fuori Dalla Valle",
+          "grado": "4a+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Fiore di Montagna",
+          "grado": "4b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Camoscio Pigro",
+          "grado": "4c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Le Cascate",
+          "grado": "5a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Tranquillo Così",
+          "grado": "5a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Il Pic-Nic",
+          "grado": "5a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Parete Principale",
+        "fields": {
+          "nome": "Mezzogiorno di Fuoco",
+          "grado": "5b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Parete Principale",
+        "fields": {
+          "nome": "La Capra Saggia",
+          "grado": "5b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Parete Principale",
+        "fields": {
+          "nome": "Larice Solitario",
+          "grado": "5b+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Parete Principale",
+        "fields": {
+          "nome": "Bagno di Sole",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Parete Principale",
+        "fields": {
+          "nome": "Piede Fermo",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Parete Principale",
+        "fields": {
+          "nome": "Il Pettirosso",
+          "grado": "5c+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Parete Principale",
+        "fields": {
+          "nome": "Sorpresa di Lillaz",
+          "grado": "6a",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Parete Principale",
+        "fields": {
+          "nome": "Via del Nonno Pietro",
+          "grado": "6a",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Parete Principale",
+        "fields": {
+          "nome": "La Punta del Naso",
+          "grado": "6a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Parete Principale",
+        "fields": {
+          "nome": "Ghiaccio Sciolto",
+          "grado": "6a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Strapiombino",
+          "grado": "6a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Il Tocco Finale",
+          "grado": "6b",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Tre Dita Contano",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Sulla Cresta",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Vento da Sud",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Mezza Luna",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-05-14",
+        "words": "Prima giornata di sole dopo settimane di pioggia: roccia ancora un po' fredda ma i placchetti sono tutti buoni. Sul Primo Giorno abbiamo portato due bambini, che si sono divertiti a fare la sosta. Il parcheggio piccolo si riempie in fretta."
+      },
+      {
+        "observedAt": "2022-06-18",
+        "words": "Saliti con la scuola di alpinismo del CAI per tre ore di sole sui gradini del settore basso. L'istruttore ha lodato la roccia: sicura, aderente e senza polvere. Cascate in piena a due passi, rumore bellissimo."
+      },
+      {
+        "observedAt": "2022-07-27",
+        "words": "Mercoledì d'estate, aria fresca e quasi nessuno. Sorpresa di Lillaz ha un passo chiave scomodo, tutto di piedi sul liscio. Siamo scesi a mezzogiorno quando il sole è diventato forte."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Sabato d'agosto e il prato sotto la parete sembrava una spiaggia. Code su tutte le vie facili, ma l'ambiente resta allegro e nessuno spinge. Meglio arrivare prima delle nove."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Giornata limpida di fine settembre con larici dorati. Ho salito Le Cascate e Bagno di Sole senza fatica e poi una chiacchierata con un gruppetto di tedeschi. Roccia calda ancora alle quattro."
+      },
+      {
+        "observedAt": "2023-05-06",
+        "words": "Primavera in anticipo: sole pieno sulla parete e nel bosco ancora neve. Il sentiero era bagnato ma pulito. Piede Fermo è davvero tutta di piedi, perfetta per capire come si sta in verticale."
+      },
+      {
+        "observedAt": "2023-06-14",
+        "words": "Mercoledì libero, vie di riscaldamento sulle placche basse e un paio di 5c alla parete principale. Con le prime ore di sole la parete si scalda e si asciuga subito. Molto comodo per fare un po' di mestiere con i rinvii."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Weekend di luglio con parecchie famiglie e un campo di bambini accanto. Mi piace che qui si possa lasciare i ragazzi a giocare mentre si sale a due passi. Il rumore delle cascate copre le voci."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Aria calda e secca, vie tutte pulite. Una sosta del settore alto aveva il moschettone di calata consumato: l'hanno cambiato con un anello nuovo. Piccoli gesti che fanno la differenza."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Ottobre alle porte ma si scala ancora in maglietta al sole. Vento di valle forte nel pomeriggio, a volte rinvii che ballano. Ho provato la Via del Nonno Pietro e mi è sembrata ben tarata."
+      },
+      {
+        "observedAt": "2024-05-25",
+        "words": "Troppo presto per i settori alti: neve sulla cengia e acqua che scorre sulle placche. Ci siamo fermati alle vie basse e abbiamo pranzato con la vista sulla valle. Pomeriggio perfetto."
+      },
+      {
+        "observedAt": "2024-06-27",
+        "words": "Giovedì di vacanza, io e due colleghi. Abbiamo fatto la Parete Principale quasi tutta, dal 5b al 6a+. Roccia ruvida e protezioni a distanza giusta, soste comode. Torneremo."
+      },
+      {
+        "observedAt": "2024-08-10",
+        "words": "Sabato di pienone, ma ogni cordata si fa i fatti suoi. Un cartello nuovo all'inizio del sentiero spiega le regole per chi porta cani e bambini. Utilissimo."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Giornata tersa, aria fresca. Con lo zaino leggero siamo risaliti dal fondovalle in meno di venti minuti e abbiamo salito dodici vie. Il Pettirosso ha un traverso bello, forse il più divertente."
+      },
+      {
+        "observedAt": "2025-06-08",
+        "words": "Domenica di giugno e tanta gente: gruppi di ragazzi, famiglie, un matrimonio che faceva foto sotto la parete. Divertente ma rumoroso. Il parcheggio era già pieno alle nove e mezza."
+      },
+      {
+        "observedAt": "2025-07-30",
+        "words": "Mercoledì mattina presto, nessun rumore a parte l'acqua. Nel Settore Alto un masso grosso è caduto dalla cengia e ha lasciato un solco sul sentiero: zona da attraversare con cura, in fretta e con il casco."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Settembre perfetto, sole caldo e aria chiara. Dopo le vie facili ci siamo fermati sotto la parete per una merenda lunga. Una bella palestra: poco impegno, molta allegria."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Adatta alle famiglie",
+          "quote": "abbiamo portato due bambini"
+        },
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "Il parcheggio piccolo si riempie in fretta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cascate vicine",
+          "quote": "Cascate in piena a due passi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole forte a mezzogiorno",
+          "quote": "quando il sole è diventato forte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "il prato sotto la parete sembrava una spiaggia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole sulla parete",
+          "quote": "Roccia calda ancora alle quattro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole sulla parete",
+          "quote": "sole pieno sulla parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole sulla parete",
+          "quote": "Con le prime ore di sole la parete si scalda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta alle famiglie",
+          "quote": "parecchie famiglie e un campo di bambini"
+        },
+        {
+          "label": "Cascate vicine",
+          "quote": "Il rumore delle cascate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Soste cambiate nel Settore Alto",
+          "kind": "novita",
+          "quote": "Una sosta del settore alto aveva il moschettone di calata consumato: l'hanno cambiato con un anello nuovo."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole sulla parete",
+          "quote": "si scala ancora in maglietta al sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "neve sulla cengia e acqua che scorre sulle placche"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "io e due colleghi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello nuovo all'inizio del sentiero",
+          "kind": "novita",
+          "quote": "Un cartello nuovo all'inizio del sentiero spiega le regole per chi porta cani e bambini."
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "tanta gente: gruppi di ragazzi"
+        },
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "Il parcheggio era già pieno alle nove e mezza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Masso caduto sul sentiero del Settore Alto",
+          "kind": "attenzione",
+          "quote": "Nel Settore Alto un masso grosso è caduto dalla cengia e ha lasciato un solco sul sentiero"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta alle famiglie",
+          "quote": "Una bella palestra"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

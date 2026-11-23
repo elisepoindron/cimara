@@ -1,0 +1,274 @@
+{
+  "osm": "r9772237",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-red-r142",
+    "activity": "escursionismo",
+    "place": "comune-004233",
+    "name": "Via Alpina Red R142",
+    "lat": 44.18502,
+    "lon": 7.21621,
+    "facts": {
+      "difficolta": "E",
+      "localita_partenza": "Rifugio Questa",
+      "come_arrivare": "Il Rifugio Questa si raggiunge da Valdieri salendo con una strada stretta fino a un parcheggio nell'alta valle, poi a piedi. L'arrivo al Rifugio Morelli-Buzzi è raggiungibile solo a piedi, con rientro da organizzare."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Rossa nelle Alpi Marittime, dal Rifugio Questa al Rifugio Morelli-Buzzi: un percorso di alta quota dentro al territorio del parco, tra laghi, pietraie e creste calcaree. Dal Questa si sale per pascoli e pietraie, si attraversa un valico, poi si scende e si risale ancora verso il secondo rifugio.\n\nIl fondo è per lo più sentiero ben tracciato ma con lunghi tratti di massi, che rallentano il passo. L'ambiente è severo e sorprendente: il Gelas, i laghi a specchio, le pareti rosate. Stambecchi, camosci e marmotte sono la regola, non l'eccezione.\n\nIl periodo è da fine giugno a inizio ottobre. È una tappa impegnativa, da affrontare con buone scarpe e l'acqua sufficiente."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Alle otto dal Questa con il sole sulle pareti di fronte. Dopo il primo colle un lago a specchio, fermo, con il Gelas riflesso."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Stambecchi a decine sul pendio dopo il valico, sdraiati al sole come turisti. Ci hanno lasciati passare a un paio di metri."
+      },
+      {
+        "observedAt": "2022-09-18",
+        "words": "Pietraie su pietraie: alla fine sapevo la forma di ogni masso. Si avanza piano ma è un terreno che affascina."
+      },
+      {
+        "observedAt": "2023-07-10",
+        "words": "Mercoledì di luglio senza anima viva. Sono arrivato al Morelli-Buzzi per le tre con un caffè che valeva oro."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Salita ripida alla fine, con i massi a gradoni. I bastoncini aiutano, i guanti anche per i tratti con la mano."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Il Gelas con la neve di giugno ancora sul versante nord, e noi con le magliette. Strano contrasto."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Sul crinale una marmotta enorme, senza paura. Siamo rimasti un quarto d'ora a guardarla mangiare."
+      },
+      {
+        "observedAt": "2024-07-08",
+        "words": "Giovedì feriale con cielo coperto e vento da sud. Le rocce bianche sembravano scolpite nella nebbia."
+      },
+      {
+        "observedAt": "2024-08-03",
+        "words": "Neve ancora presente sul valico a inizio luglio: pendio duro in mattinata, con ramponcini niente di grave."
+      },
+      {
+        "observedAt": "2024-08-31",
+        "words": "Un camoscio sul sentiero poco sotto il valico, immobile per un minuto. Poi è sparito in una gola."
+      },
+      {
+        "observedAt": "2024-09-22",
+        "words": "Poco tempo per i laghi, ma quello grande, azzurro scuro, è davvero uno spettacolo. Valeva una deviazione di mezz'ora."
+      },
+      {
+        "observedAt": "2025-07-08",
+        "words": "Tre giorni di cammino nel parco e questa tappa è stata la più bella. Rifugio caldo e accogliente, minestra eccellente."
+      },
+      {
+        "observedAt": "2025-08-02",
+        "words": "Dopo l'inverno un tratto di sentiero è franato sotto il primo colle: segnalato un nuovo passaggio più in alto, con ometti e segni gialli."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "La traccia tra i due laghi è stata ripulita e segnata con bolli nuovi dopo una lunga incuria. Ora si segue bene."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Lunedì grigio ma asciutto. Il fondo con i massi richiede attenzione ma si cammina senza sorprese."
+      },
+      {
+        "observedAt": "2026-07-08",
+        "words": "Una lepre bianca ancora in tenuta quasi invernale sopra il lago, a luglio. Mai vista una così."
+      },
+      {
+        "observedAt": "2026-08-02",
+        "words": "Alba dolcissima sulle pareti rosa. Lasciare il rifugio con il freddo e il silenzio è una delle cose più belle che abbia fatto quest'anno."
+      },
+      {
+        "observedAt": "2026-08-29",
+        "words": "Ultimo tratto in salita con le gambe già stanche. Ma dal valico si vedono i laghi uno dopo l'altro, e il passo cambia."
+      },
+      {
+        "observedAt": "2026-09-26",
+        "words": "Fine settembre, prima neve fresca sulle creste e fiato che si condensa. Stambecchi in branco proprio sul sentiero."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Laghi alpini",
+          "quote": "un lago a specchio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi e camosci",
+          "quote": "Stambecchi a decine sul pendio dopo il valico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie e massi",
+          "quote": "Pietraie su pietraie"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Morelli-Buzzi",
+          "quote": "Sono arrivato al Morelli-Buzzi per le tre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie e massi",
+          "quote": "i massi a gradoni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Il Gelas con la neve di giugno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte",
+          "quote": "una marmotta enorme"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia in quota",
+          "quote": "cielo coperto e vento da sud"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Neve ancora presente sul valico a inizio luglio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi e camosci",
+          "quote": "Un camoscio sul sentiero poco sotto il valico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Laghi alpini",
+          "quote": "quello grande, azzurro scuro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Morelli-Buzzi",
+          "quote": "Rifugio caldo e accogliente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuovo passaggio sotto il primo colle",
+          "kind": "attenzione",
+          "quote": "un tratto di sentiero è franato sotto il primo colle"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Bolli nuovi tra i due laghi",
+          "kind": "novita",
+          "quote": "La traccia tra i due laghi è stata ripulita e segnata con bolli nuovi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie e massi",
+          "quote": "Il fondo con i massi richiede attenzione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Morelli-Buzzi",
+          "quote": "Lasciare il rifugio con il freddo e il silenzio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Laghi alpini",
+          "quote": "si vedono i laghi uno dopo l'altro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi e camosci",
+          "quote": "Stambecchi in branco proprio sul sentiero"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

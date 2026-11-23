@@ -1,0 +1,241 @@
+{
+  "osm": "r12113624",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d24",
+    "activity": "escursionismo",
+    "place": "comune-001288",
+    "name": "Via Alpina Blue D24",
+    "lat": 45.55838,
+    "lon": 7.52772,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 814,
+      "localita_partenza": "Bivacco Bausano",
+      "come_arrivare": "Il Bivacco Bausano è in quota, in Valle Soana, e si raggiunge solo a piedi: la partenza di questa tappa è lì. L'arrivo a Ronco Canavese è in fondovalle, raggiungibile in auto da Cuorgnè."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu dal Bivacco Bausano a Ronco Canavese, in Valle Soana. Circa 12 chilometri con 800 metri di salita e quasi 1.900 di discesa: una tappa in gran parte di discesa, con un primo tratto d'alta quota.\n\nSi parte dal bivacco, a quota alta, poi si valica una cresta e si scende per un lungo sentiero tra pascoli, boschi di larici e di faggi fino al fondovalle. Gli ultimi chilometri passano tra frazioni di pietra e vecchi terrazzamenti.\n\nÈ una tappa spettacolare e impegnativa nella discesa; il sentiero è ben segnato. Il bivacco è spartano: servono sacco a pelo e provviste."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Il bivacco è piccolo e sperduto, con una stufa e quattro posti. La notte è stata fredda ma il cielo stellato valeva il disagio."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Dal bivacco al primo colle un tratto ripido su sfasciumi che toglie il fiato. Appena sopra mi sono girato e c'era tutta la valle sotto."
+      },
+      {
+        "observedAt": "2022-09-16",
+        "words": "Dopo il colle, la discesa è una scalinata infinita. Mi sono fermato a una fonte mezza nascosta tra i larici per riempire la borraccia."
+      },
+      {
+        "observedAt": "2023-06-03",
+        "words": "Neve ancora presente nel primo tratto sotto il bivacco: abbiamo camminato su un nevaio duro prima di trovare il sentiero scoperto."
+      },
+      {
+        "observedAt": "2023-07-30",
+        "words": "Temporale pomeridiano con un po' di grandine sul versante opposto: noi eravamo già in basso e ci siamo riparati sotto una tettoia."
+      },
+      {
+        "observedAt": "2023-08-28",
+        "words": "Feriale in Valle Soana, i paesi sembravano disabitati. A Ronco Canavese c'era solo il bar della piazza e un cane addormentato."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Boschi di faggi con la luce che filtra come in una cattedrale. Ho rallentato apposta per godermela, sapendo che avrei finito troppo presto."
+      },
+      {
+        "observedAt": "2023-10-22",
+        "words": "Castagne e funghi lungo il sentiero a fine ottobre, e i terrazzamenti di Ronco coperti di foglie. Sotto gli alberi l'aria sapeva di terra bagnata."
+      },
+      {
+        "observedAt": "2024-06-08",
+        "words": "Hanno ripristinato il tratto sopra le frazioni con un nuovo muretto a secco e due gradini in più. Si sale e si scende più facilmente di prima."
+      },
+      {
+        "observedAt": "2024-07-21",
+        "words": "Bivacco in ordine, con le coperte pulite e una scorta di legna. Chi lo usa dovrebbe lasciarlo meglio di come l'ha trovato."
+      },
+      {
+        "observedAt": "2024-08-20",
+        "words": "Ho percorso la tappa un giovedì di ferie. Dopo il colle l'unico suono era quello dei sassi sotto gli scarponi."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Un tratto del sentiero sopra il torrente è stato eroso e restano pochi centimetri di appoggio: si passa uno alla volta, con il corpo verso il monte."
+      },
+      {
+        "observedAt": "2024-10-27",
+        "words": "Sulla tappa i larici erano già gialli e la discesa a Ronco profumava di legna bruciata. Un finale da cartolina."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Con il sentiero eroso ho passato la sezione stretta in fretta ma con calma, tenendomi a una corda lasciata da qualcuno. Il resto della discesa non ha problemi."
+      },
+      {
+        "observedAt": "2025-08-31",
+        "words": "Il caldo in basso è umido e pesante, dopo il fresco del bivacco la differenza è di dieci gradi. Alla fontana di Ronco ho bevuto per un'ora."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "La discesa è lunga ma gratificante: tra le frazioni si incontra gente che saluta e un vecchio che sistemava il tetto di una baita."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Bivacco spartano",
+          "quote": "Il bivacco è piccolo e sperduto, con una stufa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama dalla cresta",
+          "quote": "c'era tutta la valle sotto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "la discesa è una scalinata infinita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo in quota",
+          "quote": "Neve ancora presente nel primo tratto sotto il bivacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo in quota",
+          "quote": "Temporale pomeridiano con un po' di grandine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ronco Canavese quieta",
+          "quote": "A Ronco Canavese c'era solo il bar della piazza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Faggeta luminosa",
+          "quote": "Boschi di faggi con la luce che filtra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori d'autunno",
+          "quote": "Castagne e funghi lungo il sentiero a fine ottobre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Muretto e gradini rifatti sopra le frazioni",
+          "kind": "novita",
+          "quote": "Hanno ripristinato il tratto sopra le frazioni con un nuovo muretto a secco e due gradini in più."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Bivacco spartano",
+          "quote": "Bivacco in ordine, con le coperte pulite"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "l'unico suono era quello dei sassi sotto gli scarponi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero eroso sopra il torrente",
+          "kind": "attenzione",
+          "quote": "Un tratto del sentiero sopra il torrente è stato eroso e restano pochi centimetri di appoggio: si passa uno alla volta, con il corpo verso il monte."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori d'autunno",
+          "quote": "i larici erano già gialli"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passaggio stretto sopra il torrente",
+          "quote": "ho passato la sezione stretta in fretta ma con calma"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nel fondovalle",
+          "quote": "Il caldo in basso è umido e pesante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "La discesa è lunga ma gratificante"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

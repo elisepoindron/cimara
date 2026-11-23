@@ -1,0 +1,330 @@
+{
+  "osm": "n13902124383",
+  "invented": [
+    "grado_obbligatorio",
+    "sviluppo",
+    "avvicinamento",
+    "protezione",
+    "localita_partenza",
+    "come_arrivare",
+    "tiri",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "a-l-e-el-travai-pi-bel-fe",
+    "activity": "multipitch",
+    "place": "comune-004248",
+    "name": "A l’è el travai pi bel fè",
+    "lat": 44.27034,
+    "lon": 7.1293,
+    "aspect": "SE",
+    "altMax": 1620,
+    "facts": {
+      "grado_obbligatorio": "5c",
+      "sviluppo": 245,
+      "avvicinamento": 30,
+      "protezione": "da_integrare",
+      "localita_partenza": "Vinadio",
+      "come_arrivare": "Da Vinadio si segue la strada della valle fino a un piazzale con spazio per qualche auto, poi un sentiero in salita nel bosco di faggi porta alla base della parete di gneiss.",
+      "quota_base": 1481,
+      "esposizione": "SE",
+      "grado_max": "6a",
+      "tiri": 7
+    },
+    "sections": {
+      "descrizione": "Una lunga via di sette tiri su gneiss a sud-est, che sale una placconata ricca di fessure e piccoli diedri. Il nome in piemontese, che si può tradurre con \"il lavoro più bello da fare\", dice tutto: è una salita che vuole tempo e testa.\n\nGli spit coprono i tratti più difficili ma sulle fessure conviene integrare con friend medi e dadi. La roccia è compatta e ruvida, con prese a lama; nel tiro centrale un 6a di placca verticale richiede attenzione ai piedi.\n\nIl sole arriva dal mattino e scalda bene la parete fino all'una circa, poi ombra: d'inverno si sta bene, in piena estate meglio partire presto.",
+      "discesa": "In doppia lungo la via con corde da 60 metri, sette calate ben allineate; una cengia a destra permette in alternativa di scendere a piedi su sentiero marcato in circa quaranta minuti.",
+      "materiale": "Corde da 60 metri, dodici rinvii, friend dallo 0.3 al 2, una serie di dadi e fettucce; casco.",
+      "avvicinamento": "Dal piazzale un sentiero marcato sale nel bosco di faggi fino a un ripiano di roccette e poi alla base della placconata, riconoscibile da un grande diedro grigio."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 35,
+          "descrizione": "Roccette appoggiate e rampa verso destra."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 35,
+          "descrizione": "Placca di tacche con una fessura utile per un friend."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 35,
+          "descrizione": "Diedro con fessura sul fondo, bello da incastro."
+        }
+      },
+      {
+        "fields": {
+          "grado": "6a",
+          "lunghezza": 35,
+          "descrizione": "Placca verticale di aderenza, il tratto più impegnativo."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 35,
+          "descrizione": "Fessura obliqua verso sinistra, protezione da integrare."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 35,
+          "descrizione": "Muretto a lame, poi cengia erbosa."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4b",
+          "lunghezza": 35,
+          "descrizione": "Rocce facili fino alla sosta finale sotto il bosco."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-04-09",
+        "words": "Prima uscita dopo l'inverno e già caldo sulla parete. Gneiss ruvido e pulito, il diedro del terzo tiro è una bellezza."
+      },
+      {
+        "observedAt": "2022-05-14",
+        "words": "Il tiro di placca verticale del quarto richiede piedi precisi. Per fortuna gli spit sono giusti, ma le fessure sopra vanno integrate sul serio."
+      },
+      {
+        "observedAt": "2022-06-08",
+        "words": "Mercoledì, caldo da giugno pieno. Siamo partiti alle sette: alle dodici il sole già girava e la roccia era piacevole."
+      },
+      {
+        "observedAt": "2022-10-15",
+        "words": "Ottobre limpido, luce bassa e gneiss dorato. In cima si vedono i boschi d'autunno e il fondovalle fumante."
+      },
+      {
+        "observedAt": "2023-03-25",
+        "words": "Fine marzo ma l'asciutto è già perfetto sulla parete esposta a sud-est. Qualche foglia secca nei diedri ma niente di grave."
+      },
+      {
+        "observedAt": "2023-05-21",
+        "words": "Mi sono sorpreso a ridere sul sesto tiro: facile, ma bello, con le lame che sembrano scolpite. Ottimo per rilassarsi dopo il passo del quarto."
+      },
+      {
+        "observedAt": "2023-07-04",
+        "words": "Un martedì in valle con quaranta gradi in pianura e qui sopra un filo d'aria. Sole sul diedro fino alle undici, poi finalmente ombra."
+      },
+      {
+        "observedAt": "2023-09-17",
+        "words": "Via lunga, ci abbiamo messo sette ore compreso il rientro in doppia. Le soste sono comode e ben messe, ma la fatica si sente."
+      },
+      {
+        "observedAt": "2023-11-05",
+        "words": "Novembre e ancora una giornata mite. Gneiss freddo alle mani all'inizio, ma il sole sul pomeriggio lo ha scaldato bene."
+      },
+      {
+        "observedAt": "2024-04-20",
+        "words": "Tra il primo e il secondo tiro una pianta di edera ha invaso la fessura: dopo mezz'ora di pulizia si è riusciti a mettere i friend. Servirebbe un taglio ogni primavera."
+      },
+      {
+        "observedAt": "2024-06-16",
+        "words": "Via pulita bene da qualcuno nel mese scorso: l'edera è stata tagliata e le fessure sono libere. Grazie a chi lo ha fatto."
+      },
+      {
+        "observedAt": "2024-08-09",
+        "words": "Venerdì di agosto, valle piena di turisti, via vuota. Il sesto tiro con le lame scolpite è sempre un piacere."
+      },
+      {
+        "observedAt": "2024-10-26",
+        "words": "Ottobre tardo, giornata corta. Partiti alle nove e in cima alle tre, in doppia con il sole che calava dietro la cresta. Tutto bene ma si è fatto buio sotto."
+      },
+      {
+        "observedAt": "2025-04-12",
+        "words": "Un fix della terza sosta è stato rimpiazzato con una catena doppia nuova: molto meglio per la sicurezza e anche per la manovra delle doppie."
+      },
+      {
+        "observedAt": "2025-06-29",
+        "words": "Una cengia sul quinto tiro è piena di sassi sciolti: attenzione a non far cadere nulla sulla cordata sotto."
+      },
+      {
+        "observedAt": "2025-10-04",
+        "words": "Una cordata in coda, ma tutto tranquillo. Chiacchierata alla sosta tre con altri due, scambiato qualche consiglio sui friend."
+      },
+      {
+        "observedAt": "2026-05-10",
+        "words": "Stagione ben avviata. La via è sempre uguale, e questo è il suo bello: il lavoro più bello da fare, come dice il nome."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Gneiss ruvido e pulito",
+          "quote": "Gneiss ruvido e pulito"
+        },
+        {
+          "label": "Sole fin dal mattino",
+          "quote": "già caldo sulla parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Da integrare sulle fessure",
+          "quote": "le fessure sopra vanno integrate sul serio"
+        },
+        {
+          "label": "Placca del quarto tiro",
+          "quote": "Il tiro di placca verticale del quarto richiede piedi precisi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole fin dal mattino",
+          "quote": "Siamo partiti alle sette"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul bosco d'autunno",
+          "quote": "In cima si vedono i boschi d'autunno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Asciutta già in primavera",
+          "quote": "l'asciutto è già perfetto sulla parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placca del quarto tiro",
+          "quote": "dopo il passo del quarto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole fin dal mattino",
+          "quote": "Sole sul diedro fino alle undici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "ci abbiamo messo sette ore compreso il rientro in doppia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Asciutta già in primavera",
+          "quote": "Gneiss freddo alle mani all'inizio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Edera nella fessura iniziale",
+          "kind": "attenzione",
+          "quote": "Tra il primo e il secondo tiro una pianta di edera ha invaso la fessura"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Fessura iniziale ripulita",
+          "kind": "novita",
+          "quote": "l'edera è stata tagliata e le fessure sono libere."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Via poco frequentata",
+          "quote": "valle piena di turisti, via vuota"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "Partiti alle nove e in cima alle tre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena doppia alla terza sosta",
+          "kind": "novita",
+          "quote": "Un fix della terza sosta è stato rimpiazzato con una catena doppia nuova: molto meglio per la sicurezza e anche per la manovra delle doppie."
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sassi sciolti sulla cengia",
+          "kind": "attenzione",
+          "quote": "Una cengia sul quinto tiro è piena di sassi sciolti: attenzione a non far cadere nulla sulla cordata sotto."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Da integrare sulle fessure",
+          "quote": "scambiato qualche consiglio sui friend"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gneiss ruvido e pulito",
+          "quote": "La via è sempre uguale"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Cimara",
+  "mark": {
+    "svg": "src/seed/sets/demo/brand/mark.svg",
+    "png32": "src/seed/sets/demo/brand/mark-32.png",
+    "png180": "src/seed/sets/demo/brand/mark-180.png"
+  },
+  "group": "Cimara",
+  "about": {
+    "line": "Una dimostrazione, con luoghi veri e relazioni inventate.",
+    "paragraphs": [
+      "Cimara è una dimostrazione: un archivio della montagna costruito per mostrare un'idea, non un servizio da consultare prima di partire.",
+      "I luoghi sono reali, presi da OpenStreetMap: nomi, posizioni, quote. Le descrizioni, le vie delle falesie e le relazioni sono inventate a scopo dimostrativo, e non dicono nulla delle condizioni vere di nessun posto.",
+      "L'idea è separare ciò che resta da ciò che passa. Ogni scheda descrive ciò che resta: la via, l'avvicinamento, la roccia. Le relazioni raccontano com'era un giorno. Nessuno dà voti: le condizioni di oggi le dice il cielo."
+    ]
+  },
+  "privacy": {
+    "line": "Un cookie tecnico, nessun account, nessuna pubblicità.",
+    "paragraphs": [
+      "Questa dimostrazione usa un solo cookie tecnico, che protegge i moduli da richieste inviate da altri siti. Non ci sono account, cookie di profilazione o pubblicità.",
+      "Le mappe sono disegnate dal tuo browser con tessere di servizi esterni (OpenFreeMap, Mapterhorn, OpenTopoMap), che ricevono il tuo indirizzo IP come ogni sito che visiti."
+    ]
+  }
+}

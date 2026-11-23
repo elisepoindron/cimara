@@ -1,0 +1,1164 @@
+{
+  "osm": "w1096333248",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "parcheggio_nota",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "corno-di-machaby",
+    "activity": "falesia",
+    "place": "comune-007004",
+    "name": "Corno di Machaby",
+    "lat": 45.64385,
+    "lon": 7.75044,
+    "aspect": "SO",
+    "altMax": 1189,
+    "facts": {
+      "esposizione": "SO",
+      "quota_base": 1189,
+      "avvicinamento": 20,
+      "localita_partenza": "Arnad",
+      "parcheggio_nota": "Pochi posti, nei weekend di bel tempo si riempie presto: lasciare l'auto a bordo strada senza bloccare il passaggio."
+    },
+    "sections": {
+      "note": "Grande parete di gneiss compatto esposta a sud-ovest, con placche tecniche, un pilastro più verticale e un settore strapiombante sulla destra. Le vie vanno dal 5c all'8a+, da 18 a 35 metri i monotiri, fino a 90 metri le vie a più tiri.\n\nLa scalata è soprattutto di piedi: aderenza, tacche piccole, pochi appigli netti. Chi arriva dal calcare trova i gradi severi. La chiodatura è a fix e resinati, più ravvicinata agli Strapiombi, un po' più lunga sulle placche e sulle vie lunghe.\n\nIl sole arriva a fine mattinata e resta fino a sera: è una parete da autunno, inverno e primavera. D'estate si scala solo la mattina presto, nel pomeriggio la roccia scotta.\n\nPer le vie lunghe servono una corda da 70 o due mezze da 60: si scende in doppia sulle vie. Moulinette possibile su quasi tutti i monotiri con una corda da 70.",
+      "avvicinamento": "Dal paese si sale in auto fino al piccolo parcheggio sotto la parete. Da lì un sentiero ripido nel bosco di castagni porta in una ventina di minuti alla base delle Placche Basse; a destra si raggiungono il Pilastro Centrale e gli Strapiombi, a sinistra il Muro del Sole e l'attacco delle vie lunghe."
+    },
+    "parts": [
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Formichina",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Grigio Topo",
+          "grado": "5c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Il Ripasso",
+          "grado": "5c+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Aderenza",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Piede Fermo",
+          "grado": "6a",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Sabbia e Sole",
+          "grado": "6a",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "La Lavagna",
+          "grado": "6a+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Fiato Corto",
+          "grado": "6a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Scarpette Nuove",
+          "grado": "6b",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Lisciona",
+          "grado": "6b+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Placche Basse",
+        "fields": {
+          "nome": "Pazienza",
+          "grado": "6c",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Pilastro Centrale",
+        "fields": {
+          "nome": "Fessura dei Merli",
+          "grado": "6b",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Pilastro Centrale",
+        "fields": {
+          "nome": "Il Pilastro",
+          "grado": "6b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Pilastro Centrale",
+        "fields": {
+          "nome": "Ombra Corta",
+          "grado": "6b+",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Pilastro Centrale",
+        "fields": {
+          "nome": "Nonna Pina",
+          "grado": "6c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Pilastro Centrale",
+        "fields": {
+          "nome": "Lo Spaccato",
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Pilastro Centrale",
+        "fields": {
+          "nome": "Spigolo Matto",
+          "grado": "6c+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Pilastro Centrale",
+        "fields": {
+          "nome": "Gnaro",
+          "grado": "6c+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Pilastro Centrale",
+        "fields": {
+          "nome": "Lingua Lunga",
+          "grado": "7a",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Pilastro Centrale",
+        "fields": {
+          "grado": "7a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Pilastro Centrale",
+        "fields": {
+          "nome": "Barba Bianca",
+          "grado": "7a+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Pilastro Centrale",
+        "fields": {
+          "nome": "Machaby Express",
+          "grado": "7a+",
+          "lunghezza": 34
+        }
+      },
+      {
+        "group": "Pilastro Centrale",
+        "fields": {
+          "nome": "Tira e Molla",
+          "grado": "7b",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Settore Strapiombi",
+        "fields": {
+          "nome": "Dolce Attesa",
+          "grado": "7a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Strapiombi",
+        "fields": {
+          "nome": "Pancia Piena",
+          "grado": "7a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Strapiombi",
+        "fields": {
+          "nome": "Tarzan",
+          "grado": "7b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore Strapiombi",
+        "fields": {
+          "nome": "Fuori di Testa",
+          "grado": "7b+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Settore Strapiombi",
+        "fields": {
+          "nome": "Ghiro",
+          "grado": "7b+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Settore Strapiombi",
+        "fields": {
+          "nome": "Il Tetto",
+          "grado": "7c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore Strapiombi",
+        "fields": {
+          "nome": "Cacciavite",
+          "grado": "7c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Settore Strapiombi",
+        "fields": {
+          "nome": "Braccia Rubate",
+          "grado": "7c+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Settore Strapiombi",
+        "fields": {
+          "nome": "Gioventù Bruciata",
+          "grado": "8a",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Settore Strapiombi",
+        "fields": {
+          "nome": "Fil di Ferro",
+          "grado": "8a",
+          "lunghezza": 27
+        }
+      },
+      {
+        "group": "Settore Strapiombi",
+        "fields": {
+          "nome": "L'Ultimo Spit",
+          "grado": "8a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Nuova Alba",
+          "grado": "6a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Terza Via",
+          "grado": "6b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Coda di Lupo",
+          "grado": "6c",
+          "lunghezza": 23
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Lucertola",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Il Ramarro",
+          "grado": "6a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Merenda",
+          "grado": "6a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Siesta",
+          "grado": "6b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Vecchia Volpe",
+          "grado": "6b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Controluce",
+          "grado": "6b+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Ambaradan",
+          "grado": "6b+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Mezzogiorno",
+          "grado": "6c",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Pietra Calda",
+          "grado": "6c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Caldo Boia",
+          "grado": "6c+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Tramonto",
+          "grado": "7a",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Vie Lunghe",
+        "fields": {
+          "nome": "Gradini del Cielo",
+          "grado": "5c+",
+          "lunghezza": 60
+        }
+      },
+      {
+        "group": "Vie Lunghe",
+        "fields": {
+          "nome": "Placca Infinita",
+          "grado": "6a+",
+          "lunghezza": 80
+        }
+      },
+      {
+        "group": "Vie Lunghe",
+        "fields": {
+          "nome": "Diedro dei Sogni",
+          "grado": "6b",
+          "lunghezza": 90
+        }
+      },
+      {
+        "group": "Vie Lunghe",
+        "fields": {
+          "nome": "Le Tre Lune",
+          "grado": "6b+",
+          "lunghezza": 70
+        }
+      },
+      {
+        "group": "Vie Lunghe",
+        "fields": {
+          "nome": "Via del Corno",
+          "grado": "6c",
+          "lunghezza": 85
+        }
+      },
+      {
+        "group": "Vie Lunghe",
+        "fields": {
+          "nome": "Spigolo di Arnad",
+          "grado": "7a",
+          "lunghezza": 75
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-12",
+        "words": "Prima uscita della stagione. Al sole si stava in maglietta già alle dieci, la parete scalda subito. Fatte quattro tiri nelle Placche Basse per riprendere confidenza: piedi, piedi e ancora piedi."
+      },
+      {
+        "observedAt": "2022-03-27",
+        "words": "Domenica: parcheggio pieno alle 9, abbiamo lasciato la macchina più giù a bordo strada. In parete gente ovunque, al Muro del Sole c'era la coda."
+      },
+      {
+        "observedAt": "2022-04-10",
+        "words": "Fatta la Placca Infinita con un amico. Sei tiri lunghi, servono due mezze da 60 per scendere in doppia. Roccia stupenda, aderenza pura sulle placche centrali, chiodatura un po' lunga sul terzo tiro. Vista sulla valle che ripaga tutto."
+      },
+      {
+        "observedAt": "2022-04-23",
+        "words": "Il sentiero è corto ma tira parecchio, arrivi alla base già sudato. Poi però in venti minuti sei lì. Giornata ventilata, perfetta."
+      },
+      {
+        "observedAt": "2022-05-20",
+        "words": "Arrivati alle 13 ed era un forno, la roccia scottava. Abbiamo resistito due tiri e poi giù a cercare ombra. Da fare la mattina presto o con l'autunno."
+      },
+      {
+        "observedAt": "2022-06-04",
+        "words": "Sveglia alle 6, in parete alle 7:30 e fino alle 10 si sta benissimo all'ombra. Poi gira il sole e si scappa. Fatto Spigolo Matto, 6c+ che sembrava un 7a."
+      },
+      {
+        "observedAt": "2022-09-18",
+        "words": "Settembre ancora caldo, ma dalle quattro in poi con un filo di vento si scala. Sui gradi qui non regalano niente, il mio 6b di casa qui l'ho appeso."
+      },
+      {
+        "observedAt": "2022-10-13",
+        "words": "Il Settore Strapiombi è stato tutto richiodato con resinati nuovi, catene comprese. Si vede il lavoro fatto bene, grazie a chi ci ha messo le mani. Provato Il Tetto, ci torno."
+      },
+      {
+        "observedAt": "2022-11-06",
+        "words": "Sabato pieno di gente, almeno quindici cordate. Però si trova sempre posto alle placche. Avvicinamento corto ma ripido, con lo zaino pesante si sente."
+      },
+      {
+        "observedAt": "2022-12-17",
+        "words": "Freddo in paese, ma sotto la parete c'erano almeno dieci gradi in più. Il bello di questo posto: a dicembre scali in maniche corte fino alle tre e mezza."
+      },
+      {
+        "observedAt": "2023-01-09",
+        "words": "Giornata limpida, zero vento. Esposizione perfetta per l'inverno, sole fino a sera. Fatto tutto il Muro del Sole, bella giornata con i ragazzi del corso."
+      },
+      {
+        "observedAt": "2023-02-19",
+        "words": "Solita domenica affollata, ma va bene così. Parcheggio già esaurito alle 9:30, ci siamo messi in fila sul bordo della strada come tutti."
+      },
+      {
+        "observedAt": "2023-04-02",
+        "words": "ATTENZIONE: sul Pilastro Centrale si è staccata una grossa scaglia tra Spigolo Matto e Lingua Lunga. Le due vie sono chiuse con un nastro alla base, non salite. Per terra ci sono ancora i blocchi."
+      },
+      {
+        "observedAt": "2023-04-18",
+        "words": "Placche su placche, scarpette strette e fiducia nei piedi. Chi viene dal calcare strapiombante qui soffre. Il pilastro è ancora transennato."
+      },
+      {
+        "observedAt": "2023-05-13",
+        "words": "Mezz'ora di salita al sole già alle 11, sudata vera. Una volta su, però, un posto bellissimo. Abbiamo incrociato una vipera sul sentiero poco sopra il parcheggio, occhio con i cani."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Giornata sbagliata, a giugno nel pomeriggio è impossibile. Due tiri e via."
+      },
+      {
+        "observedAt": "2023-09-08",
+        "words": "Diedro dei Sogni in giornata, cinque tiri tutti belli, l'ultimo il più bello. Corda da 70 o due mezze, la discesa è in doppia sulla via. Attenzione alle cordate sotto quando si recupera."
+      },
+      {
+        "observedAt": "2023-10-01",
+        "words": "Ottobre, finalmente si scala tutto il giorno. Gradi tosti, specie al pilastro: il 6b di Fessura dei Merli è più duro di molti 6c in valle."
+      },
+      {
+        "observedAt": "2023-10-22",
+        "words": "Domenica, parcheggio pieno e venti persone sotto il Muro del Sole. Siamo andati agli Strapiombi dove eravamo soli: resinati nuovi, che piacere."
+      },
+      {
+        "observedAt": "2023-11-23",
+        "words": "Bella giornata a fine novembre, al sole si stava benissimo fino alle quattro. Ombra e freddo appena gira."
+      },
+      {
+        "observedAt": "2024-01-14",
+        "words": "Gennaio, ma qui sembrava aprile. Siamo arrivati con piumino e berretto, a mezzogiorno eravamo in canottiera."
+      },
+      {
+        "observedAt": "2024-03-09",
+        "words": "Il Pilastro Centrale è stato riaperto: hanno disgaggiato tutta la zona della frana e rimesso le soste. Spigolo Matto ora ha un passo diverso in alto, un po' più duro di prima."
+      },
+      {
+        "observedAt": "2024-03-24",
+        "words": "Sabato tranquillo, poca gente. Fatte le vie nuove del pilastro dopo la frana, roccia ancora un po' polverosa ma solida. Il passo in alto di Spigolo Matto ora è cattivo."
+      },
+      {
+        "observedAt": "2024-04-20",
+        "words": "Lingua Lunga finalmente. Placca verticale, tacche piccole e piedi su niente. Per me è stato un 7a+ abbondante."
+      },
+      {
+        "observedAt": "2024-05-25",
+        "words": "In giro c'erano un sacco di zecche nell'erba alla base, controllatevi bene la sera. La parete invece era in ombra fino alle undici, fresca."
+      },
+      {
+        "observedAt": "2024-07-05",
+        "words": "Luglio: solo la mattina presto, alle 10:30 eravamo già in macchina. Troppo caldo dopo."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Nel Muro del Sole ci sono tre vie nuove a sinistra, tra Lucertola e la fine del settore: Nuova Alba, Terza Via e Coda di Lupo, con il nome scritto alla base. Belle tutte e tre, la terza è la più continua."
+      },
+      {
+        "observedAt": "2024-10-12",
+        "words": "Le Tre Lune con mia figlia, prima via lunga per lei. Quattro tiri, soste comode, si scende in doppia con una 70. Lei felice, io pure."
+      },
+      {
+        "observedAt": "2024-10-29",
+        "words": "Nido di calabroni dentro la fessura del secondo tiro di Ambaradan. Evitato la via, segnalato con un sasso alla base."
+      },
+      {
+        "observedAt": "2024-11-16",
+        "words": "Weekend affollatissimo, mezza Torino era qui. Ma il bello è che anche a novembre il sole picchia fino alle quattro."
+      },
+      {
+        "observedAt": "2024-12-28",
+        "words": "Tra Natale e Capodanno. Macchine ovunque, posteggio stracolmo già alle dieci. Al sole però caldo vero."
+      },
+      {
+        "observedAt": "2025-02-14",
+        "words": "Febbraio, roccia asciutta e calda. Le placche basse sono perfette per chi impara: tutto aderenza, nessuna presa vera, tanta testa."
+      },
+      {
+        "observedAt": "2025-04-05",
+        "words": "Sul sentiero a metà salita è caduto un grosso larice e la traccia è franata sotto. C'è una deviazione segnata con nastri a destra, un po' esposta: con bambini o cani fate attenzione."
+      },
+      {
+        "observedAt": "2025-04-26",
+        "words": "Deviazione ancora lì, si passa ma sul terriccio scivola. Salita ripida come sempre, poi la parete al sole. Fatto Via del Corno, sei tiri, discesa in doppia."
+      },
+      {
+        "observedAt": "2025-05-29",
+        "words": "Caldissimo già a fine maggio. In parete fino a mezzogiorno e poi a fare il bagno al fiume."
+      },
+      {
+        "observedAt": "2025-06-14",
+        "words": "Portato il cane, c'è spazio alla base e un po' d'ombra sotto i castagni. Tranquillo, nessuno si è lamentato."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Qui un 6a è un 6a vero, se non di più. Nessuna via facile da riscaldamento, si parte già tesi."
+      },
+      {
+        "observedAt": "2025-10-10",
+        "words": "Il sentiero è stato sistemato: tolto il larice, rifatta la traccia con gradini di legno e un corrimano nel punto franato. Ora si sale meglio di prima."
+      },
+      {
+        "observedAt": "2025-11-08",
+        "words": "Al parcheggio c'è una bacheca nuova con lo schizzo dei settori e i gradi. Comodissima la prima volta. Sabato, abbastanza gente, ma senza code."
+      },
+      {
+        "observedAt": "2026-01-17",
+        "words": "Gennaio e si scala al caldo. Pochi posti dove si sta così bene in inverno, il sole entra dalla mattina tardi fino a quasi sera."
+      },
+      {
+        "observedAt": "2026-03-08",
+        "words": "Domenica, lasciato l'auto lungo la strada perché il parcheggio era già pieno. Parete gremita, fatte le placche e via."
+      },
+      {
+        "observedAt": "2026-04-25",
+        "words": "Sul Diedro dei Sogni manca la catena alla seconda sosta, è rimasto solo un fix con un maillon vecchio. Abbiamo rinforzato con un friend, ma chi sale porti qualcosa per la sosta."
+      },
+      {
+        "observedAt": "2026-05-16",
+        "words": "Mattinata fresca e ventilata, poi caldo dalle undici. Gradini nuovi sul sentiero, si arriva in un attimo anche se tira sempre."
+      },
+      {
+        "observedAt": "2026-09-10",
+        "words": "Rimessa la catena alla seconda sosta del Diedro dei Sogni, nuova e con anello di calata. Ora la via si fa tranquilli, cinque tiri tutti da gustare."
+      },
+      {
+        "observedAt": "2026-10-04",
+        "words": "Primo weekend fresco d'autunno. Placche lisce e piedi da sistemare bene, come sempre. E gradi stretti: il 6c di Pietra Calda me lo ricorderò."
+      },
+      {
+        "observedAt": "2026-11-01",
+        "words": "Ponte dei Santi, troppa gente. Ma il sole d'autunno su questa parete è una meraviglia, caldo fino a tardi."
+      },
+      {
+        "observedAt": "2026-11-14",
+        "words": "Ultimo sabato buono prima del freddo, dicono. Fatto Il Pilastro e Nonna Pina, tutto asciutto, nessuno in giro dopo le tre."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Al sole si stava in maglietta già alle dieci"
+        },
+        {
+          "label": "Placche tecniche",
+          "quote": "piedi, piedi e ancora piedi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "parcheggio pieno alle 9"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "In parete gente ovunque, al Muro del Sole c'era la coda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie lunghe a più tiri",
+          "quote": "servono due mezze da 60 per scendere in doppia"
+        },
+        {
+          "label": "Placche tecniche",
+          "quote": "aderenza pura sulle placche centrali"
+        },
+        {
+          "label": "Vista sulla valle",
+          "quote": "Vista sulla valle che ripaga tutto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento ripido",
+          "quote": "Il sentiero è corto ma tira parecchio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Arrivati alle 13 ed era un forno, la roccia scottava"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Poi gira il sole e si scappa"
+        },
+        {
+          "label": "Gradi severi",
+          "quote": "6c+ che sembrava un 7a"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gradi severi",
+          "quote": "Sui gradi qui non regalano niente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Strapiombi richiodato a resinati",
+          "kind": "novita",
+          "quote": "Il Settore Strapiombi è stato tutto richiodato con resinati nuovi, catene comprese."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Sabato pieno di gente, almeno quindici cordate"
+        },
+        {
+          "label": "Avvicinamento ripido",
+          "quote": "Avvicinamento corto ma ripido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "a dicembre scali in maniche corte fino alle tre e mezza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Esposizione perfetta per l'inverno, sole fino a sera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Solita domenica affollata"
+        },
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "Parcheggio già esaurito alle 9:30"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Scaglia staccata sul Pilastro",
+          "kind": "attenzione",
+          "quote": "sul Pilastro Centrale si è staccata una grossa scaglia tra Spigolo Matto e Lingua Lunga"
+        },
+        {
+          "label": "Spigolo Matto e Lingua Lunga chiuse",
+          "kind": "attenzione",
+          "quote": "Le due vie sono chiuse con un nastro alla base, non salite."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche tecniche",
+          "quote": "Placche su placche, scarpette strette e fiducia nei piedi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento ripido",
+          "quote": "Mezz'ora di salita al sole già alle 11, sudata vera"
+        },
+        {
+          "label": "Vipera sul sentiero",
+          "quote": "Abbiamo incrociato una vipera sul sentiero poco sopra il parcheggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "a giugno nel pomeriggio è impossibile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie lunghe a più tiri",
+          "quote": "Corda da 70 o due mezze, la discesa è in doppia sulla via"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gradi severi",
+          "quote": "il 6b di Fessura dei Merli è più duro di molti 6c in valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "parcheggio pieno"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "venti persone sotto il Muro del Sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "al sole si stava benissimo fino alle quattro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "a mezzogiorno eravamo in canottiera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Pilastro Centrale riaperto",
+          "kind": "novita",
+          "quote": "Il Pilastro Centrale è stato riaperto: hanno disgaggiato tutta la zona della frana e rimesso le soste."
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche tecniche",
+          "quote": "tacche piccole e piedi su niente"
+        },
+        {
+          "label": "Gradi severi",
+          "quote": "Per me è stato un 7a+ abbondante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Zecche nell'erba",
+          "quote": "c'erano un sacco di zecche nell'erba alla base"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Troppo caldo dopo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tre vie nuove al Muro del Sole",
+          "kind": "novita",
+          "quote": "Nel Muro del Sole ci sono tre vie nuove a sinistra"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie lunghe a più tiri",
+          "quote": "si scende in doppia con una 70"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nido di calabroni",
+          "quote": "Nido di calabroni dentro la fessura del secondo tiro di Ambaradan"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Weekend affollatissimo, mezza Torino era qui"
+        },
+        {
+          "label": "Sole d'inverno",
+          "quote": "anche a novembre il sole picchia fino alle quattro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "posteggio stracolmo già alle dieci"
+        },
+        {
+          "label": "Sole d'inverno",
+          "quote": "Al sole però caldo vero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche tecniche",
+          "quote": "tutto aderenza, nessuna presa vera, tanta testa"
+        },
+        {
+          "label": "Sole d'inverno",
+          "quote": "Febbraio, roccia asciutta e calda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero interrotto da un albero",
+          "kind": "attenzione",
+          "quote": "Sul sentiero a metà salita è caduto un grosso larice e la traccia è franata sotto."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento ripido",
+          "quote": "Salita ripida come sempre"
+        },
+        {
+          "label": "Vie lunghe a più tiri",
+          "quote": "Fatto Via del Corno, sei tiri, discesa in doppia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Caldissimo già a fine maggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cane al seguito",
+          "quote": "Portato il cane, c'è spazio alla base"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gradi severi",
+          "quote": "Qui un 6a è un 6a vero, se non di più"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero sistemato con gradini",
+          "kind": "novita",
+          "quote": "Il sentiero è stato sistemato: tolto il larice, rifatta la traccia con gradini di legno e un corrimano nel punto franato."
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Bacheca nuova al parcheggio",
+          "kind": "novita",
+          "quote": "Al parcheggio c'è una bacheca nuova con lo schizzo dei settori e i gradi."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "il sole entra dalla mattina tardi fino a quasi sera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "il parcheggio era già pieno"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Parete gremita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena mancante sul Diedro dei Sogni",
+          "kind": "attenzione",
+          "quote": "Sul Diedro dei Sogni manca la catena alla seconda sosta"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento ripido",
+          "quote": "si arriva in un attimo anche se tira sempre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie lunghe a più tiri",
+          "quote": "cinque tiri tutti da gustare"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Catena rimessa sul Diedro dei Sogni",
+          "kind": "novita",
+          "quote": "Rimessa la catena alla seconda sosta del Diedro dei Sogni, nuova e con anello di calata."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche tecniche",
+          "quote": "Placche lisce e piedi da sistemare bene"
+        },
+        {
+          "label": "Gradi severi",
+          "quote": "il 6c di Pietra Calda me lo ricorderò"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Ponte dei Santi, troppa gente"
+        },
+        {
+          "label": "Sole d'inverno",
+          "quote": "il sole d'autunno su questa parete è una meraviglia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

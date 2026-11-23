@@ -1,0 +1,272 @@
+{
+  "osm": "w1531333254",
+  "invented": [
+    "esposizione",
+    "avvicinamento",
+    "localita_partenza",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-del-rifugio-malinvern-settore-bocia",
+    "activity": "falesia",
+    "place": "comune-004248",
+    "name": "Falesia del Rifugio Malinvern settore Bocia",
+    "lat": 44.22006,
+    "lon": 7.18504,
+    "aspect": "S",
+    "altMax": 1794,
+    "facts": {
+      "quota_base": 1794,
+      "esposizione": "S",
+      "avvicinamento": 10,
+      "localita_partenza": "Vinadio"
+    },
+    "sections": {
+      "note": "Bocia è il settore più piccolo e più alto sopra il rifugio Malinvern, a 1790 metri: un breve muro di gneiss rivolto a sud, con tre vie dal 4a al 5c, lunghe fino a 15 metri. È pensato per i bambini e per chi muove i primi passi in verticale: tutte le soste sono a catena, comode e vicine.\n\nIl sole arriva presto e la roccia asciuga in fretta. La stagione va da giugno a ottobre; il prato sotto la parete è l'ideale per un picnic o per lasciare i più piccoli a giocare.",
+      "avvicinamento": "Dal rifugio un sentiero ben segnato scende e sale in dieci minuti fra prati e massi fino al muro, ben visibile dal basso."
+    },
+    "parts": [
+      {
+        "group": "Bocia",
+        "fields": {
+          "nome": "Primi Passi",
+          "grado": "4a",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Bocia",
+        "fields": {
+          "nome": "Il Bocia",
+          "grado": "4c",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Bocia",
+        "fields": {
+          "nome": "Salto di Gioia",
+          "grado": "5c",
+          "lunghezza": 15
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "Una mezza giornata con i due bimbi di quattro e sette anni: tre vie facili, sosta a catena comoda e tanto prato sotto. Dal rifugio ci vogliono pochi minuti. Dopo, merenda e gelato."
+      },
+      {
+        "observedAt": "2022-08-04",
+        "words": "Giovedì pomeriggio con nuvole sparse. Il muro è piccolo ma pulito, e Il Bocia a 4c è un buon esercizio per capire come si sta in parete. Non c'era nessuno oltre a noi."
+      },
+      {
+        "observedAt": "2022-08-27",
+        "words": "Giornata di sole pieno. Abbiamo portato un gruppo di ragazzi con la guida: tre vie e una decina di salite a testa. Qui l'organizzazione è semplice e il prato fa da spiaggia."
+      },
+      {
+        "observedAt": "2022-09-25",
+        "words": "Settembre luminoso, aria fredda. Il sole sul muro arriva presto e alle undici si stava già bene in maglietta. Piccola parete ma perfetta per scaldarsi prima di andare al Grand Falaise."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Ultime chiazze di neve sul prato e ruscello in piena. La roccia era asciutta e liscia, ma la base fangosa. Un buon posto per una mezza giornata senza pretese."
+      },
+      {
+        "observedAt": "2023-07-19",
+        "words": "Mercoledì d'estate, vento fresco e cielo blu. Salto di Gioia è l'unica via con un passo vero, tutte le altre sono quasi passeggiate. Pausa con una birra al rifugio."
+      },
+      {
+        "observedAt": "2023-08-13",
+        "words": "Domenica di grande afa nelle valli: qui si stava bene con l'aria che scendeva dal vallone. Tre vie, tre sorrisi. Il prato è pieno di fiori e di cavallette."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Giornata nuvolosa ma asciutta. La roccia aderisce molto con l'umidità. Abbiamo provato a salire tutte le vie a rotazione, dieci volte ciascuno: un ottimo allenamento per il piede."
+      },
+      {
+        "observedAt": "2024-07-07",
+        "words": "Primo uso del muro dopo l'inverno: due spit sono stati sostituiti con anelli nuovi, e la sosta di Primi Passi ha ora una catena più grossa. Lavoro fatto bene, i bimbi si calano senza paura."
+      },
+      {
+        "observedAt": "2024-08-08",
+        "words": "Giovedì mattina presto, con un'amica alle prime armi. Il Bocia è andata liscia, Salto di Gioia l'abbiamo fatta con calma. Un camoscio ci osservava dal pendio sopra il muro."
+      },
+      {
+        "observedAt": "2024-09-01",
+        "words": "Domenica con nebbia in arrivo: abbiamo fatto le tre vie e poi giù al rifugio prima della pioggia. Da qui il meteo cambia in fretta, è meglio tenere un occhio al cielo."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Settembre dolce, sole sul prato. Ho portato la mia cagnolina, tranquilla e silenziosa. Le tre vie si fanno in un'oretta e poi si sta a guardare il cielo."
+      },
+      {
+        "observedAt": "2025-06-29",
+        "words": "Alla base ancora un po' di neve ma il sole faceva fondere tutto in fretta. Un masso vicino alla prima via si è spostato e ora c'è più spazio per i piedi di chi assicura. Muro asciutto e pulito."
+      },
+      {
+        "observedAt": "2025-08-06",
+        "words": "Mercoledì quieto, aria limpida e un temporale in arrivo dal pomeriggio. Siamo scappati a metà giornata. Con i bimbi avere il rifugio a due passi è una bella sicurezza."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Ultima visita del 2025. Freddo la mattina e sole caldo da mezzogiorno. Un cartello sul sentiero indica ora la direzione del muro, e alcuni segni nuovi sono stati dipinti sui massi."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Per bambini",
+          "quote": "Una mezza giornata con i due bimbi"
+        },
+        {
+          "label": "Vicino al rifugio",
+          "quote": "Dal rifugio ci vogliono pochi minuti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Non c'era nessuno oltre a noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Per bambini",
+          "quote": "Abbiamo portato un gruppo di ragazzi con la guida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole presto",
+          "quote": "Il sole sul muro arriva presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Ultime chiazze di neve sul prato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vicino al rifugio",
+          "quote": "Pausa con una birra al rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresco in quota",
+          "quote": "qui si stava bene con l'aria che scendeva dal vallone"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Per bambini",
+          "quote": "i bimbi si calano senza paura"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Spit e soste rinnovati",
+          "kind": "novita",
+          "quote": "due spit sono stati sostituiti con anelli nuovi, e la sosta di Primi Passi ha ora una catena più grossa"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Camoscio sul pendio",
+          "quote": "Un camoscio ci osservava dal pendio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo che cambia",
+          "quote": "il meteo cambia in fretta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Alla base ancora un po' di neve"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Masso spostato alla base di Primi Passi",
+          "kind": "novita",
+          "quote": "Un masso vicino alla prima via si è spostato e ora c'è più spazio per i piedi di chi assicura."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vicino al rifugio",
+          "quote": "avere il rifugio a due passi"
+        },
+        {
+          "label": "Meteo che cambia",
+          "quote": "un temporale in arrivo dal pomeriggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole presto",
+          "quote": "sole caldo da mezzogiorno"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Segnaletica nuova sul sentiero",
+          "kind": "novita",
+          "quote": "Un cartello sul sentiero indica ora la direzione del muro, e alcuni segni nuovi sono stati dipinti sui massi."
+        }
+      ]
+    }
+  ]
+}

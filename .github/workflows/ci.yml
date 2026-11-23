@@ -1,0 +1,25 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # the guard reads every commit, not only the last
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      # The hooks can be skipped with --no-verify; this cannot.
+      - name: Guard the tree
+        run: node --disable-warning=ExperimentalWarning scripts/guard/check.ts --tree
+      - name: Guard the history
+        run: node --disable-warning=ExperimentalWarning scripts/guard/check.ts --history
+      - run: npm run typecheck
+      - run: npm test

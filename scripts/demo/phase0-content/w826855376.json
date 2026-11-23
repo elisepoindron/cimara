@@ -1,0 +1,54 @@
+{
+  "osm": "w826855376",
+  "invented": ["avvicinamento", "note", "vie", "parcheggio_nota", "reports", "themes"],
+  "itinerary": {
+    "key": "placche-di-outrefer",
+    "activity": "falesia",
+    "place": "comune-007034",
+    "name": "Placche di Outrefer",
+    "lat": 45.60361,
+    "lon": 7.74272,
+    "aspect": "E",
+    "altMax": 532,
+    "facts": {
+      "esposizione": "E",
+      "quota_base": 532,
+      "avvicinamento": 15,
+      "localita_partenza": "Hône",
+      "parcheggio_nota": "Piazzale vicino al paese, poco spazio"
+    },
+    "sections": {
+      "note": "Placca di roccia chiara con buchi e qualche lamella, dove le vie più facili sono nella parte bassa e le più tecniche in alto. La chiodatura è a spit distanziati: su alcune vie serve qualche rinvio in più.\n\nLa parete guarda a est: il sole c'è al mattino e dopo le undici la placca è in ombra. In estate conviene partire presto, in autunno è piacevole tutto il giorno.\n\nPer la prima volta basta una corda da 60 e una decina di rinvii. La placca bassa è adatta a chi inizia, con qualche tiro corto per prendere confidenza.",
+      "avvicinamento": "Dal parcheggio un sentiero in piano di circa un quarto d'ora, con un tratto nel bosco. Dopo le piogge il primo tratto è fangoso."
+    },
+    "parts": [
+      { "group": "Placca bassa", "fields": { "nome": "Primo sole", "grado": "4a", "lunghezza": 18 } },
+      { "group": "Placca bassa", "fields": { "grado": "4c", "lunghezza": 16 } },
+      { "group": "Placca bassa", "fields": { "nome": "Vecchia Hône", "grado": "5a", "lunghezza": 20 } },
+      { "group": "Placca bassa", "fields": { "nome": "Il camino", "grado": "5b", "lunghezza": 22 } },
+      { "group": "Placca bassa", "fields": { "grado": "5c", "lunghezza": 20 } },
+      { "group": "Placca bassa", "fields": { "nome": "Due passi", "grado": "6a", "lunghezza": 21 } },
+      { "group": "Placca alta", "fields": { "nome": "Lo scivolo", "grado": "6a+", "lunghezza": 24 } },
+      { "group": "Placca alta", "fields": { "nome": "La fessura", "grado": "5b+", "lunghezza": 19 } },
+      { "group": "Placca alta", "fields": { "grado": "5c+", "lunghezza": 22 } },
+      { "group": "Placca alta", "fields": { "nome": "Fuori orario", "grado": "6a", "lunghezza": 20 } },
+      { "group": "Placca alta", "fields": { "nome": "Sotto la cengia", "grado": "5a", "lunghezza": 16 } },
+      { "group": "Placca alta", "fields": { "grado": "4b", "lunghezza": 15 } },
+      { "group": "Placca alta", "fields": { "nome": "Angelo custode", "grado": "5b", "lunghezza": 23 } }
+    ],
+    "reports": [
+      { "observedAt": "2022-05-14", "words": "Sole del mattino e un po' di vento dal fondovalle, la placca è calda già alle dieci. Ho fatto Primo sole, un 4a pulito e comodo per scaldarsi, poi Vecchia Hône. Alcune lamelle sono consumate, meglio portare un paio di rinvii in più." },
+      { "observedAt": "2023-04-22", "words": "Pioggia per tutta la notte e la placca ancora bagnata, siamo partiti più tardi. Roccia viscida nei primi tiri, bisogna aspettare che asciughi. Il camino è rimasto pulito, perfetto per una giornata in parete." },
+      { "observedAt": "2024-06-09", "words": "Con i bambini è perfetta: la placca bassa è tranquilla e il 4a è davvero facile. Abbiamo lasciato lo zaino nel prato e i piccoli hanno provato le prime vie fin dalle nove. Il sole arriva presto, meglio partire al fresco." },
+      { "observedAt": "2025-03-30", "words": "Dopo tre giorni di pioggia la roccia era ancora bagnata sotto le cengie, ma la placca alta asciugava bene. Ho fatto Fuori orario e Angelo custode, belle soste e spit sicuri. Non ho visto nessuno per tutto il giorno." },
+      { "observedAt": "2026-09-13", "words": "Ottima giornata di fine estate, sole fino alle undici e poi all'ombra. Siamo partiti dal sentiero presto, il fango del primo tratto era asciutto. Lo scivolo è più duro di quanto dica il grado, ma i chiodi sono buoni. Birra al piazzale a fine giornata." }
+    ]
+  },
+  "readings": [
+    { "themes": [ { "label": "Sole del mattino", "quote": "Sole del mattino e un po' di vento dal fondovalle" }, { "label": "Ideale per iniziare", "quote": "un 4a pulito e comodo per scaldarsi" } ], "flags": [] },
+    { "themes": [ { "label": "Roccia bagnata dopo la pioggia", "quote": "Roccia viscida nei primi tiri" } ], "flags": [] },
+    { "themes": [ { "label": "Ideale per iniziare", "quote": "Con i bambini è perfetta" }, { "label": "Sole del mattino", "quote": "Il sole arriva presto" } ], "flags": [] },
+    { "themes": [ { "label": "Roccia bagnata dopo la pioggia", "quote": "la roccia era ancora bagnata sotto le cengie" } ], "flags": [] },
+    { "themes": [ { "label": "Sole del mattino", "quote": "sole fino alle undici e poi all'ombra" } ], "flags": [] }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "osm": "w1116939649",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "esposizione"
+  ],
+  "itinerary": {
+    "key": "rochers-de-saint-germain",
+    "activity": "falesia",
+    "place": "comune-007043",
+    "name": "Rochers de Saint-Germain",
+    "lat": 45.72281,
+    "lon": 7.66817,
+    "aspect": "SO",
+    "altMax": 491,
+    "facts": {
+      "esposizione": "SO",
+      "quota_base": 491,
+      "avvicinamento": 8,
+      "localita_partenza": "Montjovet",
+      "parcheggio_nota": "Spazio per poche auto a ridosso della falesia; nei fine settimana si riempie presto."
+    },
+    "sections": {
+      "note": "Parete di roccia compatta esposta a sud-ovest, a bassa quota: il sole arriva presto e se ne va tardi, perciò è una falesia da stagioni fresche. D'inverno e nelle mezze stagioni si sta bene anche in maglietta; da giugno a settembre meglio arrivare all'alba o lasciar perdere.\n\nLe vie sono quasi tutte a placca e muro, con qualche strapiombo nel settore centrale. Lo stile è tecnico, di piedi e di equilibrio; sui tiri più frequentati la roccia è diventata lucida. La chiodatura è ravvicinata sui gradi bassi e più distanziata, ma sempre corretta, nei tiri duri.\n\nAlcune vie sono lunghe e si possono fare in più tiri; molte hanno la sosta attrezzata per la calata e si possono armare anche per il top rope. Portare corda da 70 metri, una ventina di rinvii e un casco.",
+      "avvicinamento": "Si lascia l'auto lungo la strada vicino al paese e si sale a piedi per un sentiero ben segnato; in una decina di minuti si è alla base della parete. Il sentiero è ripido ma breve e non ha passaggi delicati."
+    },
+    "parts": [
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 18,
+          "nome": "Riscaldamento"
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 20,
+          "nome": "Il lucertolone"
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "grado": "6a",
+          "lunghezza": 22,
+          "nome": "Pane e salame"
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "grado": "6a+",
+          "lunghezza": 22,
+          "nome": "Sciura Maria"
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "grado": "6b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "grado": "6b+",
+          "lunghezza": 25,
+          "nome": "Mezza stagione"
+        }
+      },
+      {
+        "group": "Placche Sud",
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 25,
+          "nome": "Scivolo"
+        }
+      },
+      {
+        "group": "Placche Sud",
+        "fields": {
+          "grado": "5c+",
+          "lunghezza": 28,
+          "nome": "Sole di marzo"
+        }
+      },
+      {
+        "group": "Placche Sud",
+        "fields": {
+          "grado": "6a",
+          "lunghezza": 30,
+          "nome": "Fil di ferro"
+        }
+      },
+      {
+        "group": "Placche Sud",
+        "fields": {
+          "grado": "6a+",
+          "lunghezza": 30,
+          "nome": "La Chiocciola"
+        }
+      },
+      {
+        "group": "Placche Sud",
+        "fields": {
+          "grado": "6b",
+          "lunghezza": 28,
+          "nome": "Tre dita"
+        }
+      },
+      {
+        "group": "Placche Sud",
+        "fields": {
+          "grado": "6c",
+          "lunghezza": 30,
+          "nome": "Grattacapo"
+        }
+      },
+      {
+        "group": "Placche Sud",
+        "fields": {
+          "grado": "6b+",
+          "lunghezza": 27
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "grado": "6c+",
+          "lunghezza": 20,
+          "nome": "Pugno di ferro"
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "grado": "7a",
+          "lunghezza": 22,
+          "nome": "Dopo il lavoro"
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "grado": "7a+",
+          "lunghezza": 22,
+          "nome": "Mal di schiena"
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "grado": "7b",
+          "lunghezza": 24,
+          "nome": "Il tetto che scotta"
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "grado": "7b+",
+          "lunghezza": 24,
+          "nome": "Brace"
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "grado": "7c",
+          "lunghezza": 25,
+          "nome": "Ultima fermata"
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "grado": "7c+",
+          "lunghezza": 25,
+          "nome": "Senza fiato"
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 22,
+          "nome": "Gli scalini"
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 26,
+          "nome": "Cenge e cengette"
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "grado": "6a+",
+          "lunghezza": 30,
+          "nome": "Il corvo"
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "grado": "6b",
+          "lunghezza": 28,
+          "nome": "Fessura storta"
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "grado": "6a",
+          "lunghezza": 60,
+          "nome": "Lungo il filo"
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "grado": "6b",
+          "lunghezza": 65,
+          "nome": "Via dei camosci"
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-19",
+        "words": "Prima uscita dell'anno qui. Sole pieno dalla tarda mattina e maglietta addosso a marzo. L'attacco è a pochi minuti dall'auto, siamo partiti con i tiri facili del settore basso e poi su sulle placche."
+      },
+      {
+        "observedAt": "2022-04-24",
+        "words": "Giornata ventosa ma bella. Alcuni tiri sulle placche sono lisci come il sapone, i piedini scivolano e si sente: fate attenzione sui 6a e 6a+. Il resto bene."
+      },
+      {
+        "observedAt": "2022-07-09",
+        "words": "Errore mio: sabato di luglio alle undici. La parete era un forno, la roccia scottava e abbiamo mollato dopo due tiri. Qui si viene presto o a settembre."
+      },
+      {
+        "observedAt": "2022-11-12",
+        "words": "Pomeriggio di novembre perfetto, sole sulla parete fino alle quattro. Ho provato Dopo il lavoro e Mal di schiena, belli e fisici."
+      },
+      {
+        "observedAt": "2023-01-28",
+        "words": "Gennaio e si arrampica con la giacca slacciata. Dal parcheggio sono nemmeno dieci minuti. Poca gente, un paio di coppie."
+      },
+      {
+        "observedAt": "2023-05-06",
+        "words": "Sabato, arrivati alle nove e già quattro auto a ridosso della parete: lo spazio è poco, abbiamo dovuto lasciare la macchina più giù. Camminata comunque breve. Vie belle, grado onesto."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Siamo venuti alle sette per evitare il caldo, e alle undici era già insopportabile. Nel settore alto c'è un nido di vespe sotto lo strapiombo, ci siamo accorti solo perché una si è posata sul mio casco."
+      },
+      {
+        "observedAt": "2023-10-21",
+        "words": "Ottobre, tutto asciutto. Le vie più famose sono belle ma levigate dal passaggio di tanti piedi. Trovato posto per l'auto solo perché siamo arrivati presto."
+      },
+      {
+        "observedAt": "2023-12-27",
+        "words": "Tra Natale e Capodanno è il posto giusto: sole sulla parete, niente vento, si sta bene dalle dieci alle quattro. Con i bambini che giocavano alla base mentre facevamo i tiri facili."
+      },
+      {
+        "observedAt": "2024-03-23",
+        "words": "Attenzione: alla base del settore basso è venuto giù un blocco, si vede la cicatrice chiara sulla parete e i pezzi sono ancora per terra. Noi abbiamo cambiato posto e siamo andati sulle placche. Da qui in poi caschetto sempre. Bella la camminata d'attacco, corta."
+      },
+      {
+        "observedAt": "2024-04-14",
+        "words": "Domenica soleggiata. Con il cane, che è rimasto buono all'ombra di un masso. Le placche sud sono lucide in alcuni punti, soprattutto sui primi movimenti."
+      },
+      {
+        "observedAt": "2024-07-20",
+        "words": "Mai più a luglio. Dopo mezzogiorno la parete è una piastra, abbiamo fatto un tiro e poi siamo scappati al fiume."
+      },
+      {
+        "observedAt": "2024-10-05",
+        "words": "Sabato di ottobre: in coda su Lungo il filo, tre cordate davanti a noi alla prima sosta. Parcheggio pieno alle dieci. Abbiamo ripiegato sul settore alto, quasi vuoto."
+      },
+      {
+        "observedAt": "2025-02-15",
+        "words": "Febbraio, cielo azzurro e sole in faccia tutto il giorno. Io in maglietta, un amico con la giacca. Un buon posto quando altrove è tutto ghiacciato."
+      },
+      {
+        "observedAt": "2025-04-12",
+        "words": "Qualcuno ha rifatto le soste: ora ci sono catene e maillon nuovi su molte vie del settore basso e delle placche, finalmente anche per le calate. Bella giornata, vie bagnate dal sole."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Fine settembre, fresco al mattino. Ho trovato una zecca sul calzino dopo il sentiero, tra l'erba alta: controllatevi. Vie belle, buona la sosta nuova sulla via dei camosci."
+      },
+      {
+        "observedAt": "2026-03-07",
+        "words": "Sabato di inizio marzo. Cinque minuti di sentiero e si è già a scaldarsi sulle placche, che però sono lisce per via del troppo uso e non perdonano sul bagnato."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Sole pieno dalla tarda mattina e maglietta addosso a marzo"
+        },
+        {
+          "label": "Avvicinamento breve",
+          "quote": "L'attacco è a pochi minuti dall'auto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lisciata",
+          "quote": "sono lisci come il sapone, i piedini scivolano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "La parete era un forno, la roccia scottava"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "sole sulla parete fino alle quattro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "si arrampica con la giacca slacciata"
+        },
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Dal parcheggio sono nemmeno dieci minuti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "lo spazio è poco, abbiamo dovuto lasciare la macchina più giù"
+        },
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Camminata comunque breve"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "alle undici era già insopportabile"
+        },
+        {
+          "label": "Nido di vespe",
+          "quote": "c'è un nido di vespe sotto lo strapiombo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lisciata",
+          "quote": "levigate dal passaggio di tanti piedi"
+        },
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "Trovato posto per l'auto solo perché siamo arrivati presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "sole sulla parete, niente vento"
+        },
+        {
+          "label": "Bambini alla base",
+          "quote": "Con i bambini che giocavano alla base"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Bella la camminata d'attacco, corta"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Blocco staccato nel settore basso",
+          "kind": "attenzione",
+          "quote": "alla base del settore basso è venuto giù un blocco"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Cane al seguito",
+          "quote": "Con il cane, che è rimasto buono all'ombra di un masso"
+        },
+        {
+          "label": "Roccia lisciata",
+          "quote": "Le placche sud sono lucide in alcuni punti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "la parete è una piastra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Coda sulle vie lunghe",
+          "quote": "in coda su Lungo il filo"
+        },
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "Parcheggio pieno alle dieci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "cielo azzurro e sole in faccia tutto il giorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Soste sostituite con materiale nuovo",
+          "kind": "novita",
+          "quote": "ora ci sono catene e maillon nuovi su molte vie del settore basso e delle placche"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Zecche nell'erba",
+          "quote": "Ho trovato una zecca sul calzino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Cinque minuti di sentiero"
+        },
+        {
+          "label": "Roccia lisciata",
+          "quote": "sono lisce per via del troppo uso"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

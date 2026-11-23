@@ -1,0 +1,13 @@
+Copyright (c) 2026 Elise Poindron. All rights reserved.
+
+This repository is published so that its code can be read. No licence is
+granted to copy, modify, distribute or deploy it, in whole or in part, without
+the copyright holder's written permission.
+
+Third-party material it carries keeps its own licence:
+
+- public/vendor/: MapLibre GL JS, BSD-3-Clause (public/vendor/credits.json).
+- data/osm/ and the places in src/seed/sets/demo/: OpenStreetMap data,
+  (c) OpenStreetMap contributors, Open Database License 1.0.
+- src/seed/data/places.json: the comuni of ISTAT and GeoNames, CC BY 4.0
+  (src/seed/comuni/README.md).

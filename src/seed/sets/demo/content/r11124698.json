@@ -1,0 +1,266 @@
+{
+  "osm": "r11124698",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-red-r138",
+    "activity": "escursionismo",
+    "place": "comune-004167",
+    "name": "Via Alpina Red R138",
+    "lat": 44.29993,
+    "lon": 6.99944,
+    "facts": {
+      "difficolta": "E",
+      "localita_partenza": "Rifugio Zanotti",
+      "come_arrivare": "Il Rifugio Zanotti si raggiunge a piedi, quindi questa tappa si fa di norma come proseguimento della precedente. A Strepeis non c'è un servizio pubblico: chi vuole rientrare deve organizzarsi con un secondo mezzo."
+    },
+    "sections": {
+      "descrizione": "Tappa di discesa e di traversata della Via Alpina Rossa, in Val Stura: dal Rifugio Zanotti a Strepeis. Si lascia il rifugio in quota e si scende per il vallone, prima su prati e sassi, poi nel bosco, fino a una piccola borgata sul fondovalle.\n\nIl sentiero segue a lungo un rio, che si attraversa più volte su ponticelli o su sassi, e in alcuni tratti corre in un bosco fitto, umido, con muschio e funghi. La discesa è lunga ma mai tecnica; l'unico punto da non sottovalutare è il fondo bagnato, scivoloso dopo la pioggia.\n\nSi fa da giugno a ottobre. Conviene partire presto, perché la parte bassa può essere calda. Le fontane sono poche: si riempiono le borracce al rifugio. A Strepeis non ci sono negozi."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-10",
+        "words": "Siamo scesi con la brina sui prati. Tre ore di discesa continua che fanno lavorare le ginocchia più della salita."
+      },
+      {
+        "observedAt": "2022-08-05",
+        "words": "Venerdì di ferie, sentiero deserto e il bosco pieno di muschio e di funghi nel tratto basso."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Dal rifugio presto, con la luce rosa sulle rocce. I ponticelli sul rio sono solidi e ben tenuti, nessuna difficoltà."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "Dopo la pioggia della notte il fondo era una saponetta. Il fondo bagnato nel bosco è molto scivoloso, due cadute senza conseguenze."
+      },
+      {
+        "observedAt": "2022-09-25",
+        "words": "Ho trovato porcini a bordo sentiero e li ho portati a casa. Funghi ovunque nel tratto basso, ma chiedete a chi se ne intende."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Giorno limpido, brina e un po' di neve alle spalle. La discesa non finisce mai ma ogni curva ha un panorama diverso."
+      },
+      {
+        "observedAt": "2023-06-30",
+        "words": "Le piogge di giugno avevano ingrossato il rio. Un ponticello era sott'acqua e abbiamo attraversato su sassi scivolosi."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Zaino leggero, scarpe da trail e una discesa veloce. Non ho trovato nemmeno una fontana per due ore."
+      },
+      {
+        "observedAt": "2023-08-16",
+        "words": "Mercoledì feriale con vallone silenzioso. Due camosci sul crinale sopra il rifugio mi hanno guardato partire."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Sentiero che mi ha ricordato i boschi dell'Appennino. Il bosco fitto e il muschio sui sassi danno un'aria da fiaba."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Strepeis è un puntino di case e nient'altro: niente bar, niente negozio, solo una fontana e il silenzio."
+      },
+      {
+        "observedAt": "2024-06-15",
+        "words": "Con la prima neve sciolta il sentiero era pieno d'acqua. Un tratto del sentiero nel bosco è scivolato a valle e si aggira con un giro di qualche metro."
+      },
+      {
+        "observedAt": "2024-07-31",
+        "words": "La deviazione è stata segnata con nastri rossi e bandierine. Il fondo era asciutto e solido questa volta, nessun problema."
+      },
+      {
+        "observedAt": "2024-08-18",
+        "words": "Festa in valle, musica da lontano. La discesa non è difficile ma dopo il pranzo è stata dura."
+      },
+      {
+        "observedAt": "2024-09-12",
+        "words": "Giovedì di sole in settembre, nessuno sul sentiero. Hanno messo un ponticello in ferro e legno al posto dei sassi, passerella larga e sicura."
+      },
+      {
+        "observedAt": "2025-07-13",
+        "words": "Una nebbia da latte che si è alzata solo a mezzogiorno. Fate il pieno d'acqua al rifugio, perché nella discesa è difficile trovarne."
+      },
+      {
+        "observedAt": "2025-08-27",
+        "words": "Il bosco in agosto è l'unico posto fresco della valle. Fa fresco e si sente l'odore del muschio anche a mezzogiorno."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Tappa a fine estate, mirtilli ai bordi e un camoscio che ci ha seguito per un po'."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga nel vallone",
+          "quote": "Tre ore di discesa continua"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco umido e muschio",
+          "quote": "il bosco pieno di muschio e di funghi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ponticelli sul rio",
+          "quote": "I ponticelli sul rio sono solidi e ben tenuti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fondo scivoloso con la pioggia",
+          "quote": "Il fondo bagnato nel bosco è molto scivoloso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Funghi nel bosco",
+          "quote": "Funghi ovunque nel tratto basso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga nel vallone",
+          "quote": "La discesa non finisce mai"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ponticelli sul rio",
+          "quote": "Un ponticello era sott'acqua"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua sul percorso",
+          "quote": "Non ho trovato nemmeno una fontana per due ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Camosci sul crinale",
+          "quote": "Due camosci sul crinale sopra il rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco umido e muschio",
+          "quote": "Il bosco fitto e il muschio sui sassi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Borgata senza servizi",
+          "quote": "niente bar, niente negozio, solo una fontana"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto del sentiero franato nel bosco",
+          "kind": "attenzione",
+          "quote": "Un tratto del sentiero nel bosco è scivolato a valle"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Fondo scivoloso con la pioggia",
+          "quote": "Il fondo era asciutto e solido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga nel vallone",
+          "quote": "La discesa non è difficile ma dopo il pranzo è stata dura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponte nuovo sul rio",
+          "kind": "novita",
+          "quote": "Hanno messo un ponticello in ferro e legno al posto dei sassi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua sul percorso",
+          "quote": "Fate il pieno d'acqua al rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco umido e muschio",
+          "quote": "Fa fresco e si sente l'odore del muschio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Camosci sul crinale",
+          "quote": "un camoscio che ci ha seguito per un po'"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

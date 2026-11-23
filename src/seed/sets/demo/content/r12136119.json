@@ -1,0 +1,251 @@
+{
+  "osm": "r12136119",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d34",
+    "activity": "escursionismo",
+    "place": "comune-001169",
+    "name": "Via Alpina Blue D34",
+    "lat": 45.21722,
+    "lon": 7.02332,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 245,
+      "localita_partenza": "Rifugio Stellina",
+      "come_arrivare": "Si arriva al Rifugio Stellina in zona Moncenisio, risalendo la strada che porta al colle, con parcheggi nei pressi. La tappa termina oltre il confine, al Refuge du Petit Mont Cenis, da cui il rientro è in auto a noleggio o con accordi in loco."
+    },
+    "sections": {
+      "descrizione": "Tappa di confine della Via Alpina Blu dal Rifugio Stellina al Refuge du Petit Mont Cenis, circa 18 km con soli 245 metri di salita e 600 di discesa. È un tratto più dolce, quasi tutto in quota, che segue un altopiano lacustre tra Italia e Francia.\n\nIl sentiero costeggia il lago, attraversa prati e piane erbose, passa il confine e arriva al rifugio francese. Non ci sono salite impegnative, ma la lunghezza e il vento in quota si fanno sentire.\n\nPeriodo consigliato da fine giugno a settembre. Occorre un documento valido per l'espatrio e prudenza in caso di temporali sull'altopiano esposto."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-02",
+        "words": "Tappa piana e lunga, quasi una passeggiata in quota. Il lago a sinistra tutto il tempo con le sue sfumature."
+      },
+      {
+        "observedAt": "2022-08-10",
+        "words": "Mercoledì, sentiero deserto e vento forte sull'altopiano. Il confine è un cartello e una vecchia casermetta."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Giornata ideale per camminare senza fatica, chiacchierando. In totale cinque ore con soste."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Arrivati al rifugio francese abbiamo trovato la fonduta: nessuno si aspettava una cena così abbondante a duemila metri."
+      },
+      {
+        "observedAt": "2023-07-01",
+        "words": "Qualche chiazza di neve ancora sul versante ombroso, ma si cammina asciutti nella maggior parte. Tanti fiori e vento fresco."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Occhio al sole: quassù non c'è ombra e dopo sei ore ero cotto, nonostante il vento. Crema solare indispensabile."
+      },
+      {
+        "observedAt": "2023-08-17",
+        "words": "Giovedì con nebbia a tratti, il sentiero sparisce nella piana. Ho tenuto il telefono acceso per la traccia."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Una marmotta ha attraversato il sentiero davanti a un gruppo di bambini in gita, tutti incantati. Famiglie intere sull'altopiano."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Qualcuno aveva lasciato i rifiuti vicino al confine, abbiamo raccolto quel che si poteva. Peccato in un posto così."
+      },
+      {
+        "observedAt": "2024-08-14",
+        "words": "Mercoledì d'agosto: caldo tranquillo, cielo azzurro. Ho incontrato solo un ciclista che spingeva la bici in un tratto sassoso."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Sul lago c'erano cigni e anatre, tranquilli. L'acqua così calma ha restituito un'immagine perfetta delle cime."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Un cartello nuovo al confine segnala in tre lingue il nome del sentiero. Si vede che qualcuno ci tiene."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Un breve tratto lungo il lago è stato chiuso con un nastro per frana, c'è una deviazione sulla pista in alto. Aggiunge un quarto d'ora."
+      },
+      {
+        "observedAt": "2025-08-09",
+        "words": "Con la deviazione in cresta la vista sul lago è ancora più bella, quasi un regalo. Camminata facile anche per chi non è allenato."
+      },
+      {
+        "observedAt": "2025-08-27",
+        "words": "Mercoledì di pioggia leggera, impermeabile tutto il giorno ma nessun problema. In Francia ci hanno servito una zuppa fumante."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Il tratto lungo il lago è stato riaperto con una passerella di legno nuova: più comodo di prima. Peccato per la nebbia, che ci ha tolto metà panorama."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Tappa quasi pianeggiante",
+          "quote": "Tappa piana e lunga"
+        },
+        {
+          "label": "Lago lungo il percorso",
+          "quote": "Il lago a sinistra tutto il tempo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Confine su altopiano ventoso",
+          "quote": "vento forte sull'altopiano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa quasi pianeggiante",
+          "quote": "camminare senza fatica"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cena al rifugio francese",
+          "quote": "abbiamo trovato la fonduta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fioriture sull'altopiano",
+          "quote": "Tanti fiori"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca ombra in quota",
+          "quote": "quassù non c'è ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia nella piana",
+          "quote": "il sentiero sparisce nella piana"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Famiglie in gita",
+          "quote": "Famiglie intere sull'altopiano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifiuti lasciati vicino al confine",
+          "quote": "Qualcuno aveva lasciato i rifiuti vicino al confine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ciclisti in alcuni tratti",
+          "quote": "un ciclista che spingeva la bici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lago lungo il percorso",
+          "quote": "Sul lago c'erano cigni e anatre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello trilingue al confine",
+          "kind": "novita",
+          "quote": "Un cartello nuovo al confine segnala in tre lingue"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto lungo il lago chiuso con deviazione",
+          "kind": "attenzione",
+          "quote": "Un breve tratto lungo il lago è stato chiuso con un nastro per frana"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa quasi pianeggiante",
+          "quote": "Camminata facile anche per chi non è allenato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cena al rifugio francese",
+          "quote": "In Francia ci hanno servito una zuppa fumante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia nella piana",
+          "quote": "la nebbia, che ci ha tolto metà panorama"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Passerella nuova lungo il lago",
+          "kind": "novita",
+          "quote": "Il tratto lungo il lago è stato riaperto con una passerella di legno nuova"
+        }
+      ]
+    }
+  ]
+}

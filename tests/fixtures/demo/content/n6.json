@@ -1,0 +1,8 @@
+{
+  "osm": "n6",
+  "invented": ["vie"],
+  "itinerary": {
+    "key": "placca-piatta",
+    "parts": [{ "fields": { "nome": "Unica", "grado": "4b" } }]
+  }
+}

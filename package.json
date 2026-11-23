@@ -1,0 +1,29 @@
+{
+  "name": "cimara",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "prepare": "git rev-parse --is-inside-work-tree >/dev/null 2>&1 && git config core.hooksPath .githooks || true",
+    "guard": "node --disable-warning=ExperimentalWarning scripts/guard/check.ts --tree",
+    "test": "node --test --disable-warning=ExperimentalWarning 'tests/**/*.test.ts'",
+    "typecheck": "tsc --noEmit",
+    "db:migrate": "node --disable-warning=ExperimentalWarning db/migrate.ts",
+    "seed": "node --disable-warning=ExperimentalWarning src/seed/seed.ts",
+    "start": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning src/app/server.ts",
+    "dev": "node --env-file-if-exists=.env --watch --disable-warning=ExperimentalWarning src/app/server.ts",
+    "import": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning import.ts",
+    "demo:build": "node --disable-warning=ExperimentalWarning scripts/demo/build.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "linkedom": "^0.18.0",
+    "typescript": "^5.7.0"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.126.0"
+  }
+}

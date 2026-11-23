@@ -1,0 +1,133 @@
+{
+  "osm": "n1295821530",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "palestra-di-roccia-il-paretone",
+    "activity": "falesia",
+    "place": "comune-007004",
+    "name": "Palestra di Roccia Il Paretone",
+    "lat": 45.63343,
+    "lon": 7.73525,
+    "aspect": "SO",
+    "altMax": 706,
+    "facts": {
+      "esposizione": "SO",
+      "quota_base": 706,
+      "avvicinamento": 25,
+      "localita_partenza": "Arnad"
+    },
+    "sections": {
+      "note": "Parete alta e ripida, con roccia solida e un po' di muschio sulle prese basse. Guarda a sud-ovest: il pomeriggio è al sole fino a sera, quindi in primavera e autunno è il posto migliore per arrampicare dopo pranzo.\n\nVie strapiombanti nella parte alta, chiodatura a spit ravvicinati. Le soste sono attrezzate con catena.\n\nServe una corda da 60 metri e le scarpette da strapiombo: le prese buone sono poche.",
+      "avvicinamento": "Dal parcheggio di Arnad il sentiero sale nel bosco per circa venticinque minuti, con un tratto ripido e il fondo di foglie."
+    },
+    "parts": [
+      {
+        "group": "Parete alta",
+        "fields": {
+          "nome": "Primo strappo",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete alta",
+        "fields": {
+          "nome": "Strapiombo del pino",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Parete alta",
+        "fields": {
+          "nome": "Ultimo sole",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Parete alta",
+        "fields": {
+          "nome": "Presa grossa",
+          "grado": "6a+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Parete alta",
+        "fields": {
+          "nome": "Diedro grigio",
+          "grado": "5b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete alta",
+        "fields": {
+          "nome": "Vecchia scritta",
+          "grado": "6c",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Parete alta",
+        "fields": {
+          "nome": "Il muschio",
+          "grado": "5c",
+          "lunghezza": 19
+        }
+      },
+      {
+        "group": "Parete bassa",
+        "fields": {
+          "nome": "Tacco",
+          "grado": "4c",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Parete bassa",
+        "fields": {
+          "nome": "Ciao",
+          "grado": "5a",
+          "lunghezza": 14
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2024-05-04",
+        "words": "Il primo tiro è ancora umido all'attacco, poi asciuga al sole. Ho fatto due vie strapiombanti e le soste sono solide."
+      },
+      {
+        "observedAt": "2025-10-11",
+        "words": "Ho scelto il pomeriggio e ho avuto il sole fino alle sette. Gente poca, la parete è tutta per noi."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Roccia umida all'attacco",
+          "quote": "Il primo tiro è ancora umido all'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole del pomeriggio",
+          "quote": "ho avuto il sole fino alle sette"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,1326 @@
+{
+  "osm": "n8090536385",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "parcheggio_nota",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "palestra-di-roccia-di-traversella",
+    "activity": "falesia",
+    "place": "comune-001278",
+    "name": "Palestra di roccia di Traversella",
+    "lat": 45.5165,
+    "lon": 7.73602,
+    "aspect": "SO",
+    "altMax": 1183,
+    "facts": {
+      "esposizione": "SO",
+      "quota_base": 1183,
+      "avvicinamento": 10,
+      "localita_partenza": "Traversella",
+      "parcheggio_nota": "Si lascia l'auto in paese: la stradina che sale verso la falesia è stretta e senza posti. Nei weekend di primavera e d'autunno il parcheggio si riempie presto."
+    },
+    "sections": {
+      "note": "Grande palestra di roccia sopra il paese, su gneiss a grana fine esposto a sud-ovest. Le vie sono tantissime, oltre trecento: qui ne sono elencate una sessantina, sparse nei sei settori principali. Si va dal 3 dei settori scuola all'8a del Pilastro del Castagno, da pochi metri fino ai 110 metri delle vie a più tiri del Muro Alto.\n\nLa scalata è quasi tutta di placca e di piedi: aderenza, granelli, piccole tacche. Le vie più facili sono molto frequentate e sulle classiche la roccia comincia a lucidarsi. Il Settore Scuola e il Settore Speranze sono adatti a chi inizia e ai corsi; Le Felci e la Placconata Centrale offrono placche tecniche dal 5 al 6c; il Pilastro del Castagno è più verticale e ospita i gradi più duri.\n\nA quota bassa e con il sole dalla tarda mattinata fino a sera, è una falesia da primavera, autunno e belle giornate d'inverno. D'estate si scala solo al mattino presto.\n\nMonotiri attrezzati a fix con soste a catena, moulinette possibile quasi ovunque con una corda da 60. Per le vie lunghe del Muro Alto servono una corda da 70 o due mezze: si scende in doppia sulla via.",
+      "avvicinamento": "Dal parcheggio in paese si sale a piedi per la stradina e poi per un sentiero nel bosco: in una decina di minuti si arriva al Settore Scuola e alle Speranze. Proseguendo a destra si raggiungono Le Felci e la Placconata Centrale, poi il Pilastro del Castagno; un sentiero più alto, sopra Le Felci, porta alla base del Muro Alto."
+    },
+    "parts": [
+      {
+        "group": "Settore Scuola",
+        "fields": {
+          "nome": "Il Gradino",
+          "grado": "3",
+          "lunghezza": 6
+        }
+      },
+      {
+        "group": "Settore Scuola",
+        "fields": {
+          "nome": "Primi Passi",
+          "grado": "3",
+          "lunghezza": 10
+        }
+      },
+      {
+        "group": "Settore Scuola",
+        "fields": {
+          "nome": "La Scaletta",
+          "grado": "3",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Settore Scuola",
+        "fields": {
+          "nome": "Mano Sicura",
+          "grado": "4a",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Settore Scuola",
+        "fields": {
+          "nome": "Pianino",
+          "grado": "4a",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Settore Scuola",
+        "fields": {
+          "grado": "4a+",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Settore Scuola",
+        "fields": {
+          "nome": "Gattonando",
+          "grado": "4b",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Settore Scuola",
+        "fields": {
+          "nome": "Il Battesimo",
+          "grado": "4b",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Settore Scuola",
+        "fields": {
+          "nome": "Occhio al Piede",
+          "grado": "4b+",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Settore Scuola",
+        "fields": {
+          "nome": "Scarpetta Nuova",
+          "grado": "4c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Settore Scuola",
+        "fields": {
+          "nome": "Ultimo Banco",
+          "grado": "4c+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Settore Scuola",
+        "fields": {
+          "nome": "La Promossa",
+          "grado": "5a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Speranze",
+        "fields": {
+          "nome": "Speranza Prima",
+          "grado": "3",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Settore Speranze",
+        "fields": {
+          "nome": "Quasi Facile",
+          "grado": "4a",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Settore Speranze",
+        "fields": {
+          "nome": "Ci Provo",
+          "grado": "4b",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Settore Speranze",
+        "fields": {
+          "nome": "Il Tentativo",
+          "grado": "4c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Settore Speranze",
+        "fields": {
+          "nome": "Pancia Mia",
+          "grado": "5a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Settore Speranze",
+        "fields": {
+          "nome": "Bel Tempo Si Spera",
+          "grado": "5b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Speranze",
+        "fields": {
+          "nome": "Speranza Verde",
+          "grado": "5c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore Speranze",
+        "fields": {
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore Speranze",
+        "fields": {
+          "nome": "L'Ultima Speranza",
+          "grado": "6a+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Settore Speranze",
+        "fields": {
+          "nome": "Fiducia",
+          "grado": "6b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Settore Speranze",
+        "fields": {
+          "nome": "Spes Contra Spem",
+          "grado": "6c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Settore Speranze",
+        "fields": {
+          "nome": "Disperata",
+          "grado": "7a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore Le Felci",
+        "fields": {
+          "nome": "Felce Rossa",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore Le Felci",
+        "fields": {
+          "nome": "Felce Ombrosa",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Le Felci",
+        "fields": {
+          "nome": "Tra le Foglie",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Settore Le Felci",
+        "fields": {
+          "nome": "Il Sottobosco",
+          "grado": "5c+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Settore Le Felci",
+        "fields": {
+          "nome": "Felce Spezzata",
+          "grado": "6a+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Settore Le Felci",
+        "fields": {
+          "nome": "Sotto il Tetto",
+          "grado": "6b",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Settore Le Felci",
+        "fields": {
+          "nome": "Il Crollo",
+          "grado": "6b+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Settore Le Felci",
+        "fields": {
+          "nome": "Felce Gigante",
+          "grado": "6c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Settore Le Felci",
+        "fields": {
+          "nome": "Radice Matta",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Le Felci",
+        "fields": {
+          "nome": "Fronda Larga",
+          "grado": "5a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Settore Le Felci",
+        "fields": {
+          "nome": "Felcetta",
+          "grado": "5c",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Placconata Centrale",
+        "fields": {
+          "nome": "Aderenza Pura",
+          "grado": "5a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Placconata Centrale",
+        "fields": {
+          "nome": "Granelli",
+          "grado": "5b",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Placconata Centrale",
+        "fields": {
+          "nome": "Grigio Gneiss",
+          "grado": "5b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Placconata Centrale",
+        "fields": {
+          "nome": "Il Lisciume",
+          "grado": "5c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Placconata Centrale",
+        "fields": {
+          "nome": "Pelle d'Oca",
+          "grado": "5c+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Placconata Centrale",
+        "fields": {
+          "nome": "Mica Male",
+          "grado": "6a",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Placconata Centrale",
+        "fields": {
+          "nome": "Specchio",
+          "grado": "6a+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Placconata Centrale",
+        "fields": {
+          "nome": "Placca dei Sogni",
+          "grado": "6b",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Placconata Centrale",
+        "fields": {
+          "nome": "Piedi di Velluto",
+          "grado": "6b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Placconata Centrale",
+        "fields": {
+          "nome": "Tramonto Tiepido",
+          "grado": "6a",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Placconata Centrale",
+        "fields": {
+          "nome": "La Saponetta",
+          "grado": "5c",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Pilastro del Castagno",
+        "fields": {
+          "nome": "Il Riccio",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Pilastro del Castagno",
+        "fields": {
+          "nome": "Castagna Matta",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Pilastro del Castagno",
+        "fields": {
+          "nome": "Marrone",
+          "grado": "6a+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Pilastro del Castagno",
+        "fields": {
+          "nome": "Spigolo del Castagno",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Pilastro del Castagno",
+        "fields": {
+          "nome": "Il Mulino",
+          "grado": "6b+",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Pilastro del Castagno",
+        "fields": {
+          "nome": "Fessura del Ghiro",
+          "grado": "6c",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Pilastro del Castagno",
+        "fields": {
+          "nome": "Strapiombino",
+          "grado": "7a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Pilastro del Castagno",
+        "fields": {
+          "nome": "Ghiro in Letargo",
+          "grado": "7b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Pilastro del Castagno",
+        "fields": {
+          "nome": "La Pancia del Pilastro",
+          "grado": "7c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Pilastro del Castagno",
+        "fields": {
+          "nome": "Valchiusella Nera",
+          "grado": "8a",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Pilastro del Castagno",
+        "fields": {
+          "nome": "Diedro Nuovo",
+          "grado": "6c",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Pilastro del Castagno",
+        "fields": {
+          "nome": "Vernice Fresca",
+          "grado": "7a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Muro Alto",
+        "fields": {
+          "nome": "Ultima Luce",
+          "grado": "6a+",
+          "lunghezza": 110
+        }
+      },
+      {
+        "group": "Muro Alto",
+        "fields": {
+          "nome": "Spirito di Valle",
+          "grado": "6a",
+          "lunghezza": 85
+        }
+      },
+      {
+        "group": "Muro Alto",
+        "fields": {
+          "nome": "Il Lungo Inverno",
+          "grado": "5c+",
+          "lunghezza": 95
+        }
+      },
+      {
+        "group": "Muro Alto",
+        "fields": {
+          "nome": "Camino Fresco",
+          "grado": "5b",
+          "lunghezza": 60
+        }
+      },
+      {
+        "group": "Muro Alto",
+        "fields": {
+          "nome": "Via del Torrente",
+          "grado": "6b",
+          "lunghezza": 100
+        }
+      },
+      {
+        "group": "Muro Alto",
+        "fields": {
+          "nome": "Cengia Lunga",
+          "grado": "5c",
+          "lunghezza": 70
+        }
+      },
+      {
+        "group": "Muro Alto",
+        "fields": {
+          "nome": "Sole Basso",
+          "grado": "6b+",
+          "lunghezza": 45
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-06",
+        "words": "Prima domenica di sole dopo settimane grigie. Alla Placconata Centrale si stava bene già a metà mattina, in pile solo all'ombra delle piante. Dal paese sono dieci minuti a piedi, zero fatica."
+      },
+      {
+        "observedAt": "2022-03-19",
+        "words": "Portato due amici alla loro prima uscita su roccia. Il Settore Scuola è perfetto: vie corte, soste comode, tutto in moulinette. Si sono divertiti un sacco."
+      },
+      {
+        "observedAt": "2022-04-02",
+        "words": "Gneiss bellissimo ma delicato sui piedi: le placche delle Felci vogliono fiducia sulle scarpette. Fatto Felce Rossa, 6a, e mi è sembrato più duro di quanto dice il grado."
+      },
+      {
+        "observedAt": "2022-04-13",
+        "words": "Giorno di ferie, falesia tutta per noi. Silenzio totale, solo i campanacci giù nel vallone. Fatti sei tiri alle Speranze, tutti diversi."
+      },
+      {
+        "observedAt": "2022-04-25",
+        "words": "Ponte del 25 aprile e mezzo Canavese era qui. Parcheggio in paese pieno, macchine lungo tutta la strada. Alle vie facili c'era la fila e i bambini urlavano dappertutto."
+      },
+      {
+        "observedAt": "2022-05-08",
+        "words": "Giornata sulle vie lunghe del Muro Alto: fatta Ultima Luce, quattro tiri e 110 metri. Doppie sulla via, servono 70 metri di corda o due mezze. Dalla terza sosta si vede tutta la Valchiusella, uno spettacolo."
+      },
+      {
+        "observedAt": "2022-05-28",
+        "words": "Già troppo caldo dopo le undici, il sole picchia in pieno su tutta la parete. Abbiamo chiuso alle 12:30 e siamo scesi a mangiare all'ombra."
+      },
+      {
+        "observedAt": "2022-06-18",
+        "words": "In parete alle sette e mezza, fresco fino alle dieci. Poi è diventato impossibile. Da qui in avanti si torna a settembre"
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "rientro dopo l'estate. le classiche del settore scuola sono lucide come vetro, sul 4b di sinistra i piedi scappano. meglio salire di un settore"
+      },
+      {
+        "observedAt": "2022-10-01",
+        "words": "Alle Speranze qualcuno sta richiodando: le prime cinque vie hanno già fix nuovi e catene in sosta, le altre ancora i vecchi spit arrugginiti con le piastrine sottili. Grazie a chi ci sta lavorando."
+      },
+      {
+        "observedAt": "2022-10-20",
+        "words": "Pomeriggio dopo il lavoro, arrivato alle tre e c'era ancora sole quasi fino alle sei. In falesia due cordate in tutto. Tre tiri veloci al Pilastro del Castagno e via."
+      },
+      {
+        "observedAt": "2022-11-06",
+        "words": "Freddo al mattino, ma appena gira il sole sulla parete si scalda tutto e dalle undici si sta in maglietta. Tanta gente, soprattutto al Settore Scuola con i corsi."
+      },
+      {
+        "observedAt": "2022-12-08",
+        "words": "8 dicembre, cielo terso e zero vento. Alle Felci si scalava a mani nude e in maglia leggera, mentre giù in valle c'era ancora la brina sui prati. Non sembrava dicembre."
+      },
+      {
+        "observedAt": "2023-01-15",
+        "words": "Gennaio, ma al sole sembrava aprile. Dalle tre e mezza però la parete va in ombra e il freddo arriva di colpo: portatevi un piumino."
+      },
+      {
+        "observedAt": "2023-02-25",
+        "words": "Le Speranze sono finite: tutte richiodate a fix inox, soste nuove con catena e moschettone. Adesso le vie facili sono davvero sicure, ottimo per portare chi inizia."
+      },
+      {
+        "observedAt": "2023-03-12",
+        "words": "Parcheggiato in paese e saliti a piedi, la stradina sopra è stretta e non si gira. Coda alle vie facili, ma al Muro Alto eravamo soli."
+      },
+      {
+        "observedAt": "2023-03-29",
+        "words": "Mercoledì di riposo dal turno. Placconata Centrale tutta per me e un amico, solo il rumore del torrente sotto."
+      },
+      {
+        "observedAt": "2023-04-15",
+        "words": "Giornata coi bambini: alla base delle Speranze c'è un prato piano dove giocano tranquilli, e le vie corte sono perfette per farli provare con la corda dall'alto. Il grande ha fatto la sua prima via da solo!"
+      },
+      {
+        "observedAt": "2023-04-30",
+        "words": "Fatta Spirito di Valle in tre tiri, poi Il Lungo Inverno. La roccia sulle vie lunghe è ottima, meno battuta e quindi ancora ruvida. Portare una corda da 70, o si resta appesi."
+      },
+      {
+        "observedAt": "2023-05-20",
+        "words": "Ha piovuto tutta la settimana e le placche delle Felci erano ancora umide nelle fessure, colate scure ovunque. Ci siamo spostati al Pilastro che asciuga prima, e lì tutto bene."
+      },
+      {
+        "observedAt": "2023-06-10",
+        "words": "Partiti presto ma alle dieci e mezza già si cuoceva. A giugno questa parete è una piastra."
+      },
+      {
+        "observedAt": "2023-09-24",
+        "words": "Tornati dopo l'estate, roccia asciutta e aria fresca. Fatte quasi tutte le vie di quinto della Placconata: piedi su granelli minuscoli, bisogna fidarsi e basta. Polpacci distrutti."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Attenzione al settore Le Felci: è caduto un blocco grosso dalla cengia in alto e a terra ci sono sassi ovunque. Tre vie della parte destra sono chiuse con un nastro bianco e rosso. Non andate sotto."
+      },
+      {
+        "observedAt": "2023-10-27",
+        "words": "Venerdì pomeriggio, pochi in giro. Le Felci hanno ancora il nastro sulle vie di destra, le altre si scalano normalmente. Sole fino alle cinque."
+      },
+      {
+        "observedAt": "2023-11-19",
+        "words": "Domenica di novembre limpida. Il sentiero dal paese è comodo, in dieci minuti sei sotto le vie. Al Settore Scuola però c'erano tre corsi insieme, impossibile trovare una via libera, ce ne siamo andati alla Placconata."
+      },
+      {
+        "observedAt": "2023-12-27",
+        "words": "Fine anno al sole. Mani calde, roccia tiepida e sotto la valle tutta in ombra. Scalato fino alle tre, poi il freddo."
+      },
+      {
+        "observedAt": "2024-02-10",
+        "words": "Primo giro dell'anno. Le classiche di 5c del Pilastro del Castagno ormai sono unte, i piedi non tengono come una volta. Il Riccio sembra di marmo."
+      },
+      {
+        "observedAt": "2024-03-16",
+        "words": "Il sentiero alto, quello che porta al Muro Alto passando sopra le Felci, è chiuso per una frana: cartello e nastro all'imbocco. Per le vie lunghe si gira dal basso, un quarto d'ora in più."
+      },
+      {
+        "observedAt": "2024-03-27",
+        "words": "Settimana prima di Pasqua, mattina di ferie. Pochissima gente. Fatto il giro lungo per il Muro Alto perché il sentiero alto è ancora chiuso, ma ne vale la pena."
+      },
+      {
+        "observedAt": "2024-04-21",
+        "words": "Placche delle Speranze con le scarpette nuove: aderenza pazzesca su questo gneiss, ma serve testa sui piedi. Parcheggio in paese già pieno alle nove e mezza."
+      },
+      {
+        "observedAt": "2024-05-11",
+        "words": "Nido di calabroni nella fessura a metà di Felce Ombrosa: ce ne siamo accorti al secondo spit e siamo scesi di corsa. Lasciato un biglietto alla base per gli altri."
+      },
+      {
+        "observedAt": "2024-06-01",
+        "words": "Primo weekend di giugno, alle 11 eravamo già in macchina. La mattina presto si scala, ma poi il sole non perdona."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Per gli amici alle prime armi il Settore Scuola resta il posto giusto: tanti tre e quattro, spit vicini, base comoda per sedersi."
+      },
+      {
+        "observedAt": "2024-10-12",
+        "words": "Il sentiero alto è stato riaperto: hanno sistemato il pezzo franato con gradini in legno e una corda fissa. Di nuovo dieci minuti dal paese anche per il Muro Alto."
+      },
+      {
+        "observedAt": "2024-10-31",
+        "words": "Ponte dei Santi. Gente sì, ma si trovava posto. Fatte Tramonto Tiepido e Spirito di Valle, roccia perfetta e luce bassa bellissima nel pomeriggio."
+      },
+      {
+        "observedAt": "2024-11-24",
+        "words": "Ultimo giro autunnale. Colori del bosco incredibili, foglie gialle fino alla base. Al sole maglietta, appena entri nel bosco fa freddo."
+      },
+      {
+        "observedAt": "2025-01-06",
+        "words": "Befana in falesia. Fresco, ma al sole delle undici si toglie il piumino. Molta gente per essere gennaio, il parcheggio in paese era pieno a metà."
+      },
+      {
+        "observedAt": "2025-02-22",
+        "words": "Sono state aperte quattro vie nuove a sinistra del Pilastro del Castagno, dal 6b al 7a, con i nomi scritti alla base a vernice. Belle, la roccia è ancora un po' sporca di terra ma si scala."
+      },
+      {
+        "observedAt": "2025-03-14",
+        "words": "Uscito dal lavoro a mezzogiorno e venuto su da solo con l'autoassicuratore al Settore Scuola. In settimana non c'è anima viva."
+      },
+      {
+        "observedAt": "2025-03-30",
+        "words": "Primavera piena, parete strapiena. Abbiamo aspettato quaranta minuti per Ultima Luce, al Muro Alto c'erano quattro cordate in fila."
+      },
+      {
+        "observedAt": "2025-04-26",
+        "words": "Le vie lunghe del Muro Alto valgono il viaggio: tre o quattro tiri, soste a catena, doppie dritte sulla via. Ci vuole la 70. Fatta Via del Torrente, il secondo tiro è il più bello."
+      },
+      {
+        "observedAt": "2025-05-21",
+        "words": "Le vie nuove del Pilastro si stanno pulendo, la terra è quasi sparita. Diedro Nuovo bellissimo, gradi giusti per una volta."
+      },
+      {
+        "observedAt": "2025-06-07",
+        "words": "Primo sabato caldo dell'anno: sole già pieno alle dieci e roccia bollente sulle Speranze. Chiuso presto e via al torrente."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Alla sosta di Pancia Mia manca la catena, c'è solo un fix nudo: non fate moulinette lì, scendete dalla via accanto."
+      },
+      {
+        "observedAt": "2025-10-08",
+        "words": "Ottobre, metà settimana. Una sola cordata oltre a noi, aria tersa e sole fino alle sei. Le Felci sono ancora chiuse a destra dal crollo di due anni fa."
+      },
+      {
+        "observedAt": "2025-11-02",
+        "words": "Bella giornata ma le classiche della Placconata sono una saponetta, tutta la gamma del 5 è lucidata. Le vie meno salite più in alto invece grattano ancora."
+      },
+      {
+        "observedAt": "2025-12-13",
+        "words": "Dicembre a maniche corte. Il sole su questa parete in inverno è un regalo."
+      },
+      {
+        "observedAt": "2026-02-18",
+        "words": "Giornata di sole in mezzo a una settimana di neve in quota. Qui sotto parete pulita e asciutta, giusto un po' di bagnato alla base delle Speranze."
+      },
+      {
+        "observedAt": "2026-03-21",
+        "words": "Le vie delle Felci chiuse dal crollo sono state riaperte: ripulite dai blocchi instabili, richiodate e con soste nuove. Il nastro non c'è più."
+      },
+      {
+        "observedAt": "2026-04-12",
+        "words": "Gita con un gruppo di amici, due alla prima volta su roccia: le Speranze facili sono l'ideale. Dal paese si sale in pochi minuti, nessuno si è lamentato."
+      },
+      {
+        "observedAt": "2026-05-09",
+        "words": "Vipera arrotolata sul sasso alla base del Muro Alto, al sole. Se n'è andata da sola, ma occhio a dove mettete le mani nell'erba."
+      },
+      {
+        "observedAt": "2026-06-06",
+        "words": "Fatte Felce Spezzata e Sotto il Tetto, appena riaperte, bel gneiss pulito. Alle 10:30 via, troppo caldo."
+      },
+      {
+        "observedAt": "2026-09-26",
+        "words": "Settembre fresco e ventilato. Cinque vie al Pilastro, le nuove a sinistra ormai pulite. Dopo, birra in paese al sole."
+      },
+      {
+        "observedAt": "2026-10-16",
+        "words": "Venerdì di ferie. Tre ore in parete senza vedere nessuno, poi è arrivato un gruppo di ragazzi con il loro istruttore."
+      },
+      {
+        "observedAt": "2026-11-08",
+        "words": "Novembre col sole caldo sulla parete e la nebbia sul fondovalle. Gente tanta, parcheggio pieno, ma sulle vie lunghe si trova sempre posto."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Alla Placconata Centrale si stava bene già a metà mattina"
+        },
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Dal paese sono dieci minuti a piedi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie facili per iniziare",
+          "quote": "Il Settore Scuola è perfetto: vie corte, soste comode"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche di piedi",
+          "quote": "le placche delle Felci vogliono fiducia sulle scarpette"
+        },
+        {
+          "label": "Gradi stretti",
+          "quote": "mi è sembrato più duro di quanto dice il grado"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "Giorno di ferie, falesia tutta per noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nei festivi",
+          "quote": "mezzo Canavese era qui"
+        },
+        {
+          "label": "Parcheggio in paese",
+          "quote": "Parcheggio in paese pieno, macchine lungo tutta la strada"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie a più tiri",
+          "quote": "Doppie sulla via, servono 70 metri di corda o due mezze"
+        },
+        {
+          "label": "Vista sulla valle",
+          "quote": "Dalla terza sosta si vede tutta la Valchiusella"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "il sole picchia in pieno su tutta la parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Poi è diventato impossibile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Classiche unte",
+          "quote": "sono lucide come vetro, sul 4b di sinistra i piedi scappano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura datata",
+          "quote": "le altre ancora i vecchi spit arrugginiti"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Speranze in richiodatura",
+          "kind": "novita",
+          "quote": "le prime cinque vie hanno già fix nuovi e catene in sosta"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "In falesia due cordate in tutto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "appena gira il sole sulla parete si scalda tutto"
+        },
+        {
+          "label": "Affollata nei festivi",
+          "quote": "Tanta gente, soprattutto al Settore Scuola con i corsi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Alle Felci si scalava a mani nude e in maglia leggera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "al sole sembrava aprile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie facili per iniziare",
+          "quote": "ottimo per portare chi inizia"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Speranze richiodate",
+          "kind": "novita",
+          "quote": "tutte richiodate a fix inox, soste nuove con catena e moschettone"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio in paese",
+          "quote": "Parcheggiato in paese e saliti a piedi"
+        },
+        {
+          "label": "Affollata nei festivi",
+          "quote": "Coda alle vie facili"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "Placconata Centrale tutta per me e un amico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai bambini",
+          "quote": "c'è un prato piano dove giocano tranquilli"
+        },
+        {
+          "label": "Vie facili per iniziare",
+          "quote": "le vie corte sono perfette per farli provare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie a più tiri",
+          "quote": "Portare una corda da 70"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "A giugno questa parete è una piastra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche di piedi",
+          "quote": "piedi su granelli minuscoli, bisogna fidarsi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Crollo alle Felci",
+          "kind": "attenzione",
+          "quote": "Tre vie della parte destra sono chiuse con un nastro bianco e rosso"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "Venerdì pomeriggio, pochi in giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "in dieci minuti sei sotto le vie"
+        },
+        {
+          "label": "Affollata nei festivi",
+          "quote": "c'erano tre corsi insieme, impossibile trovare una via libera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Mani calde, roccia tiepida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Classiche unte",
+          "quote": "ormai sono unte, i piedi non tengono come una volta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero del Muro Alto chiuso",
+          "kind": "attenzione",
+          "quote": "è chiuso per una frana: cartello e nastro all'imbocco"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "Pochissima gente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche di piedi",
+          "quote": "aderenza pazzesca su questo gneiss, ma serve testa sui piedi"
+        },
+        {
+          "label": "Parcheggio in paese",
+          "quote": "Parcheggio in paese già pieno alle nove e mezza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nido di calabroni",
+          "quote": "Nido di calabroni nella fessura a metà di Felce Ombrosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "poi il sole non perdona"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie facili per iniziare",
+          "quote": "il Settore Scuola resta il posto giusto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Di nuovo dieci minuti dal paese"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Sentiero alto riaperto",
+          "kind": "novita",
+          "quote": "hanno sistemato il pezzo franato con gradini in legno e una corda fissa"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Al sole maglietta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "al sole delle undici si toglie il piumino"
+        },
+        {
+          "label": "Parcheggio in paese",
+          "quote": "il parcheggio in paese era pieno a metà"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Vie nuove al Pilastro",
+          "kind": "novita",
+          "quote": "Sono state aperte quattro vie nuove a sinistra del Pilastro del Castagno"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "In settimana non c'è anima viva"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nei festivi",
+          "quote": "Primavera piena, parete strapiena"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie a più tiri",
+          "quote": "doppie dritte sulla via. Ci vuole la 70"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "roccia bollente sulle Speranze"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena mancante su Pancia Mia",
+          "kind": "attenzione",
+          "quote": "Alla sosta di Pancia Mia manca la catena, c'è solo un fix nudo"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "Una sola cordata oltre a noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Classiche unte",
+          "quote": "le classiche della Placconata sono una saponetta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Il sole su questa parete in inverno è un regalo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Giornata di sole in mezzo a una settimana di neve in quota"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Felci di destra riaperte",
+          "kind": "novita",
+          "quote": "ripulite dai blocchi instabili, richiodate e con soste nuove"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie facili per iniziare",
+          "quote": "le Speranze facili sono l'ideale"
+        },
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Dal paese si sale in pochi minuti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vipera alla base",
+          "quote": "Vipera arrotolata sul sasso alla base del Muro Alto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Alle 10:30 via, troppo caldo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "Tre ore in parete senza vedere nessuno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Novembre col sole caldo sulla parete"
+        },
+        {
+          "label": "Affollata nei festivi",
+          "quote": "Gente tanta"
+        },
+        {
+          "label": "Parcheggio in paese",
+          "quote": "parcheggio pieno"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

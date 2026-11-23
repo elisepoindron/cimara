@@ -1,0 +1,295 @@
+{
+  "osm": "r9675684",
+  "invented": [
+    "partenza",
+    "dislivello",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "alta-via-n-1-della-valle-d-aosta-tappa-10",
+    "activity": "escursionismo",
+    "place": "comune-007071",
+    "name": "Alta Via n. 1 della Valle d'Aosta - Tappa 10",
+    "lat": 45.87679,
+    "lon": 7.59346,
+    "facts": {
+      "difficolta": "EE",
+      "partenza": 2157,
+      "dislivello": 1233,
+      "localita_partenza": "Rifugio Barmasse",
+      "come_arrivare": "Il Rifugio Barmasse si raggiunge dalla valle di Valtournenche con una salita a piedi o, in stagione, con i mezzi di risalita fino alla zona dei laghi. Non ci sono parcheggi vicini: si lascia l'auto a valle. All'arrivo al Cunéy, il ritorno in auto richiede un trasferimento organizzato."
+    },
+    "sections": {
+      "descrizione": "Decima tappa dell'Alta Via n. 1 della Valle d'Aosta, tra la valle di Valtournenche e il vallone di Saint-Barthélemy: dal Rifugio Barmasse (2.157 m) al Rifugio Cunéy (2.652 m), circa 16 km con 1.200 m di salita e 1.500 m di discesa complessivi. È una delle tappe più lunghe e più alte dell'itinerario, classificata EE.\n\nIl percorso lascia il rifugio e sale con ripetute traversate attraverso pascoli, laghetti e dorsali, poi attraversa il valico principale tra pietraie e brevi tratti attrezzati. Si scende per un lungo vallone, si risale ancora su un'altra dorsale e si arriva infine al Cunéy, sopra un lago. Quasi tutta la tappa è sopra i 2.200 m: ombra non ce n'è e il meteo conta.\n\nIl periodo buono va da luglio a fine settembre. A inizio estate restano nevai sui versanti nord, e nel pomeriggio i temporali sono frequenti. Per l'acqua si può contare sui ruscelli, ma meglio trattarla; i rifugi sono i soli punti dove rifornirsi con certezza."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Il valico a inizio luglio aveva ancora dei nevai ripidi. Il versante nord era tutto neve vecchia e ho tirato fuori i ramponcini per sicurezza."
+      },
+      {
+        "observedAt": "2022-07-30",
+        "words": "Tappa lunga ma di una bellezza assurda. Il Cervino ci ha accompagnato per mezza giornata con la luce del mattino."
+      },
+      {
+        "observedAt": "2022-08-13",
+        "words": "Siamo partiti presto per non essere sul valico nel pomeriggio. Alle tre il cielo era già nero e i tuoni forti, ci siamo calati verso il Cunéy a passo svelto."
+      },
+      {
+        "observedAt": "2022-08-26",
+        "words": "Un venerdì d'agosto, sentiero tranquillo, e un branco di stambecchi a venti metri dal sentiero ci ha guardati passare."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Aria tersa, neve fresca sulle cime. Sedici chilometri e una discesa interminabile e abbiamo finito a lume di pile frontali."
+      },
+      {
+        "observedAt": "2022-09-23",
+        "words": "Laghetti ghiacciati la mattina, il sole li scioglieva verso le dieci. Il rifugio all'arrivo accoglie con la zuppa calda."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "Neve fino a quota 2.600, ma in discesa verso il vallone si sprofondava fino al ginocchio nei punti più alti."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "La giornata di sole ha reso la salita ancora più dura. Dodici ore di cammino con le soste, non per tutti."
+      },
+      {
+        "observedAt": "2023-08-09",
+        "words": "Mercoledì fuori dal weekend, nessuno al valico. I segni dell'Alta Via sono chiari anche con la foschia."
+      },
+      {
+        "observedAt": "2023-08-27",
+        "words": "Il lago ai piedi del rifugio al tramonto vale tutta la fatica. Il lago sotto il rifugio era liscio come un vetro."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Un tratto del traverso prima del valico è franato, si passa uno alla volta e con attenzione."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Ottobre alle porte e già freddo. Salita al valico con bastoncini; la tappa è lunga e non lascia riposo."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Tutta la tappa con nebbia e pioggerella, nel pomeriggio è arrivato anche un temporale. Alla fine tutti zuppi."
+      },
+      {
+        "observedAt": "2024-08-04",
+        "words": "Al traverso franato adesso c'è una corda fissa nuova e dei gradini nel tratto franato e il passaggio è meno scomodo."
+      },
+      {
+        "observedAt": "2024-08-21",
+        "words": "Giorno feriale, tutta la valle per noi. Due stambecchi dormivano sul sentiero, ci hanno lasciato passare solo dopo un po'."
+      },
+      {
+        "observedAt": "2024-09-08",
+        "words": "Sono arrivato al Cunéy che era già buio, ma il rifugio mi ha comunque dato da mangiare. Per chi ha le gambe poco allenate è una tappa da evitare."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Un campanile di pietra nel vallone e il Cervino che spuntava dietro la dorsale: fotografato cento volte."
+      },
+      {
+        "observedAt": "2025-08-15",
+        "words": "Ferragosto e tanta gente sulla prima parte, poi più nulla. I segni rossi e gialli sono stati rinfrescati quest'anno."
+      },
+      {
+        "observedAt": "2025-09-03",
+        "words": "Settembre limpido, i laghetti alti pieni e freddissimi. Non ho resistito a bagnarmi i piedi."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Prima neve della stagione sul valico, solo una spolverata. Tappa lunga ma regolare se si parte alle sei."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Nevai ancora presenti a luglio",
+          "quote": "Il versante nord era tutto neve vecchia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Cervino",
+          "quote": "Il Cervino ci ha accompagnato per mezza giornata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Alle tre il cielo era già nero e i tuoni forti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi vicino al sentiero",
+          "quote": "un branco di stambecchi a venti metri dal sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e impegnativa",
+          "quote": "Sedici chilometri e una discesa interminabile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Zuppa calda al rifugio",
+          "quote": "accoglie con la zuppa calda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai ancora presenti a luglio",
+          "quote": "si sprofondava fino al ginocchio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e impegnativa",
+          "quote": "Dodici ore di cammino con le soste"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica rossa e gialla",
+          "quote": "I segni dell'Alta Via sono chiari"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lago sotto il Cunéy",
+          "quote": "Il lago sotto il rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana sul traverso prima del valico",
+          "kind": "attenzione",
+          "quote": "Un tratto del traverso prima del valico è franato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e impegnativa",
+          "quote": "la tappa è lunga e non lascia riposo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "nel pomeriggio è arrivato anche un temporale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Traverso riparato con una corda fissa",
+          "kind": "novita",
+          "quote": "corda fissa nuova e dei gradini nel tratto franato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi vicino al sentiero",
+          "quote": "Due stambecchi dormivano sul sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e impegnativa",
+          "quote": "è una tappa da evitare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Cervino",
+          "quote": "il Cervino che spuntava dietro la dorsale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica rossa e gialla",
+          "quote": "I segni rossi e gialli"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Laghetti alti",
+          "quote": "i laghetti alti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e impegnativa",
+          "quote": "Tappa lunga ma regolare"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

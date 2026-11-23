@@ -1,0 +1,297 @@
+{
+  "osm": "n14119486180",
+  "invented": [
+    "grado_obbligatorio",
+    "sviluppo",
+    "avvicinamento",
+    "localita_partenza",
+    "come_arrivare",
+    "tiri",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "legoland",
+    "activity": "multipitch",
+    "place": "comune-001073",
+    "name": "Legoland",
+    "lat": 45.44172,
+    "lon": 7.27298,
+    "aspect": "SE",
+    "altMax": 1740,
+    "facts": {
+      "grado_obbligatorio": "7a",
+      "sviluppo": 60,
+      "avvicinamento": 20,
+      "localita_partenza": "Ceresole Reale",
+      "come_arrivare": "Da Ceresole Reale si prosegue lungo la strada del lago fino a uno spiazzo; da lì un sentiero corto nel bosco conduce al blocco di granito dove parte la via.",
+      "quota_base": 1710,
+      "esposizione": "SE",
+      "grado_max": "7a+",
+      "tiri": 2,
+      "protezione": "trad"
+    },
+    "sections": {
+      "descrizione": "Due tiri, due fessure, nessun spit. Legoland è una via d'arrampicata trad pura su granito grigio, con una fessura da dita su placca nel primo tiro e una fessura da mani sotto un tetto nel secondo. Il nome viene dalla regolarità quasi da mattoncini delle lame che formano il primo tratto.\n\nÈ una salita breve ma impegnativa, che chiede una buona scorta di friend e una mano esperta nella chiusura delle protezioni. Le soste vanno costruite con i friend o con i cordoni, perché non ci sono catene.\n\nIl granito è ruvido e leggermente incisivo sulle dita: lo scotch o il nastro adesivo sono una buona idea.",
+      "discesa": "Dalla seconda sosta si scende in doppia con una corda da 60 metri, appoggiando su un albero robusto alla sommità del tetto; due calate corte portano a terra. In alternativa a destra si traversa a piedi su un terrazzo e si rientra in venti minuti.",
+      "materiale": "Doppia serie di friend dallo 0.2 al 3, qualche dado e due fettucce lunghe; corda da 60 metri e nastro per le dita.",
+      "avvicinamento": "Dalla macchina un sentiero nel bosco di larici porta in pochi minuti a un blocco fessurato visibile dal sentiero; l'attacco è alla sua base."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "7a+",
+          "lunghezza": 30,
+          "descrizione": "Fessura da dita su placca verticale, continua e delicata, nessun riposo vero."
+        }
+      },
+      {
+        "fields": {
+          "grado": "7a",
+          "lunghezza": 30,
+          "descrizione": "Fessura da mani sotto un tetto, poi uscita su una placca appoggiata."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-05-22",
+        "words": "Una via che si fa guardare più che salire. Ci sono voluti tre tentativi per il primo tiro, la fessura da dita non perdona se non metti il piede giusto."
+      },
+      {
+        "observedAt": "2022-06-12",
+        "words": "Il secondo tiro è un classico problema di tetto: si entra con le mani in incastro e poi serve fiducia nelle gambe. Ottime le protezioni, ma bisogna saperle mettere."
+      },
+      {
+        "observedAt": "2022-08-31",
+        "words": "Mercoledì di fine agosto, nessuno nei dintorni. L'arrampicata sulla fessura mi ha lasciato le dita in fiamme, ma che soddisfazione."
+      },
+      {
+        "observedAt": "2022-10-02",
+        "words": "Giornata fredda di inizio ottobre: la roccia ghiacciata nelle fessure e le mani intorpidite. Ottimo per l'aderenza, pessimo per sentirsi le dita."
+      },
+      {
+        "observedAt": "2023-05-14",
+        "words": "Arrivati con i friend giusti ma non abbastanza piccoli per il primo tiro: serve la serie completa fino a 0.2. Mi sono accorto troppo tardi."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Secondo giro, stavolta pulito. Il nastro sulle mani ha fatto la differenza e il tetto è passato al primo tentativo."
+      },
+      {
+        "observedAt": "2023-07-18",
+        "words": "Martedì pomeriggio dopo il lavoro, la parete già in ombra e il granito fresco, luce lunga sul lago. La via è breve ma ha un carattere forte."
+      },
+      {
+        "observedAt": "2023-09-03",
+        "words": "Con un ragazzo che iniziava il trad. L'ho fatto salire in moulinette sul primo tiro: una scuola vera per imparare a leggere una fessura."
+      },
+      {
+        "observedAt": "2024-05-26",
+        "words": "La fessura del primo tiro è sporca di terra e muschio dopo l'inverno: abbiamo passato mezz'ora con la spazzola prima di partire."
+      },
+      {
+        "observedAt": "2024-06-30",
+        "words": "Alla sosta si è staccato un blocco grosso come un pallone e ha lasciato una cicatrice chiara sulla placca. Ora la prima sosta va costruita con più attenzione, il vecchio punto non c'è più."
+      },
+      {
+        "observedAt": "2024-08-11",
+        "words": "Un caldo che manda fuori giri alle undici. Meglio partire il mattino presto: all'ombra del tetto si respira."
+      },
+      {
+        "observedAt": "2024-09-20",
+        "words": "Venerdì mattina, fresco e secco. Primo tiro libero al terzo giro, finalmente il movimento chiave mi è entrato in testa."
+      },
+      {
+        "observedAt": "2025-05-31",
+        "words": "Un amico ha aggiunto un chiodo nuovo sulla placca iniziale. Non cambia il carattere, ma dà un po' di tranquillità sul primo passo."
+      },
+      {
+        "observedAt": "2025-07-06",
+        "words": "Con la serie di friend ben distribuita sul rack e due fettucce lunghe tutto fila liscio. La discesa in doppia dall'albero è comoda, il fusto è sano."
+      },
+      {
+        "observedAt": "2025-08-24",
+        "words": "Giornata di cielo grigio e umido, la roccia appiccicosa. Rinunciato al tetto, troppa umidità per l'incastro."
+      },
+      {
+        "observedAt": "2026-06-20",
+        "words": "Il sentierino è stato sistemato con gradini di pietra e un tratto di corda fissa sull'umido: ora si arriva alla base senza scivolare."
+      },
+      {
+        "observedAt": "2026-09-13",
+        "words": "Una bella giornata d'autunno per ripetere una via che amo. I larici gialli intorno, silenzio e granito caldo: non serve altro."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Fessura da dita impegnativa",
+          "quote": "la fessura da dita non perdona se non metti il piede giusto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Protezioni da mettere",
+          "quote": "Ottime le protezioni, ma bisogna saperle mettere"
+        },
+        {
+          "label": "Tetto con incastri di mani",
+          "quote": "si entra con le mani in incastro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fessura da dita impegnativa",
+          "quote": "L'arrampicata sulla fessura mi ha lasciato le dita in fiamme"
+        },
+        {
+          "label": "Via solitaria",
+          "quote": "nessuno nei dintorni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Freddo nelle fessure",
+          "quote": "la roccia ghiacciata nelle fessure e le mani intorpidite"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Serie di friend completa",
+          "quote": "serve la serie completa fino a 0.2"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tetto con incastri di mani",
+          "quote": "il tetto è passato al primo tentativo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra al pomeriggio",
+          "quote": "la parete già in ombra e il granito fresco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Scuola di trad",
+          "quote": "una scuola vera per imparare a leggere una fessura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fessura da pulire",
+          "quote": "abbiamo passato mezz'ora con la spazzola prima di partire"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Blocco caduto alla prima sosta",
+          "kind": "attenzione",
+          "quote": "Alla sosta si è staccato un blocco grosso come un pallone e ha lasciato una cicatrice chiara sulla placca."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "Meglio partire il mattino presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fessura da dita impegnativa",
+          "quote": "Primo tiro libero al terzo giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Chiodo nuovo sulla placca",
+          "kind": "novita",
+          "quote": "Un amico ha aggiunto un chiodo nuovo sulla placca iniziale."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Serie di friend completa",
+          "quote": "Con la serie di friend ben distribuita sul rack"
+        },
+        {
+          "label": "Doppia dall'albero",
+          "quote": "La discesa in doppia dall'albero è comoda, il fusto è sano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Freddo nelle fessure",
+          "quote": "la roccia appiccicosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero sistemato",
+          "kind": "novita",
+          "quote": "Il sentierino è stato sistemato con gradini di pietra e un tratto di corda fissa sull'umido: ora si arriva alla base senza scivolare."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Via solitaria",
+          "quote": "silenzio e granito caldo"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

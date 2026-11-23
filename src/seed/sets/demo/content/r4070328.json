@@ -1,0 +1,257 @@
+{
+  "osm": "r4070328",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d3",
+    "activity": "escursionismo",
+    "place": "comune-103006",
+    "name": "Via Alpina Blue D3",
+    "lat": 46.31427,
+    "lon": 8.26059,
+    "facts": {
+      "difficolta": "E",
+      "localita_partenza": "Alpe Devero",
+      "come_arrivare": "Si arriva ad Alpe Devero da Baceno, risalendo la valle fino ai parcheggi dell'alpe (in alta stagione l'accesso in auto può essere regolato). Il rientro dal lato svizzero richiede organizzazione, perché la tappa passa il confine e finisce a Binn."
+    },
+    "sections": {
+      "descrizione": "Tappa di confine della Via Alpina Blu tra Alpe Devero e Binn: si lascia il grande altopiano dei pascoli e dei larici, si sale verso il valico e si scende in Svizzera. È un itinerario di alta montagna con un tratto di sentiero esposto al vento e qualche nevaio da non sottovalutare a inizio stagione.\n\nDa Devero il percorso attraversa prati e piccole conche, poi si fa più ripido sulla pietraia terminale. Passato il confine, il sentiero scende in un paesaggio diverso, con villaggi in legno e una valle più stretta.\n\nPeriodo consigliato da luglio a settembre. Serve un documento valido per l'espatrio e conviene informarsi sui trasporti per il rientro."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Partiti da Devero con le nuvole basse, al valico il vento tagliava. Dall'altra parte la Svizzera ci ha accolto con il sole."
+      },
+      {
+        "observedAt": "2022-08-09",
+        "words": "Martedì con meteo perfetto, l'altopiano di Devero deserto di prima mattina. Larici dorati già in agosto sui versanti più alti."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Ricordatevi la carta d'identità, noi l'abbiamo dimenticata e per fortuna nessuno ha controllato. Tratto finale sulla pietraia lungo ma ben segnato."
+      },
+      {
+        "observedAt": "2022-09-30",
+        "words": "Venerdì di ferie lunghe. Prima neve sulle cime e silenzio assoluto al valico, quasi irreale."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "Nevaio duro sotto il passo, ho messo i ramponcini leggeri e sono passato bene. Chi parte presto trova ancora ghiaccio."
+      },
+      {
+        "observedAt": "2023-07-29",
+        "words": "Una coppia di stambecchi ha attraversato davanti a noi poco prima del confine. Giornata lunga ma regolare."
+      },
+      {
+        "observedAt": "2023-08-19",
+        "words": "Il villaggio di Binn con le case in legno vale da solo la tappa. Una merenda in terrazza e poi il rientro in autobus."
+      },
+      {
+        "observedAt": "2023-09-13",
+        "words": "Mercoledì, nebbia fitta sul valico. Abbiamo seguito i segnavia con il GPS acceso e siamo scesi senza problemi."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Sentiero molto frequentato nel primo tratto, quasi una processione fino al lago. Poi si dirada e restiamo noi e il vento."
+      },
+      {
+        "observedAt": "2024-08-03",
+        "words": "Pioggia nel pomeriggio, siamo arrivati a Binn fradici. La locanda ci ha fatto asciugare le giacche vicino alla stufa."
+      },
+      {
+        "observedAt": "2024-08-28",
+        "words": "Mercoledì di fine agosto, vallone fiorito e fresco. La salita al passo è ripida ma breve."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Prima dell'inverno hanno messo nuovi pali segnavia in cima al valico, quelli vecchi erano piegati dal vento. Si vede da lontano il punto di confine."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Nevaio ancora consistente sul versante svizzero, si scivola. Un tratto franoso a metà discesa è stato segnato con una corda: tenetevi lontano dal bordo."
+      },
+      {
+        "observedAt": "2025-08-24",
+        "words": "Domenica di sole pieno e bambini sul sentiero, un gruppo di scout davanti a noi. Dopo il valico invece nessuno, strano contrasto."
+      },
+      {
+        "observedAt": "2025-09-17",
+        "words": "Mercoledì con cielo variabile ma senza piogge. Confine passato senza controlli, solo un cartello e una linea."
+      },
+      {
+        "observedAt": "2025-10-04",
+        "words": "Stagione quasi finita, il rifugio sull'alpe aveva già l'aria di chiusura. Il vento sul valico gelava le mani."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Valico ventoso",
+          "quote": "al valico il vento tagliava"
+        },
+        {
+          "label": "Confine con la Svizzera",
+          "quote": "Dall'altra parte la Svizzera ci ha accolto con il sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Altopiano di Devero tranquillo",
+          "quote": "Devero deserto di prima mattina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Documento valido per il confine",
+          "quote": "Ricordatevi la carta d'identità"
+        },
+        {
+          "label": "Pietraia sotto il valico",
+          "quote": "Tratto finale sulla pietraia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Valico ventoso",
+          "quote": "silenzio assoluto al valico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai fino a luglio",
+          "quote": "Nevaio duro sotto il passo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi lungo il percorso",
+          "quote": "Una coppia di stambecchi ha attraversato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Binn e il suo villaggio",
+          "quote": "Il villaggio di Binn con le case in legno"
+        },
+        {
+          "label": "Rientro da organizzare",
+          "quote": "poi il rientro in autobus"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sul valico",
+          "quote": "nebbia fitta sul valico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollato vicino a Devero",
+          "quote": "quasi una processione fino al lago"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Binn e il suo villaggio",
+          "quote": "arrivati a Binn fradici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraia sotto il valico",
+          "quote": "La salita al passo è ripida ma breve"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuovi pali segnavia al valico",
+          "kind": "novita",
+          "quote": "hanno messo nuovi pali segnavia in cima al valico"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai fino a luglio",
+          "quote": "Nevaio ancora consistente sul versante svizzero"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Tratto franoso con corda di segnalazione",
+          "kind": "attenzione",
+          "quote": "Un tratto franoso a metà discesa è stato segnato con una corda"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Altopiano di Devero tranquillo",
+          "quote": "Dopo il valico invece nessuno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Confine con la Svizzera",
+          "quote": "Confine passato senza controlli"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Valico ventoso",
+          "quote": "Il vento sul valico gelava le mani"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

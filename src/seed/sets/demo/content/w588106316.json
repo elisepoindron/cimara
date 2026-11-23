@@ -1,0 +1,493 @@
+{
+ "osm": "w588106316",
+ "invented": [
+  "avvicinamento",
+  "localita_partenza",
+  "parcheggio_nota",
+  "vie",
+  "description",
+  "reports"
+ ],
+ "itinerary": {
+  "key": "frachiamo",
+  "activity": "falesia",
+  "place": "comune-001267",
+  "name": "Frachiamo",
+  "lat": 45.42184,
+  "lon": 7.55538,
+  "aspect": "E",
+  "altMax": 879,
+  "facts": {
+   "esposizione": "E",
+   "quota_base": 879,
+   "avvicinamento": 15,
+   "localita_partenza": "Sparone",
+   "parcheggio_nota": "Spiazzo in terra battuta lungo la strada comunale, da cinque a otto auto; nei weekend di primavera si lascia anche più in basso."
+  },
+  "sections": {
+   "note": "Frachiamo è una falesia di gneiss sopra Sparone, all'imbocco della Valle dell'Orco, a circa 880 metri, rivolta a est. La mattina il sole la illumina presto e verso le due è già in ombra: il momento giusto per scalare d'estate e in mezza stagione. D'inverno nelle giornate di vento rimane fredda.\n\nLe vie sono una quarantina, dal 4b all'8a, ma la maggior parte sta tra il 5c e il 7a. Il gneiss è chiaro, a grana media, con placche appoggiate nel settore basso e muri verticali o leggermente strapiombanti nei settori alti. La chiodatura è regolare e le soste hanno catena con anello.\n\nQui sono descritte trenta vie in quattro settori; i gradi più alti sono in un angolo più nascosto della parete.",
+   "avvicinamento": "Dal parcheggio si prende il sentiero che sale nel bosco di castagni e roverelle, con un tratto in diagonale su gradini di pietra: una quindicina di minuti, abbastanza ripido, fino al primo settore."
+  },
+  "parts": [
+   {
+    "group": "Placca Bassa",
+    "fields": {
+     "nome": "Alba Chiara",
+     "grado": "4b",
+     "lunghezza": 20
+    }
+   },
+   {
+    "group": "Placca Bassa",
+    "fields": {
+     "nome": "Il Primo Caffè",
+     "grado": "4c",
+     "lunghezza": 22
+    }
+   },
+   {
+    "group": "Placca Bassa",
+    "fields": {
+     "nome": "Cinque Passi",
+     "grado": "5a",
+     "lunghezza": 24
+    }
+   },
+   {
+    "group": "Placca Bassa",
+    "fields": {
+     "nome": "Tiepida",
+     "grado": "5a+",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Placca Bassa",
+    "fields": {
+     "nome": "La Nonna",
+     "grado": "5b",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Placca Bassa",
+    "fields": {
+     "nome": "Coccodrillo",
+     "grado": "5b+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Settore Centrale",
+    "fields": {
+     "nome": "Il Mattino ha l'Oro",
+     "grado": "5c",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Settore Centrale",
+    "fields": {
+     "nome": "Piume",
+     "grado": "5c+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Settore Centrale",
+    "fields": {
+     "nome": "La Danza",
+     "grado": "6a",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Settore Centrale",
+    "fields": {
+     "nome": "Cena Fredda",
+     "grado": "6a+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Settore Centrale",
+    "fields": {
+     "nome": "Il Pettirosso",
+     "grado": "6b",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Settore Centrale",
+    "fields": {
+     "nome": "Gocce di Gneiss",
+     "grado": "6b+",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Settore Centrale",
+    "fields": {
+     "nome": "Lunga Estate",
+     "grado": "6c",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "La Regola",
+     "grado": "6a",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Brutti Pensieri",
+     "grado": "6b",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Colpo di Vento",
+     "grado": "6c",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Solo Dita",
+     "grado": "6c+",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Nuvola Grigia",
+     "grado": "7a",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Il Cacciatore",
+     "grado": "7a+",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Senza Pietà",
+     "grado": "7b",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Il Lungo Addio",
+     "grado": "7b+",
+     "lunghezza": 32
+    }
+   },
+   {
+    "group": "Angolo Segreto",
+    "fields": {
+     "nome": "Fiato Corto",
+     "grado": "7c",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Angolo Segreto",
+    "fields": {
+     "nome": "Sentenza",
+     "grado": "7c+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Angolo Segreto",
+    "fields": {
+     "nome": "Inverno Lungo",
+     "grado": "8a",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Angolo Segreto",
+    "fields": {
+     "nome": "Codice Rosso",
+     "grado": "7b",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Angolo Segreto",
+    "fields": {
+     "nome": "La Prova",
+     "grado": "7a",
+     "lunghezza": 28
+    }
+   }
+  ],
+  "reports": [
+   {
+    "observedAt": "2022-03-13",
+    "words": "Prima domenica di sole dopo l'inverno: alle nove la placca bassa era in pieno sole e la roccia già tiepida. Il sentiero era umido, con foglie bagnate che scivolano, ma si arriva in fretta."
+   },
+   {
+    "observedAt": "2022-04-26",
+    "words": "Martedì di aprile, ferie. Nessuno alla base per due ore. Bel gneiss, grana media, tante prese dolci. Alle due l'ombra e un po' di fresco: giusto per ripetere una via difficile."
+   },
+   {
+    "observedAt": "2022-06-18",
+    "words": "Con 30 gradi in pianura qui la mattina si sta bene. Siamo partiti alle sei, in parete alle sette, poi ritirata a mezzogiorno. Lunga Estate è fatta per questa stagione, passi continui."
+   },
+   {
+    "observedAt": "2022-08-07",
+    "words": "Domenica di agosto, parcheggio quasi pieno alle otto. In parete però tutto fluido, ognuno sulle sue vie. Un 7a prima di colazione, esperienza strana."
+   },
+   {
+    "observedAt": "2022-09-24",
+    "words": "Il sentiero da qualche settimana ha corde fisse nel tratto di roccia più ripido: aiutano con lo zaino e col bagnato. Falesia bella come sempre, aria tersa."
+   },
+   {
+    "observedAt": "2022-10-30",
+    "words": "Ottobre dorato, castagne a terra e pochi in giro. Abbiamo fatto sette vie in tre, dal 5c al 6c+; il Muro Alto è il settore più divertente per gli strapiombi leggeri."
+   },
+   {
+    "observedAt": "2023-02-22",
+    "words": "Mercoledì di febbraio con sole pieno e vento da nord: in parete la schiena era al riparo ma i piedi gelati. Da fare solo con il termos pieno."
+   },
+   {
+    "observedAt": "2023-04-01",
+    "words": "Nel pomeriggio un po' di folla nelle vie facili, c'è chi viene con i bambini. Le placche basse sono un bel posto per insegnare: aderenza facile e soste vicine."
+   },
+   {
+    "observedAt": "2023-05-14",
+    "words": "Una vecchia via di 6b ha perso un appiglio centrale: ora il passo è diverso, più duro. Segnalo per chi la ripete: tenere gli occhi aperti, la roccia in quel punto suona vuota."
+   },
+   {
+    "observedAt": "2023-07-16",
+    "words": "Fatto presto il giro delle vie medie e poi giù a rinfrescarci nel torrente. Dopo le due l'ombra è totale, si sta bene in sosta anche d'estate."
+   },
+   {
+    "observedAt": "2023-09-23",
+    "words": "Un nuovo settore a destra dell'Angolo Segreto, con spit lucidi e una linea di 7a+ già molto ripetuta. Il passo è un incrocio dopo la seconda catena."
+   },
+   {
+    "observedAt": "2023-10-25",
+    "words": "Mercoledì sera, giornata libera dopo un turno. Falesia ancora illuminata fino alle quattro, tutto da solo con un amico. L'autunno qui è il periodo migliore."
+   },
+   {
+    "observedAt": "2024-03-09",
+    "words": "Muschio sulle placche basse dopo l'inverno umido, ma salendo la roccia si asciuga. Il primo tiro è scivoloso, poi tutto va bene. Il sole di mattina è decisivo."
+   },
+   {
+    "observedAt": "2024-05-19",
+    "words": "Oggi era pieno: venti persone sul Muro Alto. Si capisce che è un classico della zona; la fila è educata, ma bisogna pazientare per le vie da 6b."
+   },
+   {
+    "observedAt": "2024-06-12",
+    "words": "Mercoledì, sveglia alle cinque. In parete alle sette con il fresco, giù per mezzogiorno. Ho provato Nuvola Grigia dopo anni: ancora dura, ancora bella."
+   },
+   {
+    "observedAt": "2024-08-31",
+    "words": "Calabroni in sosta di una via del Settore Centrale, due bei nidi vicino alla catena. Evitate di sostare lì fino a settembre inoltrato."
+   },
+   {
+    "observedAt": "2024-10-06",
+    "words": "Il sentiero era in parte riparato dopo la pioggia, i gradini di pietra rifatti. Una giornata di sole e vento caldo, perfetta per le vie lunghe. Solo Dita è tosta."
+   },
+   {
+    "observedAt": "2025-04-12",
+    "words": "Tornati dopo un anno. Le vie sono quasi tutte pulite, gneiss ruvido, il sole della mattina scalda subito. La coda sulla prima placca ci ha fatto cambiare ordine: da destra a sinistra."
+   },
+   {
+    "observedAt": "2025-06-22",
+    "words": "Domenica mattina fresca, sole alle otto sul Muro Alto. Sul sentiero ho trovato una coppia di giovani caprioli. Sette vie, nessuna fretta, il gneiss è un piacere."
+   },
+   {
+    "observedAt": "2025-10-18",
+    "words": "Giornata nuvolosa ma asciutta, ideale per le vie dure. Ripetuto Il Lungo Addio al terzo tentativo; la sosta è comoda e panoramica sulla valle."
+   }
+  ]
+ },
+ "readings": [
+  {
+   "themes": [
+    {
+     "label": "Sole la mattina",
+     "quote": "alle nove la placca bassa era in pieno sole"
+    },
+    {
+     "label": "Avvicinamento ripido",
+     "quote": "foglie bagnate che scivolano"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Ombra nel pomeriggio",
+     "quote": "Alle due l'ombra e un po' di fresco"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole la mattina",
+     "quote": "in parete alle sette"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Parcheggio che si riempie",
+     "quote": "parcheggio quasi pieno alle otto"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Avvicinamento ripido",
+     "quote": "tratto di roccia più ripido"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Corde fisse sul tratto ripido del sentiero",
+     "kind": "novita",
+     "quote": "da qualche settimana ha corde fisse nel tratto di roccia più ripido"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Strapiombi leggeri",
+     "quote": "strapiombi leggeri"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Adatta ai principianti",
+     "quote": "Le placche basse sono un bel posto per insegnare"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Appiglio staccato su Il Pettirosso",
+     "kind": "attenzione",
+     "quote": "ha perso un appiglio centrale"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Ombra nel pomeriggio",
+     "quote": "Dopo le due l'ombra è totale"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Nuove vie nell'Angolo Segreto",
+     "kind": "novita",
+     "quote": "Un nuovo settore a destra dell'Angolo Segreto"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente in settimana",
+     "quote": "tutto da solo con un amico"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole la mattina",
+     "quote": "Il sole di mattina è decisivo"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Affollata nei fine settimana",
+     "quote": "venti persone sul Muro Alto"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole la mattina",
+     "quote": "In parete alle sette con il fresco"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole la mattina",
+     "quote": "il sole della mattina scalda subito"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+  "osm": "r2720314",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "sentiero-bosco-di-liex",
+    "activity": "escursionismo",
+    "place": "comune-007002",
+    "name": "Sentiero Bosco di Liex",
+    "lat": 45.78997,
+    "lon": 7.59892,
+    "aspect": "O",
+    "altMax": 1186,
+    "facts": {
+      "partenza": 1186,
+      "localita_partenza": "Antey-Saint-André"
+    },
+    "sections": {
+      "descrizione": "Sentiero nel bosco di Liex, con tracciato pianeggiante nel primo tratto e poi in salita verso il villaggio. Il bosco è di abeti e larici, con qualche radura da cui si vede il versante opposto.\n\nLa segnaletica è poca nei tratti in mezzo al bosco: meglio avere la traccia GPS sul telefono."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2023-03-19",
+        "words": "Ancora neve nei tratti in ombra, siamo tornati indietro al secondo bivio. Il sole nel bosco scalda bene."
+      },
+      {
+        "observedAt": "2025-02-24",
+        "words": "Giornata di sole d'inverno, ci siamo sistemati in una radura a mangiare. Nessuno sul sentiero."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Neve in ombra",
+          "quote": "Ancora neve nei tratti in ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Radura per il pranzo",
+          "quote": "ci siamo sistemati in una radura a mangiare"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

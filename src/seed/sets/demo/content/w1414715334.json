@@ -1,0 +1,297 @@
+{
+  "osm": "w1414715334",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-ferrata-la-voie-du-paradis-1-2",
+    "activity": "via_ferrata",
+    "place": "comune-007070",
+    "name": "Via Ferrata \"La Voie du Paradis\" 1/2",
+    "lat": 45.55828,
+    "lon": 7.21064,
+    "aspect": "SE",
+    "altMax": 1900,
+    "facts": {},
+    "sections": {
+      "descrizione": "La prima delle due parti della Voie du Paradis, in Valsavarenche, è la più dura: una ferrata di difficoltà impegnativa che parte da circa 1800 metri e si arrampica su una parete di roccia compatta sopra il fondovalle. Il cavo segue una linea quasi sempre verticale, con staffe, qualche tratto strapiombante e pochi punti di riposo.\n\nÈ una salita per chi ha già fatto ferrate di livello medio e ha braccia allenate. Il vuoto sotto i piedi si sente fin dal primo muro, ma l'attrezzatura è solida e il tracciato ben leggibile. In alto la parete si addolcisce e si arriva al punto dove la via prosegue con la seconda parte, più facile.\n\nSi fa da giugno a ottobre, con il caldo meglio al mattino perché la parete prende il sole. Kit completo, casco, guanti e una mezza corda di sicurezza se si accompagnano principianti. Chi vuole fermarsi qui può scendere per il sentiero di rientro.",
+      "avvicinamento": "Dal parcheggio sulla strada della valle si segue il sentiero segnalato che attraversa il bosco e porta all'attacco in pochi minuti, a circa 1800 metri."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-06-18",
+        "words": "Prima uscita stagionale, la parete era già asciutta. Il muro iniziale è subito duro e ci si accorge che servono le braccia: dopo quindici metri avevo gli avambracci gonfi."
+      },
+      {
+        "observedAt": "2022-07-06",
+        "words": "Un mercoledì di ferie e una parete tutta per noi. Il tratto strapiombante a metà è il passaggio chiave: ho dovuto fermarmi due volte a riposare sulle staffe."
+      },
+      {
+        "observedAt": "2022-07-23",
+        "words": "Partiti con il fresco, alle sette all'attacco. La roccia è compatta e il cavo ben teso, si sente che la via è tenuta bene. Fatica, ma divertente."
+      },
+      {
+        "observedAt": "2022-08-13",
+        "words": "Caldo infernale a mezzogiorno, la parete scotta. Ci siamo pentiti di non essere partiti prima: dalle undici la roccia rimanda il sole come un forno."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "Ho portato un amico alla prima ferrata seria: se è il tuo caso, meglio fare prima qualcosa di più facile. In due ore abbiamo fatto la salita ma lui ha dovuto stringere i denti."
+      },
+      {
+        "observedAt": "2022-09-27",
+        "words": "Martedì, silenzio totale in valle. I larici cominciavano a ingiallire e giù il torrente sembrava un filo di latte. Un tratto in cui ci si sente piccoli."
+      },
+      {
+        "observedAt": "2023-06-10",
+        "words": "Prima del ponte di giugno, parete bagnata nei primi metri per lo sciogliersi della neve in alto. Cavo scivoloso, guanti buoni e calma."
+      },
+      {
+        "observedAt": "2023-07-29",
+        "words": "Una ferrata sul serio. Passaggio strapiombante bello e atletico, con un vuoto che mette un po' di soggezione sotto le scarpe."
+      },
+      {
+        "observedAt": "2023-08-18",
+        "words": "Un venerdì di fine estate, quasi nessuno. Il cavo nella parte alta è stato sostituito di recente, ora è nuovo e senza fili che escono. Che bella differenza."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Giornata azzurra e fresca. Dopo il tratto duro la via si ammorbidisce e si può respirare, con un balcone sulla valle dove ci siamo fermati a mangiare un panino."
+      },
+      {
+        "observedAt": "2024-06-22",
+        "words": "Al mattino la parete era in ombra e fredda, per fortuna. Si sale con le mani calde solo dopo il primo strapiombo. Mi sono dimenticato i guanti, errore da non rifare."
+      },
+      {
+        "observedAt": "2024-07-17",
+        "words": "Mercoledì sera dopo il lavoro, con la luce lunga. Siamo saliti piano, senza fretta: due ore e mezza fino alla fine della prima parte. Il parcheggio sulla strada è piccolo e si riempie presto."
+      },
+      {
+        "observedAt": "2024-08-10",
+        "words": "Sabato pieno di gente. Ci sono volute due ore solo per passare il primo muro perché ogni coppia si ferma a riposare. Se potete, venite in settimana."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Stambecchi sulle rocce sopra la parete, tre o quattro, per niente spaventati. Per me la ferrata è tosta, e le braccia ne hanno risentito ancora il giorno dopo."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Tra il rumore del torrente e il silenzio della parete, una giornata perfetta. Sono salito da solo e ho scelto di fermarmi alla fine della prima parte. Il vuoto è bello ma non regala nulla."
+      },
+      {
+        "observedAt": "2025-08-24",
+        "words": "Domenica. In due cordate davanti a noi e un gruppo dietro, siamo saliti a ritmo di coda. Da evitare nei giorni festivi, meglio il primo mattino."
+      },
+      {
+        "observedAt": "2025-09-17",
+        "words": "Ferie a metà settembre e roccia perfetta. Dopo l'inverno la sosta a metà ha un nuovo cartello, con il nome della via e una freccia per il sentiero di uscita."
+      },
+      {
+        "observedAt": "2026-06-27",
+        "words": "Primo giro dell'anno. Il tratto basso è ancora bagnato dallo scioglimento e un paio di staffe sono scivolose; salendo piano si sta bene."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Ferrata impegnativa",
+          "quote": "Il muro iniziale è subito duro"
+        },
+        {
+          "label": "Braccia stanche",
+          "quote": "avevo gli avambracci gonfi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto strapiombante",
+          "quote": "Il tratto strapiombante a metà"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia solida",
+          "quote": "La roccia è compatta"
+        },
+        {
+          "label": "Partenza al mattino",
+          "quote": "alle sette all'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole sulla parete",
+          "quote": "la roccia rimanda il sole come un forno"
+        },
+        {
+          "label": "Partenza al mattino",
+          "quote": "non essere partiti prima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ferrata impegnativa",
+          "quote": "prima ferrata seria"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Torrente nel fondovalle",
+          "quote": "il torrente sembrava un filo di latte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia bagnata a inizio stagione",
+          "quote": "parete bagnata nei primi metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto strapiombante",
+          "quote": "Passaggio strapiombante bello e atletico"
+        },
+        {
+          "label": "Ferrata impegnativa",
+          "quote": "Una ferrata sul serio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cavo rinnovato",
+          "quote": "Il cavo nella parte alta è stato sostituito di recente"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cavo nuovo nella parte alta",
+          "kind": "novita",
+          "quote": "Il cavo nella parte alta è stato sostituito di recente"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla valle",
+          "quote": "un balcone sulla valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole sulla parete",
+          "quote": "la parete era in ombra e fredda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "Il parcheggio sulla strada è piccolo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nei fine settimana",
+          "quote": "Sabato pieno di gente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi",
+          "quote": "Stambecchi sulle rocce sopra la parete"
+        },
+        {
+          "label": "Braccia stanche",
+          "quote": "le braccia ne hanno risentito"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Torrente nel fondovalle",
+          "quote": "il rumore del torrente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nei fine settimana",
+          "quote": "siamo saliti a ritmo di coda"
+        },
+        {
+          "label": "Partenza al mattino",
+          "quote": "meglio il primo mattino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia solida",
+          "quote": "roccia perfetta"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cartello nuovo alla sosta di metà",
+          "kind": "novita",
+          "quote": "la sosta a metà ha un nuovo cartello"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia bagnata a inizio stagione",
+          "quote": "è ancora bagnato dallo scioglimento"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "osm": "r12142664",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d42",
+    "activity": "escursionismo",
+    "place": "comune-001202",
+    "name": "Via Alpina Blue D42",
+    "lat": 44.82835,
+    "lon": 7.02004,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 266,
+      "localita_partenza": "Rifugio Lago Verde",
+      "come_arrivare": "Il punto di partenza è il Rifugio Lago Verde, in alta Val Germanasca, che si raggiunge solo a piedi da Ghigo di Prali. L'arrivo a Le Roux richiede un mezzo di rientro o un trasferimento privato."
+    },
+    "sections": {
+      "descrizione": "Tappa di discesa e traversata della Via Alpina Blu, dal Rifugio Lago Verde verso Le Roux, circa 9 km con 266 m di salita e oltre mille di discesa. Si comincia con un breve risalita fino a un colle, poi il sentiero scende per vallette erbose e pietraie, entra nel bosco e perde quota senza interruzioni.\n\nIl primo tratto è esposto al vento e ai temporali pomeridiani; nella seconda metà il percorso si addolcisce, tra pascoli e radure. La discesa si fa sentire sulle ginocchia più che sul fiato.\n\nIl periodo giusto è da luglio a fine settembre. Chi sale da Ghigo il giorno prima può dormire al rifugio e fare questa tappa riposato; chi viene dal basso la fa al contrario, con più fatica."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Rimontato il colle in tre quarti d'ora, poi giù. Sulle vallette erbose il sentiero sembra fatto apposta per camminare senza pensare."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Dal colle si vedeva ancora il lago dietro di noi, piccolo e verde. Ci siamo fermati a lungo per l'ultima foto."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "La discesa ti consuma le ginocchia ben più della salita. Bastoncini tirati fuori già al primo pendio ripido."
+      },
+      {
+        "observedAt": "2023-07-12",
+        "words": "Lunedì libero e nessuno incontrato fino a metà valle. Abbiamo mangiato su un sasso piatto con le marmotte che guardavano."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Colle ventoso, abbiamo indossato la giacca già all'arrivo in cima. Dall'altra parte invece subito caldo."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Pascoli con le mucche che occupavano il sentiero: ci hanno fatto cambiare strada due volte, nessun problema."
+      },
+      {
+        "observedAt": "2023-09-17",
+        "words": "Dopo il bosco di faggi il sentiero sbuca sul cemento di una stradina e da lì Le Roux è questione di minuti."
+      },
+      {
+        "observedAt": "2024-07-16",
+        "words": "Giornata splendida, ma il caldo nella parte bassa è pesante: a mezzogiorno nel bosco non c'era un filo d'aria."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Un segnavia caduto al colle, ma la traccia è evidente. Non sbagliate a sinistra nella pietraia, qui il sentiero gira."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Mattinata di nuvole sopra il colle, poi sole. Il tratto iniziale su sfasciumi richiede attenzione ai piedi."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Ci hanno rimesso la corda fissa nel passaggio roccioso poco sotto il colle: prima c'era solo una vecchia catena arrugginita."
+      },
+      {
+        "observedAt": "2025-08-04",
+        "words": "Mercoledì di fine luglio, troppo caldo e qualche tafano nel bosco. Ma la discesa è comoda, si fa in tre ore e mezza."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Tre cani da pastore ci sono venuti incontro nel pascolo. Calmi, ma meglio non correre e non fare scatti."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Due ore buone di discesa sempre in ombra, poi l'uscita sul prato di Le Roux. Arrivati con la voglia di un gelato."
+      },
+      {
+        "observedAt": "2026-07-12",
+        "words": "Nuvole basse e qualche goccia, ma il sentiero resta ben marcato anche senza visibilità. Il colle in nebbia faceva un po' impressione."
+      },
+      {
+        "observedAt": "2026-08-03",
+        "words": "Dopo la tempesta di giugno una frana ha tagliato il sentiero a metà discesa: segnalato un by-pass di pochi metri con nastri bianchi e rossi."
+      },
+      {
+        "observedAt": "2026-08-29",
+        "words": "Colazione al rifugio e partenza alle otto, in mezzo a tutto il silenzio della valle. Si cammina bene, quasi una passeggiata."
+      },
+      {
+        "observedAt": "2026-09-19",
+        "words": "Larici con i primi colori d'autunno e ultime genziane. Una tappa tranquilla, perfetta per chi ha le gambe stanche."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "Rimontato il colle in tre quarti d'ora, poi giù"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista all'indietro sul lago",
+          "quote": "si vedeva ancora il lago dietro di noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "La discesa ti consuma le ginocchia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "nessuno incontrato fino a metà valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento al colle",
+          "quote": "Colle ventoso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mucche in alpeggio",
+          "quote": "Pascoli con le mucche che occupavano il sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nella parte bassa",
+          "quote": "il caldo nella parte bassa è pesante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie nel primo tratto",
+          "quote": "Il tratto iniziale su sfasciumi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Corda fissa nuova sotto il colle",
+          "kind": "novita",
+          "quote": "Ci hanno rimesso la corda fissa nel passaggio roccioso poco sotto il colle"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nella parte bassa",
+          "quote": "troppo caldo e qualche tafano nel bosco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mucche in alpeggio",
+          "quote": "Tre cani da pastore ci sono venuti incontro nel pascolo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "Due ore buone di discesa sempre in ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana sul sentiero a metà discesa",
+          "kind": "attenzione",
+          "quote": "una frana ha tagliato il sentiero a metà discesa"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "tutto il silenzio della valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie nel primo tratto",
+          "quote": "Larici con i primi colori d'autunno"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

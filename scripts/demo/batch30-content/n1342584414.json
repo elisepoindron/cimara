@@ -1,0 +1,110 @@
+{
+  "osm": "n1342584414",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "esposizione"
+  ],
+  "itinerary": {
+    "key": "parete-di-dondena",
+    "activity": "falesia",
+    "place": "comune-007018",
+    "name": "Parete di Dondena",
+    "lat": 45.61665,
+    "lon": 7.55354,
+    "aspect": "SE",
+    "altMax": 2102,
+    "facts": {
+      "esposizione": "SE",
+      "quota_base": 2102,
+      "avvicinamento": 40,
+      "localita_partenza": "Champorcher"
+    },
+    "sections": {
+      "note": "Parete alta sopra il vallone, roccia granitica con diedri e placche lisce. Guarda a sud-est: il sole arriva dalla mattina presto, e nel primo pomeriggio d'estate la parete è troppo calda per arrampicare.\n\nChiodatura essenziale, a volte da integrare con friend. Le soste sono di un solo spit con maglia rapida.\n\nPortare una corda da 50 metri, qualche friend medio e acqua.",
+      "avvicinamento": "Dal parcheggio si segue il sentiero di alpeggio, circa quaranta minuti in salita; l'ultimo tratto è un ghiaione."
+    },
+    "parts": [
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Prima placca",
+          "grado": "4c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Diedro di Dondena",
+          "grado": "5b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Fessura lunga",
+          "grado": "5a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Spigolo",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Liscia",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Pilastro",
+          "grado": "5a+",
+          "lunghezza": 20
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-08-20",
+        "words": "Partiti presto perché il sole arriva alla parete verso le dieci. Il diedro è bello e pulito, ci abbiamo messo tre ore."
+      },
+      {
+        "observedAt": "2024-07-29",
+        "words": "Caldo e niente vento, la parete verso le undici era una padella. Consiglio di venire di mattina presto."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Partenza presto",
+          "quote": "Partiti presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nel pomeriggio",
+          "quote": "la parete verso le undici era una padella"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

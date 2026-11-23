@@ -1,0 +1,464 @@
+{
+  "osm": "n12194508770",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "localita_partenza",
+    "parcheggio_nota"
+  ],
+  "itinerary": {
+    "key": "pilier-rhodo",
+    "activity": "falesia",
+    "place": "comune-007043",
+    "name": "Pilier Rhodo",
+    "lat": 45.72187,
+    "lon": 7.66156,
+    "aspect": "N",
+    "altMax": 705,
+    "facts": {
+      "esposizione": "N",
+      "quota_base": 705,
+      "avvicinamento": 20,
+      "localita_partenza": "Montjovet",
+      "parcheggio_nota": "Poco spazio allo slargo prima del sentiero: due o tre auto, poi si lascia più in basso e si cammina qualche minuto in più."
+    },
+    "sections": {
+      "note": "Il Pilier Rhodo è un pilastro di serpentinite scura e levigata, a 700 metri sopra Montjovet, esposto a nord: sta all'ombra quasi tutto l'anno ed è un posto di mezza stagione e di giornate calde, perché d'inverno il freddo e l'umidità lo rendono poco ospitale. La serpentinite è liscia, quasi tonda, con gradi che sembrano morbidi finché non si prova a mettere i piedi.\n\nCi sono vie sportive dal 5c al 7b di lunghezza media e alcune linee più lunghe, a più tiri, che lasciano il pilastro in diagonale; qualche tiro richiede di integrare con friend e nut, dunque portare un piccolo set insieme ai rinvii. La chiodatura è più rada che in una palestra comune: i passi duri sono protetti, ma tra uno spit e l'altro serve testa.\n\nLa pietra, dopo la pioggia, è scivolosa come il sapone e ci vogliono due giorni asciutti per fidarsi. Le soste sono a catena su due fix, ma in alcune linee più lunghe sono semplici e si calano due corde.",
+      "avvicinamento": "Dallo slargo un sentiero sale nel bosco di roverelle e poi si inerpica su rocce lisce, con qualche gradino un po' esposto, fino alla base del pilastro: venti minuti di fatica, scarpe con la suola buona."
+    },
+    "parts": [
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Prima Lama",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Il Muschio",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Serpente Fermo",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Pelle Liscia",
+          "grado": "6a+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Rugiada",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Via del Verde",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centro del Pilastro",
+        "fields": {
+          "nome": "Soffio Freddo",
+          "grado": "6a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Centro del Pilastro",
+        "fields": {
+          "nome": "La Spazzola",
+          "grado": "6b",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Centro del Pilastro",
+        "fields": {
+          "nome": "Pietra d'Acqua",
+          "grado": "6b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Centro del Pilastro",
+        "fields": {
+          "nome": "Il Pilastro",
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Centro del Pilastro",
+        "fields": {
+          "nome": "Cuore di Serpentino",
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Centro del Pilastro",
+        "fields": {
+          "nome": "Rhodo Classica",
+          "grado": "6c+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Centro del Pilastro",
+        "fields": {
+          "nome": "Sul Filo",
+          "grado": "7a",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Scivolo d'Autunno",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Corda Vecchia",
+          "grado": "6c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Nodo Scorsoio",
+          "grado": "7a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Gelo di Aprile",
+          "grado": "7a+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Il Pilier",
+          "grado": "7b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Diagonale Lunga",
+          "grado": "6a",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Via dei Camosci",
+          "grado": "6b",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Ombra Larga",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Nero di Seppia",
+          "grado": "6c+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Granello",
+          "grado": "6a+",
+          "lunghezza": 22
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-05-14",
+        "words": "Prima volta sul pilastro. La serpentinite è liscia come vetro, non sempre si capisce dove mettere i piedi. Abbiamo fatto tre vie del Basso e ci siamo fermati con un po' di rispetto per le tacche."
+      },
+      {
+        "observedAt": "2022-06-03",
+        "words": "Sole a picco in valle, qui all'ombra una brezza fresca. Ombra continua dal mattino, un posto perfetto per l'inizio dell'estate. Camminando ho trovato tre vipere sul sentiero, ma si sono allontanate."
+      },
+      {
+        "observedAt": "2022-08-07",
+        "words": "Caldo, ma quassù non esce mai il sole. Molto bella Pietra d'Acqua, bisogna fidarsi dei piedi e della nuova scarpa."
+      },
+      {
+        "observedAt": "2022-10-15",
+        "words": "Autunno e foglie, tutto asciutto dopo giorni di tramontana: giornata ottimale. Gli spit sono lontani, bisogna fare attenzione a ogni passo sul 6b."
+      },
+      {
+        "observedAt": "2023-04-04",
+        "words": "Prima del lavoro, con un collega: sveglia presto e via, solo il pilastro e noi. Roccia fredda, dita rigide, ma la serpentinite dà buon grip se asciutta. Tre vie."
+      },
+      {
+        "observedAt": "2023-06-03",
+        "words": "Dopo un temporale la roccia era ancora scivolosa: abbiamo aspettato un giorno in più prima di salire, ma anche così alcune lastre erano umide. Bella giornata, tanti rospi nel bosco."
+      },
+      {
+        "observedAt": "2023-07-16",
+        "words": "Siamo andati a provare la Diagonale Lunga a più tiri con due corde. La diagonale è lunga e fisicamente impegnativa, la discesa è in doppia sulla via. Panorama sulla valle a metà salita."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Un sabato soleggiato e fresco, tutti i posti sul Centro erano occupati. La chiodatura è rada ma onesta, io ho integrato con un friend piccolo dove serviva. Siamo scesi in serata."
+      },
+      {
+        "observedAt": "2023-11-06",
+        "words": "Giornata d'autunno in cui il muschio era diffuso e il pilastro è scivoloso con l'umidità. Pochissime persone, giusto un compagno e io."
+      },
+      {
+        "observedAt": "2024-03-09",
+        "words": "Nonostante il sole in valle, qui era freddo e l'ombra sembrava invernale. Ho provato Il Pilier da secondo, un 7b che mi ha lasciato i polpastrelli rossi. Il sentiero ha un tratto franato poco prima della base, bisogna passare in appoggio sulla roccia."
+      },
+      {
+        "observedAt": "2024-05-07",
+        "words": "Dopo la pioggia di inizio maggio, sono salito il venerdì quando tutto era ancora umido a metà parete. Ho fatto solo il Basso, dove si asciugava prima."
+      },
+      {
+        "observedAt": "2024-06-09",
+        "words": "Cordata di quattro: due principianti, due esperti. Il Basso è il posto per cominciare, ma il sentiero è ripido e faticoso con lo zaino pieno di corde e friend."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Agosto, 33 gradi in valle e 18 in parete: una benedizione. Su Rhodo Classica ho passato tre ore ad allenarmi per un 6c+, una linea che non perdona gli errori sul piede destro."
+      },
+      {
+        "observedAt": "2024-10-05",
+        "words": "Alle sette di sera era già buio, siamo scesi con la frontale. Il tratto franato del sentiero è stato messo in sicurezza con una corda fissa, ora si passa meglio."
+      },
+      {
+        "observedAt": "2025-04-01",
+        "words": "Ho scoperto che alcune soste sono state ripulite e cambiate: ora le soste del Centro hanno catene grosse e anelli di calata. Bravi i ragazzi che lo hanno fatto."
+      },
+      {
+        "observedAt": "2025-05-10",
+        "words": "Dopo tanti anni sono tornato, era come lo ricordavo: umida in bassa, liscia e scura. La salita è dura ma il panorama sulla valle compensa."
+      },
+      {
+        "observedAt": "2025-07-06",
+        "words": "Caldo africano: noi in cima al pilastro nell'ombra e una brezza leggera. Ho abbandonato il progetto di Gelo di Aprile dopo il terzo tentativo, meglio a ottobre."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Una cordata ci ha detto che la parte alta di Scivolo d'Autunno è sporca di terra e aghi di pino. Scritto il consiglio: portare una spazzola e un cappello per i detriti. Bellissima giornata."
+      },
+      {
+        "observedAt": "2025-10-03",
+        "words": "Con la luce di fine ottobre ho fatto la Via dei Camosci a più tiri insieme a un amico. La linea in diagonale è lunga e bella, un po' sporca ma niente di difficile. Tre doppie per scendere."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Serpentinite liscia e scivolosa",
+          "quote": "serpentinite è liscia come vetro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra tutto il giorno",
+          "quote": "Ombra continua dal mattino"
+        },
+        {
+          "label": "Vipere sul sentiero",
+          "quote": "Camminando ho trovato tre vipere sul sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra tutto il giorno",
+          "quote": "non esce mai il sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura rada",
+          "quote": "Gli spit sono lontani"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Serpentinite liscia e scivolosa",
+          "quote": "la serpentinite dà buon grip se asciutta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Scivolosa dopo la pioggia",
+          "quote": "abbiamo aspettato un giorno in più"
+        },
+        {
+          "label": "Rospi nel bosco",
+          "quote": "tanti rospi nel bosco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Via lunga in diagonale",
+          "quote": "La diagonale è lunga e fisicamente impegnativa"
+        },
+        {
+          "label": "Panorama sulla valle",
+          "quote": "Panorama sulla valle a metà salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura rada",
+          "quote": "La chiodatura è rada"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Scivolosa dopo la pioggia",
+          "quote": "il pilastro è scivoloso con l'umidità"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto di sentiero franato",
+          "kind": "attenzione",
+          "quote": "Il sentiero ha un tratto franato poco prima della base, bisogna passare in appoggio sulla roccia"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero ripido",
+          "quote": "il sentiero è ripido e faticoso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto di sentiero franato",
+          "kind": "attenzione",
+          "quote": "Il tratto franato del sentiero è stato messo in sicurezza con una corda fissa"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuove catene sulle soste",
+          "kind": "novita",
+          "quote": "ora le soste del Centro hanno catene grosse e anelli di calata"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero ripido",
+          "quote": "La salita è dura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Via lunga in diagonale",
+          "quote": "La linea in diagonale è lunga e bella"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

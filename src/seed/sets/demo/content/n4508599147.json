@@ -1,0 +1,325 @@
+{
+ "osm": "n4508599147",
+ "invented": [
+  "avvicinamento",
+  "localita_partenza",
+  "vie",
+  "description",
+  "reports"
+ ],
+ "itinerary": {
+  "key": "via-forza-vecchio-cuore-granata",
+  "activity": "falesia",
+  "place": "comune-007043",
+  "name": "Via Forza Vecchio Cuore Granata",
+  "lat": 45.72656,
+  "lon": 7.66226,
+  "aspect": "NE",
+  "altMax": 523,
+  "facts": {
+   "esposizione": "NE",
+   "quota_base": 523,
+   "avvicinamento": 10,
+   "localita_partenza": "Montjovet"
+  },
+  "sections": {
+   "note": "Via Forza Vecchio Cuore Granata è una via a più tiri di circa 240 metri sulle rocce sopra Montjovet, in bassa Valle d'Aosta, a 520 metri di quota, con parete rivolta a nord-est. Il nome è un omaggio di chi l'ha aperta alla sua squadra del cuore. La via sale una serie di placche e risalti con difficoltà fino al 6a.\n\nCon l'esposizione a nord-est, la mattina c'è un po' di sole e poi la parete resta all'ombra: perciò è una via da mezze stagioni e da giornate calde, mentre d'inverno è fredda e umida. Le protezioni sono a spit, con soste a catena; per i tratti più esposti si può integrare con qualche friend.\n\nPer scendere si fanno le doppie lungo la via oppure si segue il sentiero che aggira la parete sulla sinistra. Servono due corde da cinquanta o una da sessanta con attenzione ai nodi.",
+   "avvicinamento": "Dalla strada si prende un sentiero che sale nel bosco di latifoglie e poi traversa a destra fino all'attacco, una decina di minuti di salita ripida con foglie secche sul fondo; il punto di partenza è segnato con una macchia rossa."
+  },
+  "parts": [
+   {
+    "group": "Via",
+    "fields": {
+     "nome": "Primo tiro",
+     "grado": "4c",
+     "lunghezza": 40
+    }
+   },
+   {
+    "group": "Via",
+    "fields": {
+     "nome": "Secondo tiro",
+     "grado": "5a",
+     "lunghezza": 40
+    }
+   },
+   {
+    "group": "Via",
+    "fields": {
+     "nome": "Terzo tiro",
+     "grado": "5b",
+     "lunghezza": 40
+    }
+   },
+   {
+    "group": "Via",
+    "fields": {
+     "nome": "Quarto tiro",
+     "grado": "5c",
+     "lunghezza": 40
+    }
+   },
+   {
+    "group": "Via",
+    "fields": {
+     "nome": "Quinto tiro",
+     "grado": "5c",
+     "lunghezza": 40
+    }
+   },
+   {
+    "group": "Via",
+    "fields": {
+     "nome": "Sesto tiro",
+     "grado": "6a",
+     "lunghezza": 40
+    }
+   }
+  ],
+  "reports": [
+   {
+    "observedAt": "2022-03-19",
+    "words": "Prima salita della stagione su questa via: roccia asciutta, un po' fredda al mattino. L'avvicinamento è corto ma ripido. Abbiamo fatto tutti e sei i tiri in tre ore, calata compresa."
+   },
+   {
+    "observedAt": "2022-04-12",
+    "words": "Martedì mattina, giorno libero. Sole fino alle undici sui primi tiri, poi tutta ombra. Il sesto tiro è il più bello, un muro con prese lavorate e passo di dita."
+   },
+   {
+    "observedAt": "2022-06-05",
+    "words": "Giornata calda in pianura, qui all'ombra si sta benissimo. La via è una bella lunga arrampicata, facile da leggere, con soste comodissime. Un po' di erba tra una placca e l'altra."
+   },
+   {
+    "observedAt": "2022-07-28",
+    "words": "Giovedì sera dopo il lavoro, partiti alle cinque e finito con la luce del tramonto. Il caldo non si sente affatto in parete: l'ombra regala una frescura insperata."
+   },
+   {
+    "observedAt": "2022-09-17",
+    "words": "Settembre mite, la via è pulita. Doppie veloci, nessun intoppo con le corde. Siamo stati bene in sosta a goderci la vista sulla valle e sulla Dora."
+   },
+   {
+    "observedAt": "2022-11-05",
+    "words": "Fine stagione, sole che arriva tardi e se ne va presto. Roccia umida sul terzo tiro, serve attenzione sull'appoggio. Dita fredde, ma belle sensazioni."
+   },
+   {
+    "observedAt": "2023-03-04",
+    "words": "Dopo giorni di pioggia, parete ancora bagnata sui primi due tiri: abbiamo aspettato mezzogiorno per partire. Bella via comunque, tracciata con intelligenza."
+   },
+   {
+    "observedAt": "2023-04-23",
+    "words": "Con un amico alle prime armi: abbiamo fatto i primi tre tiri e siamo scesi in doppia. Sicurissima, spittata con cura, soste a catena con maglia rapida."
+   },
+   {
+    "observedAt": "2023-05-17",
+    "words": "Mercoledì, giorno di ferie. Nessun altro sulla via, silenzio e sole sul ramo di sinistra. Il quinto tiro ha un passo di equilibrio che mi ha fatto sudare."
+   },
+   {
+    "observedAt": "2023-06-25",
+    "words": "Una mattina fresca e una via intera, sei tiri senza fretta. Le soste sono comode, i gradi onesti. Abbiamo concluso con una birra a Montjovet."
+   },
+   {
+    "observedAt": "2023-09-09",
+    "words": "Nel quarto tiro c'è un blocco che si muove se lo si spinge, a destra della linea. Non tocca la via, ma meglio saperlo. Il resto va benissimo."
+   },
+   {
+    "observedAt": "2023-10-21",
+    "words": "Giornata limpida, aria fresca e sole sul bosco. Alla base della via hanno messo una targa con il nome, bella idea. Abbiamo fatto anche qualche foto di gruppo."
+   },
+   {
+    "observedAt": "2024-03-24",
+    "words": "Prima via del 2024: salita tranquilla e luminosa, con un po' di vento al sesto tiro. Si scende con due doppie da 50: attenzione ai nodi, la corda è finita al limite."
+   },
+   {
+    "observedAt": "2024-05-09",
+    "words": "Giovedì mattina, sveglia presto. Via deserta, con il rumore dell'autostrada lontano. Per me la miglior via a più tiri della bassa valle, alla portata di molti."
+   },
+   {
+    "observedAt": "2024-08-17",
+    "words": "Un caldo fortissimo nel resto della valle ma qui regge. Un nido di vespe sotto la sosta del secondo tiro, abbiamo tirato dritto. Ricordatevi un ottimo casco."
+   },
+   {
+    "observedAt": "2024-10-13",
+    "words": "Autunno luminoso, foglie rosse nel bosco sotto. Un tratto del sentiero era franato e abbiamo fatto una piccola deviazione a monte. Salita veloce, con calata altrettanto."
+   },
+   {
+    "observedAt": "2025-04-27",
+    "words": "Domenica di sole e bambini sui prati. Abbiamo fatto la via con calma, circa quattro ore. Roccia pulita e spit tutti nuovi, anelli e catene in acciaio."
+   },
+   {
+    "observedAt": "2025-10-08",
+    "words": "Mercoledì d'autunno, ferie. Un po' di nebbia in fondovalle poi sole. Tutta la via per noi, con la Dora che brilla sotto."
+   }
+  ]
+ },
+ "readings": [
+  {
+   "themes": [
+    {
+     "label": "Avvicinamento breve ma ripido",
+     "quote": "L'avvicinamento è corto ma ripido"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Ombra dopo mezzogiorno",
+     "quote": "poi tutta ombra"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Via adatta alle giornate calde",
+     "quote": "qui all'ombra si sta benissimo"
+    },
+    {
+     "label": "Soste comode",
+     "quote": "soste comodissime"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Via adatta alle giornate calde",
+     "quote": "Il caldo non si sente affatto in parete"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Vista sulla valle",
+     "quote": "la vista sulla valle e sulla Dora"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Umidità nei tiri centrali",
+     "quote": "Roccia umida sul terzo tiro"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Umidità nei tiri centrali",
+     "quote": "parete ancora bagnata sui primi due tiri"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Protezioni sicure",
+     "quote": "spittata con cura"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "Nessun altro sulla via"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Soste comode",
+     "quote": "Le soste sono comode"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Blocco mobile accanto al quarto tiro",
+     "kind": "attenzione",
+     "quote": "Nel quarto tiro c'è un blocco che si muove se lo si spinge"
+    }
+   ]
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Targa con il nome all'attacco",
+     "kind": "novita",
+     "quote": "Alla base della via hanno messo una targa con il nome"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Doppie da fare con cura",
+     "quote": "attenzione ai nodi"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "Via deserta"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Avvicinamento breve ma ripido",
+     "quote": "Un tratto del sentiero era franato"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Protezioni sicure",
+     "quote": "spit tutti nuovi"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Spit e catene rifatti sulla via",
+     "kind": "novita",
+     "quote": "spit tutti nuovi, anelli e catene in acciaio"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Vista sulla valle",
+     "quote": "la Dora che brilla sotto"
+    }
+   ],
+   "flags": []
+  }
+ ]
+}

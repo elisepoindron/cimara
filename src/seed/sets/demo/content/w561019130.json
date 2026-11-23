@@ -1,0 +1,259 @@
+{
+  "osm": "w561019130",
+  "invented": [
+    "difficolta",
+    "vetta",
+    "esposizione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "balma-bocchetta",
+    "activity": "sci_alpinismo",
+    "place": "comune-002002",
+    "name": "Balma- Bocchetta",
+    "lat": 45.88261,
+    "lon": 7.87001,
+    "aspect": "E",
+    "facts": {
+      "difficolta": "OS",
+      "vetta": 2911,
+      "esposizione": "E",
+      "localita_partenza": "Alagna Valsesia",
+      "come_arrivare": "Da Alagna Valsesia si sale con gli impianti e dalla quota alta si risale con le pelli verso la bocchetta."
+    },
+    "sections": {
+      "descrizione": "La versione impegnativa della discesa di Balma: dalla quota degli impianti si risale con le pelli fino alla bocchetta e si scende per il canale stretto sul lato opposto, ripido e a tratti esposto. È un percorso per chi ha già sciato fuori pista in condizioni difficili e sa leggere il pendio.\n\nIl canale ha pendenze sostenute nella parte alta, poi si allarga in una conca da cui si prosegue sui pendii aperti della valle. La neve cambia molto a seconda del vento: lastroni in alto dopo una nevicata, crosta dove ha battuto il sole, ottimo firn in primavera.\n\nL'uscita è più lunga di quanto sembri, e nel tratto finale conviene conoscere il percorso per non finire dove non si può tornare indietro.",
+      "note": "Percorso OS: ripido, esposto, con rischio di valanghe elevato dopo nevicate e vento. Corda e rampanti consigliati, ARTVA, pala e sonda obbligatori; mai da soli. Controllare il bollettino e valutare il pendio a ogni gita."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-03-19",
+        "words": "Salita alla bocchetta in un'ora abbondante. Il canale parte con una pendenza che ti obbliga a guardare dove metti gli sci, poi si apre. Bella gita, ma non per tutti."
+      },
+      {
+        "observedAt": "2022-04-17",
+        "words": "Giornata fredda, ma il canale era in condizioni da firn. La neve cambia da un tratto all'altro: lastroni, crosta, poi polvere, bisogna leggerla ogni volta."
+      },
+      {
+        "observedAt": "2022-12-23",
+        "words": "Poco fa avevano nevicato forte. Siamo arrivati alla bocchetta e abbiamo deciso di non scendere dal canale per via di lastroni ben visibili sul bordo. Siamo tornati per la stessa via, scelta saggia."
+      },
+      {
+        "observedAt": "2023-01-25",
+        "words": "Mercoledì, tempo freddo e splendido. Noi tre soli, in settimana di sciatori ce ne sono pochissimi. Canale in ottime condizioni dopo giorni di assestamento."
+      },
+      {
+        "observedAt": "2023-02-18",
+        "words": "Prima volta con la corda in zaino, per sicurezza. Non l'abbiamo usata, ma nel canale il primo tratto è stretto e mette soggezione. Dopo si scende bene."
+      },
+      {
+        "observedAt": "2023-03-26",
+        "words": "Abbiamo fatto la bocchetta in giornata di sole. Il lato est aveva firn perfetto mentre sul lato opposto c'era ancora crosta."
+      },
+      {
+        "observedAt": "2023-04-12",
+        "words": "Mercoledì pomeriggio dopo il lavoro in valle. Il canale era già molto ammorbidito dal sole, alle due il firn era ancora giusto. Poi dalla conca in giù tutta neve di primavera."
+      },
+      {
+        "observedAt": "2023-12-02",
+        "words": "Prima uscita fuori pista della stagione, con poca neve nei tratti centrali. Passaggio tra le rocce affioranti del canale con gli sci in mano. Mai rischiare qui."
+      },
+      {
+        "observedAt": "2024-02-03",
+        "words": "Dopo cinque giorni di bel tempo la neve era assestata, il canale in condizioni. Dopo nevicate e vento qui bisogna aspettare giorni, noi siamo andati solo quando abbiamo avuto la certezza."
+      },
+      {
+        "observedAt": "2024-03-02",
+        "words": "Salita lenta con tanti gruppi in coda. Alla bocchetta c'era una fila di dieci sciatori ad aspettare, con ritardi e freddo."
+      },
+      {
+        "observedAt": "2024-03-20",
+        "words": "Mercoledì, nuvole basse. Siamo saliti in mezz'ora in meno del solito: traccia già battuta dai gruppi del giorno prima. Discesa con poca visibilità ma tutto ok."
+      },
+      {
+        "observedAt": "2024-04-06",
+        "words": "Conca bellissima, ma l'uscita è lunga. Nel tratto basso la neve è sempre più scarsa e l'ultima parte si fa spesso a piedi. Tenerne conto per il rientro."
+      },
+      {
+        "observedAt": "2024-04-28",
+        "words": "Primavera avanzata, neve come panna. Con il firn a mezzogiorno il canale è un regalo, il più bello di tutta la stagione."
+      },
+      {
+        "observedAt": "2025-01-18",
+        "words": "Neve fredda e farinosa dentro il canale, ben protetto dal vento. Una discesa memorabile, ma il canale resta ripido anche con la neve buona."
+      },
+      {
+        "observedAt": "2025-03-09",
+        "words": "Un tratto del bordo destro del canale è stato attrezzato con una catena fissa alla roccia per chi vuole assicurarsi nella parte stretta. Noi non l'abbiamo usata, ma c'è."
+      },
+      {
+        "observedAt": "2025-04-11",
+        "words": "Venerdì con sole e vento leggero. Ottime condizioni, pochissima gente. Il tratto basso si è fatto a piedi per un centinaio di metri, ma niente di grave."
+      },
+      {
+        "observedAt": "2026-03-29",
+        "words": "Dopo una nevicata tarda, canale che si è riempito bene. Scendendo ci siamo fermati sotto la conca: la neve fresca scaricava già da sola sui bordi. Con attenzione si è chiuso bene."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Canale ripido",
+          "quote": "con una pendenza che ti obbliga a guardare dove metti gli sci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve da leggere bene",
+          "quote": "La neve cambia da un tratto all'altro: lastroni, crosta, poi polvere"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rischio valanghe dopo nevicate",
+          "quote": "lastroni ben visibili sul bordo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "in settimana di sciatori ce ne sono pochissimi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Canale ripido",
+          "quote": "il primo tratto è stretto e mette soggezione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve da leggere bene",
+          "quote": "Il lato est aveva firn perfetto mentre sul lato opposto c'era ancora crosta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Firn a metà giornata",
+          "quote": "alle due il firn era ancora giusto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietre affioranti nel canale",
+          "quote": "tra le rocce affioranti del canale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rischio valanghe dopo nevicate",
+          "quote": "Dopo nevicate e vento qui bisogna aspettare giorni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gente in coda alla bocchetta",
+          "quote": "Alla bocchetta c'era una fila di dieci sciatori ad aspettare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita veloce con la traccia pronta",
+          "quote": "traccia già battuta dai gruppi del giorno prima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Uscita nel tratto basso con poca neve",
+          "kind": "attenzione",
+          "quote": "Nel tratto basso la neve è sempre più scarsa e l'ultima parte si fa spesso a piedi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Firn a metà giornata",
+          "quote": "Con il firn a mezzogiorno il canale è un regalo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Canale ripido",
+          "quote": "il canale resta ripido anche con la neve buona"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena fissata alla roccia",
+          "kind": "novita",
+          "quote": "è stato attrezzato con una catena fissa alla roccia"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Uscita a piedi con poca neve",
+          "quote": "si è fatto a piedi per un centinaio di metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rischio valanghe dopo nevicate",
+          "quote": "la neve fresca scaricava già da sola sui bordi"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

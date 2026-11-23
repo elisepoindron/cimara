@@ -1,0 +1,265 @@
+{
+  "osm": "r11124760",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-red-r141",
+    "activity": "escursionismo",
+    "place": "comune-004248",
+    "name": "Via Alpina Red R141",
+    "lat": 44.21984,
+    "lon": 7.18451,
+    "facts": {
+      "difficolta": "E",
+      "localita_partenza": "Rifugio Malinvern",
+      "come_arrivare": "Da Vinadio una strada di montagna, in parte sterrata, sale verso la zona del Rifugio Malinvern, dove si lascia l'auto. L'arrivo al Rifugio Questa si raggiunge solo a piedi, quindi per il ritorno serve un secondo mezzo oppure si rifà la tappa in senso inverso."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Rossa che collega il Rifugio Malinvern, sopra Vinadio, al Rifugio Questa, nel cuore delle Alpi Marittime. È una giornata di cammino in ambiente aperto, con laghi, pietraie e colli, per lo più su vecchie mulattiere militari e sentieri ben segnati.\n\nDopo la partenza dal rifugio si sale in un paesaggio di pascoli magri e rocce levigate, con i laghi che fanno da punti di riferimento. Il tratto centrale attraversa pietraie e un colle esposto al vento, poi si scende verso la conca del rifugio d'arrivo. Non ci sono passaggi esposti, ma il fondo sassoso rallenta.\n\nIl periodo buono va da fine giugno a ottobre; a inizio stagione restano nevai sui tratti in ombra. Acqua solo ai laghi e ai torrenti: meglio partire con una scorta. La tappa si fa in senso inverso senza problemi."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Partiti dal Malinvern con una luce bellissima. Il lago appena dopo il rifugio sembrava uno specchio e abbiamo fatto la prima pausa lì."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Tratto di mulattiera militare largo e comodo, si cammina senza guardare i piedi. Peccato per il caldo nelle ore centrali, dopo il colle ho finito l'acqua."
+      },
+      {
+        "observedAt": "2022-09-16",
+        "words": "Giorno di ferie e sentiero tutto per noi. Al colle tirava un vento freddo che ci ha fatto mettere il pile anche ad agosto inoltrato."
+      },
+      {
+        "observedAt": "2023-06-03",
+        "words": "Troppo presto: sopra i duemila c'erano ancora nevai larghi da attraversare e un paio di punti dove la traccia si perdeva. Con i bastoncini e un po' di pazienza ce l'abbiamo fatta."
+      },
+      {
+        "observedAt": "2023-07-30",
+        "words": "Rifugio Questa all'arrivo: zuppa calda, letto asciutto e gestori gentili. Dopo nove ore di cammino quella cena valeva tutta la fatica."
+      },
+      {
+        "observedAt": "2023-08-28",
+        "words": "Un mercoledì senza nessuno. Ho incontrato solo un gruppo di stambecchi in cresta e un escursionista tedesco al secondo colle."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Giornata limpida di fine estate, i colori dei laghi erano quasi irreali. Qualche nuvola nel pomeriggio ma niente di preoccupante."
+      },
+      {
+        "observedAt": "2024-07-06",
+        "words": "Segnavia rossi e bianchi rinfrescati da poco e tutti i bivi indicati con le frecce nuove. Il ponticello sul torrente è stato rifatto in legno e non balla più."
+      },
+      {
+        "observedAt": "2024-08-15",
+        "words": "Feriale, quindi parcheggio vuoto. Sentiero in ottime condizioni e acqua fresca al ruscello poco sotto il colle, per fortuna."
+      },
+      {
+        "observedAt": "2024-08-25",
+        "words": "Pietraie interminabili nella parte alta. Ho dovuto guardare dove mettevo i piedi per ore e a fine giornata avevo le caviglie provate."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "La frana sopra il secondo lago ha portato via la vecchia traccia: ora si passa su una variante più a monte, ben segnata ma ripida. Fate attenzione con le pietre mobili."
+      },
+      {
+        "observedAt": "2024-10-05",
+        "words": "Ultima uscita con il foliage dei larici sotto il rifugio. Fresco al mattino e un po' di brina sui sassi, poi sole pieno."
+      },
+      {
+        "observedAt": "2025-07-27",
+        "words": "Avevamo letto della frana e siamo passati sulla variante nuova senza difficoltà. Un po' ripida, ma segnata con ometti e bandierine."
+      },
+      {
+        "observedAt": "2025-08-09",
+        "words": "Tappa lunga e di soddisfazione. La mulattiera dopo il secondo colle scende dolce e permette di recuperare fiato prima del rifugio. Al Questa ci hanno accolti con un tè caldo senza chiedere niente."
+      },
+      {
+        "observedAt": "2025-09-04",
+        "words": "Giovedì di cielo grigio e nebbia sul colle. Si andava a vista da un ometto all'altro e per un attimo ho avuto qualche dubbio sulla traccia."
+      },
+      {
+        "observedAt": "2025-10-05",
+        "words": "Camosci sul versante sotto il rifugio, tre o quattro, per niente timidi. A inizio ottobre il rifugio era già in chiusura, informatevi prima."
+      },
+      {
+        "observedAt": "2026-07-25",
+        "words": "Quest'anno nevai fino a luglio inoltrato in ombra. Niente di tecnico ma mi ha fatto piacere avere le ghette. Sul colle il vento tagliava la faccia."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Laghi in quota",
+          "quote": "Il lago appena dopo il rifugio sembrava uno specchio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mulattiera militare",
+          "quote": "Tratto di mulattiera militare largo e comodo"
+        },
+        {
+          "label": "Poca acqua lungo il percorso",
+          "quote": "dopo il colle ho finito l'acqua"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento al colle",
+          "quote": "Al colle tirava un vento freddo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai a inizio stagione",
+          "quote": "sopra i duemila c'erano ancora nevai larghi da attraversare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio accogliente",
+          "quote": "zuppa calda, letto asciutto e gestori gentili"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "Un mercoledì senza nessuno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Laghi in quota",
+          "quote": "i colori dei laghi erano quasi irreali"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnaletica e ponte rinnovati",
+          "kind": "novita",
+          "quote": "Il ponticello sul torrente è stato rifatto in legno e non balla più."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "parcheggio vuoto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie faticose",
+          "quote": "Pietraie interminabili nella parte alta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Variante dopo la frana",
+          "kind": "attenzione",
+          "quote": "La frana sopra il secondo lago ha portato via la vecchia traccia: ora si passa su una variante più a monte, ben segnata ma ripida."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Brina al mattino",
+          "quote": "un po' di brina sui sassi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Variante dopo la frana",
+          "quote": "siamo passati sulla variante nuova senza difficoltà"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mulattiera militare",
+          "quote": "La mulattiera dopo il secondo colle scende dolce"
+        },
+        {
+          "label": "Rifugio accogliente",
+          "quote": "Al Questa ci hanno accolti con un tè caldo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sul colle",
+          "quote": "nebbia sul colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio in chiusura a ottobre",
+          "quote": "il rifugio era già in chiusura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai a inizio stagione",
+          "quote": "nevai fino a luglio inoltrato in ombra"
+        },
+        {
+          "label": "Vento al colle",
+          "quote": "Sul colle il vento tagliava la faccia"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

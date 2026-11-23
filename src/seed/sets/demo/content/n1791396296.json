@@ -1,0 +1,487 @@
+{
+  "osm": "n1791396296",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "localita_partenza",
+    "parcheggio_nota"
+  ],
+  "itinerary": {
+    "key": "palestra-leverogne-settore-vampirella",
+    "activity": "falesia",
+    "place": "comune-007005",
+    "name": "Palestra Leverogne Settore Vampirella",
+    "lat": 45.70344,
+    "lon": 7.15202,
+    "aspect": "N",
+    "altMax": 762,
+    "facts": {
+      "esposizione": "N",
+      "quota_base": 762,
+      "avvicinamento": 5,
+      "localita_partenza": "Arvier",
+      "parcheggio_nota": "Un piccolo piazzale prima dell'abitato; non si lascia l'auto davanti ai cancelli delle case."
+    },
+    "sections": {
+      "note": "Il settore Vampirella è una delle palestre di Leverogne, a una manciata di minuti dalla statale, su una parete di roccia scura esposta a nord e a 760 metri. È il posto dove si va quando altrove fa troppo caldo: l'ombra c'è tutto il giorno, anche d'agosto, mentre d'inverno la parete resta fredda e spesso umida.\n\nLe vie sono corte, dal quarto al settimo grado, con arrampicata di placca e muro verticale su appigli piccoli; il fondo della parete è prevalentemente pulito, ma dopo le piogge colano alcune venature e i tiri a sinistra restano bagnati per giorni. Chiodatura vicina, soste con maillon, tutto è comodo per chi comincia a salire da primo.\n\nÈ una palestra di quelle da dopolavoro: si arriva alle sei, si fanno tre o quattro vie e si va a cena. Qui sono descritte solo alcune delle linee.",
+      "avvicinamento": "Dal piazzale si prende il sentierino che passa dietro le ultime case e sale in pochi tornanti nel bosco fino alla base: cinque minuti, quasi niente."
+    },
+    "parts": [
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Il Morso",
+          "grado": "4a",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Dentini",
+          "grado": "4b",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Vampiretta",
+          "grado": "4c",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Notte Lunga",
+          "grado": "5a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Sangue Blu",
+          "grado": "5a+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "La Mezzaluna",
+          "grado": "5b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Ombra Fredda",
+          "grado": "5b+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Aglio e Basta",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Pipistrello",
+          "grado": "5c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "La Contessa",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Bara Aperta",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Luna Nuova",
+          "grado": "6a+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Crepuscolo",
+          "grado": "6a+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Il Conte Dracula",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Collo Scoperto",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Paletto di Frassino",
+          "grado": "6b+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Tramonto Nero",
+          "grado": "6b+",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Nosferatu",
+          "grado": "6c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Ultima Cena",
+          "grado": "6c",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Pelle Pallida",
+          "grado": "6c+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Fame di Notte",
+          "grado": "7a",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Specchio Rotto",
+          "grado": "7a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Albe Perdute",
+          "grado": "7a+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Cripta",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Anemia",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Cantina",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Zanna Corta",
+          "grado": "4b",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Il Pipistrello Piccolo",
+          "grado": "3",
+          "lunghezza": 12
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-05-04",
+        "words": "Dopo il lavoro, due ore di luce e dieci minuti dalla macchina. Roccia ancora fresca dopo una giornata calda in valle, abbiamo fatto quattro vie del Centro."
+      },
+      {
+        "observedAt": "2022-07-02",
+        "words": "Cercavamo ombra: all'ombra dalla mattina alla sera e infatti era l'unico posto fresco della valle. Roccia scura, tacche piccole."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Settembre ancora caldo, il fondovalle sembrava una stufa; qui invece si sta al fresco anche a mezzogiorno. Alcune vie a destra sono ancora lisce e bagnate di notte."
+      },
+      {
+        "observedAt": "2022-11-12",
+        "words": "Aria fredda, mani gelate, voglia di tornare. Il sole non arriva mai, al riparo dal sole fa freddo anche con la giacca, io ho scalato col piumino sulle spalle."
+      },
+      {
+        "observedAt": "2023-04-04",
+        "words": "Una mattinata libera: ho trovato la parete deserta e l'erba alta alla base. Le vie facili di sinistra sono perfette per scaldarsi o per portare un amico che comincia."
+      },
+      {
+        "observedAt": "2023-06-17",
+        "words": "Parete a un passo dalla statale, si sente il traffico sotto, ma si scala bene. Bara Aperta è una placca elegante, secca anche dopo la pioggia."
+      },
+      {
+        "observedAt": "2023-08-06",
+        "words": "Domenica di fine estate, trenta gradi in paese e in parete una temperatura da cantina. Pochi posti dove stare con questo caldo, e infatti c'era già gente. Chiodatura vicina, si prova senza paura."
+      },
+      {
+        "observedAt": "2023-10-05",
+        "words": "Lungo ponte dei santi, siamo scesi qui a mezzogiorno: solo la prima parte della parete era asciutta, a destra colava ancora. Ci sono rimaste le dita fredde e un po' di fango alla base."
+      },
+      {
+        "observedAt": "2024-03-02",
+        "words": "Primo giro di stagione dopo il letargo invernale. Il fondo del Centro era umido, la roccia scivolosa, ma appena sceso il sole si gela subito. Ci siamo limitati ai 5."
+      },
+      {
+        "observedAt": "2024-05-07",
+        "words": "Ho portato mia figlia, che comincia a salire da seconda, sulle vie di sinistra. Hanno messo un cartello con i nomi dei settori all'inizio del sentierino, comodo per chi viene la prima volta."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Sera di luglio, quando in valle non si respira: noi sulla Vampirella con le lucciole e una brezza fresca. L'ombra c'era fino alla fine, e poi aperitivo."
+      },
+      {
+        "observedAt": "2024-09-15",
+        "words": "Pochi gradi in meno di agosto. La sosta di Luna Nuova si è un po' allentata: il maillon della sosta di Luna Nuova è lento e va stretto a mano, io l'ho stretto e ho avvisato gli altri."
+      },
+      {
+        "observedAt": "2024-11-09",
+        "words": "Ultimo giro autunnale, muschio verde sulle placche di destra e dita rigide. Bella la linea di Nosferatu, dura in partenza, poi si scioglie."
+      },
+      {
+        "observedAt": "2025-02-05",
+        "words": "Mi sono preso un giorno libero ma qui fa freddo davvero: solo con la giacca imbottita si sta alla base. Abbiamo fatto una sola via e poi caffè in paese."
+      },
+      {
+        "observedAt": "2025-04-26",
+        "words": "Roccia pulita da ottobre, primavera: l'erba si è già mangiata un po' di sentiero. La sosta di Luna Nuova è stata sistemata, ora il maillon è stato sostituito con uno nuovo."
+      },
+      {
+        "observedAt": "2025-06-07",
+        "words": "Chiacchiere e risate con una cordata di amici, bambini in giro tra i massi. Pochi chilometri da casa, se uno ha poco tempo non c'è di meglio."
+      },
+      {
+        "observedAt": "2025-08-10",
+        "words": "Caldo tropicale, ma qui sempre fresco. Una via di destra, Specchio Rotto, mi ha fatto sudare nonostante l'ombra: continua e tecnica."
+      },
+      {
+        "observedAt": "2025-10-18",
+        "words": "Lunghe giornate di nebbia, vie asciutte solo a metà. La chiodatura è fitta e le soste comode. Un vero posto da amatori dopo il lavoro."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Vicina alla strada",
+          "quote": "dieci minuti dalla macchina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra tutto il giorno",
+          "quote": "all'ombra dalla mattina alla sera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra tutto il giorno",
+          "quote": "si sta al fresco anche a mezzogiorno"
+        },
+        {
+          "label": "Vie bagnate dopo la pioggia",
+          "quote": "Alcune vie a destra sono ancora lisce e bagnate di notte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fredda d'inverno",
+          "quote": "al riparo dal sole fa freddo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vicina alla strada",
+          "quote": "a un passo dalla statale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura ravvicinata",
+          "quote": "Chiodatura vicina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fredda d'inverno",
+          "quote": "appena sceso il sole si gela subito"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie facili per principianti",
+          "quote": "Ho portato mia figlia, che comincia a salire da seconda, sulle vie di sinistra"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cartello d'ingresso nuovo",
+          "kind": "novita",
+          "quote": "Hanno messo un cartello con i nomi dei settori all'inizio del sentierino"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Lucciole d'estate",
+          "quote": "le lucciole"
+        },
+        {
+          "label": "Ombra tutto il giorno",
+          "quote": "L'ombra c'era fino alla fine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sosta di Luna Nuova da controllare",
+          "kind": "attenzione",
+          "quote": "il maillon della sosta di Luna Nuova è lento e va stretto a mano"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Muschio sulle placche",
+          "quote": "muschio verde sulle placche di destra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sosta di Luna Nuova da controllare",
+          "kind": "attenzione",
+          "quote": "ora il maillon è stato sostituito con uno nuovo"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura ravvicinata",
+          "quote": "chiodatura è fitta"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

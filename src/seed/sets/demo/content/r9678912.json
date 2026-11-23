@@ -1,0 +1,241 @@
+{
+  "osm": "r9678912",
+  "invented": [
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "alta-via-n-1-della-valle-d-aosta-tappa-12",
+    "activity": "escursionismo",
+    "place": "comune-007047",
+    "name": "Alta Via n. 1 della Valle d'Aosta - Tappa 12",
+    "lat": 45.85217,
+    "lon": 7.38294,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 1146,
+      "partenza": 1397,
+      "localita_partenza": "Oyace",
+      "come_arrivare": "Oyace è un paese della Valpelline, raggiungibile da Aosta con la strada della valle, con parcheggi vicino alla chiesa. L'arrivo a Rey, frazione di Ollomont, è nella valle vicina: il rientro richiede un secondo mezzo o un trasferimento."
+    },
+    "sections": {
+      "descrizione": "Tappa 12 dell'Alta Via n. 1 della Valle d'Aosta: da Oyace, a 1397 metri, a Rey, frazione di Ollomont, a 1393. I due paesi sono quasi alla stessa quota ma in mezzo c'è una cresta da valicare: circa 13 chilometri con 1.150 metri di salita e altrettanti di discesa.\n\nSi sale da Oyace tra prati e boschi di larici fino a un colle sopra i duemila metri, poi si scende nella valle di Ollomont. Il sentiero è ben tracciato, con tratti di pietraia nella parte alta e qualche passaggio in cresta senza difficoltà.\n\nÈ una tappa di salita e discesa in egual misura. Il periodo adatto va da giugno a ottobre; il tempo tende a cambiare nel primo pomeriggio."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-30",
+        "words": "Partenza da Oyace con il sole che bruciava sulla chiesa. Il primo tratto sale tra i prati, poi il bosco che ha fatto da ombrello."
+      },
+      {
+        "observedAt": "2022-08-28",
+        "words": "Una tappa a doppia faccia: si sale mille e cento metri per poi riscenderli. Quando ho visto Rey dall'alto ho pensato di essere in cima al mondo."
+      },
+      {
+        "observedAt": "2022-09-13",
+        "words": "Un lunedì di fine estate, i prati già in fase di taglio. A Rey ho incontrato un anziano che mi ha raccontato la storia delle baite."
+      },
+      {
+        "observedAt": "2023-06-10",
+        "words": "Neve residua sul colle, in un tratto nord ancora incrostato. Con le ghette e un po' di cautela non è stato un problema."
+      },
+      {
+        "observedAt": "2023-07-09",
+        "words": "La pietraia nella parte alta è lunga e ripida, con sassi che si muovono sotto i piedi. Fermarsi a bere ogni tanto salva dal logorio."
+      },
+      {
+        "observedAt": "2023-08-23",
+        "words": "Giorno feriale con nuvole a brandelli. Sul colle ho avuto la visuale su tutta la Valpelline e un cielo che cambiava ogni cinque minuti."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Nebbia fitta sul colle a metà mattina, per un'ora abbiamo camminato nel bianco seguendo i bolli. Un po' di tensione, poi il cielo si è aperto."
+      },
+      {
+        "observedAt": "2023-10-01",
+        "words": "Una giornata di ottobre con neve a quote alte e sentiero ghiacciato in ombra. A Rey ci siamo scaldati con un tè e una torta."
+      },
+      {
+        "observedAt": "2024-06-22",
+        "words": "La nuova passerella sul torrente subito fuori Oyace rende sicuro il passaggio che prima era una guado con i sassi. Segnaletica integrata con nuove paline in legno."
+      },
+      {
+        "observedAt": "2024-07-28",
+        "words": "Temporale nel primo pomeriggio con tuoni lunghi in valle. Per fortuna eravamo già in discesa verso Rey, ma ci siamo bagnati comunque."
+      },
+      {
+        "observedAt": "2024-08-15",
+        "words": "Giovedì di caldo secco. Ho apprezzato l'acqua alla fonte sotto il colle e una pausa all'ombra di un masso, in un silenzio quasi irreale."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Un grosso larice è caduto su un tratto in discesa verso Rey e blocca il sentiero: si aggira per la scarpata sulla destra, un po' ripida e con pietre."
+      },
+      {
+        "observedAt": "2024-10-06",
+        "words": "Camosci e un paio di stambecchi sul crinale, in pieno fermento per l'autunno. Il bosco sotto il colle era un tappeto di aghi dorati."
+      },
+      {
+        "observedAt": "2025-07-26",
+        "words": "Ho risalito la tappa con la compagna e le gambe leggere. Il larice caduto è stato tagliato e ora il sentiero passa liscio, senza giri."
+      },
+      {
+        "observedAt": "2025-08-10",
+        "words": "La discesa verso Rey è dolce e regolare, ottima per recuperare. Il paesino all'arrivo ha una fontana d'acqua fredda che sembra fatta apposta."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "La pietraia del colle sotto la nebbia è uno scherzo da diavolo: massi tutti uguali e bolli sbiaditi. Meglio avere la traccia sul telefono."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita da Oyace nel bosco",
+          "quote": "Il primo tratto sale tra i prati, poi il bosco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita e discesa equivalenti",
+          "quote": "si sale mille e cento metri per poi riscenderli"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rey e le baite",
+          "quote": "A Rey ho incontrato un anziano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve e gelo",
+          "quote": "Neve residua sul colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraia nella parte alta",
+          "quote": "La pietraia nella parte alta è lunga e ripida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla Valpelline",
+          "quote": "ho avuto la visuale su tutta la Valpelline"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo instabile",
+          "quote": "Nebbia fitta sul colle a metà mattina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve e gelo",
+          "quote": "sentiero ghiacciato in ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Passerella nuova fuori Oyace",
+          "kind": "novita",
+          "quote": "La nuova passerella sul torrente subito fuori Oyace rende sicuro il passaggio che prima era una guado con i sassi."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo instabile",
+          "quote": "Temporale nel primo pomeriggio con tuoni lunghi in valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fonte sotto il colle",
+          "quote": "l'acqua alla fonte sotto il colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Larice caduto sul sentiero",
+          "kind": "attenzione",
+          "quote": "Un grosso larice è caduto su un tratto in discesa verso Rey e blocca il sentiero: si aggira per la scarpata sulla destra, un po' ripida e con pietre."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna alpina",
+          "quote": "Camosci e un paio di stambecchi sul crinale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Larice caduto sul sentiero",
+          "quote": "Il larice caduto è stato tagliato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rey e le baite",
+          "quote": "Il paesino all'arrivo ha una fontana d'acqua fredda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraia nella parte alta",
+          "quote": "La pietraia del colle sotto la nebbia"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

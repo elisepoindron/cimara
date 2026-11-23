@@ -1,0 +1,56 @@
+{
+  "osm": "r6042021",
+  "invented": [
+    "description",
+    "reports",
+    "esposizione"
+  ],
+  "itinerary": {
+    "key": "ru-de-la-plaine",
+    "activity": "escursionismo",
+    "place": "comune-007065",
+    "name": "Rû de la Plaine",
+    "lat": 45.74987,
+    "lon": 7.65245,
+    "aspect": "S",
+    "altMax": 590,
+    "facts": {
+      "partenza": 590,
+      "localita_partenza": "Saint-Vincent"
+    },
+    "sections": {
+      "descrizione": "Sentiero lungo il ru della Plaine, dal fondovalle verso la piana sopra il paese. Il primo tratto corre nel bosco, costeggiando il canale d'acqua, poi si apre su prati con vista sulla valle. Circa quattro chilometri, un'ora e venti di cammino.\n\nIl fondo è di terra e ghiaia, con qualche tratto fangoso vicino all'acqua. Segnaletica presente all'inizio, poi meno."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2023-04-22",
+        "words": "Ru pieno dopo le piogge, il ponte piccolo era bagnato. Abbiamo fatto tutto il giro in un'ora e venti."
+      },
+      {
+        "observedAt": "2025-06-16",
+        "words": "Caldo nel prato, ma il bosco è fresco. Tanti fiori di sambuco."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Ru pieno",
+          "quote": "Ru pieno dopo le piogge"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco fresco",
+          "quote": "il bosco è fresco"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

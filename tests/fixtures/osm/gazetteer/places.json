@@ -1,0 +1,15 @@
+{
+  "source": "A slice of src/seed/data/places.json, for the OpenStreetMap importer's tests.",
+  "places": [
+    {"key":"regione-01","name":"Piemonte","kind":"regione"},
+    {"key":"regione-02","name":"Valle d'Aosta","kind":"regione"},
+    {"key":"regione-03","name":"Lombardia","kind":"regione"},
+    {"key":"provincia-AO","name":"AO","kind":"provincia","parent":"regione-02"},
+    {"key":"provincia-TO","name":"TO","kind":"provincia","parent":"regione-01"},
+    {"key":"provincia-SO","name":"SO","kind":"provincia","parent":"regione-03"},
+    {"key":"comune-007004","name":"Arnad","kind":"comune","parent":"provincia-AO","lat":45.64726,"lon":7.71701},
+    {"key":"comune-007023","name":"Donnas","kind":"comune","parent":"provincia-AO","lat":45.6027,"lon":7.7665},
+    {"key":"comune-001001","name":"Agliè","kind":"comune","parent":"provincia-TO","lat":45.3632,"lon":7.7685},
+    {"key":"comune-014001","name":"Albaredo per San Marco","kind":"comune","parent":"provincia-SO","lat":46.1,"lon":9.59}
+  ]
+}

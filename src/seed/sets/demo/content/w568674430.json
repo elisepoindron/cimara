@@ -1,0 +1,556 @@
+{
+  "osm": "w568674430",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "parcheggio_nota",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "canyon-di-ormea",
+    "activity": "falesia",
+    "place": "comune-004155",
+    "name": "Canyon di Ormea",
+    "lat": 44.14324,
+    "lon": 7.90867,
+    "aspect": "NO",
+    "altMax": 800,
+    "facts": {
+      "esposizione": "NO",
+      "quota_base": 800,
+      "avvicinamento": 7,
+      "localita_partenza": "Ormea",
+      "parcheggio_nota": "Largo piazzale sterrato all'ingresso della forra, sufficiente per una quindicina di auto anche nei giorni pieni."
+    },
+    "sections": {
+      "note": "Falesia di fondo valle in una stretta forra scavata nella quarzite, a 800 metri, con le pareti rivolte a nord-ovest. Quasi cinquanta vie corte (fino a 20 metri) in tutti i gradi, dal 3c al 7c: la maggior parte è fra il 5b e il 6b, con una buona scelta di facili e un settore duro sulla destra.\n\nLa roccia è liscia e scura, un po' lucida nei passaggi più battuti, con molte vie di placca e di muro. La chiodatura è a fix, regolare e vicina; le soste hanno la catena. Ai piedi della parete scorre un torrente e il terreno è irregolare, con qualche masso: per assicurare conviene un compagno attento.\n\nL'ombra è quasi continua e il fondo del canyon è fresco anche in piena estate: è la falesia dei giorni caldi. In primavera e dopo la pioggia l'umidità è alta e parecchie vie restano bagnate. D'inverno è fredda e spesso gelata.",
+      "avvicinamento": "Dal piazzale si imbocca un sentiero pianeggiante che segue il torrente sulla sinistra orografica, con due passerelle di legno: in sette minuti si arriva alla prima parete. I settori successivi si raggiungono camminando sul greto, a volte con l'acqua alta si bagna qualche pietra."
+    },
+    "parts": [
+      {
+        "group": "Ingresso",
+        "fields": {
+          "nome": "Primo Bagno",
+          "grado": "4a",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Ingresso",
+        "fields": {
+          "nome": "Ranocchio",
+          "grado": "4b",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Ingresso",
+        "fields": {
+          "nome": "La Libellula",
+          "grado": "4c",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Ingresso",
+        "fields": {
+          "nome": "Trota Furba",
+          "grado": "5a",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Ingresso",
+        "fields": {
+          "nome": "Mulinello",
+          "grado": "5a+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Ingresso",
+        "fields": {
+          "nome": "Corrente",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Ingresso",
+        "fields": {
+          "nome": "Gorgo",
+          "grado": "5b+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete Grigia",
+        "fields": {
+          "nome": "Eco",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Parete Grigia",
+        "fields": {
+          "nome": "Sasso nel Sacco",
+          "grado": "5c+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete Grigia",
+        "fields": {
+          "nome": "Gocce",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete Grigia",
+        "fields": {
+          "nome": "L'Otto Volante",
+          "grado": "6a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Parete Grigia",
+        "fields": {
+          "nome": "Nebbia Nera",
+          "grado": "6a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete Grigia",
+        "fields": {
+          "nome": "Cascatella",
+          "grado": "6b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete Grigia",
+        "fields": {
+          "nome": "Bagnato Fradicio",
+          "grado": "6b+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete Grigia",
+        "fields": {
+          "nome": "Pietra Liscia",
+          "grado": "6c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Gola",
+        "fields": {
+          "nome": "Passo Stretto",
+          "grado": "5b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Gola",
+        "fields": {
+          "nome": "Umidità Relativa",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Gola",
+        "fields": {
+          "nome": "Il Muschio Sacro",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Gola",
+        "fields": {
+          "nome": "Foglia Secca",
+          "grado": "6a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Gola",
+        "fields": {
+          "nome": "Brivido",
+          "grado": "6b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Gola",
+        "fields": {
+          "nome": "Doccia Fredda",
+          "grado": "6c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Duro",
+        "fields": {
+          "nome": "Dente di Lupo",
+          "grado": "6c+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Settore Duro",
+        "fields": {
+          "nome": "Via del Fabbro",
+          "grado": "7a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Settore Duro",
+        "fields": {
+          "nome": "Saetta",
+          "grado": "7a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Duro",
+        "fields": {
+          "nome": "La Pioggia che Cade",
+          "grado": "7b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Duro",
+        "fields": {
+          "nome": "Senza Fiato",
+          "grado": "7b+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Settore Duro",
+        "fields": {
+          "nome": "Il Canyon",
+          "grado": "7c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Duro",
+        "fields": {
+          "grado": "7a",
+          "lunghezza": 18
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-06-18",
+        "words": "Sabato afoso in pianura, qui nel canyon si sta benissimo: ombra e aria fresca. Dieci vie tra l'Ingresso e la Parete Grigia. Il torrente fa un rumore che copre la voce, serve mettersi d'accordo a gesti."
+      },
+      {
+        "observedAt": "2022-07-21",
+        "words": "Giovedì di luglio, giornata torrida. Eravamo gli unici nel canyon. La roccia lucida mette alla prova i piedi e il 6a Gocce mi ha fatto ricredere sui gradi: scivoloso. Ma fresco, ma proprio fresco."
+      },
+      {
+        "observedAt": "2022-08-27",
+        "words": "Weekend di fine agosto. Parcheggio pieno, ma la gente si distribuisce bene lungo la forra. Sulle vie facili all'Ingresso c'erano tante famiglie e bambini che chiacchieravano felici."
+      },
+      {
+        "observedAt": "2022-09-30",
+        "words": "Venerdì, dopo una settimana piovosa. Le vie della Gola erano completamente bagnate, impossibili. Ci siamo spostati alla Parete Grigia, più asciutta, ma comunque umida in alto."
+      },
+      {
+        "observedAt": "2022-10-29",
+        "words": "Sabato d'autunno. Aria fredda nel canyon: con il sole alto filtra appena un raggio e il fondo resta gelido. Ho dovuto tenere il piumino fino alle undici."
+      },
+      {
+        "observedAt": "2023-03-11",
+        "words": "Primo sole di marzo, ma nel canyon ancora inverno: ghiaccio sul greto, rocce gelate. Dopo due vie ho tolto le scarpette per scaldarmi i piedi. Meglio tornare con il caldo."
+      },
+      {
+        "observedAt": "2023-05-13",
+        "words": "Sabato con un temporale in arrivo: una cordata è corsa fuori dalla forra, perché il torrente può salire. Noi siamo rimasti sulle vie alte ma con un occhio sul cielo. Giornata tesa."
+      },
+      {
+        "observedAt": "2023-06-02",
+        "words": "Venerdì festivo, 2 giugno. Giornata fantastica con sole alto che entra nel canyon solo a mezzogiorno. Il 6b Cascatella ha una sequenza di placche logica. Pochi in giro: bellissimo."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "Con trentacinque gradi in valle, il canyon è un frigorifero. Tutta la comitiva ha scalato le vie facili: la Libellula, Trota Furba, Mulinello. Sosta con catene nuove, appena cambiate."
+      },
+      {
+        "observedAt": "2023-08-09",
+        "words": "Mercoledì, tutto per noi. Sull'ultima vela del Settore Duro la roccia pare vetro: Il Canyon, un 7c, è fuori dalla mia portata ma bello da guardare. Sul greto c'erano rane e un piccolo serpente."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Giornata d'autunno, torrente in piena per le piogge: sul greto c'era l'acqua alta e per passare dall'Ingresso alla Gola ci si bagnava le scarpe. Meglio gli stivali o evitare."
+      },
+      {
+        "observedAt": "2023-10-21",
+        "words": "Lungo il sentiero un grosso pino è caduto sul sentiero: si passa sopra. Alla Parete Grigia c'erano sassi che la piena aveva portato alla base. Attenzione quando si assicura, il terreno è cambiato."
+      },
+      {
+        "observedAt": "2024-04-13",
+        "words": "Il pino è stato tagliato e c'è una nuova passerella in legno poco prima dell'Ingresso, più larga della vecchia. Peccato per l'umidità: parecchie vie ancora bagnate dopo l'inverno."
+      },
+      {
+        "observedAt": "2024-05-25",
+        "words": "Sabato di maggio con sole ma freddo nel canyon. Sul settore duro ho provato Saetta: un 7a+ che inizia con un traverso su pochi appigli. Sempre bellissima la forma di questa roccia scura."
+      },
+      {
+        "observedAt": "2024-07-06",
+        "words": "Caldo pazzesco fuori, qui perfetto. Abbiamo lavorato sui 6b con calma, ripetendo ogni passo. Una bella cordata di ragazzi ci ha prestato dei rinvii. Torrente trasparente, ottimo per rinfrescarsi i piedi."
+      },
+      {
+        "observedAt": "2024-08-14",
+        "words": "Mercoledì. Gruppo di quattro amici, tutte vie facili: Passerella, Primo Bagno, Ranocchio, La Libellula. Chiodatura quasi ravvicinata, consigliata per chi inizia. Il rumore del torrente mi ha tenuto compagnia."
+      },
+      {
+        "observedAt": "2025-04-26",
+        "words": "Primavera con acqua alta. Il torrente era grosso, la roccia gocciolava ovunque tranne sul Settore Duro. Abbiamo dovuto passare con attenzione su alcune pietre scivolose. Poca gente per via dell'umidità."
+      },
+      {
+        "observedAt": "2025-07-26",
+        "words": "Weekend di fine luglio, gente da tutte le parti ma lo spazio non manca. Nel pomeriggio, intorno alle quattro, l'aria si è fatta più pesante e sono salite nuvole: ci siamo ritirati prima del temporale."
+      },
+      {
+        "observedAt": "2025-09-12",
+        "words": "Venerdì, giornata d'autunno. Per la prima volta ho scalato tre vie in fila senza cadere: cresce la fiducia. Qui la roccia lucida si impara a leggere, bisogna fidarsi dei piedi."
+      },
+      {
+        "observedAt": "2026-05-23",
+        "words": "Sabato di fine maggio. Tutto asciutto e un bel sole filtrato dalle foglie. Le vie nuove a destra sono meglio dell'attesa: dolci, con gradi dal 5a al 6a. Parcheggio comodo e ampio."
+      },
+      {
+        "observedAt": "2026-08-29",
+        "words": "Giornata di fine estate, aria frizzante nella gola. Il guaio è che dopo una pioggia ci vogliono due giorni a asciugare: oggi, a dieci dall'ultimo temporale, era ancora scivoloso nei punti all'ombra."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Fresco anche d'estate",
+          "quote": "nel canyon si sta benissimo: ombra e aria fresca"
+        },
+        {
+          "label": "Rumore del torrente",
+          "quote": "Il torrente fa un rumore che copre la voce"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Eravamo gli unici nel canyon"
+        },
+        {
+          "label": "Roccia lucida",
+          "quote": "La roccia lucida mette alla prova i piedi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Parcheggio pieno"
+        },
+        {
+          "label": "Adatta ai principianti",
+          "quote": "Sulle vie facili all'Ingresso c'erano tante famiglie"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Umida dopo la pioggia",
+          "quote": "completamente bagnate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Freddo in autunno",
+          "quote": "il fondo resta gelido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Piena del torrente",
+          "quote": "il torrente può salire"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresco anche d'estate",
+          "quote": "il canyon è un frigorifero"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Catene cambiate all'Ingresso",
+          "kind": "novita",
+          "quote": "Sosta con catene nuove, appena cambiate"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "tutto per noi"
+        },
+        {
+          "label": "Roccia lucida",
+          "quote": "la roccia pare vetro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Piena del torrente",
+          "quote": "sul greto c'era l'acqua alta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Pino caduto lungo il sentiero",
+          "kind": "attenzione",
+          "quote": "un grosso pino è caduto sul sentiero"
+        },
+        {
+          "label": "Terreno cambiato alla base dopo la piena",
+          "kind": "attenzione",
+          "quote": "il terreno è cambiato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Umida dopo la pioggia",
+          "quote": "parecchie vie ancora bagnate"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Nuova passerella e pino rimosso",
+          "kind": "novita",
+          "quote": "c'è una nuova passerella in legno poco prima dell'Ingresso"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresco anche d'estate",
+          "quote": "Caldo pazzesco fuori, qui perfetto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai principianti",
+          "quote": "tutte vie facili"
+        },
+        {
+          "label": "Rumore del torrente",
+          "quote": "Il rumore del torrente mi ha tenuto compagnia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Piena del torrente",
+          "quote": "Il torrente era grosso"
+        },
+        {
+          "label": "Umida dopo la pioggia",
+          "quote": "la roccia gocciolava ovunque"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "gente da tutte le parti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lucida",
+          "quote": "la roccia lucida si impara a leggere"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Umida dopo la pioggia",
+          "quote": "dopo una pioggia ci vogliono due giorni a asciugare"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

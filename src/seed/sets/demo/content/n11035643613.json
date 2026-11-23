@@ -1,0 +1,316 @@
+{
+  "osm": "n11035643613",
+  "invented": [
+    "grado_obbligatorio",
+    "sviluppo",
+    "tiri",
+    "avvicinamento",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-cheney",
+    "activity": "multipitch",
+    "place": "comune-007022",
+    "name": "Via Cheney",
+    "lat": 45.80724,
+    "lon": 6.88378,
+    "aspect": "SO",
+    "altMax": 3100,
+    "facts": {
+      "grado_obbligatorio": "5a",
+      "sviluppo": 200,
+      "tiri": 6,
+      "avvicinamento": 40,
+      "localita_partenza": "Courmayeur",
+      "come_arrivare": "Da Courmayeur si risale la valle fino all'ultimo tratto carrozzabile e si prosegue a piedi su traccia e pietraie verso la parete, che sta in alto sotto le creste.",
+      "quota_base": 2906,
+      "esposizione": "SO",
+      "grado_max": "5b",
+      "protezione": "spittata"
+    },
+    "sections": {
+      "descrizione": "Una salita d'alta quota su granito rosso e compatto, a sud-ovest, protetta a spit. Tutti i tiri restano entro il 5b, e per questo la via è una porta d'ingresso al granito del massiccio più che un'impresa. Il cuore è nel contesto: ghiacciai attorno, creste affilate, aria rarefatta e rumore di seracchi in lontananza.\n\nGli spit sono inox e ben distribuiti, le soste sono a catena. Il tiro più impegnativo è il terzo, una placca liscia con aderenza e un paio di piccoli passi da 5b.\n\nIl sole arriva tardi sulla parete e se ne va presto: contare sulle ore centrali, indossando strati.",
+      "discesa": "Dalla sosta finale in doppia lungo la via, sei calate con corde da 60 metri; la prima è più lunga e richiede attenzione ai nodi. In caso di maltempo, discesa solo con le corde: i canali laterali sono ghiacciati e pericolosi.",
+      "materiale": "Due corde da 60 metri, dodici rinvii, cordini lunghi, guanti, casco e giacca pesante anche in luglio. Scarpe da avvicinamento solide.",
+      "avvicinamento": "Dal fondo carrozzabile una traccia segnata con ometti sale tra pietraie e un breve nevaio fino alla base della parete, sotto un grande pilastro rosso."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 35,
+          "descrizione": "Placca appoggiata su granito rosso, spit vicini."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 30,
+          "descrizione": "Muro con lame e buoni appigli, breve e piacevole."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 35,
+          "descrizione": "Placca liscia di aderenza con un paio di piccoli passi delicati."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 30,
+          "descrizione": "Diedro obliquo con una fessura utile per le mani."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 35,
+          "descrizione": "Pilastro verticale con tacche, esposto ma ben protetto."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4b",
+          "lunghezza": 35,
+          "descrizione": "Cresta facile fino alla sosta finale con vista sul ghiacciaio."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-31",
+        "words": "Via che ti fa sentire piccolo: tiri facili sulla carta, ma a quasi tremila metri anche un 4c pesa nelle gambe. Granito rosso compatto e spit inox, tutto in ordine."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Il nevaio alla base era ancora duro al mattino e ci è servita la piccozza. Poi la via, asciutta, sole sulla parete solo dalle undici."
+      },
+      {
+        "observedAt": "2022-09-07",
+        "words": "Mercoledì di settembre, un'ottima finestra di bel tempo. Nessuno sulla via e solo ghiaccio che scricchiolava intorno. Il terzo tiro con la placca liscia è il pezzo da ricordare."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Rumore di seracchi per tutto il giorno, impressionante ma affascinante. Per fortuna la via è lontana dal ghiaccio vero."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Siamo saliti in tre e abbiamo impiegato quasi otto ore tra attacco e discesa. Troppo lenti: la prima doppia in particolare richiede tempo perché è lunga."
+      },
+      {
+        "observedAt": "2023-08-30",
+        "words": "Un mercoledì di fine estate, una cordata sola davanti a noi. Il sole se n'è andato alle due e il vento ha cominciato a farsi sentire."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Giornata limpida, vista sulle creste di confine. Il granito rosso ha una grana incredibile, ma anche un po' abrasivo sulle dita dopo tanti tiri."
+      },
+      {
+        "observedAt": "2024-07-14",
+        "words": "A luglio c'è ancora molta neve sul sentiero e il tratto di pietraia è scivoloso. Calcolare un'ora in più per l'avvicinamento rispetto a settembre."
+      },
+      {
+        "observedAt": "2024-08-03",
+        "words": "Via assolutamente da non sottovalutare per il freddo: eravamo in giacca di piumino alle soste anche con il sole. Meglio portare i guanti."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Una scarica di sassi è passata dal canale a sinistra mentre eravamo al terzo tiro: nessun danno ma meglio sapere che quel tratto va attraversato con rapidità."
+      },
+      {
+        "observedAt": "2024-09-04",
+        "words": "Mercoledì in solitudine quasi totale. Il quinto tiro con l'esposizione sul vuoto è il mio preferito, protetto bene e arrampicata fluida."
+      },
+      {
+        "observedAt": "2025-07-26",
+        "words": "Hanno aggiunto due spit nuovi nella placca del terzo tiro dopo la richiesta di molti: ora il passo di aderenza è più rassicurante. Bella mossa."
+      },
+      {
+        "observedAt": "2025-08-16",
+        "words": "Cielo azzurro e roccia tiepida. Le catene delle soste sono nuove e brillano al sole. Gli ultimi tiri facili sono perfetti per rilassarsi dopo il passaggio di aderenza."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Prima neve della stagione già caduta sulle creste più alte e un vento teso da ovest. Siamo scesi di buon'ora, giusto in tempo prima che si coprisse tutto."
+      },
+      {
+        "observedAt": "2026-08-01",
+        "words": "Il nevaio all'inizio non c'è più, sciolto dall'estate calda. Ora l'avvicinamento è tutto su pietraie e con un tratto franoso che sale a zig-zag."
+      },
+      {
+        "observedAt": "2026-08-26",
+        "words": "Mercoledì con l'aria tersissima. La discesa in doppia è ordinata e le corde non si incastrano mai. Un ottimo ingresso al granito d'alta quota."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Quota che si sente",
+          "quote": "a quasi tremila metri anche un 4c pesa nelle gambe"
+        },
+        {
+          "label": "Spit inox ben messi",
+          "quote": "spit inox, tutto in ordine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevaio all'avvicinamento",
+          "quote": "Il nevaio alla base era ancora duro al mattino e ci è servita la piccozza"
+        },
+        {
+          "label": "Sole tardi sulla parete",
+          "quote": "sole sulla parete solo dalle undici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Via poco frequentata",
+          "quote": "Nessuno sulla via"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ghiacciai intorno",
+          "quote": "Rumore di seracchi per tutto il giorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "quasi otto ore tra attacco e discesa"
+        },
+        {
+          "label": "Prima doppia lunga",
+          "quote": "la prima doppia in particolare richiede tempo perché è lunga"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole tardi sulla parete",
+          "quote": "Il sole se n'è andato alle due"
+        },
+        {
+          "label": "Freddo in quota",
+          "quote": "il vento ha cominciato a farsi sentire"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Granito rosso abrasivo",
+          "quote": "Il granito rosso ha una grana incredibile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevaio all'avvicinamento",
+          "quote": "A luglio c'è ancora molta neve sul sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Freddo in quota",
+          "quote": "eravamo in giacca di piumino alle soste anche con il sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Scariche dal canale a sinistra",
+          "kind": "attenzione",
+          "quote": "Una scarica di sassi è passata dal canale a sinistra mentre eravamo al terzo tiro: nessun danno ma meglio sapere che quel tratto va attraversato con rapidità."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Via poco frequentata",
+          "quote": "Mercoledì in solitudine quasi totale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Due spit nuovi sul terzo tiro",
+          "kind": "novita",
+          "quote": "Hanno aggiunto due spit nuovi nella placca del terzo tiro dopo la richiesta di molti: ora il passo di aderenza è più rassicurante."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Spit inox ben messi",
+          "quote": "Le catene delle soste sono nuove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Freddo in quota",
+          "quote": "un vento teso da ovest"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto franoso nel sentiero",
+          "kind": "attenzione",
+          "quote": "Ora l'avvicinamento è tutto su pietraie e con un tratto franoso che sale a zig-zag."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Prima doppia lunga",
+          "quote": "La discesa in doppia è ordinata e le corde non si incastrano mai"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

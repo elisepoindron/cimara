@@ -1,0 +1,264 @@
+{
+  "osm": "r20423902",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "anello-ceronda-mountain-bike-tappa-3",
+    "activity": "mountain_bike",
+    "place": "comune-001284",
+    "name": "Anello Ceronda mountain bike - tappa 3",
+    "lat": 45.16708,
+    "lon": 7.4279,
+    "facts": {},
+    "sections": {
+      "descrizione": "La terza tappa dell'Anello Ceronda è la più impegnativa e la più adatta alle bici da enduro: un anello di 26 chilometri con quasi 1500 metri di dislivello attorno al Colle del Lys, con Val della Torre come punto di partenza. La salita è lunga e costante, per strade bianche e mulattiere sul versante boscoso; il tracciato prende quota fino a una dorsale panoramica che guarda sulla pianura e sulle montagne verso la Francia.\n\nIl cuore del giro è la discesa: dalla dorsale si scende per un sentiero a tratti ripido e sassoso, con curve strette, radici e qualche gradino naturale, poi si raccorda con una carrareccia più veloce fino al paese. Non è un tracciato da bike park, ma richiede la mano di chi ha già pratica di discese su sentiero.\n\nPer la salita molti scelgono la bici a pedalata assistita; chi sale a gambe deve calcolare quasi quattro ore solo per arrivare in cima.",
+      "note": "Da aprile a novembre; dopo le piogge il sentiero in discesa è molto scivoloso e meglio evitarlo. In pieno inverno e subito dopo una nevicata il Colle del Lys può essere imbiancato. Caschetto integrale e protezioni consigliati per la discesa.",
+      "avvicinamento": "Si parte da Val della Torre, dove si lascia l'auto in una piazza vicino al centro. Il percorso segue i segnali ACM fino al colle."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-04-09",
+        "words": "Quasi quattro ore per arrivare al colle, con la bici da enduro non proprio leggera. La salita è costante, mai cattiva, ma lunga. In cima aria fresca e vista fino in pianura."
+      },
+      {
+        "observedAt": "2022-05-22",
+        "words": "La discesa è il motivo per cui si fa tutto questo: curve strette, radici, un paio di gradini in cui ho alzato la ruota davanti. Divertente ma serio, niente a che vedere con le tappe più dolci dell'anello."
+      },
+      {
+        "observedAt": "2022-06-25",
+        "words": "Mattinata splendida e salita con il sole in faccia. Ho riempito entrambe le borracce a una fontana a Val della Torre perché sopra non ce n'è."
+      },
+      {
+        "observedAt": "2022-08-03",
+        "words": "Giro infrasettimanale con la e-bike. La batteria ha retto per tutta la salita, a metà potenza. Solo io e un pastore in tutto il giro, discesa tutta per me."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Troppo fango dopo la pioggia di due giorni: il sentiero in discesa è un toboga, radici lucide come sapone. Ho camminato in alcuni punti. Meglio aspettare qualche giorno dopo una perturbazione."
+      },
+      {
+        "observedAt": "2022-10-23",
+        "words": "Autunno sul colle: faggi arancio e un tappeto di foglie sul sentiero. Bellissimo ma le foglie nascondono sassi e radici, bisogna scendere piano."
+      },
+      {
+        "observedAt": "2023-04-30",
+        "words": "Un giro con amici, due in e-bike e due a gambe. Quelli a gambe sono arrivati con trenta minuti di ritardo in cima, ma poi in discesa ci siamo ritrovati tutti insieme."
+      },
+      {
+        "observedAt": "2023-06-10",
+        "words": "Sul colle c'era una nebbia leggera che ha rovinato la vista ma reso l'atmosfera quasi fiabesca. La discesa nel bosco bagnato un po' viscida, ma con le gomme giuste si controlla."
+      },
+      {
+        "observedAt": "2023-07-19",
+        "words": "Giornata di caldo estremo. Partito alle 6, giù alle 10: ho sentito la differenza tra la salita all'ombra e i tratti di pascolo scoperto. Due litri non bastano, meglio tre."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Ho provato la discesa con una bici da cross country e mi sono pentito: vibrazioni, braccia e polsi stremati. Chi non ha una bici con sospensioni adeguate faccia altro."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Discesa velocissima sulla carrareccia finale, un vero sfogo dopo il tecnico. Curve larghe e fondo compatto, quasi sempre con la ruota posteriore che sbanda."
+      },
+      {
+        "observedAt": "2024-05-12",
+        "words": "Hanno sistemato il tratto più ripido della discesa con qualche gradino in legno e un po' di pietre posate. Si scende comunque con attenzione, ma meno rischio di scivolate nei punti peggiori."
+      },
+      {
+        "observedAt": "2024-06-29",
+        "words": "Un grosso larice è caduto attraverso il sentiero poco sotto la dorsale, c'è un passaggio a piedi sotto il tronco. Con la bici in spalla ci si passa ma è scomodo, meglio avvisare."
+      },
+      {
+        "observedAt": "2024-08-21",
+        "words": "Il larice è stato tagliato e spostato, ora il sentiero è di nuovo libero. Giornata fresca di agosto, sulla dorsale ho trovato dei lamponi ancora maturi."
+      },
+      {
+        "observedAt": "2024-10-06",
+        "words": "Bella luce autunnale e discesa asciutta, la migliore che ricordi. Ho fatto il giro in cinque ore e mezza con le soste, al ritmo di chi vuole guardarsi attorno."
+      },
+      {
+        "observedAt": "2025-05-17",
+        "words": "Primo giro con una bici nuova da enduro e infatti ne ho goduto molto la discesa. Salita comunque lunga: portare cibo e qualcosa di caldo per la dorsale, il vento da ovest è freddo anche a maggio."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Ho visto un gufo reale appollaiato su un ramo basso mentre salivo in silenzio, davvero fortunato. Poi la discesa, divertente come sempre, mi ha fatto dimenticare il resto."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita lunga fino al colle",
+          "quote": "Quasi quattro ore per arrivare al colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa tecnica su sentiero",
+          "quote": "curve strette, radici, un paio di gradini"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua solo in paese",
+          "quote": "sopra non ce n'è"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giro con e-bike",
+          "quote": "Giro infrasettimanale con la e-bike"
+        },
+        {
+          "label": "Percorso quasi deserto",
+          "quote": "Solo io e un pastore in tutto il giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero scivoloso dopo la pioggia",
+          "quote": "il sentiero in discesa è un toboga"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Foglie sul sentiero",
+          "quote": "le foglie nascondono sassi e radici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giro con e-bike",
+          "quote": "due in e-bike e due a gambe"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero scivoloso dopo la pioggia",
+          "quote": "La discesa nel bosco bagnato un po' viscida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua solo in paese",
+          "quote": "Due litri non bastano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa tecnica su sentiero",
+          "quote": "Ho provato la discesa con una bici da cross country"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rientro veloce sulla carrareccia",
+          "quote": "Discesa velocissima sulla carrareccia finale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa tecnica su sentiero",
+          "quote": "Hanno sistemato il tratto più ripido della discesa"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Gradini e pietre nel tratto più ripido",
+          "kind": "novita",
+          "quote": "Hanno sistemato il tratto più ripido della discesa con qualche gradino in legno"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Larice caduto sul sentiero sotto la dorsale",
+          "kind": "attenzione",
+          "quote": "Un grosso larice è caduto attraverso il sentiero poco sotto la dorsale"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Percorso quasi deserto",
+          "quote": "sulla dorsale ho trovato dei lamponi"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Larice rimosso dal sentiero",
+          "kind": "novita",
+          "quote": "Il larice è stato tagliato e spostato, ora il sentiero è di nuovo libero"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa tecnica su sentiero",
+          "quote": "discesa asciutta, la migliore che ricordi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga fino al colle",
+          "quote": "Salita comunque lunga"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna nel bosco",
+          "quote": "un gufo reale appollaiato su un ramo basso"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

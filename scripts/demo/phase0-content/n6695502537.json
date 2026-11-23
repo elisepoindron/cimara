@@ -1,0 +1,68 @@
+{
+  "osm": "n6695502537",
+  "invented": ["avvicinamento", "vie", "note", "parcheggio_nota", "reports", "readings"],
+  "itinerary": {
+    "key": "falesia-tschachtelaz",
+    "activity": "falesia",
+    "place": "comune-007033",
+    "name": "Falesia Tschachtelaz",
+    "lat": 45.77825,
+    "lon": 7.8186,
+    "aspect": "E",
+    "altMax": 1613,
+    "facts": {
+      "esposizione": "E",
+      "quota_base": 1613,
+      "avvicinamento": 15,
+      "localita_partenza": "Gressoney-Saint-Jean",
+      "parcheggio_nota": "Spiazzo di terra vicino alla strada, pieno nei fine settimana."
+    },
+    "sections": {
+      "note": "Parete di calcare chiaro, compatto, con qualche lastra liscia e diverse vie dure in alto. Tredici vie in tre settori: il basso per chi comincia, l'alto e lo strapiombo per chi ha già le gambe.\n\nEsposta a est: la mattina c'è sole pieno, nel pomeriggio la parete va in ombra e la roccia resta fresca. È una falesia da estate, quando a fondovalle fa caldo.\n\nI chiodi sono in buono stato nel settore basso; nell'alto alcune soste sono vecchie e vanno controllate. Portare una corda da 70: il tratto dello strapiombo è lungo.",
+      "avvicinamento": "Quindici minuti a piedi, su un sentiero in salita dolce, dal parcheggio sulla strada."
+    },
+    "parts": [
+      { "group": "Settore basso", "fields": { "nome": "Il rumore dei sassi", "grado": "5a", "lunghezza": 20 } },
+      { "group": "Settore basso", "fields": { "nome": "Piccolo ruscello", "grado": "5b", "lunghezza": 22 } },
+      { "group": "Settore basso", "fields": { "nome": "Sentiero dei camosci", "grado": "5b", "lunghezza": 24 } },
+      { "group": "Settore basso", "fields": { "nome": "Vento di nord", "grado": "6b", "lunghezza": 26 } },
+      { "group": "Settore basso", "fields": { "nome": "Cresta gialla", "grado": "6c", "lunghezza": 24 } },
+      { "group": "Settore alto", "fields": { "nome": "Fessura nera", "grado": "6c", "lunghezza": 22 } },
+      { "group": "Settore alto", "fields": { "nome": "Lastra fredda", "grado": "7a", "lunghezza": 25 } },
+      { "group": "Settore alto", "fields": { "nome": "Pilastro del vecchio", "grado": "7a", "lunghezza": 26 } },
+      { "group": "Settore alto", "fields": { "nome": "Spigolo giusto", "grado": "7b", "lunghezza": 28 } },
+      { "group": "Settore alto", "fields": { "nome": "Sogno di pietra", "grado": "7b", "lunghezza": 28 } },
+      { "group": "Strapiombo", "fields": { "nome": "Tetto del silenzio", "grado": "7b+", "lunghezza": 22 } },
+      { "group": "Strapiombo", "fields": { "nome": "Strapiombo dell'aquila", "grado": "7c", "lunghezza": 20 } },
+      { "group": "Strapiombo", "fields": { "nome": "Piccola formula", "grado": "6a+", "lunghezza": 18 } }
+    ],
+    "reports": [
+      { "observedAt": "2022-07-23", "words": "Il sole arriva presto dalla mattina e scalda la parete già alle dieci. Abbiamo fatto le vie del settore basso, pulite, poca polvere. Camminata breve dal parcheggio, nessuna fatica." },
+      { "observedAt": "2023-06-17", "words": "Giornata fresca, vento da nord in parete alta ma al settore basso si stava bene. Il secondo tiro della fessura è duro per me, mi sono fermato a metà. Chiodi a posto, sosta comoda." },
+      { "observedAt": "2025-08-30", "words": "Tanti in fila per il settore basso già alle nove, meglio arrivare presto. Ho provato la lastra fredda, bella e continua. Le vie del settore alto sono più lunghe, consigliate con la corda da 70." }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        { "label": "Sole del mattino", "quote": "Il sole arriva presto dalla mattina" },
+        { "label": "Avvicinamento breve", "quote": "Camminata breve dal parcheggio" }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        { "label": "Vento dal nord", "quote": "vento da nord in parete alta" },
+        { "label": "Soste comode", "quote": "sosta comoda" }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        { "label": "Affollata al mattino", "quote": "Tanti in fila per il settore basso" },
+        { "label": "Corda da 70 metri", "quote": "la corda da 70" }
+      ],
+      "flags": []
+    }
+  ]
+}

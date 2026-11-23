@@ -1,0 +1,279 @@
+{
+  "osm": "r3161389",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "gta-alpe-baranca-carcoforo",
+    "activity": "escursionismo",
+    "place": "comune-103007",
+    "name": "GTA: Alpe Baranca - Carcoforo",
+    "lat": 45.92705,
+    "lon": 8.09982,
+    "facts": {
+      "difficolta": "E",
+      "localita_partenza": "Alpe Baranca",
+      "come_arrivare": "L'Alpe Baranca si raggiunge con una strada che sale dalla Valle Anzasca, fino a un parcheggio, poi a piedi. L'arrivo a Carcoforo, in Valsesia, richiede un rientro con un secondo mezzo o un trasferimento."
+    },
+    "sections": {
+      "descrizione": "Tappa della Grande Traversata delle Alpi dall'Alpe Baranca a Carcoforo: un passaggio da una valle all'altra attraverso una bocchetta, con una salita iniziale tra pascoli e boschi, poi la discesa sul versante valsesiano.\n\nIl sentiero è ben tracciato, con segni bianchi e rossi delle GTA. Il fondo alterna erba, terra e qualche tratto di pietrame. Si attraversano alpeggi e piccoli nuclei di baite. Il fondovalle di Carcoforo, tra i più isolati del Piemonte, è il traguardo.\n\nIl periodo va da fine giugno a inizio ottobre. La tappa si fa in una giornata, senza grandi difficoltà ma con un lungo tratto di discesa che stanca le gambe."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Via dall'Alpe Baranca alle otto, con il fresco della mattina. Si sale tra le baite e le mucche che ci guardavano passare."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "La bocchetta è larga, piena di vento, e dall'altra parte la Valsesia compare grigia di nuvole. Un cambio di luce netto."
+      },
+      {
+        "observedAt": "2022-09-18",
+        "words": "Segni bianchi e rossi della GTA ovunque, freschi di vernice. Impossibile sbagliare, anche in giornate di foschia."
+      },
+      {
+        "observedAt": "2023-07-10",
+        "words": "Mercoledì tranquillo, un'unica coppia di walser a cavallo incrociata. Il resto è silenzio con le campane in lontananza."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Discesa verso Carcoforo lunga ma dolce, tra larici e radure fiorite. A metà ho tolto lo zaino e mi sono sdraiato sull'erba."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Carcoforo sembra un paese fuori dal tempo: pochi abitanti, case in pietra, e un bar dove ci hanno offerto un caffè corretto."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Una marmotta sul sentiero sopra l'alpeggio, ferma a guardare. Ho aspettato che si decidesse a lasciare passare."
+      },
+      {
+        "observedAt": "2024-07-08",
+        "words": "Giovedì di ferie, un tratto di strada sterrata iniziale e poi sentiero. La tappa si fa in cinque ore, a passo medio."
+      },
+      {
+        "observedAt": "2024-08-03",
+        "words": "Con la nebbia la bocchetta era impossibile da riconoscere, abbiamo seguito i segni uno per uno e atteso un'ora il vento che spingesse via le nuvole."
+      },
+      {
+        "observedAt": "2024-08-31",
+        "words": "Un'alpe con formaggio in vendita lungo il sentiero. Ne ho preso una forma, ottimo, gestito da una famiglia con il sorriso sempre addosso."
+      },
+      {
+        "observedAt": "2024-09-22",
+        "words": "Bella la luce sul versante della Valsesia, con i larici a macchie e i prati verdi nella conca. Una tappa quieta."
+      },
+      {
+        "observedAt": "2025-07-08",
+        "words": "Fontana ricca all'inizio, poi nulla fino alla discesa. Ho riempito tutto all'Alpe Baranca prima di partire."
+      },
+      {
+        "observedAt": "2025-08-02",
+        "words": "Lunedì con aria frizzante e cielo pulito. Il Monte Rosa si intravedeva dalla bocchetta, bianco e lontano."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Il tratto di sentiero sopra l'ultima baita è stato allargato e livellato con l'escavatore: sono sparite le buche ma anche un po' di fascino."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Attenzione al ponte sul rio in discesa: due assi marce, ne manca una. Si passa saltando sulla pietra a sinistra."
+      },
+      {
+        "observedAt": "2026-07-08",
+        "words": "Un temporale estivo ci ha colti sopra Carcoforo. Mezz'ora di acqua e grandine, poi di nuovo sole."
+      },
+      {
+        "observedAt": "2026-08-02",
+        "words": "Tre bambini con noi, nove, dieci e dodici anni: nessun problema a camminare, e hanno chiesto di fare ancora tappe così."
+      },
+      {
+        "observedAt": "2026-08-29",
+        "words": "Fine stagione, i larici dorati e l'aria fredda. Carcoforo ci ha accolti con il camino acceso e una zuppa di cavolo."
+      },
+      {
+        "observedAt": "2026-09-26",
+        "words": "Una famiglia di camosci sul crinale, un'aquila alta. Ho camminato senza fretta, osservando."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Alpeggi e baite",
+          "quote": "tra le baite e le mucche"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bocchetta ventosa",
+          "quote": "La bocchetta è larga, piena di vento"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica GTA",
+          "quote": "Segni bianchi e rossi della GTA ovunque"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero poco frequentato",
+          "quote": "Il resto è silenzio con le campane in lontananza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa verso Carcoforo",
+          "quote": "Discesa verso Carcoforo lunga ma dolce"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Carcoforo e il suo isolamento",
+          "quote": "Carcoforo sembra un paese fuori dal tempo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna lungo il sentiero",
+          "quote": "Una marmotta sul sentiero sopra l'alpeggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa abbordabile",
+          "quote": "La tappa si fa in cinque ore, a passo medio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia alla bocchetta",
+          "quote": "la bocchetta era impossibile da riconoscere"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Alpeggi e baite",
+          "quote": "Un'alpe con formaggio in vendita lungo il sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa verso Carcoforo",
+          "quote": "i larici a macchie e i prati verdi nella conca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua in quota",
+          "quote": "Fontana ricca all'inizio, poi nulla fino alla discesa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bocchetta ventosa",
+          "quote": "Il Monte Rosa si intravedeva dalla bocchetta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero allargato sopra le baite",
+          "kind": "novita",
+          "quote": "Il tratto di sentiero sopra l'ultima baita è stato allargato e livellato con l'escavatore"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponte danneggiato sul rio",
+          "kind": "attenzione",
+          "quote": "due assi marce, ne manca una"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Un temporale estivo ci ha colti sopra Carcoforo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa abbordabile",
+          "quote": "nessun problema a camminare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Carcoforo e il suo isolamento",
+          "quote": "Carcoforo ci ha accolti con il camino acceso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna lungo il sentiero",
+          "quote": "Una famiglia di camosci sul crinale"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

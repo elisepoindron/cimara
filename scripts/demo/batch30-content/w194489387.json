@@ -1,0 +1,109 @@
+{
+  "osm": "w194489387",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-di-ponte-romano",
+    "activity": "falesia",
+    "place": "comune-007065",
+    "name": "Falesia di Ponte Romano",
+    "lat": 45.7423,
+    "lon": 7.65705,
+    "aspect": "O",
+    "altMax": 593,
+    "facts": {
+      "esposizione": "O",
+      "quota_base": 593,
+      "avvicinamento": 10,
+      "localita_partenza": "Saint-Vincent"
+    },
+    "sections": {
+      "note": "Falesia sul torrente, vicino al ponte, con vie facili e un tratto di placca per iniziare. Guarda a ovest: il pomeriggio è al sole, la mattina presto è in ombra.\n\nLe vie più facili si possono fare anche in top rope: dalla sosta alta c'è un ancoraggio. Chiodatura a spit, soste a due punti.\n\nPortare una corda da 50 metri, rinvii e acqua.",
+      "avvicinamento": "Dal parcheggio presso il ponte si scende per un sentiero di dieci minuti, con qualche radice."
+    },
+    "parts": [
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Primo",
+          "grado": "4b",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Placca facile",
+          "grado": "4c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Fessura",
+          "grado": "5a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Diedro",
+          "grado": "5c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Strapiombo",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Ultima",
+          "grado": "6b",
+          "lunghezza": 22
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-06-26",
+        "words": "Caldo, ma sotto il ponte si sta fresco. Ho ripetuto le vie facili in top rope, adatte per iniziare."
+      },
+      {
+        "observedAt": "2024-08-31",
+        "words": "Pochi, ma tutti con il cane. Il torrente è basso e la sosta in ombra è comoda."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Fresco vicino al torrente",
+          "quote": "sotto il ponte si sta fresco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gente con i cani",
+          "quote": "tutti con il cane"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

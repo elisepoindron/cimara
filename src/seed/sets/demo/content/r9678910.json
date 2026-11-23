@@ -1,0 +1,245 @@
+{
+  "osm": "r9678910",
+  "invented": [
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "alta-via-n-1-della-valle-d-aosta-tappa-14",
+    "activity": "escursionismo",
+    "place": "comune-007024",
+    "name": "Alta Via n. 1 della Valle d'Aosta - Tappa 14",
+    "lat": 45.85007,
+    "lon": 7.26909,
+    "facts": {
+      "difficolta": "E",
+      "partenza": 2465,
+      "dislivello": 522,
+      "localita_partenza": "Rifugio Létey-Champillon",
+      "come_arrivare": "La tappa parte dal Rifugio Létey-Champillon, raggiungibile solo a piedi da Rey, sopra Ollomont. Alla fine, a Saint-Rhémy-en-Bosses, ci sono autobus di linea e parcheggi in paese."
+    },
+    "sections": {
+      "descrizione": "Tappa 14 dell'Alta Via n. 1 della Valle d'Aosta: dal Rifugio Létey-Champillon a Saint-Rhémy-en-Bosses, circa 14 km con 520 metri di salita e 1.300 di discesa. Si risale al colle poco sopra il rifugio, poi si scende per prati e vallette fino al paese, nella valle del Gran San Bernardo.\n\nLa giornata è in gran parte in discesa: una lunga serie di tornanti e tratti sentieristici sempre ben marcati, con qualche punto di pietraia e altri attraverso pascoli con mucche. Il panorama dal colle è ampio.\n\nPeriodo consigliato da luglio a settembre. A fine giornata Saint-Rhémy offre cibo e alloggio."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-10",
+        "words": "Si lascia il rifugio con l'aria frizzante e in mezz'ora si è al colle. Da lì la discesa non finisce e fa venire il mal di gambe."
+      },
+      {
+        "observedAt": "2022-08-19",
+        "words": "Venerdì mattina presto, nessuno sul sentiero. Mucche al pascolo che ci hanno fissato come se fossimo degli intrusi."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "Giornata splendida, visibilità fino al Monte Bianco. Qualcuno al colle faceva il picnic con vista."
+      },
+      {
+        "observedAt": "2022-09-25",
+        "words": "Una nebbia che si alzava dalla valle ci ha fatto camminare tra le nuvole per un'ora. Segnavia buoni anche così."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "Qualche nevaio ancora nella conca appena sotto il colle ma senza problemi. Da lì in giù tutto asciutto."
+      },
+      {
+        "observedAt": "2023-07-30",
+        "words": "Discesa lunga: le ginocchia mi hanno parlato per tutto il giorno e per il successivo. Bastoncini indispensabili."
+      },
+      {
+        "observedAt": "2023-08-24",
+        "words": "Giovedì di caldo senza vento. A metà discesa una fontana fredda ci ha salvati."
+      },
+      {
+        "observedAt": "2023-09-17",
+        "words": "Larici che iniziano a ingiallire e un profumo di bosco umido. A Saint-Rhémy abbiamo trovato posto per cena senza prenotare."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Nei pressi del villaggio finale il sentiero attraversa un recinto elettrico con un passaggio apposito. Ricordarsi di richiudere."
+      },
+      {
+        "observedAt": "2024-08-07",
+        "words": "Mercoledì d'agosto, caldo secco. La parte bassa tra le baite è lunga ma almeno è ombreggiata."
+      },
+      {
+        "observedAt": "2024-09-01",
+        "words": "Un cartello nuovo al bivio sopra il villaggio ora indica la variante breve per la strada. Prima si andava a intuito."
+      },
+      {
+        "observedAt": "2024-09-22",
+        "words": "Pomeriggio coperto, qualche goccia. Non c'era niente di scivoloso e siamo arrivati al paese con tempo da sbrigare le commissioni."
+      },
+      {
+        "observedAt": "2025-07-05",
+        "words": "Un tratto del sentiero nella pietraia è stato sistemato con blocchi nuovi dopo una caduta di sassi. Si passa bene ma serve occhio sopra la testa."
+      },
+      {
+        "observedAt": "2025-08-14",
+        "words": "Giovedì di pre-ferragosto, deserto in quota. Dal colle si distinguevano i camosci sulle creste."
+      },
+      {
+        "observedAt": "2025-09-07",
+        "words": "Tutto limpido e freddo. La discesa mi ha occupato la mattina intera, con una pausa lunga alla fontana."
+      },
+      {
+        "observedAt": "2025-10-03",
+        "words": "Venerdì di fine stagione. Vento freddo sul colle ma la discesa al sole regala un tepore che non ti aspetti."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "la discesa non finisce e fa venire il mal di gambe"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mucche al pascolo",
+          "quote": "Mucche al pascolo che ci hanno fissato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Monte Bianco",
+          "quote": "visibilità fino al Monte Bianco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnavia ben visibili",
+          "quote": "Segnavia buoni anche così"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai residui al colle",
+          "quote": "Qualche nevaio ancora nella conca appena sotto il colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "Discesa lunga: le ginocchia mi hanno parlato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fontane lungo la discesa",
+          "quote": "una fontana fredda ci ha salvati"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo a Saint-Rhémy",
+          "quote": "A Saint-Rhémy abbiamo trovato posto per cena"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Recinti dei pascoli",
+          "quote": "il sentiero attraversa un recinto elettrico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parte bassa lunga e ombreggiata",
+          "quote": "La parte bassa tra le baite è lunga"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello nuovo al bivio sopra il villaggio",
+          "kind": "novita",
+          "quote": "Un cartello nuovo al bivio sopra il villaggio"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Fondo asciutto e stabile",
+          "quote": "Non c'era niente di scivoloso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Pietraia sistemata dopo caduta di sassi",
+          "kind": "attenzione",
+          "quote": "Un tratto del sentiero nella pietraia è stato sistemato con blocchi nuovi dopo una caduta di sassi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Camosci sulle creste",
+          "quote": "si distinguevano i camosci sulle creste"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "La discesa mi ha occupato la mattina intera"
+        },
+        {
+          "label": "Fontane lungo la discesa",
+          "quote": "una pausa lunga alla fontana"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole nella discesa",
+          "quote": "la discesa al sole regala un tepore"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

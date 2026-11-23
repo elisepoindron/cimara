@@ -1,0 +1,109 @@
+{
+  "osm": "n1791524199",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "extrepieraz",
+    "activity": "falesia",
+    "place": "comune-007012",
+    "name": "Extrepieraz",
+    "lat": 45.77607,
+    "lon": 7.69732,
+    "aspect": "NE",
+    "altMax": 1425,
+    "facts": {
+      "esposizione": "NE",
+      "quota_base": 1425,
+      "avvicinamento": 20,
+      "localita_partenza": "Brusson"
+    },
+    "sections": {
+      "note": "Parete di gneiss a scaglie, con buchi ben formati. Guarda a nord-est: al mattino è in ombra e il sole arriva nel pomeriggio; in estate conviene arrampicare di mattina.\n\nVie di media difficoltà, chiodate a spit con soste a due spit. Qualche tratto di roccia rotta vicino alla base: fare attenzione al primo tiro.\n\nBasta una corda da 60 metri e una dozzina di rinvii.",
+      "avvicinamento": "Dal parcheggio si scende per un sentiero dal bosco di larici, venti minuti circa."
+    },
+    "parts": [
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Primo tiro",
+          "grado": "4b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Scaglia",
+          "grado": "5a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Fessurina",
+          "grado": "5b",
+          "lunghezza": 17
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Muro verde",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Passo lungo",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Placca",
+          "grado": "4c",
+          "lunghezza": 16
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2023-09-30",
+        "words": "Aria fresca, la parete all'ombra fino alle undici. Abbiamo ripetuto il primo tiro e la scaglia del muro verde."
+      },
+      {
+        "observedAt": "2025-05-12",
+        "words": "Un po' di vento dalla valle, ma la temperatura era perfetta."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Ombra del mattino",
+          "quote": "la parete all'ombra fino alle undici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temperatura perfetta",
+          "quote": "la temperatura era perfetta"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

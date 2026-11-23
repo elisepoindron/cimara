@@ -1,0 +1,252 @@
+{
+  "osm": "r12929124",
+  "invented": [
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "gta-molini-di-calasca-alpe-del-lago",
+    "activity": "escursionismo",
+    "place": "comune-103014",
+    "name": "GTA: Molini di Calasca - Alpe del Lago",
+    "lat": 46.0096,
+    "lon": 8.1851,
+    "facts": {
+      "difficolta": "E",
+      "localita_partenza": "Molini di Calasca",
+      "come_arrivare": "Molini di Calasca si raggiunge dalla Valle Anzasca, nel Verbano-Cusio-Ossola, uscendo dalla strada principale verso il fondovalle. Si lascia l'auto nei pressi dell'abitato; l'arrivo all'Alpe del Lago si raggiunge solo a piedi, quindi il ritorno è per la stessa via oppure con un trasferimento organizzato."
+    },
+    "sections": {
+      "descrizione": "Tappa della Grande Traversata delle Alpi che sale da Molini di Calasca, sul fondovalle, a un alpeggio in quota chiamato Alpe del Lago. Il percorso segue i segnavia della GTA, di difficoltà escursionistica E, e si svolge quasi tutto nel bosco prima di aprirsi sui pascoli alti.\n\nSi parte tra case e terrazzamenti, poi si sale per mulattiere acciottolate e lunghe scalinate in pietra tra castagni e faggi. Più in alto il bosco si dirada e compaiono i prati dell'alpe, con le baite e il lago che dà il nome al luogo.\n\nIl periodo migliore è da maggio a ottobre. Nelle giornate calde la parte bassa è afosa: conviene partire presto e portare acqua."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-05-28",
+        "words": "Partenza da Molini con cielo coperto ma asciutto. Castagni appena in foglia e tutta la prima parte su gradini in pietra, un lavoro di pazienza di chi li ha posati."
+      },
+      {
+        "observedAt": "2022-06-19",
+        "words": "Caldo umido nel fondovalle, poi aria più fresca salendo. All'alpe c'erano le mucche e il lago era ancora pieno di rane."
+      },
+      {
+        "observedAt": "2022-09-16",
+        "words": "Un martedì tranquillo. Ho incrociato solo un signore con il cane e ho fatto la pausa alle baite con il lago davanti, un posto per fermarsi più a lungo."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Funghi lungo la mulattiera e foglie gialle di faggio dappertutto. Con la luce bassa del pomeriggio il bosco diventava tutto dorato."
+      },
+      {
+        "observedAt": "2023-05-28",
+        "words": "Segnavia ben visibili, bianco e rosso, in tutti i bivi. Tra le frazioni sopra Molini però un pezzo di sentiero era invaso dai rovi."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "Partiti alle sei per anticipare la calura. Salita lunga e regolare, senza tratti tecnici, ma nell'ultima ora il sole picchiava senza ombra."
+      },
+      {
+        "observedAt": "2023-08-31",
+        "words": "Feriale di agosto e nessuno ai laghetti. Acqua fredda alla fontana dell'alpe, la cosa migliore dopo quattro ore di salita."
+      },
+      {
+        "observedAt": "2023-10-07",
+        "words": "La mulattiera acciottolata dopo la pioggia della sera prima era scivolosa. Meglio gli scarponi con una buona suola."
+      },
+      {
+        "observedAt": "2024-04-27",
+        "words": "Prima uscita primaverile: bosco ancora spoglio e tanta luce. Sopra i mille metri qualche placca di neve vecchia sulle scale in pietra."
+      },
+      {
+        "observedAt": "2024-06-30",
+        "words": "Hanno ripulito il sentiero dai rovi e rifatto un tratto di muretto franato. Sul tratto in alto sono comparsi cartelli nuovi con i tempi di percorrenza."
+      },
+      {
+        "observedAt": "2024-07-16",
+        "words": "Giorno di ferie. Salita senza fretta, con tre soste e un bagno ai piedi nel ruscello. All'alpe c'era giusto il tempo di un panino."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Una tempesta di fine agosto ha abbattuto due faggi sul sentiero a metà salita: c'è un varco scavato nel tronco ma ci si passa chinandosi."
+      },
+      {
+        "observedAt": "2024-10-27",
+        "words": "Sentiero sistemato dopo gli alberi caduti, ora tutto libero. Nell'ultimo tratto il bosco è ancora pieno di castagne."
+      },
+      {
+        "observedAt": "2025-05-10",
+        "words": "Giornata di sole dopo una settimana di pioggia, ruscelli pieni lungo tutta la salita. Il lago dell'alpe era un po' torbido ma bellissimo."
+      },
+      {
+        "observedAt": "2025-08-31",
+        "words": "Caldo umido nella parte bassa, ci siamo bagnati fino alla maglietta. Poi dall'alpe è arrivata un'aria buona e siamo rinati."
+      },
+      {
+        "observedAt": "2025-09-09",
+        "words": "Mercoledì di nuvole basse che scivolavano tra i faggi. Gradini in pietra bagnati e muschiosi, ho rallentato in discesa."
+      },
+      {
+        "observedAt": "2026-06-27",
+        "words": "Il percorso è sempre segnato bene, ma sull'ultimo bivio prima dell'alpe la freccia era girata verso il vuoto. Ci siamo fidati della mappa."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Gradini in pietra nel bosco",
+          "quote": "tutta la prima parte su gradini in pietra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nella parte bassa",
+          "quote": "Caldo umido nel fondovalle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "Ho incrociato solo un signore con il cane"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori d'autunno",
+          "quote": "foglie gialle di faggio dappertutto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica chiara",
+          "quote": "Segnavia ben visibili, bianco e rosso, in tutti i bivi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita regolare e lunga",
+          "quote": "Salita lunga e regolare, senza tratti tecnici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fontana all'alpe",
+          "quote": "Acqua fredda alla fontana dell'alpe"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietre scivolose col bagnato",
+          "quote": "La mulattiera acciottolata dopo la pioggia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve in primavera",
+          "quote": "qualche placca di neve vecchia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero ripulito e cartelli nuovi",
+          "kind": "novita",
+          "quote": "Sul tratto in alto sono comparsi cartelli nuovi con i tempi di percorrenza."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita regolare e lunga",
+          "quote": "Salita senza fretta, con tre soste"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Faggi caduti sul sentiero",
+          "kind": "attenzione",
+          "quote": "Una tempesta di fine agosto ha abbattuto due faggi sul sentiero a metà salita: c'è un varco scavato nel tronco ma ci si passa chinandosi."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori d'autunno",
+          "quote": "il bosco è ancora pieno di castagne"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua abbondante dopo la pioggia",
+          "quote": "ruscelli pieni lungo tutta la salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nella parte bassa",
+          "quote": "Caldo umido nella parte bassa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietre scivolose col bagnato",
+          "quote": "Gradini in pietra bagnati e muschiosi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica chiara",
+          "quote": "sempre segnato bene"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

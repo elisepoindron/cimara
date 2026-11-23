@@ -1,0 +1,268 @@
+{
+  "osm": "r12185623",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d49",
+    "activity": "escursionismo",
+    "place": "comune-004017",
+    "name": "Via Alpina Blue D49",
+    "lat": 44.58127,
+    "lon": 7.03999,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 849,
+      "localita_partenza": "Bellino",
+      "come_arrivare": "Bellino si raggiunge risalendo la Val Varaita da Sampeyre; il parcheggio è all'ingresso del borgo, vicino alla chiesa. L'arrivo a Serre di Val d'Elva richiede un secondo mezzo o un trasferimento."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu da Bellino, in Val Varaita, a Serre di Val d'Elva, nella valle vicina: circa 9,6 km con 849 m di salita e 626 di discesa. Dal paese si sale per sentieri e mulattiere, tra boschi e pascoli, fino a un colle, poi si scende nella Val d'Elva.\n\nIl percorso è vario: tratti di bosco, pascoli aperti, un paio di pietraie. L'ambiente è silenzioso e poco frequentato, e la discesa finale entra in un paesaggio più dolce e abitato.\n\nIl periodo va da giugno a ottobre. Le giornate lunghe d'estate danno il tempo di arrivare con calma e visitare, sul versante opposto, ciò che resta del borgo."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "Via da Bellino alle sette e mezza con il fresco nel bosco. La mulattiera guadagna quota senza fretta e nelle gambe il ritmo arriva subito."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Dal colle si cambia valle: dietro, Bellino e le sue baite; davanti, i prati di Val d'Elva. Un bel contrasto."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Una sola fontana lungo tutta la tappa, a metà salita. Riempire tutto lì perché poi non c'è altro fino a Serre."
+      },
+      {
+        "observedAt": "2023-07-04",
+        "words": "Mercoledì pieno di sole e di silenzio. Nessuno sul sentiero e un gufo reale sentito nel bosco all'alba."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Pietraia dopo il bosco con grossi massi e qualche passaggio mani-piedi. Non è difficile ma occorre prudenza."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Gli stambecchi erano sul crinale sopra il colle, proprio sulla linea del cielo. Tre esemplari tranquilli."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Il paese di Serre appare solo all'ultimo, dietro una dorsale boscosa. Intanto le gambe fanno già male."
+      },
+      {
+        "observedAt": "2024-07-09",
+        "words": "Giovedì di fine luglio, caldo opprimente nella parte bassa. Molta acqua e cappello, e partenza anticipata."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Segni sbiaditi in un tratto di prato dopo il colle: a destra o a sinistra? Abbiamo scelto bene ma con un po' di fortuna."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Larici che iniziano a ingiallire e funghi vicino al sentiero. Il fondo è asciutto e il passo svelto."
+      },
+      {
+        "observedAt": "2025-07-05",
+        "words": "La discesa verso la Val d'Elva è dolce e lunga, quasi riposante dopo la salita. Un'ora di pascoli in fiore."
+      },
+      {
+        "observedAt": "2025-08-01",
+        "words": "Lunedì grigio e umido, nuvole basse sul colle. Ma la tappa si fa comunque bene, con un buon giacchetto antipioggia."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Un abete caduto attraversa la mulattiera a metà bosco: ora c'è un'apertura tagliata con la motosega e si passa agevolmente."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "I nuovi segnavia nel pascolo sono pali gialli altissimi, impossibili da perdere anche con la nebbia. Finalmente."
+      },
+      {
+        "observedAt": "2026-07-04",
+        "words": "Dopo le piogge di giugno la pietraia è instabile in due punti: un masso grosso si muove sotto il piede. Attenzione soprattutto in discesa."
+      },
+      {
+        "observedAt": "2026-08-03",
+        "words": "Un branco di camosci a quota più bassa del solito, forse per il caldo. Ci siamo fermati a guardarli con il binocolo."
+      },
+      {
+        "observedAt": "2026-08-29",
+        "words": "Tappa che non ha nulla di spettacolare ma è piacevole, silenziosa e varia. La consiglio a chi vuole stare da solo."
+      },
+      {
+        "observedAt": "2026-09-26",
+        "words": "Arrivo a Serre con una birra e una torta in una trattoria del paese. Un bel modo di chiudere la giornata."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Mulattiera nel bosco",
+          "quote": "La mulattiera guadagna quota senza fretta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cambio di valle al colle",
+          "quote": "Dal colle si cambia valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua lungo il percorso",
+          "quote": "Una sola fontana lungo tutta la tappa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero solitario",
+          "quote": "Nessuno sul sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie sul tratto alto",
+          "quote": "Pietraia dopo il bosco con grossi massi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna lungo il sentiero",
+          "quote": "Gli stambecchi erano sul crinale sopra il colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa finale lunga",
+          "quote": "Il paese di Serre appare solo all'ultimo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nella parte bassa",
+          "quote": "caldo opprimente nella parte bassa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica incerta nei pascoli",
+          "quote": "Segni sbiaditi in un tratto di prato dopo il colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mulattiera nel bosco",
+          "quote": "Larici che iniziano a ingiallire"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa finale lunga",
+          "quote": "La discesa verso la Val d'Elva è dolce e lunga"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia al colle",
+          "quote": "nuvole basse sul colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Albero caduto rimosso dal sentiero",
+          "kind": "novita",
+          "quote": "un'apertura tagliata con la motosega"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Pali segnavia nel pascolo",
+          "kind": "novita",
+          "quote": "I nuovi segnavia nel pascolo sono pali gialli altissimi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie sul tratto alto",
+          "quote": "la pietraia è instabile in due punti"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Pietraia instabile dopo le piogge",
+          "kind": "attenzione",
+          "quote": "un masso grosso si muove sotto il piede"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna lungo il sentiero",
+          "quote": "Un branco di camosci a quota più bassa del solito"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero solitario",
+          "quote": "silenziosa e varia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

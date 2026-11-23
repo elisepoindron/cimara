@@ -1,0 +1,276 @@
+{
+  "osm": "r4042503",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "percorso-ciclabile-balmuccia-alagna",
+    "activity": "mountain_bike",
+    "place": "comune-002078",
+    "name": "Percorso ciclabile Balmuccia-Alagna",
+    "lat": 45.8193,
+    "lon": 8.00121,
+    "facts": {},
+    "sections": {
+      "descrizione": "Il percorso ciclopedonale dell'Alta Valsesia collega Balmuccia ad Alagna Valsesia lungo circa 31 chilometri, seguendo il corso del Sesia su un fondo che alterna asfalto, sterrato compatto e vecchie strade comunali. Il dislivello totale è di circa 770 metri in salita, ma è spalmato su tutta la lunghezza e si sente poco.\n\nSi passa per borghi, ponti, vecchie chiese e punti di interesse artistico e culturale: il percorso è pensato per chi vuole conoscere la valle e non cerca la tecnica. Qualche tratto di strada è condiviso con le auto, soprattutto nei paesi, ma sono tratti brevi e a bassa velocità.\n\nLa salita è dolce quasi ovunque; solo negli ultimi chilometri verso Alagna la pendenza si fa più evidente. Chi non vuole pedalare il ritorno può rientrare con il treno fino a Varallo o con i bus locali, informandosi prima sugli orari e sul trasporto bici.",
+      "note": "Il periodo migliore va da aprile a ottobre; in inverno nei tratti ombreggiati si può trovare ghiaccio e ad Alagna a volte neve fino ai primi giorni di primavera. L'acqua si trova nei paesi lungo il percorso.",
+      "avvicinamento": "Il punto di partenza è Balmuccia, dove ci sono parcheggi vicino alla stazione. L'arrivo è ad Alagna Valsesia, alla testata della valle."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-04-24",
+        "words": "Da Balmuccia ad Alagna in giornata, andata in bici e ritorno in macchina con un'amica. Sempre in leggera salita ma niente di faticoso, il fiume ci accompagna per tutto il tragitto."
+      },
+      {
+        "observedAt": "2022-05-21",
+        "words": "Tre ore e mezza con tutte le soste fotografiche. Passa per piccoli borghi con chiesette dipinte, ci siamo fermati almeno quattro volte a guardare gli affreschi sui muri esterni."
+      },
+      {
+        "observedAt": "2022-06-15",
+        "words": "Un mercoledì tranquillo, quasi nessuno in giro. Qualche tratto con le auto nei paesi ma sono pochi metri e tutti vanno piano, nessun problema anche con i bambini."
+      },
+      {
+        "observedAt": "2022-07-09",
+        "words": "Fatto con la famiglia, bimbi di 8 e 11 anni sulle bici da ragazzo. Nessuna difficoltà tecnica, solo l'ultimo tratto verso Alagna dove la pendenza si sente e abbiamo spinto un po'."
+      },
+      {
+        "observedAt": "2022-08-14",
+        "words": "Ad Alagna si respirava aria fresca anche in agosto, dopo il caldo del fondovalle sembra un altro mondo. Gelato in piazza e treno-bus per tornare, trasporto bici senza problemi."
+      },
+      {
+        "observedAt": "2022-09-18",
+        "words": "In e-bike da Alagna a Balmuccia, quindi tutto in discesa. Il fondo è buono ma in alcuni tratti sterrati c'è ghiaia sciolta, meglio rallentare nelle curve."
+      },
+      {
+        "observedAt": "2022-10-12",
+        "words": "Il giorno di riposo dal lavoro e lungo il Sesia i colori dell'autunno cominciano a farsi vedere. Poca gente, cielo grigio ma nessuna pioggia. Fermato a un bar di Riva Valdobbia per un caffè."
+      },
+      {
+        "observedAt": "2023-04-29",
+        "words": "Dopo l'inverno la ciclabile ha qualche buca e un tratto con ghiaia portata dal fiume: niente di grave ma meglio prestare attenzione nei punti dove il Sesia ha esondato."
+      },
+      {
+        "observedAt": "2023-05-27",
+        "words": "Con la gravel e un paio di borse, un giro lungo con sosta pranzo a Varallo. La segnaletica del percorso è chiara e quasi sempre presente, mi sono perso una sola volta in un paese dove manca un cartello."
+      },
+      {
+        "observedAt": "2023-07-02",
+        "words": "Caldo nel fondovalle ma i boschi lungo il fiume danno ombra e fresco. Un giro pieno di sorprese: ponti antichi, cappelle con affreschi, una fontana di pietra con acqua gelida a Scopa."
+      },
+      {
+        "observedAt": "2023-08-23",
+        "words": "Giornata di ferie. Al mattino presto quasi nessuno, i pochi incontrati erano escursionisti diretti ai sentieri. Il percorso è pedalabile anche con una city bike robusta, non serve altro."
+      },
+      {
+        "observedAt": "2023-10-08",
+        "words": "Ultimo giro stagionale per me. Il fiume è in magra e si sente il silenzio della valle. Bellissima luce d'autunno sulle chiese in pietra, ci siamo fermati a lungo."
+      },
+      {
+        "observedAt": "2024-04-20",
+        "words": "Il tratto tra Balmuccia e Scopa è stato rifatto, asfalto nuovo e liscio. Si pedala molto più veloci e senza scossoni, peccato solo che sia breve."
+      },
+      {
+        "observedAt": "2024-06-08",
+        "words": "Con il gruppo di amici, un giro di gruppo organizzato dal paese. Eravamo una ventina e la ciclabile ha retto benissimo: ampia, quasi sempre separata dal traffico, con aree picnic lungo il fiume."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Un cartello avvisa che un ponticello vicino a Campertogno è chiuso per lavori. Il giro attorno è di circa un chilometro, segnalato con frecce gialle, ma meglio saperlo prima di partire."
+      },
+      {
+        "observedAt": "2025-05-18",
+        "words": "Alagna a metà maggio ancora con lingue di neve sulle cime e aria fresca di sera. Ho preso il treno fino a Varallo con la bici senza prenotazione, c'era posto."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Un giro un po' sotto la pioggia: asfalto bagnato e un paio di tratti allagati, ma niente di drammatico. Consiglio comunque i parafanghi, sennò l'acqua schizza tutta."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Il fiume accanto al percorso",
+          "quote": "il fiume ci accompagna per tutto il tragitto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Borghi e chiese lungo il percorso",
+          "quote": "piccoli borghi con chiesette dipinte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Traffico solo nei paesi",
+          "quote": "Qualche tratto con le auto nei paesi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita più dura verso Alagna",
+          "quote": "l'ultimo tratto verso Alagna dove la pendenza si sente"
+        },
+        {
+          "label": "Adatto alle famiglie",
+          "quote": "Fatto con la famiglia, bimbi di 8 e 11 anni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresco in quota rispetto al fondovalle",
+          "quote": "dopo il caldo del fondovalle sembra un altro mondo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ghiaia sciolta in alcuni tratti",
+          "quote": "c'è ghiaia sciolta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Il fiume accanto al percorso",
+          "quote": "lungo il Sesia i colori"
+        },
+        {
+          "label": "Caffè nei paesi",
+          "quote": "Fermato a un bar di Riva Valdobbia per un caffè"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ghiaia sciolta in alcuni tratti",
+          "quote": "un tratto con ghiaia portata dal fiume"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Tratto danneggiato dalla piena",
+          "kind": "attenzione",
+          "quote": "un tratto con ghiaia portata dal fiume"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica generalmente buona",
+          "quote": "La segnaletica del percorso è chiara e quasi sempre presente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Borghi e chiese lungo il percorso",
+          "quote": "cappelle con affreschi"
+        },
+        {
+          "label": "Fresco in quota rispetto al fondovalle",
+          "quote": "boschi lungo il fiume danno ombra e fresco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatto alle famiglie",
+          "quote": "pedalabile anche con una city bike robusta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Borghi e chiese lungo il percorso",
+          "quote": "luce d'autunno sulle chiese in pietra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto nuovo asfaltato tra Balmuccia e Scopa",
+          "kind": "novita",
+          "quote": "Il tratto tra Balmuccia e Scopa è stato rifatto"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Traffico solo nei paesi",
+          "quote": "quasi sempre separata dal traffico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica generalmente buona",
+          "quote": "segnalato con frecce gialle"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Ponticello chiuso per lavori a Campertogno",
+          "kind": "attenzione",
+          "quote": "un ponticello vicino a Campertogno è chiuso per lavori"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresco in quota rispetto al fondovalle",
+          "quote": "aria fresca di sera"
+        },
+        {
+          "label": "Rientro in treno con la bici",
+          "quote": "Ho preso il treno fino a Varallo con la bici senza prenotazione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parafanghi con la pioggia",
+          "quote": "Consiglio comunque i parafanghi"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "osm": "n9084712221",
+  "invented": [
+    "grado_obbligatorio",
+    "avvicinamento",
+    "protezione",
+    "localita_partenza",
+    "come_arrivare",
+    "tiri",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "l-apparizione-del-cristo-verde",
+    "activity": "multipitch",
+    "place": "comune-001073",
+    "name": "L’apparizione del Cristo verde",
+    "lat": 45.44183,
+    "lon": 7.27358,
+    "aspect": "SE",
+    "altMax": 1991,
+    "facts": {
+      "grado_obbligatorio": "5c",
+      "avvicinamento": 25,
+      "protezione": "da_integrare",
+      "localita_partenza": "Ceresole Reale",
+      "come_arrivare": "Da Cuorgnè si risale la Valle dell'Orco fino a Ceresole Reale e si lascia l'auto negli spiazzi lungo la strada prima del lago. Da lì un sentiero porta al bosco sotto la parete.",
+      "quota_base": 1661,
+      "esposizione": "SE",
+      "grado_max": "6b",
+      "sviluppo": 330,
+      "tiri": 7
+    },
+    "sections": {
+      "descrizione": "Una via di sette tiri su granito compatto, che sale una placconata a sud-est ben visibile dalla strada. Il nome viene dalla grande macchia di lichene verde che segna il tiro centrale: una volta arrivati lì, la via cambia carattere e passa dalle placche alle fessure.\n\nLa chiodatura è presente ma non generosa: le soste sono attrezzate, i tratti più duri sono protetti a spit, ma nei diedri e sulle fessure ci si aspetta di integrare. Il passo più impegnativo è un 6b di aderenza sul quinto tiro.\n\nUna salita elegante più che aggressiva, da fare con calma e senza correre.",
+      "discesa": "In doppia lungo la via, con corde da 60 metri, usando le soste attrezzate; le doppie sono sette e ben allineate. In alternativa, dalla sosta finale una traccia a sinistra rientra a piedi verso la base in circa quaranta minuti.",
+      "materiale": "Corde da 60 metri, dodici rinvii, una serie di friend dallo 0.3 al 2 e qualche dado, come dice la relazione sul posto; casco consigliato per la pietraia alla base.",
+      "avvicinamento": "Dal parcheggio un sentiero nel bosco di larici sale fino a una pietraia; si attraversa a destra e si arriva alla base, sotto una placca chiara con la macchia verde in alto."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 45,
+          "descrizione": "Placca appoggiata con tacche larghe, soste comode."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 50,
+          "descrizione": "Placca poi diedro corto, un friend piccolo aiuta."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 45,
+          "descrizione": "Traverso a destra su lame, poi dritti."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 50,
+          "descrizione": "Fessura obliqua con incastri di dita, si integra bene."
+        }
+      },
+      {
+        "fields": {
+          "grado": "6b",
+          "lunghezza": 45,
+          "descrizione": "Il tiro chiave: placca liscia di aderenza passando accanto alla macchia verde."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 50,
+          "descrizione": "Diedro con fessura sul fondo, bella arrampicata continua."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 45,
+          "descrizione": "Placche facili e rocce rotte fino alla sosta finale."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-06-18",
+        "words": "Prima visita in zona dopo l'inverno. Via ancora un po' umida nei primi due tiri, poi granito asciutto. Il tiro della macchia verde è proprio come lo descrivono: aderenza pura e un passo di fiducia sopra il secondo spit."
+      },
+      {
+        "observedAt": "2022-07-09",
+        "words": "Via bella ma da prendere sul serio: gli spit ci sono dove servono davvero, però sulle fessure dei tiri quattro e sei abbiamo messo parecchi friend. Meno male che avevamo anche i dadi."
+      },
+      {
+        "observedAt": "2022-08-24",
+        "words": "Giornata di ferie in infrasettimanale e la parete tutta per noi. Nessuno in giro, nemmeno sulla strada. Granito caldo, sole fino a mezzogiorno e poi ombra dal quinto tiro."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Partiti presto per evitare il caldo, arrivati in cima prima delle undici. La discesa in doppia scorre bene, le soste sono tutte in fila e le catene sono in buono stato."
+      },
+      {
+        "observedAt": "2023-05-27",
+        "words": "Stagione aperta con questa. Alla base c'era ancora un po' di neve sporca e il sentiero era fangoso, per il resto roccia perfetta. Il quinto tiro mi ha fatto sudare, il 6b non regala niente."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Il sentiero d'avvicinamento è corto, venticinque minuti con zaino pesante. Ideale per chi parte da Torino e vuole una via vera senza alzarsi alle tre."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "Con il bambino di dodici anni al primo multipitch. Bellissima esperienza ma i tratti di erba al terzo tiro lo hanno messo in crisi. Una buona via per iniziare a capire cosa vuol dire protezione veloce."
+      },
+      {
+        "observedAt": "2023-08-09",
+        "words": "Mercoledì di agosto, in valle pienissimo di turisti e noi su una via in pace. Qualche goccia al quinto tiro ma niente di serio."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Autunno in valle, i larici stanno diventando gialli e la luce sulla parete è ottima. Granito freddo alle mani nelle prime ore ma poi il sole arriva."
+      },
+      {
+        "observedAt": "2024-06-08",
+        "words": "Alla sosta del terzo tiro ci siamo accorti che uno spit si muoveva. Avvisati con messaggio a chi gestisce il posto, ma intanto sostate sul secondo punto con un friend."
+      },
+      {
+        "observedAt": "2024-07-20",
+        "words": "Tornato dopo due anni. Lo spit della sosta tre è stato sostituito con un fix nuovo, ben fatto. Il resto della via è identico, compresa la bellezza del diedro del sesto tiro."
+      },
+      {
+        "observedAt": "2024-08-14",
+        "words": "Giovedì col caldo in pianura, quassù si stava bene. Granito pulito, quasi lucido nei punti di appoggio. Siamo stati lenti, quasi sette ore tra tutto, ma niente fretta."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Una via che resta in testa. Le placche non sono mai banali e il verde del lichene sembra quasi finto al sole. Consiglio un bel paio di scarpette comode, i piedi lavorano parecchio."
+      },
+      {
+        "observedAt": "2025-06-14",
+        "words": "Sentiero segnato di fresco con bolli rossi nella pietraia, molto più facile ritrovare il passaggio. Prima si andava a naso."
+      },
+      {
+        "observedAt": "2025-07-26",
+        "words": "Giornata intensa con altre due cordate. Si è fatta una piccola coda alla sosta due ma tutti molto cortesi. In discesa abbiamo fatto le doppie in tre cordate sullo stesso asse."
+      },
+      {
+        "observedAt": "2025-09-12",
+        "words": "Venerdì di fine estate, aria tersa e vista fino alla pianura dalla cima. Via sempre piacevole, chiodatura che chiede attenzione ma mai spaventosa."
+      },
+      {
+        "observedAt": "2026-06-27",
+        "words": "Primo giro stagionale. Alla base una scarica di sassi recente aveva ingombrato la pietraia, tenere il casco in testa fin dal parcheggio. Oltre il secondo tiro tutto in ordine."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Aderenza sul tiro chiave",
+          "quote": "aderenza pura e un passo di fiducia sopra il secondo spit"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Da integrare con friend",
+          "quote": "sulle fessure dei tiri quattro e sei abbiamo messo parecchi friend"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "la parete tutta per noi"
+        },
+        {
+          "label": "Sole al mattino",
+          "quote": "sole fino a mezzogiorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Doppie lineari",
+          "quote": "La discesa in doppia scorre bene"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aderenza sul tiro chiave",
+          "quote": "Il quinto tiro mi ha fatto sudare, il 6b non regala niente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Il sentiero d'avvicinamento è corto, venticinque minuti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Via per iniziare",
+          "quote": "Una buona via per iniziare a capire cosa vuol dire protezione veloce"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "in valle pienissimo di turisti e noi su una via in pace"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "poi il sole arriva"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Spit allentato alla S3",
+          "kind": "attenzione",
+          "quote": "Alla sosta del terzo tiro ci siamo accorti che uno spit si muoveva."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Diedro bello",
+          "quote": "la bellezza del diedro del sesto tiro"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Sosta tre rifatta",
+          "kind": "novita",
+          "quote": "Lo spit della sosta tre è stato sostituito con un fix nuovo, ben fatto."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "quasi sette ore tra tutto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aderenza sul tiro chiave",
+          "quote": "Le placche non sono mai banali"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Avvicinamento segnato",
+          "kind": "novita",
+          "quote": "Sentiero segnato di fresco con bolli rossi nella pietraia, molto più facile ritrovare il passaggio."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Doppie lineari",
+          "quote": "In discesa abbiamo fatto le doppie in tre cordate sullo stesso asse"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Da integrare con friend",
+          "quote": "chiodatura che chiede attenzione ma mai spaventosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sassi caduti alla base",
+          "kind": "attenzione",
+          "quote": "Alla base una scarica di sassi recente aveva ingombrato la pietraia, tenere il casco in testa fin dal parcheggio."
+        }
+      ]
+    }
+  ]
+}

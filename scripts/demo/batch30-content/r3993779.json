@@ -1,0 +1,56 @@
+{
+  "osm": "r3993779",
+  "invented": [
+    "description",
+    "reports",
+    "esposizione"
+  ],
+  "itinerary": {
+    "key": "sentiero-bonze-liet",
+    "activity": "escursionismo",
+    "place": "comune-007023",
+    "name": "Sentiero Bonze Liet",
+    "lat": 45.57479,
+    "lon": 7.72427,
+    "aspect": "SE",
+    "altMax": 1701,
+    "facts": {
+      "partenza": 1701,
+      "localita_partenza": "Donnas"
+    },
+    "sections": {
+      "descrizione": "Sentiero della rete comunale di Donnas, segnato con il numero 4A, che attraversa boschi di castagni e poi prati sopra la valle. Il fondo è di terra battuta, in qualche punto con gradini di pietra.\n\nLungo il percorso ci sono due punti panoramici, uno sulla valle d'Aosta e uno sul fondovalle del torrente. Il ritorno si fa per la stessa strada."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-09-25",
+        "words": "Castagne a terra, abbiamo raccolto un sacchetto. Il sentiero è largo e tranquillo."
+      },
+      {
+        "observedAt": "2024-03-30",
+        "words": "Primo caldo, ma sotto i castagni era fresco. Abbiamo incontrato solo due persone."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Castagne a terra",
+          "quote": "Castagne a terra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "Abbiamo incontrato solo due persone"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

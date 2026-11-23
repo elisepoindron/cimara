@@ -1,0 +1,325 @@
+{
+  "osm": "w462409013",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "ferrata-dei-picasass",
+    "activity": "via_ferrata",
+    "place": "comune-103008",
+    "name": "Ferrata dei Picasass",
+    "lat": 45.91277,
+    "lon": 8.47883,
+    "altMax": 595,
+    "facts": {},
+    "sections": {
+      "descrizione": "Una ferrata sopra Baveno, sul Lago Maggiore, intitolata ai picasass, gli scalpellini del granito che per generazioni hanno lavorato queste pareti. Il primo punto attrezzato è a poco meno di seicento metri: si fa quasi tutto l'anno, con l'esclusione dei giorni di gelo e di pioggia battente.\n\nIl livello è medio-impegnativo. Il granito è compatto e a tratti levigato, con staffe e cavo ben ancorati; non mancano passaggi verticali e qualche traverso su placca dove i piedi si fidano più dell'attrito che dei pedali. Il lago resta alle spalle per buona parte della salita e fa da sfondo a ogni sosta.\n\nSi porta il kit completo, casco e guanti. D'estate conviene salire presto: il sole sul granito scalda in fretta.",
+      "avvicinamento": "Dal paese si segue la strada fino a un parcheggio in prossimità dell'attacco e poi un sentiero nel bosco di castagni, in una ventina di minuti, fino alla base della parete."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-03-19",
+        "words": "Una delle prime giornate di sole dell'anno e una delle prime ferrate che ho fatto. Il granito era ancora freddo ma asciutto, e dalla parete si vedeva il lago azzurro senza una nuvola. Il traverso su placca mi ha fatto sudare."
+      },
+      {
+        "observedAt": "2022-05-10",
+        "words": "Martedì pomeriggio, sono libero e vengo qui spesso. Il granito è bello e solido, ma i piedi scivolano sulle placche levigate dai troppi passaggi. Vale la pena usare scarpe con suola buona."
+      },
+      {
+        "observedAt": "2022-06-26",
+        "words": "Domenica con il caldo, partenza alle nove e già un po' tardi: in alto la parete era un forno. Fila ai passaggi verticali, tutti con il casco e il sorriso. Poi gelato sul lungolago."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Giornata limpidissima di inizio ottobre. Il lago in basso sembrava dipinto e le montagne dall'altra parte si vedevano nitidissime. Granito asciutto, nessun problema."
+      },
+      {
+        "observedAt": "2022-12-03",
+        "words": "Dicembre ma la ferrata è fattibile: sole di mezzogiorno, qualche chiazza di umido all'ombra. Abbiamo incontrato un solo altro gruppo. Il cavo era freddo ma non ghiacciato."
+      },
+      {
+        "observedAt": "2023-03-25",
+        "words": "Primo giro dopo l'inverno con gli amici del club, siamo arrivati in dodici e abbiamo aspettato turno ai primi passi. La parete è un'ottima palestra per prendere confidenza con il kit."
+      },
+      {
+        "observedAt": "2023-04-18",
+        "words": "Martedì di ferie dopo le feste. Silenzio completo, solo il rumore dei nostri moschettoni. Il granito era caldo e la salita è stata una passeggiata, dal punto di vista emotivo. L'esposizione c'è ma non è esagerata."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "Caldo africano, pessima idea salire a mezzogiorno. Alla fine abbiamo fatto la ferrata ma le mani bruciavano sul cavo. Mai più senza guanti e acqua in abbondanza."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Sabato a fine estate. Ho trovato i cavi sostituiti sul tratto alto, nuovi e lucidi, con ancoraggi diversi dai vecchi. Il granito è sempre lui: liscio, solido, bellissimo."
+      },
+      {
+        "observedAt": "2023-11-11",
+        "words": "Una bella giornata di fine autunno, aria fresca e il lago che riluceva. A metà salita abbiamo fatto una pausa per guardare le barche in basso. Meno gente del solito, più silenzio."
+      },
+      {
+        "observedAt": "2024-03-30",
+        "words": "Pasqua anticipata, famiglia al seguito. I figli adolescenti hanno fatto la prima ferrata e sono stati bravissimi. Un po' di coda all'attacco e poi tutto fila liscio."
+      },
+      {
+        "observedAt": "2024-05-22",
+        "words": "Mercoledì primaverile, clima perfetto. Un tratto di sentiero di avvicinamento è stato chiuso per lavori, c'è una deviazione di dieci minuti segnalata con bolli rossi. Per il resto tutto in ordine."
+      },
+      {
+        "observedAt": "2024-08-04",
+        "words": "Partiti alle sette per evitare il caldo e funziona: alle undici eravamo già giù. In alto, sul granito caldo, un'ora dopo non sarebbe stato possibile. Poi bagno nel lago, il vero premio."
+      },
+      {
+        "observedAt": "2024-10-19",
+        "words": "Sabato di ottobre, tantissima gente e coda a ogni passaggio. Siamo stati tre ore per un percorso che di solito si fa in due. Ma il sole c'era e il lago pure, quindi nessuna lamentela."
+      },
+      {
+        "observedAt": "2025-02-15",
+        "words": "Una di quelle giornate secche di febbraio che invitano. Granito freddissimo, mani gelate nonostante i guanti, ma nessuno sul percorso. Il cavo non aveva neanche un velo di ghiaccio."
+      },
+      {
+        "observedAt": "2025-04-27",
+        "words": "Il sentiero d'avvicinamento è tornato quello di prima, con una nuova segnaletica più chiara. Ferrata soleggiata e la fila ragionevole, la vista sul lago non delude mai."
+      },
+      {
+        "observedAt": "2025-06-12",
+        "words": "Giovedì di giugno con un temporale in arrivo nel pomeriggio: siamo scesi prima delle tre e abbiamo fatto bene. Il granito bagnato è davvero insidioso, si vede dai segni lasciati dalle suole."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Sabato di fine estate. Una marmotta no, ma uno scoiattolo ha seguito i nostri panini lungo il sentiero. Granito caldo e pareti luminose, giornata tranquilla."
+      },
+      {
+        "observedAt": "2026-03-28",
+        "words": "Primo bel sabato di primavera, siamo partiti presto e c'era già fila all'attacco. Sul tratto verticale un chiodo a pedale sembrava un po' lento, lo abbiamo segnalato. Per il resto, ferrata solida."
+      },
+      {
+        "observedAt": "2026-10-14",
+        "words": "Mercoledì di ottobre, giornata di sole e un'aria da cartolina. Il lago brillava e la parete era tutta nostra. Uno dei posti dove salire è un piacere anche per chi, come me, non ama l'esposizione."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "dalla parete si vedeva il lago azzurro"
+        },
+        {
+          "label": "Placche lisce",
+          "quote": "Il traverso su placca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche lisce",
+          "quote": "i piedi scivolano sulle placche levigate"
+        },
+        {
+          "label": "Granito solido",
+          "quote": "Il granito è bello e solido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo sul granito",
+          "quote": "in alto la parete era un forno"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Fila ai passaggi verticali"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "Il lago in basso sembrava dipinto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fattibile d'inverno",
+          "quote": "Dicembre ma la ferrata è fattibile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "abbiamo aspettato turno ai primi passi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Silenzio completo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo sul granito",
+          "quote": "le mani bruciavano sul cavo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Granito solido",
+          "quote": "Il granito è sempre lui"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cavi sostituiti nel tratto alto",
+          "kind": "novita",
+          "quote": "Ho trovato i cavi sostituiti sul tratto alto, nuovi e lucidi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "il lago che riluceva"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Un po' di coda all'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Deviazione sul sentiero di avvicinamento",
+          "kind": "attenzione",
+          "quote": "c'è una deviazione di dieci minuti segnalata con bolli rossi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo sul granito",
+          "quote": "sul granito caldo"
+        },
+        {
+          "label": "Vista sul lago",
+          "quote": "Poi bagno nel lago"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "tantissima gente e coda a ogni passaggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fattibile d'inverno",
+          "quote": "giornate secche di febbraio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "la vista sul lago non delude mai"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Segnaletica rifatta sul sentiero",
+          "kind": "novita",
+          "quote": "con una nuova segnaletica più chiara"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche lisce",
+          "quote": "Il granito bagnato è davvero insidioso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo sul granito",
+          "quote": "Granito caldo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "c'era già fila all'attacco"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Pedale allentato sul tratto verticale",
+          "kind": "attenzione",
+          "quote": "un chiodo a pedale sembrava un po' lento"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "la parete era tutta nostra"
+        },
+        {
+          "label": "Vista sul lago",
+          "quote": "Il lago brillava"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

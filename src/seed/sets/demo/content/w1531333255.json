@@ -1,0 +1,329 @@
+{
+  "osm": "w1531333255",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-del-rifuio-malinvern-settore-dei-bevitori",
+    "activity": "falesia",
+    "place": "comune-004248",
+    "name": "Falesia del Rifuio Malinvern settore dei Bevitori",
+    "lat": 44.22055,
+    "lon": 7.18637,
+    "aspect": "O",
+    "altMax": 1824,
+    "facts": {
+      "quota_base": 1824,
+      "esposizione": "O",
+      "avvicinamento": 15,
+      "localita_partenza": "Vinadio"
+    },
+    "sections": {
+      "note": "Il settore dei Bevitori è una parete di gneiss a 1820 metri, rivolta a ovest, poco sotto il rifugio Malinvern. Dieci vie dal 5c al 6b+, lunghe fino a 17 metri: placche corte, compatte, con prese buone e qualche passo di equilibrio. Le soste sono a catena.\n\nEssendo esposta a ovest, la parete resta all'ombra la mattina e prende il sole dal primo pomeriggio fino al tramonto, il che la rende comoda nelle giornate di caldo: si arriva al rifugio, si sale e si scala fino a sera. Da giugno a ottobre.\n\nLa vicinanza del rifugio rende il posto ideale per una giornata di gruppo: si può combinare una via, una pausa e un'altra via.",
+      "avvicinamento": "Dal rifugio si segue un sentiero che attraversa il prato e risale fra i massi per un quarto d'ora; la parete è visibile fin da subito e ci si arriva senza possibilità di sbagliare."
+    },
+    "parts": [
+      {
+        "group": "Bevitori",
+        "fields": {
+          "nome": "Primo Giro",
+          "grado": "5c",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Bevitori",
+        "fields": {
+          "nome": "Un Sorso Solo",
+          "grado": "5c",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Bevitori",
+        "fields": {
+          "nome": "Brindisi",
+          "grado": "5c+",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Bevitori",
+        "fields": {
+          "nome": "Genepì",
+          "grado": "6a",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Bevitori",
+        "fields": {
+          "nome": "Il Taglio",
+          "grado": "6a",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Bevitori",
+        "fields": {
+          "nome": "Doppio Malto",
+          "grado": "6a+",
+          "lunghezza": 17
+        }
+      },
+      {
+        "group": "Bevitori",
+        "fields": {
+          "nome": "Ultimo Bicchiere",
+          "grado": "6a+",
+          "lunghezza": 17
+        }
+      },
+      {
+        "group": "Bevitori",
+        "fields": {
+          "nome": "Vino Rosso",
+          "grado": "6b",
+          "lunghezza": 17
+        }
+      },
+      {
+        "group": "Bevitori",
+        "fields": {
+          "nome": "Sbornia Lenta",
+          "grado": "6b",
+          "lunghezza": 17
+        }
+      },
+      {
+        "group": "Bevitori",
+        "fields": {
+          "nome": "Il Bevitore",
+          "grado": "6b+",
+          "lunghezza": 17
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-24",
+        "words": "Siamo arrivati al rifugio alle dieci e alle undici eravamo sotto la parete, all'ombra. Dieci vie corte e piacevoli, una giornata da panini e dita calde. Il settore è proprio sotto il rifugio, comodissimo."
+      },
+      {
+        "observedAt": "2022-08-10",
+        "words": "Mercoledì pomeriggio con tutto il sole addosso. Il Bevitore è una via divertente con un passo chiave nel mezzo. Poi birra e polenta al rifugio, che ha davvero il suo fascino."
+      },
+      {
+        "observedAt": "2022-08-28",
+        "words": "Sabato di fine agosto e il rifugio era pieno di gente. Qui nel settore però eravamo in pochi: le vie sono corte e la fila si smaltisce in fretta. Il prato davanti è perfetto per i bambini."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Settembre, aria limpida. Sbornia Lenta è una 6b con un traverso lunghissimo che ci ha fatto penare. Alle quattro la parete era in pieno sole e si stava benissimo."
+      },
+      {
+        "observedAt": "2023-06-30",
+        "words": "La neve era ancora sul prato e un'ora di fatica per aprire il sentiero. Poi sulle vie tutto asciutto. Un settore comodo anche per una giornata corta, per esempio dopo una visita al rifugio."
+      },
+      {
+        "observedAt": "2023-07-20",
+        "words": "Giovedì in settimana, nessuno. Vento freddo di mattina e sole caldo nel pomeriggio, con differenza di venti gradi. La roccia di mattina è gelata, meglio cominciare alle dieci."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Abbiamo portato un gruppo di amici non scalatori che si sono divertiti a fare il tifo. Genepì è la via più bella, con prese a incastro e passi regolari. In cima si vede il rifugio sotto di sé."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Meteo incerto: cielo grigio, vento e qualche goccia. Abbiamo salito cinque vie prima che la nebbia mangiasse tutto. Il rifugio è stato un buon posto dove aspettare che passasse."
+      },
+      {
+        "observedAt": "2024-07-12",
+        "words": "Venerdì di inizio estate. Pochissimo vento, aria chiara. Un'altra giornata comoda: sole di pomeriggio e ombra alle spalle di mattina. Una coppia con il cane dormiva sul prato."
+      },
+      {
+        "observedAt": "2024-08-04",
+        "words": "Sulle vie centrali qualcuno ha spazzolato e tolto i licheni, e le soste sono state tutte sostituite con anelli nuovi in acciaio. Si vede il lavoro di qualche volontario del posto. Grazie a chi l'ha fatto."
+      },
+      {
+        "observedAt": "2024-08-31",
+        "words": "Sabato di fine estate, con un temporale fortissimo arrivato alle tre. Ci siamo rifugiati dentro il rifugio con altri venti scalatori. Il meteo qui può cambiare in venti minuti, meglio non sottovalutarlo."
+      },
+      {
+        "observedAt": "2024-09-18",
+        "words": "Mercoledì d'autunno, pochissima gente. Le vie sono scivolose dopo la pioggia e dopo un po' ho preferito fermarmi alla quinta. Un posto bello per chi cerca solitudine e un bicchiere di vino."
+      },
+      {
+        "observedAt": "2025-07-05",
+        "words": "Primo uso della stagione, un po' di neve sui sentieri laterali ma il tratto principale era libero. Roccia asciutta e in buona forma. Il Taglio è un 6a molto elegante, tutto di sinistra."
+      },
+      {
+        "observedAt": "2025-08-16",
+        "words": "Un masso grande come un televisore si è staccato nella parte alta del settore, vicino all'uscita di Vino Rosso. Nessun ferito, ma il sentiero alla base è cambiato. Prudenza e casco."
+      },
+      {
+        "observedAt": "2025-09-10",
+        "words": "Mercoledì sera tardi: l'ultima luce sulla parete è dorata e l'aria diventa fresca. Un buon modo per chiudere la giornata prima di cena. Il rifugio chiudeva la stagione la settimana dopo."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Ombra al mattino",
+          "quote": "all'ombra"
+        },
+        {
+          "label": "Vicino al rifugio",
+          "quote": "proprio sotto il rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vicino al rifugio",
+          "quote": "birra e polenta al rifugio"
+        },
+        {
+          "label": "Sole al pomeriggio",
+          "quote": "tutto il sole addosso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Prato per i bambini",
+          "quote": "Il prato davanti è perfetto per i bambini"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al pomeriggio",
+          "quote": "la parete era in pieno sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "La neve era ancora sul prato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra al mattino",
+          "quote": "La roccia di mattina è gelata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gruppo di amici",
+          "quote": "Abbiamo portato un gruppo di amici non scalatori"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo che cambia",
+          "quote": "Meteo incerto"
+        },
+        {
+          "label": "Vicino al rifugio",
+          "quote": "Il rifugio è stato un buon posto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al pomeriggio",
+          "quote": "sole di pomeriggio"
+        },
+        {
+          "label": "Cane sul prato",
+          "quote": "Una coppia con il cane dormiva sul prato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Soste sostituite con anelli nuovi",
+          "kind": "novita",
+          "quote": "le soste sono state tutte sostituite con anelli nuovi in acciaio"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo che cambia",
+          "quote": "Il meteo qui può cambiare in venti minuti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "pochissima gente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "un po' di neve sui sentieri laterali"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Masso caduto vicino a Vino Rosso",
+          "kind": "attenzione",
+          "quote": "Un masso grande come un televisore si è staccato nella parte alta del settore, vicino all'uscita di Vino Rosso."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al pomeriggio",
+          "quote": "l'ultima luce sulla parete è dorata"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

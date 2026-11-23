@@ -1,0 +1,241 @@
+{
+  "osm": "r12136739",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d37",
+    "activity": "escursionismo",
+    "place": "comune-001100",
+    "name": "Via Alpina Blue D37",
+    "lat": 45.1131,
+    "lon": 6.8891,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 1446,
+      "localita_partenza": "Rifugio Levi-Molinari",
+      "come_arrivare": "Si raggiunge il Rifugio Levi-Molinari risalendo la valle sopra Exilles, con parcheggi ridotti vicino al punto di partenza del sentiero. La tappa arriva al Rifugio Arlaud, da cui il rientro richiede due mezzi."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu dal Rifugio Levi-Molinari al Rifugio Arlaud, circa 15 km con 1.450 metri di salita e 1.520 di discesa: una giornata equilibrata tra salita e discesa, che scavalca una cresta tra due valli. Il tratto alto passa su pietraie e pascoli, con qualche punto esposto al vento e senza ripari.\n\nIl sentiero è ben segnalato per gran parte del giorno, con qualche tratto di fondo instabile dopo le piogge. La vista è ampia sulle valli di Susa e del Chisone.\n\nPeriodo consigliato da luglio a settembre, con partenza al mattino: i temporali pomeridiani sono frequenti."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "Salita e discesa si bilanciano bene, giornata che non spaventa ma stanca lo stesso. Sulla cresta tira vento a raffiche."
+      },
+      {
+        "observedAt": "2022-08-03",
+        "words": "Mercoledì di alta pressione, giornata limpidissima. Dalla cresta si vedevano due valli intere come in una mappa."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Temporale in arrivo dalle tre: ci hanno avvisati al rifugio, siamo partiti alle sette e arrivati prima. Chi parte tardi rischia."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Fango sul sentiero dopo la pioggia della notte, scarponi pesanti. Alcuni punti scivolosi su roccia bagnata."
+      },
+      {
+        "observedAt": "2023-07-01",
+        "words": "Nevaio ancora sul lato nord della cresta, nessun problema ma ghiaccio al mattino. Attenzione soprattutto in discesa."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Bel cammino, un po' monotono nei lunghi traversi. Per fortuna c'erano i fischi delle marmotte a tenerci compagnia."
+      },
+      {
+        "observedAt": "2023-08-23",
+        "words": "Mercoledì, rifugio quasi vuoto. Una cena semplice e abbondante, e il gestore che raccontava storie di valle."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Larici dorati sulla discesa e luce calda. Qualche sassolino nelle scarpe ma chi se ne importa."
+      },
+      {
+        "observedAt": "2024-07-06",
+        "words": "Mi sono perso un bivio nella nebbia sul pianoro, ho recuperato con un quarto d'ora di giro inutile. Il segnavia è su un masso poco visibile."
+      },
+      {
+        "observedAt": "2024-08-10",
+        "words": "Ho visto una famiglia di camosci attraversare il sentiero in discesa. Il più piccolo faticava a seguire gli altri."
+      },
+      {
+        "observedAt": "2024-08-30",
+        "words": "Venerdì ultimo di agosto, tutto silenzio e luce. Temporale sul tardi ma eravamo già al coperto."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Segnavia nuovi con vernice fresca al bivio del pianoro, finalmente. Il masso ora è ben visibile da lontano."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Un tratto di sentiero lungo la cresta è stato rosicchiato da una piccola frana. C'è un aggiramento di pochi metri, segnato con nastro rosso."
+      },
+      {
+        "observedAt": "2025-08-16",
+        "words": "Nell'aggiramento il fondo è un po' sconnesso ma ci si passa senza difficoltà. Cresta ventosa come sempre."
+      },
+      {
+        "observedAt": "2025-09-03",
+        "words": "Mercoledì, cielo sereno e nessuno lungo il percorso. La vista su entrambe le valli è la migliore all'alba."
+      },
+      {
+        "observedAt": "2025-09-28",
+        "words": "Fine stagione, prime nebbie la sera. Arrivati all'Arlaud con le ultime luci e un panorama dorato alle spalle."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Cresta ventosa",
+          "quote": "Sulla cresta tira vento a raffiche"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista su due valli",
+          "quote": "si vedevano due valli intere come in una mappa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Temporale in arrivo dalle tre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fondo instabile dopo la pioggia",
+          "quote": "Fango sul sentiero dopo la pioggia della notte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai a inizio stagione",
+          "quote": "Nevaio ancora sul lato nord della cresta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte e fauna",
+          "quote": "i fischi delle marmotte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Accoglienza al rifugio",
+          "quote": "il gestore che raccontava storie di valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Larici dorati in autunno",
+          "quote": "Larici dorati sulla discesa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bivio poco visibile sul pianoro",
+          "quote": "Mi sono perso un bivio nella nebbia sul pianoro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte e fauna",
+          "quote": "una famiglia di camosci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Temporale sul tardi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnavia nuovi al bivio del pianoro",
+          "kind": "novita",
+          "quote": "Segnavia nuovi con vernice fresca al bivio del pianoro"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto di cresta eroso da frana",
+          "kind": "attenzione",
+          "quote": "Un tratto di sentiero lungo la cresta è stato rosicchiato da una piccola frana"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Cresta ventosa",
+          "quote": "Cresta ventosa come sempre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista su due valli",
+          "quote": "La vista su entrambe le valli"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Accoglienza al rifugio",
+          "quote": "Arrivati all'Arlaud con le ultime luci"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "osm": "r12136906",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d39",
+    "activity": "escursionismo",
+    "place": "comune-001281",
+    "name": "Via Alpina Blue D39",
+    "lat": 45.04892,
+    "lon": 7.02801,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 1517,
+      "localita_partenza": "Usseaux",
+      "come_arrivare": "Si arriva a Usseaux dalla strada della Val Chisone, passando per Fenestrelle. Un piccolo parcheggio sta all'ingresso del paese. A Balsiglia, fine tappa, il ritorno richiede accordi con un passaggio."
+    },
+    "sections": {
+      "descrizione": "Tappa lunga della Via Alpina Blu da Usseaux a Balsiglia, circa 20 km con 1.520 metri di salita e 1.590 di discesa. Passa da una valle all'altra attraversando valichi alti e lunghe discese: è una giornata piena, adatta a escursionisti allenati.\n\nIl sentiero parte dal paese, sale per prati e boschi di larici, supera un colle di alta quota e scende nella Val Germanasca. Si alternano mulattiere, tratti erbosi e qualche pietraia.\n\nPeriodo migliore da luglio a settembre. La lunghezza e il dislivello suggeriscono partenza all'alba e ritmo costante; il meteo in quota cambia in fretta."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Partiti alle sei, tornati in serata. Venti chilometri che passano facilmente se il tempo regge, noi siamo stati fortunati."
+      },
+      {
+        "observedAt": "2022-08-18",
+        "words": "Giovedì d'estate, caldo secco in valle e fresco al colle. Un bellissimo lariceto a metà salita."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Il colle è battuto dal vento anche d'estate. Abbiamo mangiato dietro un grande masso appoggiati allo zaino."
+      },
+      {
+        "observedAt": "2022-09-25",
+        "words": "A metà discesa il sentiero scompare nell'erba alta, pochi segnavia. Abbiamo seguito la direzione generale e ritrovato la traccia dopo dieci minuti."
+      },
+      {
+        "observedAt": "2023-07-02",
+        "words": "Nevaio sotto il colle, in via di scioglimento. Qualche scivolata ma niente di serio."
+      },
+      {
+        "observedAt": "2023-07-29",
+        "words": "Siamo arrivati a Balsiglia stanchissimi ma contenti: il paese è piccolo e la pizzeria... chiusa! Panino dalle scorte e a casa."
+      },
+      {
+        "observedAt": "2023-08-24",
+        "words": "Giovedì di nuvole alte e luce piatta. Tre ore di discesa nella seconda parte, lunga davvero."
+      },
+      {
+        "observedAt": "2023-09-17",
+        "words": "Cervo che brama in lontananza, suono incredibile. Siamo rimasti ad ascoltare per cinque minuti prima di ripartire."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Nuvole di fine pomeriggio ma niente temporale. Sulla discesa nei prati il sentiero è ben tenuto e si cammina quasi di corsa."
+      },
+      {
+        "observedAt": "2024-08-16",
+        "words": "Venerdì di agosto: pochissimi escursionisti, due ciclisti che spingevano la bici sul colle. Fresco in alto, caldo sotto."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Il tratto nell'erba alta ora ha paletti con segnavia ogni cinquanta metri. Si vede che hanno lavorato bene."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Una giornata magnifica, aria fredda e limpida. Il ritorno con passaggio da un contadino di Balsiglia, gentilissimo."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Una slavina primaverile ha strappato alcuni alberi proprio sul sentiero poco sotto il colle, ci sono tronchi da scavalcare. Con lo zaino pesante diventa una fatica in più."
+      },
+      {
+        "observedAt": "2025-08-20",
+        "words": "Mercoledì, i tronchi sono stati tagliati e il sentiero è di nuovo libero. Giorno luminoso e senza vento."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Caldo secco sul versante di partenza. Il colle ci ha regalato un panorama enorme e un vento dolce."
+      },
+      {
+        "observedAt": "2025-10-04",
+        "words": "Giornata chiara, ultima del mio ciclo di tappe. Venti chilometri sono tanti ma il sentiero è bello da seguire."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga",
+          "quote": "Venti chilometri che passano facilmente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lariceti nella salita",
+          "quote": "Un bellissimo lariceto a metà salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colle ventoso",
+          "quote": "Il colle è battuto dal vento anche d'estate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero poco visibile nell'erba",
+          "quote": "il sentiero scompare nell'erba alta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai a inizio stagione",
+          "quote": "Nevaio sotto il colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi servizi a Balsiglia",
+          "quote": "la pizzeria... chiusa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "Tre ore di discesa nella seconda parte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna e suoni del bosco",
+          "quote": "Cervo che brama in lontananza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero ben tenuto nei prati",
+          "quote": "il sentiero è ben tenuto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "pochissimi escursionisti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Paletti segnavia nel tratto erboso",
+          "kind": "novita",
+          "quote": "Il tratto nell'erba alta ora ha paletti con segnavia ogni cinquanta metri"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Rientro da organizzare",
+          "quote": "Il ritorno con passaggio da un contadino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Alberi caduti sul sentiero sotto il colle",
+          "kind": "attenzione",
+          "quote": "Una slavina primaverile ha strappato alcuni alberi proprio sul sentiero"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero ripulito dai tronchi",
+          "quote": "i tronchi sono stati tagliati"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colle ventoso",
+          "quote": "Il colle ci ha regalato un panorama enorme"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga",
+          "quote": "Venti chilometri sono tanti"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

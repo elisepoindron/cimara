@@ -1,0 +1,109 @@
+{
+  "osm": "w867519043",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "placche-di-biel",
+    "activity": "falesia",
+    "place": "comune-007034",
+    "name": "Placche di Biel",
+    "lat": 45.62087,
+    "lon": 7.71607,
+    "aspect": "SE",
+    "altMax": 1348,
+    "facts": {
+      "esposizione": "SE",
+      "quota_base": 1348,
+      "avvicinamento": 20,
+      "localita_partenza": "Hône"
+    },
+    "sections": {
+      "note": "Placche di calcare grigio con piccole tacche, vie tecniche sull'equilibrio. Guarda a sud-est: il sole arriva presto, di mattina scalda quanto basta, nel pomeriggio d'estate scalda troppo.\n\nChiodatura a spit ravvicinati, soste con catena. Alcune placche sono lisce: si arrampica di piede.\n\nCorda da 60 metri, rinvii e scarpette con punta fine.",
+      "avvicinamento": "Dal parcheggio si sale per un sentiero nel bosco, venti minuti, poi si attraversa la radura."
+    },
+    "parts": [
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Prima placca",
+          "grado": "5a",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Tacca grigia",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Equilibrio",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Liscia",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Placca di Biel",
+          "grado": "6b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Ultima",
+          "grado": "6c",
+          "lunghezza": 24
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2023-10-07",
+        "words": "Sole basso e aria asciutta, la placca grigia è scivolosa solo all'inizio. Ho fatto la tacca grigia e la liscia."
+      },
+      {
+        "observedAt": "2025-04-28",
+        "words": "Al mattino il sole scalda quanto basta, nel pomeriggio troppo caldo. Ho ripetuto l'equilibrio due volte."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Placca scivolosa",
+          "quote": "la placca grigia è scivolosa solo all'inizio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole del mattino",
+          "quote": "Al mattino il sole scalda quanto basta"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

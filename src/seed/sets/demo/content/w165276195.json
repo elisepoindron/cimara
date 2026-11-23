@@ -1,0 +1,432 @@
+{
+ "osm": "w165276195",
+ "invented": [
+  "avvicinamento",
+  "localita_partenza",
+  "parcheggio_nota",
+  "vie",
+  "description",
+  "reports"
+ ],
+ "itinerary": {
+  "key": "falesia-di-ivery",
+  "activity": "falesia",
+  "place": "comune-007052",
+  "name": "Falesia di Ivery",
+  "lat": 45.592,
+  "lon": 7.8087,
+  "aspect": "SO",
+  "altMax": 658,
+  "facts": {
+   "esposizione": "SO",
+   "quota_base": 658,
+   "avvicinamento": 8,
+   "localita_partenza": "Pont-Saint-Martin",
+   "parcheggio_nota": "Si posteggia sul bordo della strada di campagna, con attenzione a non bloccare i trattori."
+  },
+  "sections": {
+   "note": "La falesia di Ivery sta sopra Pont-Saint-Martin, in Valle d'Aosta, a poco più di 650 metri, esposta a sud-ovest. È una parete di roccia compatta, con placche e muri verticali, dal 5a al 6b+: una falesia di gradi medi ben protetti, adatta a una giornata tra amici.\n\nIl sole arriva nel primo pomeriggio e ci rimane fino a sera, quindi d'inverno si scala bene dalle undici in poi, mentre d'estate la parete è un forno e si va in tarda serata. Le vie sono lunghe fra 15 e 30 metri, con chiodatura generosa e soste a catena.\n\nAlla base c'è un bel terrazzo erboso. Il paese è vicino: dopo la scalata si può mangiare e bere in un locale.",
+   "avvicinamento": "Si lascia l'auto ai margini dell'abitato e si imbocca la mulattiera che sale tra i vigneti e i muretti a secco, fino a un sentiero a sinistra che porta alla base in meno di dieci minuti."
+  },
+  "parts": [
+   {
+    "group": "Terrazzo",
+    "fields": {
+     "nome": "Primo Vigneto",
+     "grado": "5a",
+     "lunghezza": 15
+    }
+   },
+   {
+    "group": "Terrazzo",
+    "fields": {
+     "nome": "Muretto a Secco",
+     "grado": "5a+",
+     "lunghezza": 18
+    }
+   },
+   {
+    "group": "Terrazzo",
+    "fields": {
+     "nome": "Rosso Giovane",
+     "grado": "5b",
+     "lunghezza": 20
+    }
+   },
+   {
+    "group": "Terrazzo",
+    "fields": {
+     "nome": "La Pergola",
+     "grado": "5b+",
+     "lunghezza": 20
+    }
+   },
+   {
+    "group": "Terrazzo",
+    "fields": {
+     "nome": "Cantina Aperta",
+     "grado": "5c",
+     "lunghezza": 22
+    }
+   },
+   {
+    "group": "Terrazzo",
+    "fields": {
+     "nome": "Vendemmia",
+     "grado": "5c+",
+     "lunghezza": 22
+    }
+   },
+   {
+    "group": "Muro Grande",
+    "fields": {
+     "nome": "Il Tralcio",
+     "grado": "6a",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Muro Grande",
+    "fields": {
+     "nome": "Grappolo",
+     "grado": "6a",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Muro Grande",
+    "fields": {
+     "nome": "Sole di Settembre",
+     "grado": "6a+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Muro Grande",
+    "fields": {
+     "nome": "Il Contadino",
+     "grado": "6a+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Muro Grande",
+    "fields": {
+     "nome": "Barrique",
+     "grado": "6b",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Muro Grande",
+    "fields": {
+     "nome": "Fermentazione",
+     "grado": "6b+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Muro Grande",
+    "fields": {
+     "nome": "Ultimo Bicchiere",
+     "grado": "6b",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Placche di Destra",
+    "fields": {
+     "nome": "La Stradina",
+     "grado": "5a",
+     "lunghezza": 20
+    }
+   },
+   {
+    "group": "Placche di Destra",
+    "fields": {
+     "nome": "Tra le Viti",
+     "grado": "5b",
+     "lunghezza": 22
+    }
+   },
+   {
+    "group": "Placche di Destra",
+    "fields": {
+     "nome": "Lucertola al Sole",
+     "grado": "5c",
+     "lunghezza": 22
+    }
+   },
+   {
+    "group": "Placche di Destra",
+    "fields": {
+     "nome": "Il Gradino",
+     "grado": "6a",
+     "lunghezza": 24
+    }
+   },
+   {
+    "group": "Placche di Destra",
+    "fields": {
+     "nome": "Pomeriggio Lungo",
+     "grado": "6a+",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Placche di Destra",
+    "fields": {
+     "nome": "Il Cavatappi",
+     "grado": "6b",
+     "lunghezza": 25
+    }
+   }
+  ],
+  "reports": [
+   {
+    "observedAt": "2022-03-03",
+    "words": "Giovedì, un giorno di sole in pieno inverno: alle dodici la parete era tiepida e si scalava in maniche corte. Ho provato tre vie facili, roccia pulita."
+   },
+   {
+    "observedAt": "2022-04-09",
+    "words": "Il sole arriva dopo le dodici, quindi le mattine sono fredde. Abbiamo fatto colazione sul terrazzo aspettando i raggi, poi sei vie fino a sera."
+   },
+   {
+    "observedAt": "2022-05-29",
+    "words": "Ci hanno tenuto compagnia le lucertole, a decine sulle pietre. Falesia semplice, ben tenuta. Le vie medie hanno buone prese e soste molto vicine."
+   },
+   {
+    "observedAt": "2022-07-08",
+    "words": "Venerdì di luglio, sera tardi: ci siamo arrivati alle sette e abbiamo scalato fino a buio. Pomeriggio impossibile, ma il crepuscolo qui è magnifico."
+   },
+   {
+    "observedAt": "2022-09-17",
+    "words": "Settembre mite, uva matura nei filari lungo il sentiero. Un'atmosfera da vendemmia, con vie medie e voglia di non fare niente. Il 6a Grappolo è bello."
+   },
+   {
+    "observedAt": "2022-11-27",
+    "words": "Nebbia in fondovalle, ma qui sopra sole pieno già alle undici. Si stava benissimo anche a fine novembre, con le mani calde sulla roccia."
+   },
+   {
+    "observedAt": "2023-01-18",
+    "words": "Mercoledì d'inverno, parete asciutta e fredda ma al sole si sta in maglietta. Da solo con un collega, due ore di arrampicata, panino e via."
+   },
+   {
+    "observedAt": "2023-03-25",
+    "words": "Il terrazzo è stato ripulito dai rovi e c'è una panchina di legno alla base: grande idea per chi aspetta. Con i bambini siamo stati bene."
+   },
+   {
+    "observedAt": "2023-05-07",
+    "words": "Domenica di maggio, tanta gente ma ci stanno tutti, la falesia è larga. Un gruppo ha fatto una grigliata sotto il muro: un po' invadente per l'odore, ma niente di grave."
+   },
+   {
+    "observedAt": "2023-06-21",
+    "words": "Mercoledì sera dopo il lavoro: sole fino alle nove, birra gelida nel paese poi. Giornate così fanno amare questa falesia, calma e vicina."
+   },
+   {
+    "observedAt": "2023-08-26",
+    "words": "Evitatela in agosto: alle tre la roccia scotta e le mani scivolano. Ci siamo ritirati dopo due vie e siamo scesi in paese a mangiare un gelato."
+   },
+   {
+    "observedAt": "2023-10-14",
+    "words": "C'era un tratto di sentiero franato dopo la tempesta di ottobre: un salto di una trentina di centimetri, facile da evitare ma meglio saperlo. Falesia asciutta, pulita."
+   },
+   {
+    "observedAt": "2024-02-25",
+    "words": "Febbraio e sole. In giro solo noi e una cordata di Aosta. Prese fredde ma la roccia è buona; la chiodatura è ravvicinata, si dorme tranquilli."
+   },
+   {
+    "observedAt": "2024-04-17",
+    "words": "Mercoledì pomeriggio, caldo già forte alle quattro. Il Cavatappi è un 6b con passo tosto di piede: bello, ma da scaldare bene prima."
+   },
+   {
+    "observedAt": "2024-06-09",
+    "words": "Alcuni spit sono stati cambiati sul Muro Grande, si vedono i nuovi in acciaio lucido. Ci siamo fidati di più, soprattutto sul 6b+."
+   },
+   {
+    "observedAt": "2024-10-20",
+    "words": "Foglie rosse sulla mulattiera, sole alle undici sul Muro Grande. Una bella giornata con amici, salita facile, birra nel paese. Bambini felici."
+   },
+   {
+    "observedAt": "2025-03-08",
+    "words": "Primo vero giorno caldo del 2025. Prima di andare a casa siamo scesi in paese e abbiamo bevuto un bianco sulla piazza. La falesia è un piccolo regalo vicino a Aosta."
+   },
+   {
+    "observedAt": "2025-10-01",
+    "words": "Mercoledì di sole, ho preso un giorno libero. Falesia vuota, roccia calda, ho ripetuto Fermentazione dopo anni: ancora una bella lotta."
+   }
+  ]
+ },
+ "readings": [
+  {
+   "themes": [
+    {
+     "label": "Sole d'inverno",
+     "quote": "alle dodici la parete era tiepida"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole nel pomeriggio",
+     "quote": "Il sole arriva dopo le dodici"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Soste comode",
+     "quote": "soste molto vicine"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Troppo caldo d'estate",
+     "quote": "Pomeriggio impossibile"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sentiero tra i vigneti",
+     "quote": "uva matura nei filari lungo il sentiero"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole d'inverno",
+     "quote": "sole pieno già alle undici"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole d'inverno",
+     "quote": "al sole si sta in maglietta"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Terrazzo comodo alla base",
+     "quote": "una panchina di legno alla base"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Terrazzo ripulito, con panchina",
+     "kind": "novita",
+     "quote": "Il terrazzo è stato ripulito dai rovi e c'è una panchina di legno alla base"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Affollata nel weekend",
+     "quote": "tanta gente ma ci stanno tutti"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole nel pomeriggio",
+     "quote": "sole fino alle nove"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Troppo caldo d'estate",
+     "quote": "alle tre la roccia scotta"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Tratto di sentiero franato",
+     "kind": "attenzione",
+     "quote": "C'era un tratto di sentiero franato dopo la tempesta di ottobre"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Chiodatura ravvicinata",
+     "quote": "la chiodatura è ravvicinata"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole nel pomeriggio",
+     "quote": "caldo già forte alle quattro"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Chiodatura ravvicinata",
+     "quote": "si vedono i nuovi in acciaio lucido"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Spit sostituiti sul Muro Grande",
+     "kind": "novita",
+     "quote": "Alcuni spit sono stati cambiati sul Muro Grande"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Sentiero tra i vigneti",
+     "quote": "Foglie rosse sulla mulattiera"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente in settimana",
+     "quote": "Falesia vuota"
+    }
+   ],
+   "flags": []
+  }
+ ]
+}

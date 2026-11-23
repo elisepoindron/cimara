@@ -1,0 +1,468 @@
+{
+  "osm": "w649668391",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "localita_partenza",
+    "parcheggio_nota"
+  ],
+  "itinerary": {
+    "key": "falesia-di-sant-anna-di-vinadio",
+    "activity": "falesia",
+    "place": "comune-004248",
+    "name": "Falesia di Sant'Anna di Vinadio",
+    "lat": 44.22462,
+    "lon": 7.10218,
+    "aspect": "NE",
+    "altMax": 2201,
+    "facts": {
+      "esposizione": "NE",
+      "quota_base": 2201,
+      "avvicinamento": 25,
+      "localita_partenza": "Vinadio",
+      "parcheggio_nota": "Si lascia l'auto nel piazzale del santuario o poco prima, lungo la strada che sale; in agosto, nei giorni di festa, ci si adatta ai posti liberi."
+    },
+    "sections": {
+      "note": "La falesia di Sant'Anna di Vinadio è una parete di gneiss a 2200 metri, esposta a nord-est, nella conca del santuario: un posto d'alta quota per i mesi caldi, da luglio a settembre, quando in pianura si soffre. Il sole arriva al mattino presto e va via a metà giornata, poi la parete resta fresca, a volte fredda con il vento.\n\nLo gneiss è chiaro, compatto, a grana grossa, e si scala di aderenza e sulle lame; le vie sono una trentina dal 4a al 6c, fino a trentacinque metri, con alcune linee a più tiri che salgono sul pilastro di sinistra. Chiodatura moderna, soste con catena.\n\nPortare un pile anche in agosto e un guscio contro i temporali del pomeriggio, che qui arrivano in fretta. L'ultimo tratto della strada è stretto e a tratti sterrato; nei giorni di festa ci sono molti pellegrini.",
+      "avvicinamento": "Dal piazzale del santuario si prende il sentiero che sale nel pascolo e poi fra i massi, fino alla base della parete. Venticinque minuti di salita costante, con vista sul lago sotto."
+    },
+    "parts": [
+      {
+        "group": "Pilastro di Sinistra",
+        "fields": {
+          "nome": "Il Pellegrino",
+          "grado": "4a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Pilastro di Sinistra",
+        "fields": {
+          "nome": "Ex Voto",
+          "grado": "4b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Pilastro di Sinistra",
+        "fields": {
+          "nome": "Candela Accesa",
+          "grado": "4c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Pilastro di Sinistra",
+        "fields": {
+          "nome": "Il Rosario",
+          "grado": "5a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Pilastro di Sinistra",
+        "fields": {
+          "nome": "Sant'Antonio",
+          "grado": "5a+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Pilastro di Sinistra",
+        "fields": {
+          "nome": "La Navata",
+          "grado": "5b",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Pilastro di Sinistra",
+        "fields": {
+          "nome": "Luce d'Altare",
+          "grado": "5c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Pilastro di Sinistra",
+        "fields": {
+          "nome": "Via Crucis",
+          "grado": "6a",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Acqua Santa",
+          "grado": "5a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Campanile",
+          "grado": "5b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Il Pergolato",
+          "grado": "5b+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Ostia Bianca",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Ciuffo d'Erba",
+          "grado": "6a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Il Confessionale",
+          "grado": "6a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Preghiera",
+          "grado": "6b",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Miracolo",
+          "grado": "6b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Paradiso Alto",
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Prima Messa",
+          "grado": "4b",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Sacrestia",
+          "grado": "4c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Il Sagrato",
+          "grado": "5a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Pietra Viva",
+          "grado": "5b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Il Sentiero dei Frati",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Cima Sant'Anna",
+          "grado": "6a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Voto Mantenuto",
+          "grado": "6b",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Gneiss e Silenzio",
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Ultima Benedizione",
+          "grado": "6c",
+          "lunghezza": 32
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "Prima estate fra le montagne, il sentiero parte dal santuario e sale dolcemente nel pascolo. A duemila metri fa fresco anche d'estate, il gneiss è chiaro e solido. Abbiamo fatto tre vie sul Muro Centrale."
+      },
+      {
+        "observedAt": "2022-08-03",
+        "words": "Giornata di ferie in piena estate, in pianura 36 gradi e qui 15. Io avevo il pile anche in agosto, e il vento dal lago era freddo. Silenzio, solo la campana del santuario."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Un temporale improvviso ci ha colto a metà del Muro Centrale. Siamo scesi in fretta, bagnati, con le corde che gocciolavano. I temporali del pomeriggio qui arrivano senza avviso."
+      },
+      {
+        "observedAt": "2022-09-18",
+        "words": "Dopo una settimana di tempo buono, le vie erano asciutte e il sole arrivava dalle otto. La Navata è una linea elegante sullo gneiss a lame, perfetta per riscaldarsi."
+      },
+      {
+        "observedAt": "2023-07-04",
+        "words": "Il sentiero era ancora un po' bagnato dalla neve sciolta, un tratto di nevaio da attraversare alla base della parete. L'aria è fresca e sottile, si respira bene dopo i mesi in città."
+      },
+      {
+        "observedAt": "2023-08-19",
+        "words": "La strada fino al santuario è stretta e nei giorni di festa c'è un traffico di macchine e di pellegrini. Abbiamo parcheggiato lontano e fatto una passeggiata in più. Parete in ombra dopo mezzogiorno."
+      },
+      {
+        "observedAt": "2023-08-06",
+        "words": "Giornata affollata ma sulla parete eravamo in pochi. Il sole arriva presto e se ne va a mezzogiorno, quindi conviene salire per primi. Luce d'Altare è un 5c bello e lungo."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Fine estate, aria limpida e silenzio. Nel pomeriggio le nuvole si sono addensate e abbiamo ripiegato. Il temporale è arrivato alle due e mezza, previsto ma più precoce."
+      },
+      {
+        "observedAt": "2024-07-27",
+        "words": "Una cordata di amici dalla pianura con i bambini: abbiamo fatto solo Prima Messa e Sacrestia, poi merenda sul pascolo. Le vie di destra sono corte e perfette per i bambini."
+      },
+      {
+        "observedAt": "2024-08-07",
+        "words": "Una mattina d'agosto con il cielo chiaro; abbiamo evitato i pellegrini e il traffico della festa. Le soste del Pilastro di Sinistra sono state cambiate con catene nuove, grosse e comode."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Salita al santuario con le scarpe da avvicinamento: fa freddo, la giacca imbottita è servita anche alle undici. Si scala bene, il sole ci ha scaldato le mani dopo mezz'ora."
+      },
+      {
+        "observedAt": "2024-09-08",
+        "words": "Giornata ottima, cielo terso. Abbiamo salito la Via Crucis in due tiri, un'avventura di 35 metri su lame e placche. Un bel panorama sul lago dalla sosta."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Alla base della parete c'era un nevaio ancora consistente e scivoloso in luglio, siamo passati con i bastoncini. Il resto della giornata tranquillo."
+      },
+      {
+        "observedAt": "2025-08-01",
+        "words": "Lunedì d'agosto, nessuno in parete. Marmotte che fischiano, il sole sull'altopiano. Abbiamo finito alle due e mezza prima che le nuvole si alzassero."
+      },
+      {
+        "observedAt": "2025-08-23",
+        "words": "Una nebbia fitta ci ha accolti alla partenza, poi si è aperta. Giacca e guanti serviti fino alle dieci. Ultima Benedizione è bellissima, di 32 metri."
+      },
+      {
+        "observedAt": "2025-09-07",
+        "words": "Sentiero ben segnato, tracce nuove di vernice gialla. Il nevaio alla base è sparito del tutto in settembre, ora c'è solo un po' di fango. Qualche escursionista a metà strada."
+      },
+      {
+        "observedAt": "2026-07-11",
+        "words": "Primo giro dell'estate in quota, la neve da poco sciolta nei canali. Ho fatto il Muro Centrale con un amico, ritorno veloce prima del temporale che si annunciava dietro il crinale."
+      },
+      {
+        "observedAt": "2026-09-03",
+        "words": "Una giornata di settembre, aria tersa e silenziosa. Abbiamo fatto una dozzina di tiri sul pilastro e sul Centrale, e poi una discesa tranquilla al sole di fine pomeriggio."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Quota alta, aria fresca",
+          "quote": "A duemila metri fa fresco anche d'estate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pile anche in agosto",
+          "quote": "Io avevo il pile anche in agosto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "I temporali del pomeriggio qui arrivano senza avviso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "sole arrivava dalle otto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Quota alta, aria fresca",
+          "quote": "L'aria è fresca e sottile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "Il sole arriva presto e se ne va a mezzogiorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "temporale è arrivato alle due e mezza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie facili per bambini",
+          "quote": "Le vie di destra sono corte e perfette per i bambini"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Soste cambiate sul Pilastro",
+          "kind": "novita",
+          "quote": "Le soste del Pilastro di Sinistra sono state cambiate con catene nuove"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Quota alta, aria fresca",
+          "quote": "fa freddo, la giacca imbottita è servita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "Un bel panorama sul lago dalla sosta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nevaio residuo alla base",
+          "kind": "attenzione",
+          "quote": "Alla base della parete c'era un nevaio ancora consistente e scivoloso in luglio"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte che fischiano",
+          "quote": "Marmotte che fischiano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pile anche in agosto",
+          "quote": "Giacca e guanti serviti fino alle dieci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nevaio residuo alla base",
+          "kind": "attenzione",
+          "quote": "Il nevaio alla base è sparito del tutto in settembre"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

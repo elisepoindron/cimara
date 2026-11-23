@@ -1,0 +1,241 @@
+{
+  "osm": "r12136783",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d38",
+    "activity": "escursionismo",
+    "place": "comune-001281",
+    "name": "Via Alpina Blue D38",
+    "lat": 45.04897,
+    "lon": 7.02696,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 878,
+      "localita_partenza": "Rifugio Arlaud",
+      "come_arrivare": "Il Rifugio Arlaud si raggiunge dal fondovalle con un sentiero o una strada sterrata secondo la stagione; la tappa scende fino a Usseaux, dove si trova un piccolo parcheggio e un servizio di bus limitato."
+    },
+    "sections": {
+      "descrizione": "Tappa breve ma varia della Via Alpina Blu dal Rifugio Arlaud a Usseaux, con circa 880 metri di salita e 1.190 di discesa. Il sentiero lascia il rifugio, sale a un colle e poi scende verso l'alta Val Chisone fino al paese.\n\nIl primo tratto passa su pascoli e alpeggi; in discesa il sentiero attraversa boschi di larici e conifere e passa vicino a borgate di pietra. Si alternano tratti larghi e agevoli e altri più ripidi su sassi.\n\nPeriodo consigliato da giugno a ottobre; la discesa è piacevole ma lunga. Usseaux è un paese tranquillo con servizi limitati."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-06-25",
+        "words": "Quasi nessun nevaio ormai, fiori dappertutto. La discesa a Usseaux è dolce e il borgo in pietra è un piccolo gioiello."
+      },
+      {
+        "observedAt": "2022-07-27",
+        "words": "Mercoledì di caldo. In cima al colle un po' di ombra sotto i larici, nessuno intorno."
+      },
+      {
+        "observedAt": "2022-08-28",
+        "words": "Tappa che si fa bene in mezza giornata: partiti alle nove, a Usseaux per il pranzo. Ideale per chi non vuole stancarsi troppo."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Pioggia fine per metà percorso. Il sentiero di terra diventa scivoloso ma le suole buone aiutano."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "Colle ventoso ma limpido. Dall'alto la valle sembrava un plastico con le borgate di pietra."
+      },
+      {
+        "observedAt": "2023-08-10",
+        "words": "Giovedì con il sole che spacca le pietre, ma il bosco della discesa dà respiro. Una fontana a metà strada."
+      },
+      {
+        "observedAt": "2023-09-03",
+        "words": "Con mia figlia di dieci anni: ha camminato bene, qualche pausa per i lamponi selvatici. Una gita da famiglie."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Il bosco in autunno cambia colore in poche ore, quel giorno il giallo era già al massimo. Nessun problema sul sentiero."
+      },
+      {
+        "observedAt": "2024-06-29",
+        "words": "Fioritura dei narcisi nei prati alti, una distesa bianca. Non vorrei dire troppo ma ne è valsa la pena."
+      },
+      {
+        "observedAt": "2024-08-08",
+        "words": "Giovedì mattina, sentiero deserto. Ho incrociato solo una vacca isolata che aveva perso il gregge."
+      },
+      {
+        "observedAt": "2024-09-08",
+        "words": "Una frazione lungo la discesa ha ora un cartello nuovo con il nome in piemontese e in italiano. Piccola cosa ma carina."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Giornata tersa. Arrivati a Usseaux alle due, un caffè e poi bus per il ritorno, in orario per una volta."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Un tratto del sentiero sotto il colle era stato sommerso dal fango di una colata dopo il temporale. Con un po' di pazienza si aggira passando sull'erba."
+      },
+      {
+        "observedAt": "2025-08-14",
+        "words": "Giovedì, il fango è stato spalato via e il sentiero è libero. Tempo bellissimo e nessuno in vista."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Mezza giornata di pura tranquillità, tappa breve e leggera. Una birra sul sagrato del borgo ha chiuso la giornata."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Prime brume la sera, ma la mattina chiara. Il bosco profumava di resina e di funghi."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Borgo di Usseaux in pietra",
+          "quote": "il borgo in pietra è un piccolo gioiello"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente sul sentiero",
+          "quote": "nessuno intorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa facile da mezza giornata",
+          "quote": "si fa bene in mezza giornata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fondo scivoloso con la pioggia",
+          "quote": "Il sentiero di terra diventa scivoloso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla valle dal colle",
+          "quote": "la valle sembrava un plastico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fontana sulla discesa",
+          "quote": "Una fontana a metà strada"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta alle famiglie",
+          "quote": "Con mia figlia di dieci anni: ha camminato bene"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori d'autunno nel bosco",
+          "quote": "il giallo era già al massimo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fioriture nei prati alti",
+          "quote": "Fioritura dei narcisi nei prati alti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente sul sentiero",
+          "quote": "sentiero deserto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello bilingue alla frazione",
+          "kind": "novita",
+          "quote": "Una frazione lungo la discesa ha ora un cartello nuovo"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Bus di rientro da verificare",
+          "quote": "poi bus per il ritorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Colata di fango sul sentiero sotto il colle",
+          "kind": "attenzione",
+          "quote": "Un tratto del sentiero sotto il colle era stato sommerso dal fango di una colata"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero ripulito dal fango",
+          "quote": "il fango è stato spalato via"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa facile da mezza giornata",
+          "quote": "tappa breve e leggera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori d'autunno nel bosco",
+          "quote": "Il bosco profumava di resina e di funghi"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "osm": "n13902986461",
+  "invented": ["avvicinamento", "vie", "note", "parcheggio_nota"],
+  "itinerary": {
+    "key": "bimbo-climb",
+    "activity": "falesia",
+    "place": "comune-007034",
+    "name": "Bimbo Climb",
+    "lat": 45.62283,
+    "lon": 7.71157,
+    "aspect": "N",
+    "altMax": 1472,
+    "facts": {
+      "esposizione": "N",
+      "quota_base": 1472,
+      "avvicinamento": 5,
+      "localita_partenza": "Hône",
+      "parcheggio_nota": "Per due o tre macchine lungo la strada."
+    },
+    "sections": {
+      "note": "Falesia pensata per i bambini che cominciano: vie corte, facili e con prese grandi. Sei vie in un solo settore, dal 3a al 4b, tutte sotto i quattordici metri.\n\nGuarda a nord: poco sole in inverno e fresca d'estate, comoda nei giorni caldi. La parete è in ombra quasi tutto l'anno, quindi la roccia può restare umida dopo la pioggia.\n\nLe soste sono a catena e il terreno alla base è piano e sicuro: ideale per una giornata in famiglia. Portare l'acqua e un telo.",
+      "avvicinamento": "Cinque minuti a piedi dalla strada, lungo un prato in piano."
+    },
+    "parts": [
+      { "group": "Settore unico", "fields": { "nome": "Primo gradino", "grado": "3a", "lunghezza": 8 } },
+      { "group": "Settore unico", "fields": { "nome": "Piccola scala", "grado": "3b", "lunghezza": 10 } },
+      { "group": "Settore unico", "fields": { "nome": "Il ragno", "grado": "3c", "lunghezza": 10 } },
+      { "group": "Settore unico", "fields": { "nome": "Lumaca", "grado": "4a", "lunghezza": 12 } },
+      { "group": "Settore unico", "fields": { "nome": "Cavalletta", "grado": "4a+", "lunghezza": 12 } },
+      { "group": "Settore unico", "fields": { "nome": "Gatto", "grado": "4b", "lunghezza": 14 } }
+    ],
+    "reports": [],
+    "readings": []
+  }
+}

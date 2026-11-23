@@ -1,0 +1,417 @@
+{
+  "osm": "n6516635466",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "parcheggio_nota",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "crouchou-d-pan",
+    "activity": "falesia",
+    "place": "comune-001306",
+    "name": "Crouchou d'Pan",
+    "lat": 44.82017,
+    "lon": 7.13487,
+    "aspect": "S",
+    "altMax": 1367,
+    "facts": {
+      "esposizione": "S",
+      "quota_base": 1367,
+      "avvicinamento": 10,
+      "localita_partenza": "Villar Pellice",
+      "parcheggio_nota": "Si lascia l'auto in uno slargo sterrato a fianco della strada, con posto per sei o sette vetture."
+    },
+    "sections": {
+      "note": "Piccola falesia di gneiss a 1370 metri, esposta a sud, con vie corte (5-20 metri) dal 3c al 6b e la maggior parte fra il 4 e il 5c. Il nome in dialetto locale è quello di uno spuntone che domina il pendio. La roccia è uno gneiss grigio e compatto, con belle placche rugose e qualche muretto verticale, ottimo per scalare di piedi.\n\nLe vie sono a fix e resinati, vicini fra loro, con soste a catena e anello di calata. Per i più piccoli e per chi inizia è una palestra comoda: la base è piana e il bosco intorno è piacevole.\n\nEssendo rivolta a sud, la parete è al sole da metà mattina fino a sera. È una falesia da inverno e da inizio primavera, quando altrove c'è la neve; in piena estate di pomeriggio scotta e si sale soltanto presto. Dopo le nevicate la parete si libera in fretta, ma la strada può restare ghiacciata a lungo.",
+      "avvicinamento": "Dallo slargo si segue un sentiero in piano per qualche centinaio di metri, poi si sale per un tratto breve e ripido fra faggi e larici. Dieci minuti in tutto, con cartelli di legno fatti a mano dai chiodatori a segnare i bivi."
+    },
+    "parts": [
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "nome": "Primo Fiore",
+          "grado": "4a",
+          "lunghezza": 10
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "nome": "La Lumaca",
+          "grado": "4b",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "nome": "Passetto",
+          "grado": "4c",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Il Cugino di Campagna",
+          "grado": "5b+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Formaggio e Pere",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Sole Pieno",
+          "grado": "5c+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Muro del Sole",
+        "fields": {
+          "nome": "Piano Inclinato",
+          "grado": "6a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Placca Alta",
+        "fields": {
+          "nome": "Tavolo da Cucina",
+          "grado": "6a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Placca Alta",
+        "fields": {
+          "nome": "Abete Rosso",
+          "grado": "6b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Spuntone",
+        "fields": {
+          "nome": "Il Pastore",
+          "grado": "6a+",
+          "lunghezza": 18
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-05",
+        "words": "Sabato di inizio marzo, ancora neve nel bosco ma la parete era al sole e asciutta. Ci siamo spogliati fino alla maglietta dopo la terza via. La gente ha riempito lo slargo, siamo arrivati tardi."
+      },
+      {
+        "observedAt": "2022-04-13",
+        "words": "Mercoledì di aprile, solo con mio figlio di nove anni. Le vie basse sono ideali per lui: 4a e 4b con prese ampie e soste vicine. Aria fresca ma sole pieno, siamo stati benissimo."
+      },
+      {
+        "observedAt": "2022-05-14",
+        "words": "Primavera piena, i rododendri cominciano a fiorire. Sole dalle dieci. Abbiamo fatto una dozzina di vie facili su Muro del Sole, divertente e senza fretta. Il panorama sulla valle è splendido."
+      },
+      {
+        "observedAt": "2022-07-30",
+        "words": "Caldo sulla parete verso mezzogiorno: la roccia scottava e ci siamo ritirati nel bosco. Verso sera il sole si abbassa e si torna a scalare. Falesia non da piena estate."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Domenica di settembre, bella giornata. Il sentiero è ben segnato con cartelli di legno. Abbiamo fatto tutta la Placca Alta, il 6b Abete Rosso è la via più dura ma è corto, e le prese sono buone."
+      },
+      {
+        "observedAt": "2022-10-19",
+        "words": "Mercoledì d'ottobre, silenzio assoluto. I faggi tutti rossi. A pranzo, un sole caldo e una vista su montagne già con le prime nevi. Pochi minuti di cammino per un'intera giornata di piacere."
+      },
+      {
+        "observedAt": "2022-12-17",
+        "words": "Sabato di dicembre, sorprendentemente tiepido sul sole. Pareti asciutte, quasi niente vento. Il gelo era solo nell'ombra e sulla strada, lo slargo era una pista di ghiaccio."
+      },
+      {
+        "observedAt": "2023-02-18",
+        "words": "Pieno inverno, una giornata fredda ma limpida. Sulla parete a sud la neve si era sciolta in poche ore e si poteva arrampicare con i guanti nello zaino. Strada ghiacciata fino a metà, abbiamo messo le catene."
+      },
+      {
+        "observedAt": "2023-03-26",
+        "words": "Domenica con tutta la famiglia. Un gruppo di scuola con una decina di bambini: la palestra è ideale per queste uscite. Gli istruttori hanno controllato ogni nodo e le soste con grande cura."
+      },
+      {
+        "observedAt": "2023-04-21",
+        "words": "Venerdì, giornata luminosa. Il sentiero di accesso ha subito un po' di frane per lo scioglimento, un tratto è franato e ha lasciato una scarpata di mezzo metro. Si passa ma con attenzione."
+      },
+      {
+        "observedAt": "2023-06-03",
+        "words": "Sabato di giugno, calura. La parete è stata nel sole fino alle quattro; salvati da qualche nuvola. Abbiamo fatto le vie dello Spuntone, più ombreggiate. Qualche cavalletta ma niente vespe."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Dopo un'estate secca finalmente un po' di frescura. Il sentiero ora è stato sistemato con una passerella sulla frana: comodo per tutti, anche per chi ha l'attrezzatura pesante."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Con gli amici, quattro cordate, tutto liscio. Soste con catena e maillon robusti, spit ravvicinati e rinvii pochi: servono solo dieci rinvii. Ottimo anche per chi scala poco spesso."
+      },
+      {
+        "observedAt": "2024-01-20",
+        "words": "Gennaio, sole e freddo secco. Alle dieci la parete era già calda e nel bosco c'era ancora neve gelata. Abbiamo scalato per tre ore senza giacca. Birra calda sul ritorno al bar in paese."
+      },
+      {
+        "observedAt": "2024-03-13",
+        "words": "Mercoledì di marzo, tempo variabile. Sull'ultima via del Settore Basso c'era un nido d'uccelli e abbiamo evitato di disturbare: è una buona idea segnarlo con un nastro durante la primavera."
+      },
+      {
+        "observedAt": "2024-05-18",
+        "words": "Sabato di sole. Abbiamo scalato in compagnia dei cani: tre cani legati sotto la parete, tranquilli. Il Pastore è un 6a+ elegante, con un ultimo passo di equilibrio sul filo dello spuntone."
+      },
+      {
+        "observedAt": "2024-07-12",
+        "words": "Venerdì pomeriggio caldissimo. Siamo arrivati alle sei, quando il sole si abbassa: perfetto. La parete resta calda fino al tramonto ma l'aria è fresca. Pochi sulle vie, tranquillità vera."
+      },
+      {
+        "observedAt": "2024-10-26",
+        "words": "Una giornata d'autunno fredda: nel bosco il vento faceva volare le foglie. Sul Muro del Sole si stava bene fino alle tre. Le catene di sosta sono state sostituite con modelli più grandi."
+      },
+      {
+        "observedAt": "2025-02-08",
+        "words": "Sabato, pieno inverno. Strada con ghiaccio e neve compatta: salita con le catene. La parete a sud era libera da neve e stupendamente calda, con una luce pazzesca verso le undici."
+      },
+      {
+        "observedAt": "2025-04-05",
+        "words": "Primavera. Il sentiero è ben segnato e la passerella è comoda; sulla Placca Alta abbiamo fatto il 5c Il Rododendro in compagnia di un'alpinista esperta che ci ha dato consigli sui piedi."
+      },
+      {
+        "observedAt": "2025-09-18",
+        "words": "Giovedì tranquillo, la falesia tutta per noi. Il sole di settembre è ideale: caldo ma non troppo. Il Crouchou, uno spuntone di cinque metri, è un buon posto per un piccolo giro finale."
+      },
+      {
+        "observedAt": "2026-03-21",
+        "words": "Primo giorno di primavera, sole forte. Slargo pieno alle undici, ma c'era spazio fra le macchine se si parcheggiava con cura. Vie in perfette condizioni, roccia pulita e fresca."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "la parete era al sole e asciutta"
+        },
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "ha riempito lo slargo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai bambini",
+          "quote": "Le vie basse sono ideali per lui"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo calda d'estate",
+          "quote": "la roccia scottava"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero ben segnato",
+          "quote": "Il sentiero è ben segnato con cartelli di legno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "silenzio assoluto"
+        },
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Pochi minuti di cammino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Pareti asciutte, quasi niente vento"
+        },
+        {
+          "label": "Strada ghiacciata",
+          "quote": "lo slargo era una pista di ghiaccio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Sulla parete a sud la neve si era sciolta in poche ore"
+        },
+        {
+          "label": "Strada ghiacciata",
+          "quote": "Strada ghiacciata fino a metà"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai bambini",
+          "quote": "la palestra è ideale per queste uscite"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto franato sul sentiero",
+          "kind": "attenzione",
+          "quote": "un tratto è franato e ha lasciato una scarpata di mezzo metro"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo calda d'estate",
+          "quote": "La parete è stata nel sole fino alle quattro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Passerella sul tratto franato",
+          "kind": "novita",
+          "quote": "Il sentiero ora è stato sistemato con una passerella"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura ravvicinata",
+          "quote": "spit ravvicinati"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Alle dieci la parete era già calda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cani alla base",
+          "quote": "tre cani legati sotto la parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo calda d'estate",
+          "quote": "La parete resta calda fino al tramonto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catene di sosta sostituite",
+          "kind": "novita",
+          "quote": "Le catene di sosta sono state sostituite con modelli più grandi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada ghiacciata",
+          "quote": "Strada con ghiaccio e neve compatta"
+        },
+        {
+          "label": "Sole d'inverno",
+          "quote": "La parete a sud era libera da neve"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero ben segnato",
+          "quote": "Il sentiero è ben segnato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "la falesia tutta per noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "Slargo pieno alle undici"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

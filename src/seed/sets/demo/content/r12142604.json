@@ -1,0 +1,263 @@
+{
+  "osm": "r12142604",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d41",
+    "activity": "escursionismo",
+    "place": "comune-001202",
+    "name": "Via Alpina Blue D41",
+    "lat": 44.88924,
+    "lon": 7.04895,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 1090,
+      "localita_partenza": "Ghigo di Prali",
+      "come_arrivare": "Da Prali si prosegue in Val Germanasca fino a Ghigo, dove si lascia l'auto negli spazi lungo la strada. Il Rifugio Lago Verde, all'arrivo, non è raggiungibile in macchina: il rientro è a piedi per la stessa via, oppure con un trasferimento organizzato."
+    },
+    "sections": {
+      "descrizione": "Tappa di salita della Via Alpina Blu in alta Val Germanasca: da Ghigo di Prali al Rifugio Lago Verde, circa 9 km e poco più di mille metri di dislivello in positivo, tutti da fare senza scendere mai. Il percorso si lascia presto la strada alle spalle e si infila in un bosco di larici, poi esce sui pascoli alti e si alza a svolte lunghe.\n\nIl fondo è quasi sempre sentiero ben tracciato, con qualche tratto sassoso nella parte alta. I segnavia bianco-rossi dell'escursionismo si alternano a quelli della Via Alpina. L'acqua si trova nella prima metà; più in alto conviene averla già nello zaino.\n\nIl periodo buono va da fine giugno a inizio ottobre. Il rifugio, vicino al lago che gli dà il nome, è il punto d'arrivo e di sosta: partendo presto si sale con calma e si arriva con il tempo di fermarsi al lago."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Partiti da Ghigo alle otto con il fresco. La salita è lunga e non dà mai tregua, ma il passo si trova e dopo due ore ci si dimentica di contare le svolte."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Larici altissimi nella prima parte, con il sole che filtra e l'odore di resina. Meglio del previsto, fino al rifugio sempre in ombra buona."
+      },
+      {
+        "observedAt": "2022-09-18",
+        "words": "Marmotta che fischiava dal macereto appena sopra il bosco, poi altre due più su. Ci hanno guardato passare senza scomporsi."
+      },
+      {
+        "observedAt": "2023-07-10",
+        "words": "Giovedì di ferie, nessuno sul sentiero. Il rifugio sul lago è apparso dietro l'ultima dorsale quando ormai non ci credevamo più."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Un solo punto dove perdere il segnavia, dopo il guado: poi i bolli bianco-rossi e la Via Alpina ti riportano sulla traccia giusta."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Mille metri tutti di fila, e chi sale con le gambe non allenate lo sente. Ma almeno il sentiero è largo e regolare."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Abbiamo riempito la borraccia alla fontana a metà bosco, poi più nulla fino al lago. Ricordatevi di tenervi un litro di scorta."
+      },
+      {
+        "observedAt": "2024-07-12",
+        "words": "Giornata limpidissima, aria fine di inizio autunno. Il lago colorato di verde come dice il nome, e il rifugio con la polenta calda."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Il bosco sale, sale, poi a un tratto si apre e compare la valle intera sotto di noi. Fotografata tre volte."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Una famiglia di stambecchi sul crinale a destra, lontani ma ben visibili col binocolo. Al ritorno non c'erano più."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Nell'ultimo tratto un tratto di sentiero franato è stato rimesso a posto con pali e terra pressata, adesso si passa senza paura."
+      },
+      {
+        "observedAt": "2025-08-04",
+        "words": "Mercoledì di fine agosto, tutto per noi. Marmotte a ogni pietraia e il lago che si vede da lontano come un occhio verde."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Dieci chilometri scarsi ma lunghissimi, tante ore in salita. Arrivati al rifugio con le gambe di legno e una fame incredibile."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Passerella sul torrente rifatta quest'estate, con corrimano nuovo: prima si saltava sui sassi, adesso si passa asciutti."
+      },
+      {
+        "observedAt": "2026-07-11",
+        "words": "Attenzione alla placca bagnata subito dopo il torrente, scivolosa a primo mattino per la rugiada. Mi è partito un piede."
+      },
+      {
+        "observedAt": "2026-08-03",
+        "words": "Martedì con cielo grigio e nuvole basse sul Lago Verde. Niente panorama ma una zuppa d'orzo che valeva la salita."
+      },
+      {
+        "observedAt": "2026-08-29",
+        "words": "I segnavia della Via Alpina sono freschi e ben visibili anche con la nebbia, poco prima del lago la traccia si perde tra i massi ma gli ometti aiutano."
+      },
+      {
+        "observedAt": "2026-09-26",
+        "words": "Ultima uscita prima della chiusura del rifugio: larici dorati, prima neve sulle cime. Salita pesante ma bellissima."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e continua",
+          "quote": "La salita è lunga e non dà mai tregua"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco di larici",
+          "quote": "Larici altissimi nella prima parte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte sui pascoli alti",
+          "quote": "Marmotta che fischiava dal macereto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio e lago all'arrivo",
+          "quote": "Il rifugio sul lago è apparso dietro l'ultima dorsale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica Via Alpina",
+          "quote": "i bolli bianco-rossi e la Via Alpina ti riportano sulla traccia giusta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e continua",
+          "quote": "Mille metri tutti di fila"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua solo nella prima metà",
+          "quote": "poi più nulla fino al lago"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio e lago all'arrivo",
+          "quote": "Il lago colorato di verde come dice il nome"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco di larici",
+          "quote": "Il bosco sale, sale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto franato ripristinato",
+          "kind": "novita",
+          "quote": "un tratto di sentiero franato è stato rimesso a posto con pali e terra pressata"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte sui pascoli alti",
+          "quote": "Marmotte a ogni pietraia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e continua",
+          "quote": "tante ore in salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Passerella nuova sul torrente",
+          "kind": "novita",
+          "quote": "Passerella sul torrente rifatta quest'estate, con corrimano nuovo"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Placca scivolosa dopo il torrente",
+          "kind": "attenzione",
+          "quote": "Attenzione alla placca bagnata subito dopo il torrente"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio e lago all'arrivo",
+          "quote": "una zuppa d'orzo che valeva la salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica Via Alpina",
+          "quote": "I segnavia della Via Alpina sono freschi e ben visibili"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco di larici",
+          "quote": "larici dorati"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

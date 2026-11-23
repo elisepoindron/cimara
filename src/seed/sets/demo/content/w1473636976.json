@@ -1,0 +1,516 @@
+{
+  "osm": "w1473636976",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-della-ferrata",
+    "activity": "falesia",
+    "place": "comune-004112",
+    "name": "Falesia della Ferrata",
+    "lat": 44.50523,
+    "lon": 7.19797,
+    "aspect": "SE",
+    "altMax": 1154,
+    "facts": {
+      "quota_base": 1154,
+      "esposizione": "SE",
+      "avvicinamento": 12,
+      "localita_partenza": "Macra"
+    },
+    "sections": {
+      "note": "La Falesia della Ferrata è una parete di calcare a 1150 metri sopra Macra, rivolta a sud-est e lunga una quarantina di metri. Una trentina di vie dal 5b al 7c+, fino a 35 metri, con soste a catena e chiodatura attenta: il calcare è grigio, a gocce e buchi nei muri più verticali e a colonnine nei settori di destra.\n\nIl sole arriva al mattino e lascia la parete verso mezzogiorno, per questo la falesia è ideale in primavera e in autunno, e anche in inverno nelle giornate serene. In estate conviene arrivare presto o scegliere i settori sinistri, meno scoperti.\n\nVicino passa una via ferrata, da cui il nome: il sentiero per raggiungerla è in parte comune, perciò si incontrano anche escursionisti con il casco.",
+      "avvicinamento": "Dal parcheggio si segue il sentiero verso la ferrata e dopo dieci minuti si stacca a sinistra una traccia segnata che porta alla base della parete; le vie sono tutte raggiungibili da lì con pochi passi."
+    },
+    "parts": [
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Il Sentiero Nuovo",
+          "grado": "5b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Prima Colazione",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Corda Doppia",
+          "grado": "6a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Tre Gocce",
+          "grado": "6a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Calcare Dolce",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Muschio Rosso",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Il Fabbro",
+          "grado": "6b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Sinistra",
+        "fields": {
+          "nome": "Vento di Valle",
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Specchio di Gocce",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Le Tacche del Nonno",
+          "grado": "6b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Buco Nero",
+          "grado": "6c",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Il Pettine",
+          "grado": "6c",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Lampo",
+          "grado": "6c+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Campana Sorda",
+          "grado": "7a",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Dita di Fata",
+          "grado": "7a",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Attesa",
+          "grado": "7a+",
+          "lunghezza": 34
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Il Collezionista",
+          "grado": "7b",
+          "lunghezza": 34
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Colonnina Gialla",
+          "grado": "6a+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Fuori Fase",
+          "grado": "6b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Sul Filo",
+          "grado": "6c+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Rosso Fuoco",
+          "grado": "7a",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Ritorno al Futuro",
+          "grado": "7a+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "La Ferrata",
+          "grado": "7b",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Cinque Dita",
+          "grado": "7b+",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Doppia Cima",
+          "grado": "7c",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Destra",
+        "fields": {
+          "nome": "Oltre il Ponte",
+          "grado": "7c+",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Mani Forti",
+          "grado": "7b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Lo Squalo",
+          "grado": "7b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Notte Fonda",
+          "grado": "7c",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Maestrale",
+          "grado": "7c+",
+          "lunghezza": 32
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-06",
+        "words": "Sole sulla parete già alle nove e roccia asciutta nonostante la neve lungo il sentiero. Mi sono scaldato sul Sentiero Nuovo e poi sono passato a Tre Gocce. A mezzogiorno il sole se n'è andato."
+      },
+      {
+        "observedAt": "2022-04-23",
+        "words": "Sabato di fine aprile, falesia piena ma educata. Calcare grigio, bello da toccare, con buchi e gocce. Il Pettine mi ha fatto sudare, uscita con un movimento di fiducia."
+      },
+      {
+        "observedAt": "2022-06-14",
+        "words": "Martedì mattina presto, caldo in arrivo. Sono stato fuori fino alle undici e poi giù a mangiare qualcosa. Sui muri a destra il sole entra presto e la roccia diventa subito calda."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Autunno dolce: giornata tersa e roccia ottima, magari un pelo fredda all'inizio. Abbiamo scalato fino a mezzogiorno e poi un giretto sulla ferrata per curiosità. Un escursionista ci ha salutato dal ponte."
+      },
+      {
+        "observedAt": "2022-10-30",
+        "words": "Fine ottobre e il bosco è tutto giallo. Dita di Fata mi ha dato tante soddisfazioni, un 7a con un bel passo di pizzico. Il sentiero da qui è un tappeto di foglie, attenzione a non scivolare."
+      },
+      {
+        "observedAt": "2023-03-11",
+        "words": "Le giornate si allungano e la falesia diventa una meta ideale. Neve ai bordi del sentiero e sole pieno sul calcare. Ho provato Lampo e ho trovato la chiave a metà."
+      },
+      {
+        "observedAt": "2023-05-17",
+        "words": "Mercoledì di ferie: nessuno. Sinistra ancora fredda, Centro già calda. Un camoscio è passato sopra la parete facendo cadere qualche sasso, quindi casco consigliato."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Troppo caldo dalle undici in poi. Abbiamo cominciato alle sette e alle dieci stavamo già pensando alla birra. Il Collezionista è bellissimo ma richiede mani asciutte, che non sono compatibili con questo clima."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Sabato d'autunno con un po' di gente. Calcare freddo e sole radente, una combinazione bella per fare vie lunghe e continue. Il tiro più bello per me è stato La Ferrata, un 7b con una lunga sequenza."
+      },
+      {
+        "observedAt": "2023-11-04",
+        "words": "Una giornata fredda e luminosa, ultime vie prima del grande freddo. Sul muro di sinistra c'era un po' di brina ma dopo le dieci la roccia era perfetta. Pochi in giro."
+      },
+      {
+        "observedAt": "2024-03-16",
+        "words": "Nuove placchette in acciaio sono state montate su Calcare Dolce e Muschio Rosso, sostituendo i vecchi spit arrugginiti. Il lavoro è ben fatto e le soste ora sono molto più solide. Grazie a chi ha fatto la fatica."
+      },
+      {
+        "observedAt": "2024-04-24",
+        "words": "Mercoledì mattina con cielo azzurro. Dopo un'ora un gruppo di escursionisti con il casco ha attraversato il sentiero in direzione della ferrata. Una scena un po' buffa, ma tutto in ordine e nessun disturbo."
+      },
+      {
+        "observedAt": "2024-06-08",
+        "words": "Sabato di inizio giugno, ancora piacevole fino a mezzogiorno. Doppia Cima è una via bellissima ma esposta al sole, meglio cominciare presto. Il pranzo sotto la parete con vista valle è il meglio."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Un blocco di calcare grande come una valigia si è staccato dall'uscita della via Lo Squalo, nel settore strapiombo. Le vie vicine sono ancora salibili, ma attenzione alle uscite e al casco."
+      },
+      {
+        "observedAt": "2024-10-19",
+        "words": "Sabato di autunno pieno, il parcheggio all'inizio era quasi saturo. Roccia perfetta, temperatura da maglietta. Oltre il Ponte ha una sezione dura nei primi metri ma poi è tutto più regolare."
+      },
+      {
+        "observedAt": "2025-03-22",
+        "words": "Neve sulle cenge in alto e acqua che gocciola in alcune vie. Abbiamo scelto il settore di destra, più asciutto. Dopo due ore il sole ha lasciato la parete: meglio fare le cose difficili nelle prime ore."
+      },
+      {
+        "observedAt": "2025-05-14",
+        "words": "Mercoledì di ferie e unico a scalare. Notte Fonda è una via da sogno per chi ha dita di ferro, io mi sono limitato ai movimenti del primo tratto. Il calcare qui ha un suono quasi musicale al tocco."
+      },
+      {
+        "observedAt": "2025-10-11",
+        "words": "Un cartello nuovo all'inizio del sentiero indica sia la ferrata sia la falesia con le due direzioni. Si evita la confusione che c'era prima. Giornata di sole splendido e tante persone sulla parete."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "Sole sulla parete già alle nove"
+        },
+        {
+          "label": "Neve lungo il sentiero",
+          "quote": "la neve lungo il sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "falesia piena ma educata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "il sole entra presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ferrata vicina",
+          "quote": "un giretto sulla ferrata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Foglie sul sentiero",
+          "quote": "Il sentiero da qui è un tappeto di foglie"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve lungo il sentiero",
+          "quote": "Neve ai bordi del sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sassi dall'alto",
+          "quote": "facendo cadere qualche sasso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "Troppo caldo dalle undici in poi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "un po' di gente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "dopo le dieci la roccia era perfetta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Spit sostituiti a Sinistra",
+          "kind": "novita",
+          "quote": "Nuove placchette in acciaio sono state montate su Calcare Dolce e Muschio Rosso, sostituendo i vecchi spit arrugginiti."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Ferrata vicina",
+          "quote": "in direzione della ferrata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "meglio cominciare presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Blocco staccato all'uscita di Lo Squalo",
+          "kind": "attenzione",
+          "quote": "Un blocco di calcare grande come una valigia si è staccato dall'uscita della via Lo Squalo, nel settore strapiombo."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "il parcheggio all'inizio era quasi saturo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve lungo il sentiero",
+          "quote": "Neve sulle cenge in alto"
+        },
+        {
+          "label": "Sole al mattino",
+          "quote": "meglio fare le cose difficili nelle prime ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello nuovo al bivio",
+          "kind": "novita",
+          "quote": "Un cartello nuovo all'inizio del sentiero indica sia la ferrata sia la falesia con le due direzioni."
+        }
+      ]
+    }
+  ]
+}

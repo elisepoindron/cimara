@@ -1,0 +1,261 @@
+{
+  "osm": "w1531349273",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-degli-angeli-settore-the-face",
+    "activity": "falesia",
+    "place": "comune-004248",
+    "name": "Falesia degli Angeli settore The Face",
+    "lat": 44.21127,
+    "lon": 7.19501,
+    "aspect": "S",
+    "altMax": 2189,
+    "facts": {
+      "quota_base": 2189,
+      "esposizione": "S",
+      "avvicinamento": 35,
+      "localita_partenza": "Vinadio"
+    },
+    "sections": {
+      "note": "The Face è una placca isolata di gneiss, un po' più in alto delle altre, a 2190 metri. Solo tre vie, fra il 5c e il 6a+, lunghe fino a 30 metri: una parete appoggiata e liscia, da salire con aderenza e con la testa ferma.\n\nIl sole arriva presto e la placca asciuga subito dopo la pioggia. Le vie sono ben spittate, ma ogni passo conta. È una meta breve e tranquilla, da abbinare a un giro negli altri settori.",
+      "avvicinamento": "Si segue il sentiero verso Grand Falaise e poco dopo si prende una traccia a destra che sale ripida fra i massi fino alla placca, circa trentacinque minuti in tutto."
+    },
+    "parts": [
+      {
+        "group": "The Face",
+        "fields": {
+          "nome": "Faccia a Faccia",
+          "grado": "5c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "The Face",
+        "fields": {
+          "nome": "Specchio delle Mie Brame",
+          "grado": "6a",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "The Face",
+        "fields": {
+          "nome": "Smorfia",
+          "grado": "6a+",
+          "lunghezza": 30
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-08-06",
+        "words": "Placca liscia e un po' di sole forte. Una via elegante, con aderenza sul gneiss e tutti i piedi che tengono. Tre vie in tutto, abbiamo fatto anche i giri di riscaldamento."
+      },
+      {
+        "observedAt": "2022-08-24",
+        "words": "Mercoledì mattina, silenzio e vento leggero. Specchio delle Mie Brame è una placca da cartolina, il passo in alto richiede fiducia. Nessun altro in giro."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "La placca asciuga in fretta e non c'è mai umido. Abbiamo ripetuto due volte Smorfia, la seconda volta sempre più liscia. Il sentiero è ripido ma breve."
+      },
+      {
+        "observedAt": "2022-10-01",
+        "words": "Primo freddo, tutti vestiti a cipolla. Con le mani gelate sulla placca la sensazione è strana ma si scivola meno del previsto. Poche nuvole e una luce bellissima."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "Dopo il disgelo la base era ancora bagnata e fangosa. Le vie sono già asciutte dopo un'ora di sole. Faccia a Faccia è bella e semplice, perfetta per aprire la giornata."
+      },
+      {
+        "observedAt": "2023-08-02",
+        "words": "Mercoledì, con la luce del pomeriggio sulle placche. Salita senza fretta, poi un tuffo nel lago sul fondo dopo la discesa. Nelle placchette resta un po' di polvere bianca."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Sabato pieno d'estate, tutti negli altri settori e noi tre soli qui. Placca bellissima e silenziosa. L'avvicinamento fa più fatica del previsto: il tratto finale è molto ripido."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Giornata tersa, freddo al mattino. Mi sono concentrato sul 6a+, con un passo sul pancione che mi ha messo alla prova. Ho visto un'aquila volare sopra la parete."
+      },
+      {
+        "observedAt": "2024-07-20",
+        "words": "Passati a salutare The Face dopo il giro a Grand Falaise. La placca è piena di segni di gesso, bianca e visibile da lontano. Aderenza e piedi, niente di più."
+      },
+      {
+        "observedAt": "2024-08-14",
+        "words": "Mercoledì prima di Ferragosto, quasi nessuno. Mi piace che qui tutto sia semplice: tre vie, una placca e il cielo. Sulla sosta di Smorfia una maglia rapida è stata sostituita con una nuova."
+      },
+      {
+        "observedAt": "2024-09-01",
+        "words": "Sole splendido e vento zero. Ho scalato con un amico alle prime armi: la placca è perfetta per imparare a fidarsi dei piedi. Salita lunga ma sentiero chiaro."
+      },
+      {
+        "observedAt": "2024-09-29",
+        "words": "Primi segni dell'autunno e una nebbiolina che sale dal fondo. Ho dovuto aspettare che il sole scaldasse la roccia prima di partire. Tratto finale della salita ripido ma corto."
+      },
+      {
+        "observedAt": "2025-07-05",
+        "words": "Una scarica di sassi sul sentiero che sale alla placca ha cambiato il passaggio: il tratto fra i massi è ora meno evidente e più instabile. Si passa piano, uno alla volta."
+      },
+      {
+        "observedAt": "2025-08-20",
+        "words": "Mercoledì di fine agosto, caldo secco. Siamo saliti con calma e abbiamo scalato in canottiera. La placca asciuga in fretta e la gomma tiene bene."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Settembre di sole pieno. Faccia a Faccia di nuovo, e questa volta senza cadere. Il gesso sulla placca è sparito con la pioggia, ma le prese si leggono bene."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Placca di aderenza",
+          "quote": "aderenza sul gneiss"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Mercoledì mattina, silenzio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Asciuga in fretta",
+          "quote": "La placca asciuga in fretta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Asciuga in fretta",
+          "quote": "Le vie sono già asciutte dopo un'ora di sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tuffo nel lago",
+          "quote": "un tuffo nel lago sul fondo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto finale ripido",
+          "quote": "il tratto finale è molto ripido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aquila in volo",
+          "quote": "Ho visto un'aquila volare sopra la parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placca di aderenza",
+          "quote": "Aderenza e piedi"
+        },
+        {
+          "label": "Gesso sulla placca",
+          "quote": "La placca è piena di segni di gesso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "quasi nessuno"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Sosta rinnovata su Smorfia",
+          "kind": "novita",
+          "quote": "Sulla sosta di Smorfia una maglia rapida è stata sostituita con una nuova."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Placca di aderenza",
+          "quote": "imparare a fidarsi dei piedi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto finale ripido",
+          "quote": "Tratto finale della salita ripido ma corto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero instabile verso la placca",
+          "kind": "attenzione",
+          "quote": "Una scarica di sassi sul sentiero che sale alla placca ha cambiato il passaggio"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Asciuga in fretta",
+          "quote": "La placca asciuga in fretta e la gomma tiene bene"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placca di aderenza",
+          "quote": "Faccia a Faccia di nuovo"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

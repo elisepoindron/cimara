@@ -1,0 +1,528 @@
+{
+  "osm": "w1474083446",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-del-forestieri",
+    "activity": "falesia",
+    "place": "comune-004209",
+    "name": "Falesia del Forestieri",
+    "lat": 44.66637,
+    "lon": 7.32893,
+    "aspect": "SO",
+    "altMax": 933,
+    "facts": {
+      "quota_base": 933,
+      "esposizione": "SO",
+      "avvicinamento": 15,
+      "localita_partenza": "Sanfront"
+    },
+    "sections": {
+      "note": "La Falesia del Forestieri è una grande parete di gneiss sopra Sanfront, a 930 metri, rivolta a sud-ovest. Le vie sono oltre sessanta, dal 5c all'8a, la maggior parte tra il 6a e il 7b; qui ne sono elencate una trentina fra le più frequentate, divise in quattro settori.\n\nLo gneiss è grigio e a placche nella parte bassa, più verticale e a buchi nel Muro Rosso, con strapiombi di dita nella parte alta. Le vie sono lunghe, di solito sui 30 metri, e vanno salite con una corda da 70. Le soste sono a catena.\n\nLa quota bassa e l'esposizione a sud-ovest rendono la falesia comoda dalla fine dell'inverno all'inizio dell'estate e di nuovo in autunno; in piena estate è troppo calda dal primo pomeriggio. Durante il mattino presto l'ombra del bosco permette di arrampicare anche ad agosto.",
+      "avvicinamento": "Dal parcheggio un sentiero largo risale per un quarto d'ora nel bosco di castagni e poi taglia a destra fino alla base dello Zoccolo; per il Muro Rosso si prosegue ancora cinque minuti sotto la parete."
+    },
+    "parts": [
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "La Scivolata",
+          "grado": "5c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Castagne e Corda",
+          "grado": "6a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Il Forestiero",
+          "grado": "6a",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Tre Giorni di Pioggia",
+          "grado": "6a+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Via del Nonno",
+          "grado": "6a+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Sulle Orme",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Occhio al Piede",
+          "grado": "6b",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Zoccolo",
+        "fields": {
+          "nome": "Pane Duro",
+          "grado": "6b+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "La Maestrina",
+          "grado": "6a",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Contrabbando",
+          "grado": "6a+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Il Gufo",
+          "grado": "6b",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Tacchi Alti",
+          "grado": "6b",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Gambe Molli",
+          "grado": "6b+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Lo Zio d'America",
+          "grado": "6c",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Strada Bianca",
+          "grado": "6c",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Piovere sul Bagnato",
+          "grado": "6c+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Placche",
+        "fields": {
+          "nome": "Sale e Pepe",
+          "grado": "6c+",
+          "lunghezza": 34
+        }
+      },
+      {
+        "group": "Muro Rosso",
+        "fields": {
+          "nome": "Cuore Matto",
+          "grado": "6c",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Muro Rosso",
+        "fields": {
+          "nome": "Vertigine Dolce",
+          "grado": "7a",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Muro Rosso",
+        "fields": {
+          "nome": "Rosso Mattone",
+          "grado": "7a",
+          "lunghezza": 34
+        }
+      },
+      {
+        "group": "Muro Rosso",
+        "fields": {
+          "nome": "Il Passo Falso",
+          "grado": "7a+",
+          "lunghezza": 34
+        }
+      },
+      {
+        "group": "Muro Rosso",
+        "fields": {
+          "nome": "Mani di Pietra",
+          "grado": "7b",
+          "lunghezza": 34
+        }
+      },
+      {
+        "group": "Muro Rosso",
+        "fields": {
+          "nome": "Fuori Tempo",
+          "grado": "7b+",
+          "lunghezza": 34
+        }
+      },
+      {
+        "group": "Muro Rosso",
+        "fields": {
+          "nome": "Notte a Sanfront",
+          "grado": "7c",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Muro Rosso",
+        "fields": {
+          "nome": "Ruggine",
+          "grado": "7c+",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Strapiombi",
+        "fields": {
+          "nome": "Pelle d'Oca",
+          "grado": "7a+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Strapiombi",
+        "fields": {
+          "nome": "Sbarra Fissa",
+          "grado": "7b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Strapiombi",
+        "fields": {
+          "nome": "Il Cassetto",
+          "grado": "7b+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Strapiombi",
+        "fields": {
+          "nome": "Ottone",
+          "grado": "7c",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Strapiombi",
+        "fields": {
+          "nome": "Brace Viva",
+          "grado": "8a",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Strapiombi",
+        "fields": {
+          "nome": "Dieci e Lode",
+          "grado": "8a",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Strapiombi",
+        "fields": {
+          "nome": "Senza Fiato",
+          "grado": "7c+",
+          "lunghezza": 35
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-12",
+        "words": "Prima giornata mite dell'anno e già si scala in maglietta. Il sentiero è sporco di foglie secche ma il bosco è silenzioso. Sullo zoccolo la roccia è ancora fresca alle dita, perfetta per le vie di grado medio."
+      },
+      {
+        "observedAt": "2022-04-16",
+        "words": "Una giornata di aprile con vento caldo dalla pianura e visibilità da Monviso al Rosa. Tre Giorni di Pioggia mi è sembrata dura per il grado, ma il gneiss è bello. A pranzo tutti sul prato sotto lo Zoccolo."
+      },
+      {
+        "observedAt": "2022-05-25",
+        "words": "Mercoledì di ferie, nessuno nel settore. Sul Muro Rosso ho provato Rosso Mattone: passo chiave nel tratto a buchi, dopo il quarto rinvio. Ci tornerò con più energia."
+      },
+      {
+        "observedAt": "2022-06-26",
+        "words": "Ultima giornata comoda prima del grande caldo: si parte presto e alle undici si smette. La falesia diventa un forno già dal primo pomeriggio. Meglio portare tre litri d'acqua e poi un bagno al torrente."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Settembre e finalmente roccia fresca. Siamo passati dal Zoccolo al Muro Rosso fino a sera, quando il sole si abbassava dietro la valle. Attenzione ai cinghiali: molte impronte nel bosco."
+      },
+      {
+        "observedAt": "2022-10-22",
+        "words": "Autunno pieno di castagne e di gente che le raccoglie. Siamo stati in parete tutta la giornata con luce bellissima. Il parcheggio sulla strada era quasi pieno alle dieci."
+      },
+      {
+        "observedAt": "2023-03-18",
+        "words": "Gneiss ancora freddo e qualche chiazza d'umido sulle placche. Dopo mezzogiorno il sole è arrivato e la roccia si è scaldata in fretta. Sbarra Fissa nello strapiombo è un test duro per i polpastrelli."
+      },
+      {
+        "observedAt": "2023-04-29",
+        "words": "Sabato di fine aprile: tutti a scalare. Cinque cordate in coda sulle vie del Zoccolo, ma il clima è sempre cordiale. Il Muro Rosso resta più tranquillo grazie ai gradi più alti."
+      },
+      {
+        "observedAt": "2023-06-08",
+        "words": "Giovedì sera dopo il lavoro: dalle sei il sole è dietro il bosco e si sta bene. Ho fatto Pelle d'Oca a vista e poi un cinghiale è passato a trenta metri. Strada di rientro sicura con il frontale."
+      },
+      {
+        "observedAt": "2023-08-19",
+        "words": "Tentativo estivo fallito: alle dieci faceva già troppo caldo e la roccia scottava. Siamo andati a cercare un posto più alto. Chi scala qui in agosto deve cominciare all'alba."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Giornata di nuvole sparse e aria pulita. La Maestrina e Contrabbando sono due 6a perfette per scaldarsi. Ci sono parecchi gruppi di ragazzi che imparano la sicurezza: tutti molto bravi."
+      },
+      {
+        "observedAt": "2024-03-23",
+        "words": "Qualcuno ha pulito le placche dai licheni con uno spazzolone e ha aggiunto tre nuove vie a destra di Strada Bianca. Si vedono i bulloni ancora lucidi. Ottimo lavoro, la parete adesso è più bella."
+      },
+      {
+        "observedAt": "2024-04-17",
+        "words": "Mercoledì di aprile con vento da sud e tanto sole. Da qui la vista sulla pianura fino alle colline è larga e chiara. Ottone nello strapiombo è una via da sogno per chi ha dita buone."
+      },
+      {
+        "observedAt": "2024-06-15",
+        "words": "Un grosso blocco si è staccato alla base del Muro Rosso dopo i temporali di maggio e ora giace in mezzo al sentiero di accesso. Le vie vicine sono ancora salibili ma la base è più stretta: occhio a dove si lascia lo zaino."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Sabato di fine settembre, sole sul Muro Rosso fino a sera. Brace Viva è stata la sfida della giornata, troppo dura per me ma divertente da guardare. Un cane tranquillo accanto alla borsa dei rinvii."
+      },
+      {
+        "observedAt": "2025-03-29",
+        "words": "Primo vero giorno di primavera con quasi nessuna nuvola. Il sentiero sembrava un tappeto di foglie e i castagni erano ancora nudi. Alle undici le placche del Zoccolo erano già troppo calde, quasi un'estate in anticipo."
+      },
+      {
+        "observedAt": "2025-05-21",
+        "words": "Mercoledì tranquillo, un paio di cordate e nessun problema. Dieci e Lode vale la salita: otto con le dita del demonio! Da Sanfront alla falesia il tempo vola."
+      },
+      {
+        "observedAt": "2025-10-25",
+        "words": "Giornata chiara di fine ottobre. Avevamo la parete tutta per noi dalle nove alle cinque, con un tramonto rosso incredibile. Le vie del Zoccolo erano appena un po' unte dagli ultimi sei mesi."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole a fine inverno",
+          "quote": "già si scala in maglietta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla pianura",
+          "quote": "visibilità da Monviso al Rosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "nessuno nel settore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "La falesia diventa un forno già dal primo pomeriggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Autunno ideale",
+          "quote": "finalmente roccia fresca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Autunno ideale",
+          "quote": "Autunno pieno di castagne"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole a fine inverno",
+          "quote": "Dopo mezzogiorno il sole è arrivato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Cinque cordate in coda sulle vie del Zoccolo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cinghiali nel bosco",
+          "quote": "un cinghiale è passato a trenta metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "alle dieci faceva già troppo caldo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Autunno ideale",
+          "quote": "Giornata di nuvole sparse e aria pulita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tre vie nuove a destra di Strada Bianca",
+          "kind": "novita",
+          "quote": "ha aggiunto tre nuove vie a destra di Strada Bianca"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla pianura",
+          "quote": "la vista sulla pianura fino alle colline"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Blocco caduto alla base del Muro Rosso",
+          "kind": "attenzione",
+          "quote": "Un grosso blocco si è staccato alla base del Muro Rosso dopo i temporali di maggio"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Cani in falesia",
+          "quote": "Un cane tranquillo accanto alla borsa dei rinvii"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole a fine inverno",
+          "quote": "Alle undici le placche del Zoccolo erano già troppo calde"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "un paio di cordate e nessun problema"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Autunno ideale",
+          "quote": "Giornata chiara di fine ottobre"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

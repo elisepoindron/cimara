@@ -1,0 +1,259 @@
+{
+  "osm": "w914671399",
+  "invented": [
+    "difficolta",
+    "vetta",
+    "esposizione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "balma-alagna-valsesia",
+    "activity": "sci_alpinismo",
+    "place": "comune-002002",
+    "name": "Balma (Alagna Valsesia)",
+    "lat": 45.88261,
+    "lon": 7.87001,
+    "aspect": "E",
+    "facts": {
+      "difficolta": "BS",
+      "vetta": 2911,
+      "esposizione": "E",
+      "localita_partenza": "Alagna Valsesia",
+      "come_arrivare": "Da Alagna Valsesia si raggiunge la quota degli impianti e da lì si parte a piedi con le pelli."
+    },
+    "sections": {
+      "descrizione": "Una discesa di media difficoltà nel comprensorio di Alagna, che parte oltre i 2900 metri e scende verso est su pendii larghi, in alto aperti, poi più stretti dove la valle si chiude. Si raggiunge dagli impianti con una breve salita con le pelli: poche centinaia di metri di dislivello, quanto basta per togliersi dal rumore delle piste.\n\nLa parte alta è un grande catino, spesso ventato e a volte dura; scendendo la neve diventa più morbida, con ottime condizioni dopo una nevicata e quando non è stata già tracciata dagli altri. Nel tratto centrale c'è un restringimento con qualche roccia affiorante, da attraversare con attenzione.\n\nL'uscita sulle piste o sul fondovalle richiede di conoscere il percorso: con poca neve gli ultimi duecento metri sono a piedi.",
+      "note": "Fuori pista: ARTVA, pala e sonda sono obbligatori, e non si va da soli. Il bollettino valanghe va letto ogni volta, dopo vento e nevicate il catino alto è soggetto ad accumuli. Meglio con neve assestata."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-03-13",
+        "words": "Dopo gli impianti breve salita con le pelli: venti minuti di pelli sono bastati per stare da soli. Sopra era tutto vento e crosta, poi sotto la neve migliorava."
+      },
+      {
+        "observedAt": "2022-04-09",
+        "words": "Primo vero giorno di sole di aprile. Il catino alto aveva una crosta di vento che faceva rumore sotto gli sci, ma più giù era bellissimo."
+      },
+      {
+        "observedAt": "2022-12-18",
+        "words": "Tanta neve caduta in settimana. Siamo arrivati alla cima presto e abbiamo trovato polvere fino alle ginocchia nel catino. Giornata difficile da dimenticare."
+      },
+      {
+        "observedAt": "2023-01-11",
+        "words": "Mercoledì, giorno di ferie. Quasi nessuno sulle piste e sul fuori pista ancora meno, sembrava di avere la montagna tutta per noi. Neve ancora fresca."
+      },
+      {
+        "observedAt": "2023-02-04",
+        "words": "Tre chilometri di curve su neve farinosa. All'altezza del restringimento ci sono delle rocce affioranti che richiedono di stare attenti, ma si passa."
+      },
+      {
+        "observedAt": "2023-03-18",
+        "words": "Sabato pieno di gente: sci, snowboard, guide con clienti. Il pendio era già pieno di tracce larghe come strade, però la neve reggeva ancora."
+      },
+      {
+        "observedAt": "2023-03-29",
+        "words": "Giornata tersa, caldo. In alto la neve già molle, giù a valle completamente trasformata. Abbiamo notato che negli ultimi duecento metri ci siamo dovuti togliere gli sci."
+      },
+      {
+        "observedAt": "2023-04-22",
+        "words": "Giro tardivo con tanto sole, partiti con le pelli alle nove. La salita è breve e poco faticosa, il giusto per una primavera di lavoro."
+      },
+      {
+        "observedAt": "2024-01-20",
+        "words": "Cielo coperto e nebbia fitta in alto: abbiamo preferito non scendere dal catino e siamo tornati sulle piste. Con la nebbia non si vede il bordo del pendio."
+      },
+      {
+        "observedAt": "2024-02-10",
+        "words": "Una delle giornate più belle dell'inverno. Il catino alto con neve assestata, il tratto centrale morbido. Polvere bellissima, senza tracce, nei primi trecento metri."
+      },
+      {
+        "observedAt": "2024-03-08",
+        "words": "Venerdì, partenza all'apertura. All'inizio del percorso hanno messo un pannello con il bollettino valanghe del giorno, un'ottima idea per chi arriva da fuori."
+      },
+      {
+        "observedAt": "2024-03-24",
+        "words": "Lungo il restringimento qualcuno ha aperto un passaggio più largo tra le rocce. Il passaggio tra le rocce si fa meglio che l'anno scorso. Noi abbiamo sciato piano per sicurezza."
+      },
+      {
+        "observedAt": "2024-04-27",
+        "words": "Fine stagione quasi. Alla mattina un po' gelata, alle undici sciabile. Il pendio era tutto rigato dai passaggi di ieri, ma con la neve molle si scia comunque."
+      },
+      {
+        "observedAt": "2025-02-15",
+        "words": "Dopo i primi giorni di freddo vero, la neve nel catino è tornata leggera. Nei tratti esposti il vento aveva lasciato lastre dure, andavano evitate."
+      },
+      {
+        "observedAt": "2025-03-12",
+        "words": "Giorno lavorativo ma uscita di mezza giornata. Il catino alto è diventato una zona dove il vento accumula spesso lastroni e va guardato bene prima di scendere. Noi abbiamo scelto la parte laterale."
+      },
+      {
+        "observedAt": "2025-04-05",
+        "words": "Neve di primavera e cielo senza una nuvola. Abbiamo scattato mille foto, il Monte Rosa era lì a due passi, enorme."
+      },
+      {
+        "observedAt": "2026-02-28",
+        "words": "Febbraio con poca neve, ma sotto il catino la neve c'era ancora. L'ultimo pezzo l'abbiamo fatto con gli sci in spalla, in fondo valeva comunque la pena."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita breve dagli impianti",
+          "quote": "venti minuti di pelli sono bastati per stare da soli"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve ventata",
+          "quote": "una crosta di vento che faceva rumore sotto gli sci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Polvere dopo la nevicata",
+          "quote": "polvere fino alle ginocchia nel catino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "sembrava di avere la montagna tutta per noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Restringimento con rocce",
+          "quote": "ci sono delle rocce affioranti che richiedono di stare attenti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tracce di altri sul pendio",
+          "quote": "Il pendio era già pieno di tracce larghe come strade"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Uscita a piedi con poca neve",
+          "quote": "negli ultimi duecento metri ci siamo dovuti togliere gli sci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita breve dagli impianti",
+          "quote": "La salita è breve e poco faticosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Visibilità nulla in nebbia",
+          "quote": "Con la nebbia non si vede il bordo del pendio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Polvere dopo la nevicata",
+          "quote": "Polvere bellissima, senza tracce, nei primi trecento metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Pannelli informativi sul bollettino",
+          "kind": "novita",
+          "quote": "All'inizio del percorso hanno messo un pannello con il bollettino valanghe del giorno"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Restringimento con rocce",
+          "quote": "Il passaggio tra le rocce si fa meglio che l'anno scorso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tracce di altri sul pendio",
+          "quote": "Il pendio era tutto rigato dai passaggi di ieri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve ventata",
+          "quote": "Nei tratti esposti il vento aveva lasciato lastre dure"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Zona ad accumulo di vento nel catino",
+          "kind": "attenzione",
+          "quote": "Il catino alto è diventato una zona dove il vento accumula spesso lastroni e va guardato bene prima di scendere"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Rosa",
+          "quote": "il Monte Rosa era lì a due passi, enorme"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Uscita a piedi con poca neve",
+          "quote": "L'ultimo pezzo l'abbiamo fatto con gli sci in spalla"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

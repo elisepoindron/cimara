@@ -1,0 +1,298 @@
+{
+  "osm": "r9630569",
+  "invented": [
+    "partenza",
+    "vetta",
+    "dislivello",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "alta-via-n-1-della-valle-d-aosta-tappa-1",
+    "activity": "escursionismo",
+    "place": "comune-007023",
+    "name": "Alta Via n. 1 della Valle d'Aosta - Tappa 1",
+    "lat": 45.6028,
+    "lon": 7.76404,
+    "altMax": 1430,
+    "facts": {
+      "difficolta": "E",
+      "partenza": 330,
+      "vetta": 1430,
+      "dislivello": 1498,
+      "localita_partenza": "Donnas",
+      "come_arrivare": "Donnas si raggiunge dall'autostrada della Valle d'Aosta o con il treno sulla linea Torino-Aosta. Si lascia l'auto vicino alla stazione o nel parcheggio del paese e si segue il segnavia dell'Alta Via. Dalla fine della tappa non c'è una strada comoda: chi non prosegue scende a piedi per la stessa via."
+    },
+    "sections": {
+      "descrizione": "Prima tappa dell'Alta Via n. 1 della Valle d'Aosta: da Donnas (330 m) a Sassa (1.430 m), circa 13 km con quasi 1.500 m di salita e meno di 500 m di discesa tra un tratto e l'altro. È una tappa che comincia quasi in pianura e finisce in quota, per questo è più faticosa di quanto dica la distanza.\n\nSi parte dal paese, dove si cammina per un tratto sull'antica strada romana, poi il sentiero lascia le case e sale tra muretti a secco, vigne e castagneti. Più in alto il bosco si fa fresco, con qualche radura e le frazioni sparse sul versante, e si arriva a Sassa sotto il crinale. Il percorso è segnato con il triangolo dell'Alta Via e con i numeri dei sentieri, ed è quasi sempre evidente.\n\nSi fa da aprile a novembre: in piena estate il tratto basso è caldo e senza ombra continua, mentre in primavera e in autunno è il periodo migliore. Per l'acqua conviene partire con una scorta, le fontane lungo il percorso non sono tutte affidabili."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-04-23",
+        "words": "Da Donnas fino al bosco è tutto al sole, ad aprile si sta bene, ma d'estate non so come si faccia."
+      },
+      {
+        "observedAt": "2022-05-14",
+        "words": "Tappa 1 del nostro giro: mille e cinquecento metri di dislivello si sentono tutti. Siamo arrivati a Sassa con le gambe di legno."
+      },
+      {
+        "observedAt": "2022-06-07",
+        "words": "Giorno di ferie, sentiero quasi deserto. Il tratto di strada romana appena fuori dal paese vale da solo la partenza."
+      },
+      {
+        "observedAt": "2022-07-02",
+        "words": "Partiti alle sei per anticipare il caldo e abbiamo fatto bene: dopo le dieci la parte bassa è un forno. Nel bosco poi si respira."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Giornata ideale, fresco la mattina e luce bassa nei castagneti. I triangoli dell'Alta Via si vedono sempre e non serve la mappa."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Con i castagni già gialli il bosco era uno spettacolo. Mi sono fermato a raccogliere due ricci ma le castagne erano ancora acerbe."
+      },
+      {
+        "observedAt": "2023-03-29",
+        "words": "Provata in anticipo, a fine marzo, tutta asciutta fino a un po' sopra i mille metri. Il sentiero è ben segnato anche dove le foglie coprono il fondo."
+      },
+      {
+        "observedAt": "2023-04-30",
+        "words": "La fontana a metà salita era a secco e non c'era scritto niente. Portate almeno due litri a testa, poi si arriva a Sassa e si trova da bere."
+      },
+      {
+        "observedAt": "2023-05-20",
+        "words": "Salita lunga ma regolare, mai un passo davvero ripido. Ho incontrato un signore del posto che mi ha indicato un muretto a secco rifatto da poco."
+      },
+      {
+        "observedAt": "2023-06-21",
+        "words": "Gita infrasettimanale con mia moglie, partiti dal paese col bus. Le vigne attorno alle prime case sono bellissime al mattino."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Troppo caldo, errore nostro. La prima ora sotto il sole è stata massacrante, poi nel bosco ci siamo ripresi."
+      },
+      {
+        "observedAt": "2023-09-24",
+        "words": "Bel pomeriggio a Sassa dopo la salita. Ci siamo fermati un'ora a guardare la valle con le nuvole che salivano dal fondo."
+      },
+      {
+        "observedAt": "2024-04-13",
+        "words": "Fatta il primo sabato bello dell'anno: sono più di mille metri tutti di fila, meglio non sottovalutarla."
+      },
+      {
+        "observedAt": "2024-05-08",
+        "words": "Dopo le piogge di fine aprile un tratto di sentiero era un ruscello. Una frana ha portato via un pezzo di sentiero poco sopra il paese, si passa a monte con un po' di attenzione."
+      },
+      {
+        "observedAt": "2024-06-23",
+        "words": "Il passaggio della frana adesso è sistemato con una corda e qualche gradino. Segnavia rifatti da poco su tutta la tappa."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Tappa fatta in sei ore e mezza con i bambini grandi. Camminano senza lamentarsi se si fanno tante soste all'ombra."
+      },
+      {
+        "observedAt": "2024-10-19",
+        "words": "Da Donnas a Sassa con le foglie che cadevano. Poca gente, l'arco della strada romana subito all'inizio con la luce giusta."
+      },
+      {
+        "observedAt": "2025-06-06",
+        "words": "Un venerdì tranquillo, nessuno sul sentiero. Hanno messo tabelle nuove all'inizio del percorso con tempi e quota di arrivo."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Partenza all'alba per il caldo, sotto le vigne già alle otto non c'era più aria. In alto invece si stava bene."
+      },
+      {
+        "observedAt": "2025-10-04",
+        "words": "Giornata limpida e fresca. Dopo mesi senza pioggia il sentiero era secco e la prima acqua l'abbiamo trovata solo a Sassa."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Caldo nel tratto basso",
+          "quote": "Da Donnas fino al bosco è tutto al sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e continua",
+          "quote": "mille e cinquecento metri di dislivello si sentono tutti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Via romana di Donnas",
+          "quote": "Il tratto di strada romana appena fuori dal paese"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nel tratto basso",
+          "quote": "dopo le dieci la parte bassa è un forno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica dell'Alta Via",
+          "quote": "I triangoli dell'Alta Via si vedono sempre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Castagne ancora acerbe",
+          "quote": "le castagne erano ancora acerbe"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica dell'Alta Via",
+          "quote": "Il sentiero è ben segnato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua scarsa lungo la salita",
+          "quote": "Portate almeno due litri a testa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Muretti a secco rifatti",
+          "quote": "mi ha indicato un muretto a secco rifatto da poco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vigne sopra il paese",
+          "quote": "vigne attorno alle prime case"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nel tratto basso",
+          "quote": "La prima ora sotto il sole è stata massacrante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nuvole dal fondo valle",
+          "quote": "con le nuvole che salivano dal fondo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e continua",
+          "quote": "sono più di mille metri tutti di fila"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana su un tratto del sentiero",
+          "kind": "attenzione",
+          "quote": "Una frana ha portato via un pezzo di sentiero poco sopra il paese"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica dell'Alta Via",
+          "quote": "Segnavia rifatti da poco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Soste all'ombra con i bambini",
+          "quote": "si fanno tante soste all'ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Via romana di Donnas",
+          "quote": "l'arco della strada romana"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuove tabelle all'inizio del percorso",
+          "kind": "novita",
+          "quote": "Hanno messo tabelle nuove all'inizio del percorso"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nel tratto basso",
+          "quote": "sotto le vigne già alle otto non c'era più aria"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua scarsa lungo la salita",
+          "quote": "la prima acqua l'abbiamo trovata solo a Sassa"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

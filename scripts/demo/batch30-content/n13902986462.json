@@ -1,0 +1,101 @@
+{
+  "osm": "n13902986462",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "grotta-di-hone",
+    "activity": "falesia",
+    "place": "comune-007034",
+    "name": "Grotta di Hône",
+    "lat": 45.62236,
+    "lon": 7.70531,
+    "aspect": "S",
+    "altMax": 1434,
+    "facts": {
+      "esposizione": "S",
+      "quota_base": 1434,
+      "avvicinamento": 20,
+      "localita_partenza": "Hône"
+    },
+    "sections": {
+      "note": "Piccola falesia sotto un tetto, nella roccia si apre una grotta che dà il nome alla zona. Vie corte e fisiche, con prese a tacca. Esposta a sud, il tetto dà ombra per buona parte della giornata; il sole entra solo di pomeriggio.\n\nChiodatura a spit, soste con catena o due spit.\n\nPortare una corda da 50 metri e una lampada frontale per la grotta.",
+      "avvicinamento": "Dal parcheggio si sale per il sentiero dei prati, una ventina di minuti, poi si scende alla grotta."
+    },
+    "parts": [
+      {
+        "group": "Tetto",
+        "fields": {
+          "nome": "Ingresso",
+          "grado": "5a",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Tetto",
+        "fields": {
+          "nome": "Grotta",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Tetto",
+        "fields": {
+          "nome": "Tetto",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Tetto",
+        "fields": {
+          "nome": "Uscita",
+          "grado": "5b",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Tetto",
+        "fields": {
+          "nome": "Buio",
+          "grado": "6a+",
+          "lunghezza": 18
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2023-07-02",
+        "words": "Ho scelto il tardo pomeriggio, il tetto dà ombra e si arrampica bene."
+      },
+      {
+        "observedAt": "2025-06-08",
+        "words": "La grotta è fresca anche in estate. Ci sono tante zanzare, portare il repellente."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Ombra del tetto",
+          "quote": "il tetto dà ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Zanzare",
+          "quote": "Ci sono tante zanzare"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "osm": "w807967178",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "parete-dei-fiori",
+    "activity": "falesia",
+    "place": "comune-001210",
+    "name": "Parete dei fiori",
+    "lat": 45.55262,
+    "lon": 7.74743,
+    "aspect": "E",
+    "altMax": 1969,
+    "facts": {
+      "esposizione": "E",
+      "quota_base": 1969,
+      "avvicinamento": 35,
+      "localita_partenza": "Quincinetto"
+    },
+    "sections": {
+      "note": "Parete di roccia chiara con diedri e placche, piena di fiori a giugno. Guarda a est: sole dal mattino, nel pomeriggio d'estate è all'ombra del versante. In primavera e in autunno è il periodo più piacevole.\n\nChiodatura essenziale, con qualche spit e soste di due punti. Alcune vie richiedono un friend medio.\n\nPortare una corda da 60 metri, friend e acqua; poca acqua lungo il sentiero.",
+      "avvicinamento": "Dal parcheggio si segue il sentiero dei pascoli, circa trentacinque minuti in salita, con qualche tratto ripido."
+    },
+    "parts": [
+      {
+        "group": "Parete dei fiori",
+        "fields": {
+          "nome": "Primo fiore",
+          "grado": "4c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Parete dei fiori",
+        "fields": {
+          "nome": "Diedro",
+          "grado": "5b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Parete dei fiori",
+        "fields": {
+          "nome": "Placca dei fiori",
+          "grado": "5a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Parete dei fiori",
+        "fields": {
+          "nome": "Fessura",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete dei fiori",
+        "fields": {
+          "nome": "Ultimo petalo",
+          "grado": "6a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Parete dei fiori",
+        "fields": {
+          "nome": "Spigolo",
+          "grado": "5b+",
+          "lunghezza": 20
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2023-06-10",
+        "words": "Fiori ovunque sul prato, la placca è pulita e il sole arriva presto."
+      },
+      {
+        "observedAt": "2025-09-21",
+        "words": "Ho scelto la domenica: la parete era libera e ho fatto due diedri. Freddo al mattino, poi caldo."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Fiori sul prato",
+          "quote": "Fiori ovunque sul prato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Freddo al mattino",
+          "quote": "Freddo al mattino, poi caldo"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

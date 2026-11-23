@@ -1,0 +1,463 @@
+{
+  "osm": "w1474083447",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "localita_partenza",
+    "parcheggio_nota"
+  ],
+  "itinerary": {
+    "key": "falesia-delle-ninfe",
+    "activity": "falesia",
+    "place": "comune-004209",
+    "name": "Falesia Delle Ninfe",
+    "lat": 44.66655,
+    "lon": 7.33118,
+    "aspect": "S",
+    "altMax": 927,
+    "facts": {
+      "esposizione": "S",
+      "quota_base": 927,
+      "avvicinamento": 10,
+      "localita_partenza": "Sanfront",
+      "parcheggio_nota": "Poche macchine stanno nello slargo vicino al sentiero; nei fine settimana belli si parcheggia più in basso lungo la strada."
+    },
+    "sections": {
+      "note": "La Falesia delle Ninfe sta sopra Sanfront, su una bella parete di calcare esposta a sud, a 930 metri: ha un clima mite, perfetto da novembre a marzo nelle giornate di sole, mentre d'estate si va solo alla mattina. È una falesia grande, con una novantina di vie sportive dal 5b al 7c, una parte delle quali lunga e a più tiri.\n\nIl calcare è grigio, a gocce e buchi nei settori bassi, più verticale e a tacche in quelli alti; l'attrito è buono finché è asciutto, ma dopo la pioggia certi tratti restano umidi a lungo. La chiodatura è fitta e moderna, le soste sono a catena con anello, qualche tiro alto è lungo e richiede corda da ottanta.\n\nQui sono scritte una selezione delle linee più frequentate; ce ne sono molte altre, spesso con gradi in alto. Il sabato la parete è piena di gente: arrivare presto.",
+      "avvicinamento": "Dal parcheggio un sentiero segnato sale nel bosco di castagni e poi attraversa un piccolo ghiaione fino alla base. Dieci minuti di fiato, appena ripidi nell'ultimo tratto."
+    },
+    "parts": [
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "nome": "Sguardo di Ninfa",
+          "grado": "5b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "nome": "La Fonte",
+          "grado": "5b+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "nome": "Acqua Chiara",
+          "grado": "5c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "nome": "Il Gocciolatoio",
+          "grado": "5c+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "nome": "Bagno di Sole",
+          "grado": "6a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "nome": "Naiade",
+          "grado": "6a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "nome": "Il Pettirosso",
+          "grado": "6a+",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Settore Basso",
+        "fields": {
+          "nome": "Ondina",
+          "grado": "6a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Fiori di Roccia",
+          "grado": "5c",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Ninfea",
+          "grado": "6a",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Carezza di Ninfa",
+          "grado": "6a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "La Sirena",
+          "grado": "6b",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Gocce d'Autunno",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Il Respiro",
+          "grado": "6b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Fata Morgana",
+          "grado": "6b+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Settore Centrale",
+        "fields": {
+          "nome": "Tre Salti",
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Falso Piano",
+          "grado": "6a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Il Camino Bianco",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Tacche d'Argento",
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Moneta d'Oro",
+          "grado": "6c+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Sotto le Stelle",
+          "grado": "7a",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Cielo di Marzo",
+          "grado": "7a+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Bella Addormentata",
+          "grado": "7b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Lacrime di Luna",
+          "grado": "7b+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Settore Alto",
+        "fields": {
+          "nome": "Nube Nera",
+          "grado": "7c",
+          "lunghezza": 30
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-19",
+        "words": "Giornata già primaverile: sole pieno sulla parete dalle dieci e si stava in maglietta. Abbiamo fatto sette vie in tutto tra Basso e Centrale."
+      },
+      {
+        "observedAt": "2022-04-06",
+        "words": "Mercoledì di aprile, quasi nessuno. Il calcare a buchi è divertente, ma i primi tiri al mattino erano ancora umidi per la pioggia della notte."
+      },
+      {
+        "observedAt": "2022-11-12",
+        "words": "Novembre, mille foglie sul sentiero e sole a mezzogiorno sulla parete. Il caldo perfetto per i 6b+, il resto fa fatica."
+      },
+      {
+        "observedAt": "2023-01-14",
+        "words": "Gelo in valle ma sulla parete si stava benissimo: sole pieno a gennaio, dieci gradi in più rispetto alla pianura. Io ho fatto La Sirena in giacca e poi in maglia."
+      },
+      {
+        "observedAt": "2023-03-19",
+        "words": "Il parcheggio era già pieno alle nove, cordate ovunque nel Centrale. Abbiamo ripiegato sull'Alto, dove si aspetta meno."
+      },
+      {
+        "observedAt": "2023-05-03",
+        "words": "Giornata di ferie. Il caldo cominciava a farsi sentire sul Basso già alle undici. Ho fatto Sguardo di Ninfa e Acqua Chiara per scaldarmi poi sono salito su Cielo di Marzo, bella e continua."
+      },
+      {
+        "observedAt": "2023-10-07",
+        "words": "Giornata di tanta gente e di cani senza guinzaglio. C'era la coda alla partenza di Fiori di Roccia. Grandi gocce sul tiro, bello."
+      },
+      {
+        "observedAt": "2023-11-12",
+        "words": "Ho scalato con un amico che non veniva da due anni: le gocce nel calcare ti fanno ritrovare la presa senza troppo fiatone. Una giornata di ritorno."
+      },
+      {
+        "observedAt": "2024-02-02",
+        "words": "Una giornata di febbraio da sogno: aria ferma e sole sul calcare da mezzogiorno. Mi sono fermato a mangiare sulla panchina del parcheggio con una cioccolata calda."
+      },
+      {
+        "observedAt": "2024-03-23",
+        "words": "Su Tacche d'Argento ho trovato la sosta rinnovata, nel settore Alto hanno rifatto le soste con catene nuove. Stasera ci scappa la pizza."
+      },
+      {
+        "observedAt": "2024-04-13",
+        "words": "Anche se i tiri alti sono lunghi, conviene portare la corda da ottanta per calarsi in comodità. Pioggia nel pomeriggio, siamo scesi alle tre."
+      },
+      {
+        "observedAt": "2024-06-03",
+        "words": "Caldo, e da mezzogiorno la parete è una piastra. Siamo partiti alle sette e alle undici eravamo già in macchina. Una brezza sul Basso salvava la mattina."
+      },
+      {
+        "observedAt": "2024-10-06",
+        "words": "Ottobre mite, sole sul Centrale tutta la mattina. Una cordata davanti a noi ha impiegato mezz'ora su Moneta d'Oro. Fiori di Roccia è sempre una bellezza di continuità."
+      },
+      {
+        "observedAt": "2025-01-18",
+        "words": "Tutto asciutto a gennaio, dopo settimane senza pioggia. Un castagno è caduto sul sentiero e blocca il passaggio per le ultime curve, si passa a fatica sotto i rami."
+      },
+      {
+        "observedAt": "2025-03-09",
+        "words": "Chiodatura fitta e rassicurante: ravvicinata anche sui 6c, per cui si può provare senza ansia. Un cane da compagnia di un'altra cordata ci ha fatto da mascotte."
+      },
+      {
+        "observedAt": "2025-05-07",
+        "words": "Venerdì in solitaria con la corda tirata su da un ragazzo. Dopo la pioggia un tratto restava umido sul Centrale, ma il Basso era asciutto subito."
+      },
+      {
+        "observedAt": "2025-10-18",
+        "words": "In fila alla fonte del paese, ancora acqua fresca in zona. Il sabato è affollato come sempre, ma tra le dieci e le undici ci si sposta senza problemi."
+      },
+      {
+        "observedAt": "2026-02-01",
+        "words": "Gradino di neve sul sentiero al mattino, poi sole sul calcare dalle undici. L'albero caduto è stato tagliato e spostato, si passa ancora agevolmente."
+      },
+      {
+        "observedAt": "2026-04-11",
+        "words": "Primi caldi, farfalle e fiori sotto la parete. Mi è piaciuta parecchio Nube Nera: dura, ma non cattiva."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole in inverno",
+          "quote": "si stava in maglietta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Calcare grigio e buchi",
+          "quote": "calcare a buchi è divertente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole in inverno",
+          "quote": "sole a mezzogiorno sulla parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole in inverno",
+          "quote": "sole pieno a gennaio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata il sabato",
+          "quote": "Il parcheggio era già pieno alle nove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata il sabato",
+          "quote": "C'era la coda alla partenza di Fiori di Roccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Calcare grigio e buchi",
+          "quote": "le gocce nel calcare ti fanno ritrovare la presa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole in inverno",
+          "quote": "sole sul calcare da mezzogiorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Soste rifatte nell'Alto",
+          "kind": "novita",
+          "quote": "nel settore Alto hanno rifatto le soste con catene nuove"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Corda da ottanta",
+          "quote": "conviene portare la corda da ottanta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Albero caduto sul sentiero",
+          "kind": "attenzione",
+          "quote": "Un castagno è caduto sul sentiero e blocca il passaggio per le ultime curve"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura ravvicinata",
+          "quote": "ravvicinata anche sui 6c"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata il sabato",
+          "quote": "sabato è affollato come sempre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Albero caduto sul sentiero",
+          "kind": "attenzione",
+          "quote": "L'albero caduto è stato tagliato e spostato"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+ "osm": "w1529726002",
+ "invented": [
+  "avvicinamento",
+  "localita_partenza",
+  "parcheggio_nota",
+  "vie",
+  "description",
+  "reports"
+ ],
+ "itinerary": {
+  "key": "la-placca-del-sole",
+  "activity": "falesia",
+  "place": "comune-004204",
+  "name": "La Placca del Sole",
+  "lat": 44.34362,
+  "lon": 7.05576,
+  "aspect": "S",
+  "altMax": 1391,
+  "facts": {
+   "esposizione": "S",
+   "quota_base": 1391,
+   "avvicinamento": 15,
+   "localita_partenza": "Sambuco",
+   "parcheggio_nota": "Spiazzo sterrato lungo la strada, per cinque o sei auto; non si disturba nessuno."
+  },
+  "sections": {
+   "note": "La Placca del Sole è una piccola falesia di gneiss a quasi 1400 metri, a Sambuco, in alta Valle Stura. La parete guarda a sud: il sole arriva presto e se ne va tardi, per questo la stagione va da fine primavera a ottobre, e nelle giornate limpide anche in inverno si può provare.\n\nSono nove vie dal 5c al 6c, lunghe al massimo trenta metri. La roccia è una placca compatta, appoggiata ma continua, con pochi buoni appigli e molta aderenza. Le vie sono ben chiodate, con spit inox e soste a catena.\n\nIl silenzio è il suo punto forte: è fuori dai grandi percorsi, quasi sempre vuota.",
+   "avvicinamento": "Dal parcheggio la mulattiera sale nel bosco per un quarto d'ora fino a una radura sotto la placca. Il sentiero è ripido nel primo tratto, poi più morbido."
+  },
+  "parts": [
+   {
+    "group": "Placca",
+    "fields": {
+     "nome": "Primo Raggio",
+     "grado": "5c",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Placca",
+    "fields": {
+     "nome": "Sole di Maggio",
+     "grado": "5c+",
+     "lunghezza": 26
+    }
+   },
+   {
+    "group": "Placca",
+    "fields": {
+     "nome": "Pelle d'Orso",
+     "grado": "6a",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Placca",
+    "fields": {
+     "nome": "Tutto Liscio",
+     "grado": "6a+",
+     "lunghezza": 28
+    }
+   },
+   {
+    "group": "Placca",
+    "fields": {
+     "nome": "Camoscio Distratto",
+     "grado": "6b",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Placca",
+    "fields": {
+     "nome": "Notte Chiara",
+     "grado": "6b+",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Placca",
+    "fields": {
+     "nome": "Il Tramonto",
+     "grado": "6c",
+     "lunghezza": 30
+    }
+   },
+   {
+    "group": "Placca",
+    "fields": {
+     "nome": "Mille Metri Più Su",
+     "grado": "6a",
+     "lunghezza": 27
+    }
+   },
+   {
+    "group": "Placca",
+    "fields": {
+     "nome": "Erba Alta",
+     "grado": "6b",
+     "lunghezza": 28
+    }
+   }
+  ],
+  "reports": [
+   {
+    "observedAt": "2022-05-21",
+    "words": "Prima volta qui, scoperta per caso su una mappa. Placca bellissima, compatta, e silenzio assoluto. Fatto quattro vie, le catene sono nuove."
+   },
+   {
+    "observedAt": "2022-06-29",
+    "words": "Mercoledì sera, dopo il lavoro, fino all'ultimo sole. Tutta la placca illuminata fino alle otto, una luce che da sola vale la gita."
+   },
+   {
+    "observedAt": "2022-08-13",
+    "words": "Giornata calda ma a questa quota si regge. Siamo rimasti all'ombra finché il sole non è arrivato sulla placca e poi via, tre vie belle."
+   },
+   {
+    "observedAt": "2022-09-17",
+    "words": "Pochi minuti dopo la radura, la placca appare dal bosco. Prese minime, molta aderenza, scarpette morbide consigliate."
+   },
+   {
+    "observedAt": "2022-10-23",
+    "words": "Ultimi giorni di bel tempo, foglie rosse e un'aria frizzante. Nessun altro, solo un camoscio che ci guardava dalla costa."
+   },
+   {
+    "observedAt": "2023-05-27",
+    "words": "C'era ancora un po' di neve sul sentiero, ma ci si passa. La roccia era già calda e asciutta alle undici."
+   },
+   {
+    "observedAt": "2023-06-14",
+    "words": "Mercoledì. Il sentiero è un po' ripido, con lo zaino pesante si fa sentire, ma il premio è una placca tutta per noi."
+   },
+   {
+    "observedAt": "2023-07-30",
+    "words": "Anche in luglio si sta bene, soprattutto la mattina. Il Tramonto è dura, il passo del 6c è un incrocio sulle piccole tacche."
+   },
+   {
+    "observedAt": "2023-09-02",
+    "words": "Un nido di calabroni all'ingresso della prima via a sinistra, abbiamo visto due insetti grossi e abbiamo cambiato linea. Per il resto, giornata ottima."
+   },
+   {
+    "observedAt": "2023-10-14",
+    "words": "Giornata limpida, si vedevano le creste in lontananza. Con le scarpette nuove tutto andava per il meglio, la placca perdona poco gli errori."
+   },
+   {
+    "observedAt": "2024-05-12",
+    "words": "Dopo le piogge la roccia ha il muschio sulla parte bassa, ma dopo due metri è asciutta. Mi hanno detto che di solito è pulita."
+   },
+   {
+    "observedAt": "2024-06-20",
+    "words": "Giovedì mattina, tutto per me e un amico. Quattro vie in quattro ore, tra una pausa e l'altra, caffè dal termos e un panino sulla radura."
+   },
+   {
+    "observedAt": "2024-08-24",
+    "words": "Giornata bollente giù in valle, qui la brezza fa respirare. Sole tutto il giorno sulla placca, quindi si lascia perdere dopo le due."
+   },
+   {
+    "observedAt": "2024-10-05",
+    "words": "Hanno aperto una nuova linea sulla destra, si vedono gli spit lucidi: una via in più, forse un 6a+. Non l'ho provata, ma ha un bell'aspetto."
+   },
+   {
+    "observedAt": "2025-06-08",
+    "words": "Gita di famiglia, i bambini hanno fatto i funghi nel bosco mentre noi scalavamo. Il sentiero è breve, ma ripido nei primi metri."
+   },
+   {
+    "observedAt": "2025-07-25",
+    "words": "Venerdì di ferie. Un camoscio ci ha tenuto compagnia. La placca è liscia in alto, serve scegliere bene i piedi e fidarsi dell'attrito."
+   },
+   {
+    "observedAt": "2025-09-20",
+    "words": "Pomeriggio di sole, giornata ideale. Ho scalato Erba Alta e Il Tramonto, due vie molto diverse ma entrambe godibili."
+   }
+  ]
+ },
+ "readings": [
+  {
+   "themes": [
+    {
+     "label": "Silenziosa e quasi deserta",
+     "quote": "silenzio assoluto"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole fino a sera",
+     "quote": "Tutta la placca illuminata fino alle otto"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Placca di aderenza",
+     "quote": "molta aderenza"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Silenziosa e quasi deserta",
+     "quote": "Nessun altro"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole fino a sera",
+     "quote": "La roccia era già calda"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Silenziosa e quasi deserta",
+     "quote": "una placca tutta per noi"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Placca di aderenza",
+     "quote": "tacche"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Placca di aderenza",
+     "quote": "la placca perdona poco gli errori"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Muschio sulla base dopo le piogge",
+     "kind": "attenzione",
+     "quote": "la roccia ha il muschio sulla parte bassa"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Silenziosa e quasi deserta",
+     "quote": "tutto per me e un amico"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole fino a sera",
+     "quote": "Sole tutto il giorno sulla placca"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Nuova via a destra della placca",
+     "kind": "novita",
+     "quote": "Hanno aperto una nuova linea sulla destra"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Avvicinamento ripido",
+     "quote": "ripido nei primi metri"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Placca di aderenza",
+     "quote": "fidarsi dell'attrito"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole fino a sera",
+     "quote": "Pomeriggio di sole"
+    }
+   ],
+   "flags": []
+  }
+ ]
+}

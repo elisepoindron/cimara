@@ -1,0 +1,35 @@
+{
+  "osm": "w1089086956",
+  "invented": ["esposizione", "avvicinamento", "vie", "note", "parcheggio_nota"],
+  "itinerary": {
+    "key": "falesia-di-pontey",
+    "activity": "falesia",
+    "place": "comune-007051",
+    "name": "Falesia di Pontey",
+    "lat": 45.74015,
+    "lon": 7.56618,
+    "aspect": "SE",
+    "altMax": 553,
+    "facts": {
+      "esposizione": "SE",
+      "quota_base": 553,
+      "avvicinamento": 5,
+      "localita_partenza": "Pontey",
+      "parcheggio_nota": "Due posti sul piazzale, poi lungo la strada."
+    },
+    "sections": {
+      "note": "Muretto di roccia a fianco della strada, piccolo e comodo, con prese grandi e tondeggianti. Sei vie in due settori, dal 4 al 6a, tutte sotto i diciotto metri.\n\nGuarda a sud-est: il mattino prende il sole e nel pomeriggio resta all'ombra, quindi d'estate è piacevole a qualsiasi ora.\n\nLa fessura è la via più dura, con appigli scarsi: portate i friend piccoli. Le soste sono a catena, da controllare.",
+      "avvicinamento": "Cinque minuti a piedi dal bordo della strada, su un sentiero di terra."
+    },
+    "parts": [
+      { "group": "Muro basso", "fields": { "nome": "Primo passo", "grado": "4", "lunghezza": 12 } },
+      { "group": "Muro basso", "fields": { "nome": "Mezzo giro", "grado": "4+", "lunghezza": 14 } },
+      { "group": "Muro basso", "fields": { "nome": "Scalino corto", "grado": "5a", "lunghezza": 14 } },
+      { "group": "Muro basso", "fields": { "nome": "Il bambino", "grado": "5b", "lunghezza": 16 } },
+      { "group": "Fessura", "fields": { "nome": "Crepa", "grado": "5c", "lunghezza": 14 } },
+      { "group": "Fessura", "fields": { "nome": "Ultima fessura", "grado": "6a", "lunghezza": 16 } }
+    ],
+    "reports": [],
+    "readings": []
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "osm": "r12132690",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d29",
+    "activity": "escursionismo",
+    "place": "comune-001073",
+    "name": "Via Alpina Blue D29",
+    "lat": 45.43012,
+    "lon": 7.25112,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 1172,
+      "localita_partenza": "Ceresole Reale",
+      "come_arrivare": "Si arriva a Ceresole Reale da Locana per la strada della valle, con parcheggi nei dintorni del lago. Alla fine della tappa a Pialpetta serve un mezzo per tornare: c'è un servizio di linea in valle, ma con poche corse."
+    },
+    "sections": {
+      "descrizione": "Seconda tappa piemontese di questo tratto della Via Alpina Blu: da Ceresole Reale a Pialpetta, nel cuore delle Valli di Lanzo, con circa 13,5 km, 1.170 metri di salita e oltre 1.600 di discesa. Si lascia il lago e si risale il vallone fino al colle, poi si scende a lungo verso l'altra valle.\n\nLa salita ha un fondo regolare con qualche pietraia; la discesa è la vera fatica del giorno, ripida e lunga, con tratti dove servono ginocchia in buono stato e bastoncini. Il panorama dal colle spazia sulle creste di confine.\n\nPeriodo migliore da luglio a settembre. È una tappa che chiede un'intera giornata: portare cibo, acqua e abbigliamento per il vento in quota."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "Dal lago si sale subito tra i prati e poi si entra nel vallone. Il colle lo abbiamo raggiunto alle undici con un vento che portava via il cappello."
+      },
+      {
+        "observedAt": "2022-08-04",
+        "words": "Giovedì tranquillo, nessuno sul sentiero. La discesa nell'altra valle è sembrata infinita e le ginocchia l'hanno ricordato per due giorni."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Un sabato con cielo pulitissimo: dal colle si vedevano le creste di confine una dietro l'altra. Ho scattato più foto in venti minuti che nel resto dell'anno."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Prime nebbie del mattino, poi sole. A Pialpetta il bar era chiuso, per fortuna avevo portato un panino."
+      },
+      {
+        "observedAt": "2023-07-01",
+        "words": "Nevaio residuo nel vallone alto, da attraversare con calma. Sopra il colle già tutto sgombro."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Giornata ventosa, fresca e luminosa. La salita è regolare e si trova il ritmo senza troppa fatica."
+      },
+      {
+        "observedAt": "2023-08-15",
+        "words": "Ferragosto in cammino, e il sentiero era lo stesso silenzio di sempre. Un camoscio ci ha guardato per un minuto buono dal costone."
+      },
+      {
+        "observedAt": "2023-09-12",
+        "words": "Martedì di fine estate, aria tersa. Ho usato i bastoncini per tutta la discesa e ho fatto bene."
+      },
+      {
+        "observedAt": "2024-06-29",
+        "words": "Fioriture ovunque nei prati sopra il lago, azalee nane e genziane. Faticoso ma bellissimo, con il lago che rimpiccioliva alle spalle."
+      },
+      {
+        "observedAt": "2024-07-20",
+        "words": "Un cartello nuovo all'inizio del vallone indica Pialpetta con le ore di cammino. Prima bisognava fidarsi della traccia."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Temporale nel pomeriggio ma noi eravamo già a valle. Il tratto finale su sterrato è lungo e noioso dopo tutta quella discesa."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Un gruppo di stambecchi pascolava vicino al colle e non si è spostato per niente. Mai visti così vicini."
+      },
+      {
+        "observedAt": "2025-07-05",
+        "words": "Dopo le piogge di giugno un tratto del sentiero sotto il colle è scivolato a valle, c'è un passaggio provvisorio segnato con bandierine. Si attraversa uno per volta."
+      },
+      {
+        "observedAt": "2025-08-13",
+        "words": "Mercoledì, partenza alle sette dal lago. Con il passaggio provvisorio abbiamo perso un quarto d'ora ma niente di grave."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Al colle c'era un freddo che non ti aspetti. Dopo la discesa lunghissima una birra a Pialpetta ci stava tutta."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Percorso rifatto in autunno: il tratto scivolato ora ha un sentiero stabile, con gradini di pietra. Tutto più sicuro di cosi."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Vento al colle",
+          "quote": "con un vento che portava via il cappello"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga e ripida",
+          "quote": "La discesa nell'altra valle è sembrata infinita"
+        },
+        {
+          "label": "Sentiero quasi deserto",
+          "quote": "nessuno sul sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama dal colle sulle creste",
+          "quote": "dal colle si vedevano le creste di confine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pialpetta con pochi servizi",
+          "quote": "A Pialpetta il bar era chiuso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai residui a inizio stagione",
+          "quote": "Nevaio residuo nel vallone alto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita regolare",
+          "quote": "La salita è regolare"
+        },
+        {
+          "label": "Vento al colle",
+          "quote": "Giornata ventosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero quasi deserto",
+          "quote": "il sentiero era lo stesso silenzio di sempre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga e ripida",
+          "quote": "Ho usato i bastoncini per tutta la discesa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fioriture nei prati",
+          "quote": "Fioriture ovunque nei prati sopra il lago"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello nuovo all'inizio del vallone",
+          "kind": "novita",
+          "quote": "Un cartello nuovo all'inizio del vallone indica Pialpetta"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga e ripida",
+          "quote": "dopo tutta quella discesa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi vicino al colle",
+          "quote": "Un gruppo di stambecchi pascolava vicino al colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto scivolato sotto il colle",
+          "kind": "attenzione",
+          "quote": "un tratto del sentiero sotto il colle è scivolato a valle"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Passaggio provvisorio segnalato",
+          "quote": "Con il passaggio provvisorio abbiamo perso un quarto d'ora"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga e ripida",
+          "quote": "la discesa lunghissima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto riaperto con gradini di pietra",
+          "kind": "novita",
+          "quote": "il tratto scivolato ora ha un sentiero stabile"
+        }
+      ]
+    }
+  ]
+}

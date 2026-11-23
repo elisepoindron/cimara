@@ -1,0 +1,19 @@
+# Never shipped into the image: secrets, local data, and what only a
+# developer's machine needs.
+.env
+.env.*
+!.env.example
+*.db
+*.db-wal
+*.db-shm
+uploads/
+node_modules/
+.git/
+.claude/
+.superpowers/
+.worktrees/
+local/
+tests/
+docs/
+# A local demo build: Dockerfile.demo builds its own.
+build/

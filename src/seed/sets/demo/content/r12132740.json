@@ -1,0 +1,242 @@
+{
+  "osm": "r12132740",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d30",
+    "activity": "escursionismo",
+    "place": "comune-001118",
+    "name": "Via Alpina Blue D30",
+    "lat": 45.36991,
+    "lon": 7.28026,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 1626,
+      "localita_partenza": "Pialpetta",
+      "come_arrivare": "Si arriva a Pialpetta, in Val d'Ala, con la strada provinciale da Lanzo, fino a un piccolo parcheggio in paese. Alla fine della tappa a Balme servono un passaggio o l'autobus di valle per il rientro."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu tra Pialpetta e Balme, circa 16 km con 1.600 metri di salita e 1.250 di discesa, fra due paesi della stessa valle ma passando per il versante opposto. Il sentiero lascia il fondovalle, sale a un colle alto e ridiscende in un'altra conca prima di rientrare verso Balme.\n\nSalita lunga e regolare nel bosco, poi pascoli e pietraie con il vento di cresta; il tratto sommitale può avere nevai a inizio stagione. La discesa è varia, con tratti su mulattiera e altri nell'erba alta.\n\nÈ una giornata piena: partire presto, tenere cibo e acqua per quasi tutto il giorno, abbigliamento per il tempo che cambia. Periodo migliore da luglio a settembre."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-23",
+        "words": "Da Pialpetta si parte subito in salita e la salita non finisce più. Dopo cinque ore il colle sembrava un miraggio."
+      },
+      {
+        "observedAt": "2022-08-17",
+        "words": "Mercoledì con aria limpida e una luce che faceva brillare tutte le creste. Balme in fondo, una bella soddisfazione."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "Ho trovato un pastore con le mucche in alto e mi ha offerto del latte appena munto. Tra le cose più belle della tappa."
+      },
+      {
+        "observedAt": "2022-09-25",
+        "words": "Meteo cambiato a mezzogiorno: da sole a nuvole nere in venti minuti. Siamo scesi di fretta ma il tratto di mulattiera aiutava."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "Nevaio sotto il colle, sentiero tracciato da altri prima di noi. Si passa ma con attenzione, soprattutto sul tratto inclinato."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Fatica doppia per via del caldo nella parte bassa. Nel bosco c'è ombra ma poco ricambio d'aria, la borraccia svanisce."
+      },
+      {
+        "observedAt": "2023-08-22",
+        "words": "Martedì, silenzio totale sul colle. Ho incontrato solo un'altra persona in tutta la giornata."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Marmotte a decine nell'alta conca, quasi non scappavano. Sul colle un vento freddo ma sopportabile."
+      },
+      {
+        "observedAt": "2024-07-07",
+        "words": "Sentiero ben segnato nella parte alta, un po' meno nel bosco dove un paio di bivi mi hanno fatto esitare. Meglio avere la traccia sul telefono."
+      },
+      {
+        "observedAt": "2024-08-11",
+        "words": "Caldo, polvere e mosche nella prima parte, poi il colle ci ha restituito il fiato. Dopo cinque ore di salita riposo meritato sull'erba."
+      },
+      {
+        "observedAt": "2024-09-03",
+        "words": "Martedì di cielo velato, con la luce giusta per i rilievi. Un tratto della mulattiera di discesa è stato ripulito dai rovi."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Prima neve imbiancata sulle cime. Arrivati a Balme con le gambe di legno e il sorriso da fine stagione."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Un grosso masso è caduto sul sentiero poco dopo il bosco, si aggira passando a monte per pochi metri. Qualcuno ha già messo dei segni di vernice."
+      },
+      {
+        "observedAt": "2025-08-09",
+        "words": "Colazione presto a Pialpetta e via. Il masso lo si supera senza difficoltà, ma conviene non fermarsi lì sotto."
+      },
+      {
+        "observedAt": "2025-08-26",
+        "words": "Martedì, cielo coperto con qualche goccia. Per fortuna il sentiero non scivola e la discesa verso Balme è stata asciutta."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Nuovi segnavia e una targa metallica sul colle con i nomi delle valli. Si capisce subito dove sei in mezzo a tanta montagna."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Dislivello impegnativo",
+          "quote": "la salita non finisce più"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo a Balme",
+          "quote": "Balme in fondo, una bella soddisfazione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Incontro con i pastori",
+          "quote": "mi ha offerto del latte appena munto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo instabile nel pomeriggio",
+          "quote": "da sole a nuvole nere in venti minuti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai a inizio stagione",
+          "quote": "Nevaio sotto il colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nella parte bassa",
+          "quote": "Fatica doppia per via del caldo nella parte bassa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi incontri sul percorso",
+          "quote": "Ho incontrato solo un'altra persona in tutta la giornata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte nell'alta conca",
+          "quote": "Marmotte a decine nell'alta conca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bivi poco chiari nel bosco",
+          "quote": "un paio di bivi mi hanno fatto esitare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Dislivello impegnativo",
+          "quote": "Dopo cinque ore di salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Mulattiera di discesa ripulita",
+          "kind": "novita",
+          "quote": "Un tratto della mulattiera di discesa è stato ripulito dai rovi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo a Balme",
+          "quote": "Arrivati a Balme con le gambe di legno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Masso caduto sul sentiero",
+          "kind": "attenzione",
+          "quote": "Un grosso masso è caduto sul sentiero poco dopo il bosco"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Masso sul sentiero superabile",
+          "quote": "Il masso lo si supera senza difficoltà"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo instabile nel pomeriggio",
+          "quote": "Per fortuna il sentiero non scivola"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Targa nuova sul colle",
+          "kind": "novita",
+          "quote": "una targa metallica sul colle con i nomi delle valli"
+        }
+      ]
+    }
+  ]
+}

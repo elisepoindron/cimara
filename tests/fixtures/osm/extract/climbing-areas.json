@@ -1,0 +1,5 @@
+{"timestamp":"2026-11-23T12:00:00Z","areas":[
+ {"osm":"r13","members":["n11"],"rings":[]},
+ {"osm":"w14","members":[],"rings":[[{"lat":45.65,"lon":7.76},{"lat":45.65,"lon":7.761},{"lat":45.651,"lon":7.761},{"lat":45.651,"lon":7.76},{"lat":45.65,"lon":7.76}]]},
+ {"osm":"r17","members":["n18"],"rings":[]}
+]}

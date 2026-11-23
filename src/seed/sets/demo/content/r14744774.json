@@ -1,0 +1,245 @@
+{
+  "osm": "r14744774",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "tour-via-del-sale",
+    "activity": "mountain_bike",
+    "place": "comune-006067",
+    "name": "Tour VIA DEL SALE",
+    "lat": 44.68897,
+    "lon": 9.20219,
+    "altMax": 1700,
+    "facts": {},
+    "sections": {
+      "descrizione": "La Via del Sale dell'Alto Oltrepò Pavese parte da Varzi e sale fino al monte Chiappo, a quota 1700 metri, per circa 24 chilometri di sviluppo. È un itinerario quasi tutto in salita, che segue strade bianche, vecchie mulattiere e tratti di sentiero larghi, nel passaggio dalle colline coltivate ai boschi di faggio e infine ai pascoli sommitali.\n\nLa difficoltà è soprattutto di fiato: la pendenza è regolare ma lunga, e le ultime rampe verso la vetta sono più dure e a volte sassose. Non servono tecnica particolare né bici da enduro, ma serve un buon allenamento e un rapporto agile.\n\nIn cima il panorama si apre sulla pianura padana, sulle valli appenniniche e, nelle giornate limpide, sulle Alpi. La discesa avviene sullo stesso percorso o seguendo varianti: considerarla con cura, perché dopo la fatica la stanchezza può far perdere lucidità sui tratti sassosi.",
+      "note": "La stagione migliore va da maggio a ottobre; in inverno il Chiappo è spesso innevato. In estate partire presto per il caldo nella parte bassa. Acqua: portare almeno due borracce, la parte alta è senza fontane.",
+      "avvicinamento": "Si parte da Varzi: il centro ha parcheggi comodi, poi si imbocca la strada che sale verso le colline a sud-est del paese."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-05-14",
+        "words": "Primo tentativo di fine maggio. Salita lunga, sempre su sterrato regolare, ma ci siamo fermati a circa un'ora dalla cima per il vento fortissimo e un po' di grandine. Ci riproviamo in estate."
+      },
+      {
+        "observedAt": "2022-06-26",
+        "words": "Arrivato in cima al Chiappo dopo quattro ore. Panorama enorme sulla pianura padana, le Alpi lontane nel velo di foschia. La fatica c'è stata ma ripaga tutto, e la discesa è stata veloce."
+      },
+      {
+        "observedAt": "2022-07-20",
+        "words": "Mercoledì libero e giro di prima mattina. Ho beccato parecchi caprioli nei boschi di faggio, uno quasi a portata di mano. Caldo nella parte bassa ma in quota si sta benissimo."
+      },
+      {
+        "observedAt": "2022-08-13",
+        "words": "Giornata caldissima, partito alle 6 e comunque già a 30 gradi alle 9. Terminate le borracce a metà salita, non ci sono fontane fino in cima. La prossima volta ne porto tre."
+      },
+      {
+        "observedAt": "2022-09-18",
+        "words": "Le ultime rampe sono sassose e ripide, ma niente di tecnico: basta avere un rapporto leggero. In vetta una croce e molta gente a piedi, qualcuno anche con i cani."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Un colore del bosco che non avevo mai visto, faggi dorati e pavimento di foglie. Si sentiva l'odore dell'autunno ovunque. Giro lento e fotografico."
+      },
+      {
+        "observedAt": "2023-05-28",
+        "words": "Sulla Via del Sale ci sono tratti con fondo smosso dalle piogge, qualche solco profondo trasversale che costringe a rallentare. Poi il fondo ridiventa buono e si pedala bene."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Tutto il tour in salita, ve lo dico subito: non c'è nemmeno un tratto dove riposare davvero. Ma se si va con calma e si mangia ogni mezz'ora, si fa. Cima raggiunta, birra al ritorno a Varzi."
+      },
+      {
+        "observedAt": "2023-07-26",
+        "words": "Giornata di ferie. Parecchie mucche al pascolo vicino alla cima, ho dovuto passare piano in mezzo a loro. Hanno la campana e sembrano tranquille, nessuna reazione."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Cielo limpido e aria frizzante. Dal Chiappo si vedevano chiaramente le Alpi e il Monviso, bianco di neve. Mi ha colpito quanto si vede lontano da lì."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Sentiero chiuso nel tratto che porta alla cima: un cartello avvisa di una piccola frana. C'è una deviazione di mezzo chilometro, segnata con vernice bianca. Non complicata ma meglio saperlo."
+      },
+      {
+        "observedAt": "2024-05-19",
+        "words": "Tracciato riaperto nel tratto in cima, hanno sistemato la frana con terra e sassi. Il passaggio è comodo e sicuro. La vera fatica adesso è l'ultimo chilometro, tutto di rampe corte."
+      },
+      {
+        "observedAt": "2024-06-29",
+        "words": "Con una e-bike si arriva comodamente. Ho incontrato molti ciclisti con la pedalata assistita, la Via del Sale è diventata un classico per loro. Ho ricaricato un po' alla colazione in paese."
+      },
+      {
+        "observedAt": "2024-08-21",
+        "words": "Nebbia fitta in cima, non si vedeva a dieci metri. Peccato per il panorama, ma la salita è stata fresca e piacevole. Meglio controllare le previsioni prima di partire."
+      },
+      {
+        "observedAt": "2024-10-05",
+        "words": "Il bosco in autunno è magnifico, sentiero soffice di foglie e aria fresca. Qualche cacciatore sul percorso, ho fatto attenzione a farmi sentire e a indossare qualcosa di colorato."
+      },
+      {
+        "observedAt": "2025-06-01",
+        "words": "Nuovi cartelli lungo il percorso: ogni bivio importante ha ora un'indicazione chiara con la distanza dal Chiappo. Utile soprattutto nei boschi, dove prima ci si perdeva facilmente."
+      },
+      {
+        "observedAt": "2025-08-24",
+        "words": "Ho fatto il giro all'inverso del solito: salita su strada asfaltata e discesa per la mulattiera. Più duro per le gambe ma la discesa è tecnica e divertente, con qualche gradino naturale."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e regolare",
+          "quote": "Salita lunga, sempre su sterrato regolare"
+        },
+        {
+          "label": "Meteo instabile in quota",
+          "quote": "vento fortissimo e un po' di grandine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama dalla vetta",
+          "quote": "Panorama enorme sulla pianura padana"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna nel bosco",
+          "quote": "parecchi caprioli nei boschi di faggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua lungo il percorso",
+          "quote": "non ci sono fontane fino in cima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rampe finali sassose",
+          "quote": "Le ultime rampe sono sassose e ripide"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori autunnali nel bosco",
+          "quote": "faggi dorati"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fondo rovinato dalla pioggia",
+          "quote": "qualche solco profondo trasversale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e regolare",
+          "quote": "Tutto il tour in salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mucche al pascolo",
+          "quote": "Parecchie mucche al pascolo vicino alla cima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama dalla vetta",
+          "quote": "Dal Chiappo si vedevano chiaramente le Alpi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Deviazione per frana verso la cima",
+          "kind": "attenzione",
+          "quote": "un cartello avvisa di una piccola frana"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Rampe finali sassose",
+          "quote": "tutto di rampe corte"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Tratto riaperto dopo la frana",
+          "kind": "novita",
+          "quote": "hanno sistemato la frana con terra e sassi"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meteo instabile in quota",
+          "quote": "Nebbia fitta in cima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuovi cartelli sui bivi",
+          "kind": "novita",
+          "quote": "ogni bivio importante ha ora un'indicazione chiara con la distanza dal Chiappo"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

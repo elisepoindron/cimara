@@ -1,0 +1,242 @@
+{
+  "osm": "r12133225",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d32",
+    "activity": "escursionismo",
+    "place": "comune-001282",
+    "name": "Via Alpina Blue D32",
+    "lat": 45.23218,
+    "lon": 7.21045,
+    "facts": {
+      "difficolta": "EE",
+      "dislivello": 1853,
+      "localita_partenza": "Usseglio",
+      "come_arrivare": "Si arriva a Usseglio in Val di Viù, seguendo la strada della valle da Lanzo. Alla fine, al Rifugio Riposa, servono accordi per il ritorno: la strada non arriva fino lì."
+    },
+    "sections": {
+      "descrizione": "Tappa molto lunga della Via Alpina Blu da Usseglio al Rifugio Riposa: circa 23 km con oltre 1.850 metri di salita e 940 di discesa. È una giornata intera di cammino, con passaggi di alta quota e lunghi tratti di sentiero montano che chiedono costanza.\n\nSi parte dal paese e si risale la valle laterale, poi si superano colli e cime secondarie prima di scendere verso la Val Cenischia. Il fondo è vario: mulattiere, prati, pietraie e tratti su roccia con qualche punto più delicato.\n\nIl periodo migliore va da luglio a settembre. Per la lunghezza è consigliabile spezzare la tappa o partire all'alba; l'itinerario non offre possibilità di ritirata semplici."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-30",
+        "words": "Partiti alle cinque con la frontale, tornati nel buio. Ventitré chilometri sono davvero tanti anche per un gruppo allenato."
+      },
+      {
+        "observedAt": "2022-08-25",
+        "words": "Giovedì con cielo blu, solo noi in giro. Mi sono accorto verso sera che avevo finito l'acqua da ore e c'era ancora molto da fare."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Il passaggio su roccia sotto il secondo colle è esposto ma attrezzato con un cavo. Per chi non soffre il vuoto va bene."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "A metà giornata sembrava di non arrivare mai. Il rifugio visto dall'alto era un puntino piccolissimo."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Nevaio sul secondo colle, con traccia già battuta. Abbiamo usato i bastoncini e andava bene."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Alba splendida dal primo colle, con luce rosa sulle creste. Valeva la sveglia alle quattro."
+      },
+      {
+        "observedAt": "2023-09-05",
+        "words": "Martedì tranquillo. Rifugio Riposa accogliente, una doccia calda a fine tappa e polenta con spezzatino."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Tratti di sentiero cancellati dall'erba alta nel fondovalle, bisogna andare a naso per un po'. Fortunatamente la traccia sul telefono ha salvato la giornata."
+      },
+      {
+        "observedAt": "2024-07-14",
+        "words": "Ho dormito poco la notte prima e ho pagato nel pomeriggio. Meglio fare questa tappa in due giorni, è il consiglio."
+      },
+      {
+        "observedAt": "2024-08-09",
+        "words": "Venerdì di caldo secco. Lunga discesa finale che arriva al rifugio quando le gambe sono già esaurite."
+      },
+      {
+        "observedAt": "2024-09-01",
+        "words": "Cartelli nuovi ai due bivi principali del secondo vallone, con tempi di percorrenza aggiornati. Molto utili."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Meteo perfetto, un po' di vento in cresta. Ho incontrato un gruppo di ragazzi diretti verso la Francia a piedi, una bella tappa per loro."
+      },
+      {
+        "observedAt": "2025-07-20",
+        "words": "Il cavo del passaggio su roccia era staccato da un lato dopo una frana invernale. Si può passare con attenzione ma non fidarsi troppo."
+      },
+      {
+        "observedAt": "2025-08-16",
+        "words": "Giornata di Ferragosto e infatti qualche gruppo in più al primo colle. Poi di nuovo solo noi e il vento."
+      },
+      {
+        "observedAt": "2025-09-02",
+        "words": "Martedì, il cavo risulta di nuovo fissato bene con spit nuovi. Peccato per il fango che aveva riempito il ruscello prima."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Prime nubi basse e freddo alla sera. Arrivati al rifugio in tempo per l'ultimo tè prima della cena."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Tappa molto lunga",
+          "quote": "Ventitré chilometri sono davvero tanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua da razionare",
+          "quote": "avevo finito l'acqua da ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passaggio su roccia con cavo",
+          "quote": "esposto ma attrezzato con un cavo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa molto lunga",
+          "quote": "sembrava di non arrivare mai"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai in quota",
+          "quote": "Nevaio sul secondo colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Alba dai colli",
+          "quote": "Alba splendida dal primo colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Riposa accogliente",
+          "quote": "Rifugio Riposa accogliente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero poco visibile nell'erba",
+          "quote": "Tratti di sentiero cancellati dall'erba alta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meglio spezzare in due giorni",
+          "quote": "Meglio fare questa tappa in due giorni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa molto lunga",
+          "quote": "le gambe sono già esaurite"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartelli nuovi ai bivi del secondo vallone",
+          "kind": "novita",
+          "quote": "Cartelli nuovi ai due bivi principali del secondo vallone"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Escursionisti di lunga distanza",
+          "quote": "un gruppo di ragazzi diretti verso la Francia a piedi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cavo del passaggio su roccia staccato",
+          "kind": "attenzione",
+          "quote": "Il cavo del passaggio su roccia era staccato da un lato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente dopo il primo colle",
+          "quote": "Poi di nuovo solo noi e il vento"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cavo ripristinato con nuovi ancoraggi",
+          "kind": "novita",
+          "quote": "il cavo risulta di nuovo fissato bene con spit nuovi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Riposa accogliente",
+          "quote": "Arrivati al rifugio in tempo per l'ultimo tè"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "osm": "n12862541334",
+  "invented": [
+    "grado_max",
+    "grado_obbligatorio",
+    "tiri",
+    "avvicinamento",
+    "protezione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-normale-start",
+    "activity": "multipitch",
+    "place": "comune-001110",
+    "name": "Via Normale-start",
+    "lat": 44.96803,
+    "lon": 7.30024,
+    "aspect": "S",
+    "altMax": 1286,
+    "facts": {
+      "grado_max": "4c",
+      "grado_obbligatorio": "4b",
+      "tiri": 4,
+      "avvicinamento": 15,
+      "protezione": "da_integrare",
+      "localita_partenza": "Frossasco",
+      "come_arrivare": "Da Pinerolo si sale verso Frossasco e poi in direzione della valle fino a uno spiazzo sotto la rocca; da lì un sentiero in leggera salita nel bosco arriva alla base della parete.",
+      "quota_base": 1186,
+      "esposizione": "S",
+      "sviluppo": 100
+    },
+    "sections": {
+      "descrizione": "Il primo tratto della classica via d'iniziazione alla rocca: quattro tiri di una ventina di metri su roccia a sud, con appoggi larghi e buone prese. È la via che molti scelgono per imparare a muoversi in cordata e capire come si fanno le soste.\n\nLa protezione è mista: qualche spit sui passaggi più delicati ma il resto è da integrare con friend e cordini sulle fessure; le soste sono comode, con catena. Il sole picchia dalla tarda mattina e d'estate si scotta.\n\nIl nome \"start\" indica l'inizio della linea più lunga che prosegue sopra; molti si fermano qui, altri proseguono.",
+      "discesa": "Dalla sosta finale una breve doppia di 25 metri riporta alla base; in alternativa un sentiero a destra scende tra le rocce in dieci minuti, ben segnato da ometti.",
+      "materiale": "Corda da 50 o 60 metri, sei rinvii, qualche friend medio e cordini; il casco per i sassi che cadono dalla via sopra.",
+      "avvicinamento": "Dallo spiazzo un sentiero ben marcato nel bosco di castagni sale in un quarto d'ora fino alla base, dove una targa indica la via."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "3",
+          "lunghezza": 25,
+          "descrizione": "Roccette appoggiate con prese larghe."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4a",
+          "lunghezza": 25,
+          "descrizione": "Placchetta facile con una fessura a destra per le protezioni."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 25,
+          "descrizione": "Il passo più impegnativo: muretto con un traverso a destra."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4b",
+          "lunghezza": 25,
+          "descrizione": "Rampa inclinata e sosta su un terrazzino panoramico."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-26",
+        "words": "Prima giornata di sole dopo settimane di pioggia, roccia già calda. Ideale per riprendere in mano la corda con i principianti."
+      },
+      {
+        "observedAt": "2022-04-17",
+        "words": "Una via didattica nel senso migliore del termine. Ho fatto fare la sosta a mia figlia di quindici anni e se l'è cavata alla grande. Siamo in quattro cordate e ci sta tutto."
+      },
+      {
+        "observedAt": "2022-05-12",
+        "words": "Giovedì pomeriggio dopo scuola con il gruppo di ragazzi. Coda alla base ma niente di strano, il tempo di aspettare il proprio turno si passa col sole in faccia."
+      },
+      {
+        "observedAt": "2022-10-23",
+        "words": "Autunno caldo, la roccia già al sole dalle nove. I castagni attorno fanno una bella cornice, il sentiero è comodo."
+      },
+      {
+        "observedAt": "2023-03-19",
+        "words": "Con il corso di arrampicata del club. Gli istruttori ci hanno fatto fare le soste a catena e mostrato come integrare le fessure con i friend."
+      },
+      {
+        "observedAt": "2023-04-30",
+        "words": "Domenica piena di gente, abbiamo aspettato quasi un'ora prima di partire. Ma una volta in via tutto scorre veloce, quattro tiri e si è già in cima."
+      },
+      {
+        "observedAt": "2023-06-07",
+        "words": "Mercoledì di giugno, calore insopportabile a mezzogiorno. Meglio arrivare presto: alle undici la parete è un forno."
+      },
+      {
+        "observedAt": "2023-09-24",
+        "words": "Il terzo tiro con il traverso a destra è il punto più delicato. Un po' di attenzione ai piedi e poi si passa liscio."
+      },
+      {
+        "observedAt": "2024-04-13",
+        "words": "Via perfetta per portare il cane in zona: il bosco è comodo, la sosta in cima spaziosa. Il cagnolino è rimasto a guardare dal terrazzino, felicissimo."
+      },
+      {
+        "observedAt": "2024-05-11",
+        "words": "Una tegola si è staccata dalla seconda sosta e ha lasciato un buco nella roccia. La sosta resta valida ma il punto di appoggio è peggiore."
+      },
+      {
+        "observedAt": "2024-07-02",
+        "words": "Martedì di luglio al fresco del mattino. Una cordata davanti, nessuno dietro. Il sole è sulla parete già alle otto e mezza."
+      },
+      {
+        "observedAt": "2024-09-15",
+        "words": "Aria frizzante, ottimo per camminare nel bosco. Il traverso del terzo tiro mi ha messo un po' di soggezione ma tutto bene."
+      },
+      {
+        "observedAt": "2025-03-30",
+        "words": "Hanno rifatto le catene delle soste con maillon nuovi e una targhetta con il numero. Più chiaro e più sicuro per chi arriva per la prima volta."
+      },
+      {
+        "observedAt": "2025-05-18",
+        "words": "Primo giro per mia nipote di nove anni, in moulinette dall'alto. Le prese larghe l'hanno incoraggiata e ha voluto rifare il primo tiro due volte."
+      },
+      {
+        "observedAt": "2025-10-12",
+        "words": "Dopo la pioggia del giorno prima la roccia è rimasta scivolosa a lungo. Meglio aspettare qualche giorno: il sole del mattino non basta ad asciugare le fessure."
+      },
+      {
+        "observedAt": "2026-04-05",
+        "words": "Il sentiero adesso ha una staccionata di tronchi nel tratto ripido, e una panchina con vista. Tutto molto curato."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Roccia al sole presto",
+          "quote": "roccia già calda"
+        },
+        {
+          "label": "Via per principianti",
+          "quote": "Ideale per riprendere in mano la corda con i principianti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Via per principianti",
+          "quote": "Una via didattica nel senso migliore del termine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nelle belle giornate",
+          "quote": "Coda alla base ma niente di strano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento comodo",
+          "quote": "il sentiero è comodo"
+        },
+        {
+          "label": "Roccia al sole presto",
+          "quote": "la roccia già al sole dalle nove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Integrare con friend",
+          "quote": "mostrato come integrare le fessure con i friend"
+        },
+        {
+          "label": "Via per principianti",
+          "quote": "Con il corso di arrampicata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nelle belle giornate",
+          "quote": "abbiamo aspettato quasi un'ora prima di partire"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "alle undici la parete è un forno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Traverso del terzo tiro",
+          "quote": "Il terzo tiro con il traverso a destra è il punto più delicato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cane in bosco",
+          "quote": "Via perfetta per portare il cane in zona"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Roccia staccata alla seconda sosta",
+          "kind": "attenzione",
+          "quote": "Una tegola si è staccata dalla seconda sosta e ha lasciato un buco nella roccia."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia al sole presto",
+          "quote": "Il sole è sulla parete già alle otto e mezza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Traverso del terzo tiro",
+          "quote": "Il traverso del terzo tiro mi ha messo un po' di soggezione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Soste con catene nuove",
+          "kind": "novita",
+          "quote": "Hanno rifatto le catene delle soste con maillon nuovi e una targhetta con il numero."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Via per principianti",
+          "quote": "Le prese larghe l'hanno incoraggiata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia bagnata dopo la pioggia",
+          "quote": "la roccia è rimasta scivolosa a lungo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento comodo",
+          "quote": "Tutto molto curato"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Staccionata sul sentiero",
+          "kind": "novita",
+          "quote": "Il sentiero adesso ha una staccionata di tronchi nel tratto ripido, e una panchina con vista."
+        }
+      ]
+    }
+  ]
+}

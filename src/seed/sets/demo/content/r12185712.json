@@ -1,0 +1,262 @@
+{
+  "osm": "r12185712",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d50",
+    "activity": "escursionismo",
+    "place": "comune-004083",
+    "name": "Via Alpina Blue D50",
+    "lat": 44.5398,
+    "lon": 7.08981,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 862,
+      "localita_partenza": "Serre di Val d'Elva",
+      "come_arrivare": "Serre di Val d'Elva si raggiunge da Sampeyre salendo in Val d'Elva con una strada stretta; si parcheggia nei pressi del borgo. L'arrivo a Ussolo, in Val Maira, richiede un rientro con un secondo mezzo o un trasferimento privato."
+    },
+    "sections": {
+      "descrizione": "Tappa lunga della Via Alpina Blu da Serre di Val d'Elva a Ussolo, in Val Maira: 17 km con 862 m di salita e 1.047 di discesa, attraverso la Val d'Elva, un colle e il versante verso la Val Maira. È una delle tappe più lunghe di questa sezione, da pianificare con una giornata intera.\n\nSi sale tra pascoli e boschi radi fino a un valico, poi si scende per un lungo tratto di sentiero e mulattiera verso Ussolo, con vedute sull'alta Val Maira. Qualche tratto di strada sterrata alleggerisce la fatica.\n\nIl periodo va da giugno a ottobre. Partire presto è indispensabile: con 17 km si arriva a Ussolo nel tardo pomeriggio, e l'ultimo tratto è tutto in discesa."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "Diciassette chilometri sono tanti: otto ore piene di cammino, pausa pranzo compresa. Non per i deboli di gambe ma facile da seguire."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Partiti alle sei e un quarto con la frontale per i primi dieci minuti. Il sole è arrivato quando eravamo già sul valico."
+      },
+      {
+        "observedAt": "2022-09-25",
+        "words": "Il valico è largo e verde, con una bella vista sull'alta Val Maira e il fondovalle lontano. Peccato per le nuvole da ovest."
+      },
+      {
+        "observedAt": "2023-06-30",
+        "words": "Martedì lontano da tutto, nessun incontro per oltre sei ore. I pascoli sono vuoti e il rumore dei campanacci distante."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "La discesa finale su Ussolo è lunghissima, con fondo duro che cuoce i piedi. Alla fine ho tolto le scarpe sul prato."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Tratti di sterrata alternati a sentiero, non troppo faticosi. Ma l'asfalto verso la fine stanca i piedi."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Un solo punto con l'acqua, a metà tappa. Abbiamo riempito tre borracce da un litro e ne è rimasta poca all'arrivo."
+      },
+      {
+        "observedAt": "2024-07-05",
+        "words": "Giovedì feriale con lo zaino pesante: due notti in giro con tenda. Gambe bruciate ma morale alto."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Caldo forte nel pomeriggio sul versante sud: nessuna ombra per ore. Cappello e crema essenziali."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Una famiglia di capre selvatiche sul pendio opposto, dritte sul crinale. Le abbiamo seguite per quasi un'ora."
+      },
+      {
+        "observedAt": "2025-07-05",
+        "words": "Alcune parti del sentiero sono invase dall'erba alta, ma i segnavia sono nitidi. Ci si bagna con la rugiada."
+      },
+      {
+        "observedAt": "2025-07-31",
+        "words": "Mercoledì di fine agosto, nuvole cariche e un tuono lontano verso il valico. Siamo scesi di fretta."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Hanno rifatto il tratto di sentiero franato sotto il valico con un muretto a secco: ora si cammina su una traccia larga e ben consolidata."
+      },
+      {
+        "observedAt": "2025-10-04",
+        "words": "Gran caldo, lunghe discese, ma a Ussolo ci ha accolti una locanda con un piatto di ravioli e un bicchiere di vino. Perfetto."
+      },
+      {
+        "observedAt": "2026-07-04",
+        "words": "Attenzione al guado sul torrente prima del valico: dopo le piogge l'acqua è alta e il passaggio sui sassi è scivoloso."
+      },
+      {
+        "observedAt": "2026-07-31",
+        "words": "Autunno limpido, un po' di freddo sul valico e prime nevicate in alto. Tappa lunga ma lenta, da godersi."
+      },
+      {
+        "observedAt": "2026-08-30",
+        "words": "Camminata solitaria con lunghi silenzi. Nessun altro, solo l'eco dei miei passi e il vento sul pascolo."
+      },
+      {
+        "observedAt": "2026-10-03",
+        "words": "Alle quattro del pomeriggio ancora in cammino, ma la luce era dorata e i campi di Ussolo comparivano sotto di noi."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Tappa lunghissima",
+          "quote": "Diciassette chilometri sono tanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partenza all'alba",
+          "quote": "Partiti alle sei e un quarto con la frontale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Valico e vista sulla Val Maira",
+          "quote": "con una bella vista sull'alta Val Maira"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero solitario",
+          "quote": "nessun incontro per oltre sei ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga verso Ussolo",
+          "quote": "La discesa finale su Ussolo è lunghissima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sterrate e tratti di strada",
+          "quote": "Tratti di sterrata alternati a sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua lungo il percorso",
+          "quote": "Un solo punto con l'acqua, a metà tappa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunghissima",
+          "quote": "Gambe bruciate ma morale alto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo senza ombra",
+          "quote": "nessuna ombra per ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Erba alta sul sentiero",
+          "quote": "invase dall'erba alta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "un tuono lontano verso il valico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto franato rifatto sotto il valico",
+          "kind": "novita",
+          "quote": "Hanno rifatto il tratto di sentiero franato sotto il valico con un muretto a secco"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo a Ussolo",
+          "quote": "a Ussolo ci ha accolti una locanda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Guado alto dopo le piogge",
+          "kind": "attenzione",
+          "quote": "Attenzione al guado sul torrente prima del valico"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Valico e vista sulla Val Maira",
+          "quote": "un po' di freddo sul valico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero solitario",
+          "quote": "Nessun altro, solo l'eco dei miei passi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo a Ussolo",
+          "quote": "i campi di Ussolo comparivano sotto di noi"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

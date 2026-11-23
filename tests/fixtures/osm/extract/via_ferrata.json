@@ -1,0 +1,4 @@
+{"timestamp":"2026-11-19T17:32:00Z","query":"(fixture)","elements":[
+ {"type":"way","id":40,"tags":{"name":"Ferrata di Prova","highway":"via_ferrata","via_ferrata_scale":"3"},"geometry":[{"lat":45.604,"lon":7.76},{"lat":45.605,"lon":7.761}]},
+ {"type":"way","id":41,"tags":{"name":"Ferrata di Prova","highway":"via_ferrata"},"geometry":[{"lat":45.605,"lon":7.761},{"lat":45.606,"lon":7.762}]}
+]}

@@ -1,0 +1,9 @@
+{
+  "osm": "r30",
+  "invented": ["descrizione", "reports"],
+  "itinerary": {
+    "key": "anello-di-prova",
+    "sections": { "descrizione": "Un giro tra i castagni sopra il paese." },
+    "reports": [{ "observedAt": "2026-10-04", "words": "Sentiero pulito, foglie a terra." }]
+  }
+}

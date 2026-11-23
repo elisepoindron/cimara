@@ -1,0 +1,55 @@
+{
+  "osm": "r2063066",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "sentiero-ru-marseiller",
+    "activity": "escursionismo",
+    "place": "comune-007002",
+    "name": "Sentiero Ru Marseiller",
+    "lat": 45.79535,
+    "lon": 7.58999,
+    "aspect": "SE",
+    "altMax": 937,
+    "facts": {
+      "partenza": 937,
+      "localita_partenza": "Antey-Saint-André"
+    },
+    "sections": {
+      "descrizione": "Sentiero che segue il ru, il canale d'acqua che scende dai pascoli, con tratti nel bosco e passaggi su un ponticello in legno. Il fondo è sterrato e in alcuni tratti ripido, con gradini naturali.\n\nDopo circa un'ora si raggiunge una radura con una fontana, da dove si può tornare per la stessa strada o proseguire verso il crinale."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2023-05-14",
+        "words": "Acqua alta nel ru dopo le piogge, siamo passati dal ponticello con cautela. Il bosco era pieno di fiori."
+      },
+      {
+        "observedAt": "2026-09-08",
+        "words": "Secco in estate, il sentiero è polveroso ma senza fatica. Tante persone con i bambini."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Ru pieno d'acqua",
+          "quote": "Acqua alta nel ru dopo le piogge"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gente con i bambini",
+          "quote": "Tante persone con i bambini"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

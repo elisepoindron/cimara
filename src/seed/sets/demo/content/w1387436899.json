@@ -1,0 +1,374 @@
+{
+  "osm": "w1387436899",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "parcheggio_nota",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "bec-moller-prima-balza",
+    "activity": "falesia",
+    "place": "comune-004239",
+    "name": "Bec Moller prima balza",
+    "lat": 44.23868,
+    "lon": 7.53066,
+    "aspect": "E",
+    "altMax": 862,
+    "facts": {
+      "esposizione": "E",
+      "quota_base": 862,
+      "avvicinamento": 12,
+      "localita_partenza": "Vernante",
+      "parcheggio_nota": "Piazzola ghiaiosa sulla strada con posto per una decina di auto; il sabato mattina di primavera si riempie."
+    },
+    "sections": {
+      "note": "La prima balza del Bec Moller è un risalto di quarzite grigia a 860 metri, esposto a est, con vie corte e lunghe fino a 25 metri, dal 4a al 6b. Alcune vie si possono unire con un secondo tiro più in alto, facendo una piccola via a più tiri.\n\nLa quarzite è compatta, con presine piccole e piedi buoni. Le vie sono a fix e resinati, ben distanziati ma sempre logici; le soste hanno anello di calata. La parete è molto adatta a chi inizia e a chi vuole fare volume su gradi facili senza strapiombi.\n\nSole fino a mezzogiorno, poi ombra: è una falesia primaverile e autunnale, e d'estate solo di mattina. In inverno, nelle giornate serene, qualcuno scala vestito a cipolla verso le undici.",
+      "avvicinamento": "Dal parcheggio un sentiero segnalato con bolli gialli sale nel bosco di castagni e poi di roverelle, con qualche gradino di roccia. Si raggiunge la base in una dozzina di minuti: a sinistra Le Placche, al centro Il Muro, a destra la parte alta con le vie lunghe."
+    },
+    "parts": [
+      {
+        "group": "Le Placche",
+        "fields": {
+          "nome": "Luna Piena",
+          "grado": "4a",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Le Placche",
+        "fields": {
+          "nome": "Lente d'Ingrandimento",
+          "grado": "4b",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Le Placche",
+        "fields": {
+          "nome": "Il Passerotto",
+          "grado": "4c",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Il Muro",
+        "fields": {
+          "nome": "Bivio",
+          "grado": "5b+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Il Muro",
+        "fields": {
+          "nome": "Pane e Vino",
+          "grado": "5c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Il Muro",
+        "fields": {
+          "nome": "La Contessa",
+          "grado": "5c+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Il Muro",
+        "fields": {
+          "nome": "Sole d'Aprile",
+          "grado": "6a",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Il Muro",
+        "fields": {
+          "nome": "Muro Mangiato",
+          "grado": "6a+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Il Muro",
+        "fields": {
+          "nome": "Sempre in Piedi",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Il Muro",
+        "fields": {
+          "nome": "Fine di Una Storia",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-27",
+        "words": "Domenica di fine marzo, primi caldi e roccia perfetta. Gradi bassi, ottimi per iniziare: ho portato mia nipote, undici anni, e ha scalato quattro vie senza esitare. Sole fino a mezzogiorno."
+      },
+      {
+        "observedAt": "2022-04-14",
+        "words": "Giovedì di ferie. Sulla parete eravamo in due cordate e basta. La quarzite è grigia, con belle placche a tacche. Mi è piaciuta molto Sole d'Aprile: un 6a che ripaga la salita."
+      },
+      {
+        "observedAt": "2022-05-21",
+        "words": "Sabato di maggio, giornata calda. Parcheggio quasi pieno alle dieci. Abbiamo fatto le vie delle Placche in due ore, poi ci siamo spostati sul Muro dove tira un po' d'aria. Sulle soste ci sono anelli solidi."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Giornata di settembre con nuvole alte. Le vie lunghe della Parte Alta si possono unire in due tiri: Primo Tiro più Secondo Tiro fanno una bella salita da 50 metri con doppia in calata. Divertente."
+      },
+      {
+        "observedAt": "2022-10-16",
+        "words": "Domenica di sole. Le foglie dei castagni coprivano il sentiero e le prese di sinistra erano sporche. Dopo mezzogiorno la parete passa all'ombra e fa freschetto: servono due strati."
+      },
+      {
+        "observedAt": "2022-11-30",
+        "words": "Mercoledì, ultimo caldo di stagione. Il bosco è tutto giallo e la parete era deserta. In inverno non si scala molto, ma oggi sulla placca di destra con il sole delle undici si stava da dio."
+      },
+      {
+        "observedAt": "2023-03-18",
+        "words": "Sabato presto, primi raggi alle otto. Con l'aria frizzante la quarzite è molto aderente. Ho fatto le vie lunghe con le doppie, calandomi lungo il tracciato. Parcheggio con posto per tutti."
+      },
+      {
+        "observedAt": "2023-04-23",
+        "words": "Primavera piena, il bosco profuma. Sul sentiero è crollata una grossa roverella: ci si passa sotto abbassandosi, o si gira a sinistra. Chi viene con i bambini stia attento."
+      },
+      {
+        "observedAt": "2023-05-26",
+        "words": "Venerdì di maggio, caldo. La roverella è ancora lì ma hanno spianato un percorso per aggirarla. Sulle placche il sole scotta già alle undici: meglio andare presto. Pane e Vino è splendida."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Sabato di settembre, giornata bellissima. Siamo andati in cinque con due bambini. Tutta la parete è per i principianti, perfino la 5c ha un buon riposo a metà. I bambini sono entusiasti."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Fine settimana di ottobre con caldo sorprendente. Abbiamo goduto del sole fino a mezzogiorno e poi ombra. Uno degli spit del Muro era girato: l'ho segnalato al ritorno. Meglio controllare."
+      },
+      {
+        "observedAt": "2024-03-30",
+        "words": "Pasquetta anticipata. Troppe persone sul Muro: due scuole di arrampicata e un gruppo di scout. Abbiamo ripiegato sullo Spigolo, tranquillo e più bello da scalare. Una donna con un cagnolino monello."
+      },
+      {
+        "observedAt": "2024-04-26",
+        "words": "Venerdì di vacanza. Pioggia notturna, quindi roccia ancora bagnata sulle placche basse. Verso mezzogiorno è asciugata e abbiamo scalato bene. Un fiore stupendo sul sentiero, un'orchidea selvatica."
+      },
+      {
+        "observedAt": "2024-05-18",
+        "words": "Sabato mattina con amici, coppia con figli. La Torretta è un 6a+ tecnico con un bel passo nel mezzo. Alla base c'è un posto comodo per sedersi e mangiare con la vista sulla valle."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Fine estate, aria tersa. Quattro vie nuove nella parte alta a destra, già con fix lucidi: il lavoro dei chiodatori locali si vede. Il 4b senza nome è una piccola perla per i principianti."
+      },
+      {
+        "observedAt": "2024-10-23",
+        "words": "Mercoledì d'ottobre, solo noi due. La Cresta è un 5c+ da non sottovalutare, la roccia lucida in alcuni punti. Soste sempre con catene solide. A mezzogiorno sole ancora caldo."
+      },
+      {
+        "observedAt": "2025-04-05",
+        "words": "Sabato primaverile con un po' di vento freddo da est. Siamo rimasti vicino alle placche. Ho notato che la sosta di Luna Piena è stata cambiata: adesso è un anello robusto, più sicuro di prima."
+      },
+      {
+        "observedAt": "2025-06-12",
+        "words": "Giovedì di giugno, giornata afosa. La parete scalda presto ma alle dodici arriva l'ombra salvifica. Ho provato Sempre in Piedi, 6b tecnico di piedi: sono caduto due volte al passo chiave."
+      },
+      {
+        "observedAt": "2025-10-04",
+        "words": "Giornata d'autunno con nebbia in valle e sole in parete. Il parcheggio era libero. Ottimo lavoro di pulizia: le prese sono ripulite dalle foglie. Un classico da ripetere ogni stagione."
+      },
+      {
+        "observedAt": "2026-04-11",
+        "words": "Dopo un inverno piovoso, sentiero in alcuni punti fangoso. La parete è asciutta quasi ovunque, tranne il centro dove c'era ancora un velo d'acqua. Giornata calda e soleggiata, tantissima gente."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Adatta ai principianti",
+          "quote": "Gradi bassi, ottimi per iniziare"
+        },
+        {
+          "label": "Sole al mattino",
+          "quote": "Sole fino a mezzogiorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Sulla parete eravamo in due cordate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "Parcheggio quasi pieno alle dieci"
+        },
+        {
+          "label": "Soste con anello di calata",
+          "quote": "anelli solidi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "Dopo mezzogiorno la parete passa all'ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "la parete era deserta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Albero caduto sul sentiero",
+          "kind": "attenzione",
+          "quote": "è crollata una grossa roverella"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Percorso nuovo attorno all'albero caduto",
+          "kind": "novita",
+          "quote": "hanno spianato un percorso per aggirarla"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta ai principianti",
+          "quote": "Tutta la parete è per i principianti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "sole fino a mezzogiorno e poi ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Troppe persone sul Muro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lenta ad asciugare",
+          "quote": "roccia ancora bagnata sulle placche basse"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Vie nuove nella parte alta",
+          "kind": "novita",
+          "quote": "Quattro vie nuove nella parte alta a destra"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "solo noi due"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sosta cambiata su Luna Piena",
+          "kind": "novita",
+          "quote": "la sosta di Luna Piena è stata cambiata"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "alle dodici arriva l'ombra salvifica"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lenta ad asciugare",
+          "quote": "il centro dove c'era ancora un velo d'acqua"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "tantissima gente"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

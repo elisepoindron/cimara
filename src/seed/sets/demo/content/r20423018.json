@@ -1,0 +1,227 @@
+{
+  "osm": "r20423018",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "anello-ceronda-mountain-bike-tappa-1",
+    "activity": "mountain_bike",
+    "place": "comune-001128",
+    "name": "Anello Ceronda mountain bike - tappa 1",
+    "lat": 45.27213,
+    "lon": 7.48125,
+    "facts": {},
+    "sections": {
+      "descrizione": "La prima tappa dell'Anello Ceronda parte da Lanzo Torinese e percorre un lungo anello di oltre 37 chilometri tra la Val Ceronda e la valle della Stura di Lanzo, con circa mille metri di dislivello. Il tracciato segue strade campestri, carrarecce e tratti di sentiero larghi, con la difficoltà di un buon cross country.\n\nSi esce dall'abitato verso la val Ceronda, si risale il torrente con un fondo compatto e poi si sale sulle pendici boscose passando per alpeggi e borgate. La parte alta offre belle viste sulla pianura e sulle cime delle Valli di Lanzo. Il ritorno scende per una carrareccia veloce fino alla Stura e rientra a Lanzo.\n\nLa tappa è lunga ma non tecnica: richiede soprattutto gambe e organizzazione. In estate meglio partire presto, perché il versante basso ha poca ombra.",
+      "note": "Si pedala bene da aprile a novembre, con le temperature più miti in primavera e autunno. Fontane e bar si trovano soprattutto nei paesi al principio e alla fine del giro; in mezzo, portare acqua e cibo.",
+      "avvicinamento": "Si parte dal centro di Lanzo Torinese, dove si trova parcheggio vicino alla stazione. Il tracciato segue i segnali dell'anello Ceronda, riconoscibili dalle sigle ACM."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-04-02",
+        "words": "Prima tappa dell'anello: ho seguito i cartelli ACM e non ho mai dovuto guardare la traccia. Segnaletica fatta bene, con frecce a ogni bivio. Il fondo ancora umido ma percorribile."
+      },
+      {
+        "observedAt": "2022-05-08",
+        "words": "Giro di una giornata intera, quasi sei ore. Salite lunghe ma graduali, discese facili. Sul versante soleggiato il caldo di maggio già si faceva sentire e l'ombra era poca."
+      },
+      {
+        "observedAt": "2022-06-22",
+        "words": "Mercoledì di ferie e strade vuote. A metà tappa ho incontrato un pastore con il gregge e dei cani molto attenti: mi sono fermato finché non mi ha fatto cenno di passare."
+      },
+      {
+        "observedAt": "2022-07-30",
+        "words": "Partito all'alba proprio per evitare il caldo, e ho fatto bene. Alle 9 ero già in cima e il sole picchiava. Vista bella sulle Valli di Lanzo e sulla pianura."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Dopo un paio di temporali il fondo era molto fangoso in alcune carrarecce. Le ruote si riempivano di terra e bisognava pulirle ogni cento metri. Poi il tempo si è rimesso e il resto della tappa è andato bene."
+      },
+      {
+        "observedAt": "2022-10-16",
+        "words": "Foliage perfetto in tutta la val Ceronda: faggi gialli e castagni arancioni. In alto l'aria pungente, mi sono messo i manicotti. Il ritorno lungo la Stura molto piacevole."
+      },
+      {
+        "observedAt": "2023-04-23",
+        "words": "Giro con la gravel, non proprio consigliato ma si fa. Qualche tratto sassoso sulle carrarecce alte dove ho dovuto scendere, per il resto bellissimo. Le gomme da 40 mm sono il minimo."
+      },
+      {
+        "observedAt": "2023-06-07",
+        "words": "Giornata di lavoro agile da casa e pausa in bici. Ho fatto solo la parte bassa, quella lungo il torrente: fresca, ombrosa e deserta. Meraviglioso rumore dell'acqua."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Con il caldo di agosto bisogna fare attenzione: ho bevuto più di tre litri. Una fontana a un bivio del secondo terzo di giro era a secco, la prossima volta porto più acqua."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Giornata limpida, cielo senza una nuvola. Alle 11 ero all'alpeggio in alto, dove un'anziana signora vende formaggi di malga. Ne ho comprato uno e l'ho mangiato guardando la valle."
+      },
+      {
+        "observedAt": "2024-04-14",
+        "words": "Segnaletica rifatta in diversi punti con adesivi nuovi e frecce più grandi. Si capisce che il comitato dell'anello tiene alla manutenzione. Giro tranquillo, senza intoppi."
+      },
+      {
+        "observedAt": "2024-05-26",
+        "words": "Un pino caduto sulla carrareccia alta blocca quasi tutta la larghezza: si passa spingendo la bici sotto il tronco, ma ci vuole pazienza. Spero lo taglino presto, altrimenti diventa ostacolo serio per chi arriva stanco."
+      },
+      {
+        "observedAt": "2024-07-17",
+        "words": "Il pino è stato tagliato, quindi la strada è di nuovo libera. Per il resto: giornata di luglio caldissima, giro lento, fermato due volte a rinfrescarmi al torrente."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Dopo il caldo estivo ho ritrovato un po' di fresco sul percorso. La tappa scorre bene e l'ultima parte lungo la Stura è un lungo falsopiano in discesa che fa recuperare."
+      },
+      {
+        "observedAt": "2025-05-10",
+        "words": "Con la e-bike faccio la tappa in poco più di quattro ore, e arrivo ancora fresco. Ottimo per chi vuole fare dislivello senza distruggersi. Sul versante basso però pochissima ombra, tenete conto del sole."
+      },
+      {
+        "observedAt": "2025-10-18",
+        "words": "Ultima tappa della stagione per me. Il fresco del mattino e il sole del pomeriggio si alternano. Tre scoiattoli e un picchio nel bosco, giro tranquillo e silenzioso."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Segnaletica ACM ben fatta",
+          "quote": "ho seguito i cartelli ACM"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Versante basso senza ombra",
+          "quote": "il caldo di maggio già si faceva sentire e l'ombra era poca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Greggi e cani da pastore",
+          "quote": "un pastore con il gregge e dei cani molto attenti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Viste sulle Valli di Lanzo",
+          "quote": "Vista bella sulle Valli di Lanzo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fango dopo i temporali",
+          "quote": "il fondo era molto fangoso in alcune carrarecce"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori d'autunno",
+          "quote": "faggi gialli e castagni arancioni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Carrarecce sassose",
+          "quote": "Qualche tratto sassoso sulle carrarecce alte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto lungo il torrente",
+          "quote": "quella lungo il torrente: fresca, ombrosa e deserta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica ACM ben fatta",
+          "quote": "frecce più grandi"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Segnaletica rinnovata in più punti",
+          "kind": "novita",
+          "quote": "Segnaletica rifatta in diversi punti con adesivi nuovi e frecce più grandi"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Pino caduto sulla carrareccia alta",
+          "kind": "attenzione",
+          "quote": "Un pino caduto sulla carrareccia alta blocca quasi tutta la larghezza"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto lungo il torrente",
+          "quote": "fermato due volte a rinfrescarmi al torrente"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Pino tagliato, carrareccia libera",
+          "kind": "novita",
+          "quote": "Il pino è stato tagliato, quindi la strada è di nuovo libera"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Versante basso senza ombra",
+          "quote": "Sul versante basso però pochissima ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

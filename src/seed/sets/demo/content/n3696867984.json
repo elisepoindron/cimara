@@ -1,0 +1,316 @@
+{
+  "osm": "n3696867984",
+  "invented": [
+    "grado_obbligatorio",
+    "sviluppo",
+    "avvicinamento",
+    "localita_partenza",
+    "come_arrivare",
+    "tiri",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-francesca",
+    "activity": "multipitch",
+    "place": "comune-004248",
+    "name": "Via Francesca",
+    "lat": 44.22471,
+    "lon": 7.10218,
+    "aspect": "E",
+    "altMax": 2410,
+    "facts": {
+      "grado_obbligatorio": "5b",
+      "sviluppo": 210,
+      "avvicinamento": 35,
+      "localita_partenza": "Vinadio",
+      "come_arrivare": "Da Vinadio si sale in valle fino al termine della strada carrozzabile e si lascia l'auto nel piazzale. Poi un sentiero e una pietraia portano alla base della parete, a circa due ore dal fondovalle.",
+      "quota_base": 2201,
+      "esposizione": "E",
+      "grado_max": "5c",
+      "tiri": 6,
+      "protezione": "spittata"
+    },
+    "sections": {
+      "descrizione": "Sei tiri su roccia chiara, la linea più facile del gruppo di vie che partono da questa stessa base. Il nome è scritto all'attacco, in vernice scolorita, e l'apertura è stata pensata per chi vuole una giornata d'alta quota senza troppa tensione.\n\nGli spit sono vicini e le soste comode; il passo più duro è un 5c all'ultimo tiro, ma niente che non si superi con un po' di tranquillità. Meglio arrivare presto, perché la parete prende il sole del mattino e a metà giornata passa all'ombra.\n\nUna via da cui si esce con il sorriso, soprattutto per chi cerca la prima esperienza in quota.",
+      "discesa": "Si scende in doppia seguendo la via, sei calate con due corde da 50 metri. A sinistra della sosta finale, per chi preferisce camminare, una cengia porta a un canale di rientro, però lungo e con sassi: meglio le corde.",
+      "materiale": "Due corde da 50 o 60 metri, otto rinvii, due cordini e il casco. Maglione e antivento: sopra i duemila anche in estate la sosta all'ombra si sente.",
+      "avvicinamento": "Dal piazzale si segue il sentiero lungo il fondo valle, poi si svolta a sinistra in una pietraia con segni gialli fino all'attacco; il nome della via è dipinto sulla roccia."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "4a",
+          "lunghezza": 35,
+          "descrizione": "Placca appoggiata con buoni appigli, facile riscaldamento."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 35,
+          "descrizione": "Muro di tacche larghe e sosta comoda su cengia."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 35,
+          "descrizione": "Risalto verticale con una bella lama sulla destra."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 35,
+          "descrizione": "Placca di tacche piccole, un passo di aderenza."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 35,
+          "descrizione": "Traverso a destra su rampa, poi dritti."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 35,
+          "descrizione": "Ultima placca con un passo lungo, poi sosta sotto la cima."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-23",
+        "words": "La via più amichevole del vallone: spit vicini, soste comode, nessun tiro che spaventi. Ottima per la nostra prima uscita in quota con i bambini più grandi."
+      },
+      {
+        "observedAt": "2022-08-13",
+        "words": "Siamo partiti con la nebbia in fondovalle, poi sopra i duemila il cielo si è aperto di colpo. Il sole sulla parete dalle nove, tutto perfetto."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Prima uscita in montagna dopo l'estate in pianura. Il primo tiro riscalda bene e il resto scorre con naturalezza. Doppie in sei calate, sicure."
+      },
+      {
+        "observedAt": "2023-07-12",
+        "words": "Mercoledì di ferie, via solo per noi. Il quarto tiro con la placca di aderenza è il pezzo più divertente."
+      },
+      {
+        "observedAt": "2023-07-30",
+        "words": "Una via che si fa con la testa in vacanza: il percorso è chiaro, gli spit non mancano. Peccato per il sentiero, un po' ripido e pieno di sassi."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Siamo arrivati alla base che era mezzogiorno, un errore: la parete era già in ombra e faceva freddo. La prossima volta si parte alle sei."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Il sesto tiro è il più bello: placca pulita con un passo lungo, e in cima il sole basso sulle creste."
+      },
+      {
+        "observedAt": "2024-07-07",
+        "words": "Primo giro con la nuova corda da 70. Le doppie sono scivolate via in pochi minuti, mai un nodo. Cordata in fila indiana con altre due, tutto in ordine."
+      },
+      {
+        "observedAt": "2024-08-02",
+        "words": "Venerdì con il cielo che cambiava ogni mezz'ora. Abbiamo fatto la via di corsa prima del temporale delle tre e ci siamo salvati per poco."
+      },
+      {
+        "observedAt": "2024-08-24",
+        "words": "Lo sapevo che la bellezza era nel nome all'attacco, scritto con la vernice rossa. Sembra voler dire che qui si va per piacere, non per fare ricerche di grado."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Il sentiero della base ha un nuovo tratto con paletti gialli: finalmente non si cerca più il passaggio nella pietraia."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "La sosta del terzo tiro ha un anello arrugginito e la catena si è rovinata con l'inverno. Meglio integrare con un cordino, finché non la cambiano."
+      },
+      {
+        "observedAt": "2025-08-09",
+        "words": "Che bella giornata per rilassarsi: la via è breve, i tiri sono lisci, l'aria tersa. In fondo si vede la pianura come un lenzuolo."
+      },
+      {
+        "observedAt": "2025-09-05",
+        "words": "Venerdì tranquillo con gli amici di sempre. Il quinto tiro non finiva mai, ma in senso buono."
+      },
+      {
+        "observedAt": "2025-09-28",
+        "words": "Alla sosta due abbiamo trovato un nuovo anello con maillon inox, montato da qualcuno in estate. Un grazie a chi lo ha fatto."
+      },
+      {
+        "observedAt": "2026-07-25",
+        "words": "Con una cordata di amici esordienti. Si sono tutti divertiti, il sentiero è un po' faticoso, ma lassù si dimentica."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Via adatta ai principianti",
+          "quote": "Ottima per la nostra prima uscita in quota con i bambini più grandi"
+        },
+        {
+          "label": "Spit vicini",
+          "quote": "spit vicini, soste comode"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "Il sole sulla parete dalle nove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Doppie lineari",
+          "quote": "Doppie in sei calate, sicure"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "via solo per noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Spit vicini",
+          "quote": "gli spit non mancano"
+        },
+        {
+          "label": "Sentiero sassoso",
+          "quote": "il sentiero, un po' ripido e pieno di sassi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "la parete era già in ombra e faceva freddo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passo lungo in cima",
+          "quote": "placca pulita con un passo lungo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Doppie lineari",
+          "quote": "Le doppie sono scivolate via in pochi minuti"
+        },
+        {
+          "label": "Via adatta ai principianti",
+          "quote": "tutto in ordine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporale pomeridiano",
+          "quote": "prima del temporale delle tre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nome dipinto all'attacco",
+          "quote": "scritto con la vernice rossa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Paletti gialli sul sentiero",
+          "kind": "novita",
+          "quote": "Il sentiero della base ha un nuovo tratto con paletti gialli: finalmente non si cerca più il passaggio nella pietraia."
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sosta del terzo tiro consumata",
+          "kind": "attenzione",
+          "quote": "La sosta del terzo tiro ha un anello arrugginito e la catena si è rovinata con l'inverno."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla pianura",
+          "quote": "In fondo si vede la pianura come un lenzuolo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "Venerdì tranquillo con gli amici di sempre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Anello nuovo alla seconda sosta",
+          "kind": "novita",
+          "quote": "Alla sosta due abbiamo trovato un nuovo anello con maillon inox, montato da qualcuno in estate."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Via adatta ai principianti",
+          "quote": "Si sono tutti divertiti"
+        },
+        {
+          "label": "Sentiero sassoso",
+          "quote": "il sentiero è un po' faticoso"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

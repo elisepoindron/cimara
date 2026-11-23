@@ -1,0 +1,317 @@
+{
+  "osm": "w1531348458",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-degli-angeli-settore-specialist",
+    "activity": "falesia",
+    "place": "comune-004248",
+    "name": "Falesia degli Angeli settore Specialist",
+    "lat": 44.21191,
+    "lon": 7.19311,
+    "aspect": "SO",
+    "altMax": 2176,
+    "facts": {
+      "quota_base": 2176,
+      "esposizione": "SO",
+      "avvicinamento": 30,
+      "localita_partenza": "Vinadio"
+    },
+    "sections": {
+      "note": "Specialist è il settore più verticale della falesia degli Angeli: una parete di gneiss grigio di 25 metri, rivolta a sud-ovest, a 2170 metri di quota. Otto vie dal 5a al 6c, tutte spittate; le prese sono piccole e a spigolo, e chi viene dal settore dei principianti qui trova qualcosa di più impegnativo.\n\nLo stile è tecnico: piedi precisi, dita e qualche passo di equilibrio. Le soste sono a catena e le vie sono ben distanziate. Il sole arriva nel pomeriggio, la mattina si sta all'ombra e si è comodi in piena estate.\n\nSi arriva da Grand Falaise con pochi passi in traversata sotto la parete: il settore è raggiungibile in meno di cinque minuti da lì.",
+      "avvicinamento": "Dal parcheggio si segue il sentiero verso la falesia per circa mezz'ora e, giunti al primo settore, si prosegue verso sinistra lungo la base fino alle vie più verticali."
+    },
+    "parts": [
+      {
+        "group": "Specialist",
+        "fields": {
+          "nome": "Il Riscaldamento",
+          "grado": "5a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Specialist",
+        "fields": {
+          "nome": "Lo Specialista",
+          "grado": "5c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Specialist",
+        "fields": {
+          "nome": "Punta di Dita",
+          "grado": "6a",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Specialist",
+        "fields": {
+          "nome": "Sguardo Basso",
+          "grado": "6a+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Specialist",
+        "fields": {
+          "nome": "Calzare Stretto",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Specialist",
+        "fields": {
+          "nome": "Il Cecchino",
+          "grado": "6b+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Specialist",
+        "fields": {
+          "nome": "Due Dita Bastano",
+          "grado": "6c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Specialist",
+        "fields": {
+          "nome": "Specchio Riflesso",
+          "grado": "6c",
+          "lunghezza": 25
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-30",
+        "words": "Siamo venuti qui dopo Grand Falaise per cercare qualcosa di più duro. Prese piccole e passi tecnici, in particolare sulla Punta di Dita. Roccia pulita, soste a posto."
+      },
+      {
+        "observedAt": "2022-08-18",
+        "words": "Giovedì pomeriggio, solitudine totale. Il sole arriva verso le due e allora la parete si scalda in fretta, quindi meglio cominciare all'ombra. Lo Specialista è bello e continuo."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Vento forte da ovest e quindi mani fredde ma niente sudore. Calzare Stretto è uno dei 6b più duri che abbia mai fatto, il passo chiave è di piedi. La corda da 60 basta ma giusta giusta."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "Prima salita dopo la neve: la base della parete è ancora fradicia, ma una volta in alto la roccia è asciutta. Il sentiero tiene molta acqua nell'ultimo tratto."
+      },
+      {
+        "observedAt": "2023-07-29",
+        "words": "Giornata splendida, ho scalato con mia sorella che non arrampicava da un anno. Il Riscaldamento a 5a è un ottimo modo per riprendere in mano la roccia. Settore vicino a tutti gli altri, comodo."
+      },
+      {
+        "observedAt": "2023-08-23",
+        "words": "Mercoledì alle sette e mezza, appena arrivato io e basta. L'ombra del mattino è ideale per i gradi alti; alle undici sono andato verso Water Front dove c'era ancora freschino."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Gneiss freddo e ruvido, sensazioni ottime. Sul Cecchino una presa di sinistra si è rotta e il passo è diventato più duro: salire con attenzione. Noi l'abbiamo fatto con un amico che ci ha dato la sicura da sotto."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Con il cielo coperto si arrampica bene, il gneiss tiene tantissimo con l'umidità. Ho visto due camosci sul pendio sopra la parete, sempre fermi a guardarci."
+      },
+      {
+        "observedAt": "2024-07-06",
+        "words": "Primo giro dell'estate sul settore. La neve è scomparsa dalla base, sentiero asciutto. Punta di Dita è un 6a vero con un passo secco al centro."
+      },
+      {
+        "observedAt": "2024-07-31",
+        "words": "Mercoledì di ferie, caldo ma con brezza costante. Abbiamo fatto tutte le vie salvo Due Dita Bastano, che bisogna prima provare con calma. Una sosta ha una maglia rapida sporca: controllare le catene."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Sabato di Ferragosto vicino: parecchia gente nel settore accanto, ma qui eravamo in quattro. Il pomeriggio era già caldo e le prese scivolavano. Abbiamo spostato a Water Front per finire."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Una nuova linea di spit è stata aperta a destra di Specchio Riflesso: si vedono le placchette ancora lucide. Il grado non lo conosco, ma sembra un 6c+ netto."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Gneiss freddissimo al mattino, abbiamo dovuto aspettare le dieci per sentire le dita. Poi una giornata magnifica con il sole radente."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Settore molto frequentato dai locali: tutti con lo stesso calzare stretto e le stesse smorfie. Alla fine ho solo ripetuto Il Cecchino con una variante nuova che si fa a sinistra."
+      },
+      {
+        "observedAt": "2025-08-27",
+        "words": "Mercoledì sera tardi, dopo il lavoro, e il settore era già in ombra. Una foto dal bordo della parete ti fa capire quanto si è alti. Ho scritto il mio nome sul registro del rifugio sotto."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Ultimo weekend buono prima dei primi freddi. Poca neve sul sentiero, bagnata, e roccia asciutta. Specialist si conferma il settore più duro e più bello dei sei."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Passi tecnici",
+          "quote": "Prese piccole e passi tecnici"
+        },
+        {
+          "label": "Vicino agli altri settori",
+          "quote": "dopo Grand Falaise"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole nel pomeriggio",
+          "quote": "Il sole arriva verso le due"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passi tecnici",
+          "quote": "il passo chiave è di piedi"
+        },
+        {
+          "label": "Corda da 60 giusta",
+          "quote": "La corda da 60 basta ma giusta giusta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "la base della parete è ancora fradicia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vicino agli altri settori",
+          "quote": "Settore vicino a tutti gli altri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole nel pomeriggio",
+          "quote": "L'ombra del mattino è ideale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Presa rotta sul Cecchino",
+          "kind": "attenzione",
+          "quote": "Sul Cecchino una presa di sinistra si è rotta e il passo è diventato più duro: salire con attenzione."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tracce di camoscio",
+          "quote": "Ho visto due camosci sul pendio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passi tecnici",
+          "quote": "un passo secco al centro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vicino agli altri settori",
+          "quote": "Abbiamo spostato a Water Front"
+        },
+        {
+          "label": "Sole nel pomeriggio",
+          "quote": "Il pomeriggio era già caldo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuova via a destra di Specchio",
+          "kind": "novita",
+          "quote": "Una nuova linea di spit è stata aperta a destra di Specchio Riflesso"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole nel pomeriggio",
+          "quote": "sole radente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passi tecnici",
+          "quote": "lo stesso calzare stretto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Foto dal bordo",
+          "quote": "Una foto dal bordo della parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Poca neve sul sentiero"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

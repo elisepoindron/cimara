@@ -1,0 +1,125 @@
+{
+  "osm": "n893388008",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "palestra-di-roccia-fontainemore",
+    "activity": "falesia",
+    "place": "comune-007028",
+    "name": "Palestra di Roccia di Fontainemore",
+    "lat": 45.65346,
+    "lon": 7.85367,
+    "aspect": "E",
+    "altMax": 1091,
+    "facts": {
+      "esposizione": "E",
+      "quota_base": 1091,
+      "avvicinamento": 10,
+      "localita_partenza": "Fontainemore"
+    },
+    "sections": {
+      "note": "Roccia compatta, con gocce di calcare e qualche tratto a buchi e svasi. La parete guarda a est: al mattino prende il sole presto, nel pomeriggio d'estate resta all'ombra.\n\nChiodatura a spit e soste attrezzate con catena. Le vie del settore sinistro sono corte e tecniche, quelle di destra più sostenute.\n\nPortare una corda da 60 metri, una serie di rinvii e qualche friend piccolo per le fessure del settore destro.",
+      "avvicinamento": "Dal parcheggio sulla strada per il paese si scende per un sentiero nel bosco di castagni, una decina di minuti; la parete si vede appena esci dagli alberi."
+    },
+    "parts": [
+      {
+        "group": "Settore sinistro",
+        "fields": {
+          "nome": "Primo sole",
+          "grado": "4c",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Settore sinistro",
+        "fields": {
+          "nome": "Il diedro lungo",
+          "grado": "5c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Settore sinistro",
+        "fields": {
+          "nome": "Spigolo dei castagni",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore sinistro",
+        "fields": {
+          "nome": "Pilastro",
+          "grado": "5a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Settore destro",
+        "fields": {
+          "nome": "Fessura di novembre",
+          "grado": "5a",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Settore destro",
+        "fields": {
+          "nome": "Buchi e tacchi",
+          "grado": "6a+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Settore destro",
+        "fields": {
+          "nome": "Muro grigio",
+          "grado": "6b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Settore destro",
+        "fields": {
+          "nome": "Ultima cordata",
+          "grado": "5b+",
+          "lunghezza": 18
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2023-06-17",
+        "words": "Giornata calda e senza vento, la parete era già al sole alle dieci. Ho fatto tre vie del settore destro e la roccia tiene bene."
+      },
+      {
+        "observedAt": "2024-09-08",
+        "words": "Poca gente, ci siamo ritrovati in tre. Avvicinamento corto, il sentiero è ben tenuto."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole del mattino",
+          "quote": "la parete era già al sole alle dieci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Avvicinamento corto"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "osm": "r12132556",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d28",
+    "activity": "escursionismo",
+    "place": "comune-001165",
+    "name": "Via Alpina Blue D28",
+    "lat": 45.45449,
+    "lon": 7.31315,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 1021,
+      "localita_partenza": "Noasca",
+      "come_arrivare": "Si arriva a Noasca in Valle dell'Orco e si lascia l'auto nei pressi del paese. Per il rientro dalla fine della tappa a Ceresole Reale si usa il servizio di linea della valle, da verificare prima per orari e giorni."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu che porta da Noasca a Ceresole Reale, passando da una valle all'altra: circa 10,7 km con 1.000 metri e oltre di salita e una discesa più breve verso il lago. Il sentiero esce dal paese su mulattiera e sale a lungo nel bosco, poi tra i pascoli e le pietraie dell'alta valle.\n\nLa parte centrale è la più impegnativa, con una salita regolare ma senza tregua; il fondo è in gran parte sassoso e in qualche tratto umido. Dal valico lo sguardo si apre sui gruppi del Gran Paradiso e, scendendo, sul lago di Ceresole.\n\nPeriodo consigliato da giugno a ottobre; a inizio estate possono restare nevai nei punti in ombra. Conviene portare acqua da casa, perché lungo la salita le fontane sono poche."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-02",
+        "words": "Partiti presto da Noasca per evitare il caldo. La salita non molla mai e il bosco aiuta solo nella prima ora."
+      },
+      {
+        "observedAt": "2022-08-10",
+        "words": "Mercoledì di ferie, praticamente nessuno incontrato fino al valico. Un paio di marmotte ci hanno fischiato dietro per mezz'ora."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Tappa che toglie il fiato: mille metri tutti in una volta. Vista splendida sul lago appena si scollina, ci siamo seduti un'ora."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Larici in giallo e aria frizzante. Arrivati a Ceresole stanchi ma contenti, il lago color acciaio."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Ancora un nevaio nel tratto in ombra sotto il valico, passato con i bastoncini. Sentiero per il resto asciutto."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "Cielo grigio al mattino, poi sole. In tutta la giornata abbiamo visto in tutto quattro persone."
+      },
+      {
+        "observedAt": "2023-08-03",
+        "words": "Giovedì caldissimo, siamo partiti alle sei. Le fontane quasi inesistenti: portate più acqua di quanto pensiate."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Sulla mulattiera lastricata nella parte bassa i gradini sono enormi e le ginocchia ringraziano dopo. Nell'alta valle poi il silenzio."
+      },
+      {
+        "observedAt": "2024-07-06",
+        "words": "Un ponticello sul torrente è stato sostituito, adesso si passa comodo anche con lo zaino grosso. Il resto del percorso come sempre."
+      },
+      {
+        "observedAt": "2024-08-21",
+        "words": "Mattinata di nebbia in salita, poi aperto sopra i duemila. La discesa verso il lago è corta e quasi una passeggiata dopo la fatica."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Il bus di rientro da Ceresole era in orario, per fortuna: se lo perdi aspetti due ore. Salita ripida ma il sentiero è sempre ben visibile."
+      },
+      {
+        "observedAt": "2024-10-05",
+        "words": "Primo freddo vero, pozze gelate nel vallone alto. Nessuno in giro tranne una coppia di tedeschi con zaini enormi."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Nei pressi del valico un tratto di sentiero era franato dopo le piogge e adesso c'è una deviazione di pochi metri segnata con vernice fresca. Si passa con attenzione."
+      },
+      {
+        "observedAt": "2025-08-27",
+        "words": "Mattina di pioggia leggera, abbiamo aspettato e poi siamo partiti. Alla fine del vallone il lago spuntava tra le nuvole e ne è valsa la pena."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Segnavia bianchi e rossi ridipinti da poco e nuovi cartelli con le ore di cammino. Ora è davvero difficile sbagliare."
+      },
+      {
+        "observedAt": "2025-10-11",
+        "words": "Ultima uscita della stagione in valle. Salita di quattro ore e mezza con soste, arrivo al lago con il sole basso."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e continua",
+          "quote": "La salita non molla mai"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente sul sentiero",
+          "quote": "praticamente nessuno incontrato fino al valico"
+        },
+        {
+          "label": "Marmotte lungo la salita",
+          "quote": "Un paio di marmotte ci hanno fischiato dietro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e continua",
+          "quote": "mille metri tutti in una volta"
+        },
+        {
+          "label": "Arrivo al lago di Ceresole",
+          "quote": "Vista splendida sul lago appena si scollina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo al lago di Ceresole",
+          "quote": "Arrivati a Ceresole stanchi ma contenti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai a inizio estate",
+          "quote": "Ancora un nevaio nel tratto in ombra sotto il valico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente sul sentiero",
+          "quote": "abbiamo visto in tutto quattro persone"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poche fontane lungo la via",
+          "quote": "Le fontane quasi inesistenti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mulattiera lastricata nella parte bassa",
+          "quote": "mulattiera lastricata nella parte bassa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponticello sul torrente rifatto",
+          "kind": "novita",
+          "quote": "Un ponticello sul torrente è stato sostituito"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo al lago di Ceresole",
+          "quote": "La discesa verso il lago è corta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bus di rientro da verificare",
+          "quote": "Il bus di rientro da Ceresole era in orario"
+        },
+        {
+          "label": "Salita lunga e continua",
+          "quote": "Salita ripida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente sul sentiero",
+          "quote": "Nessuno in giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto franato con deviazione",
+          "kind": "attenzione",
+          "quote": "un tratto di sentiero era franato dopo le piogge"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo al lago di Ceresole",
+          "quote": "il lago spuntava tra le nuvole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnavia ridipinti e nuovi cartelli",
+          "kind": "novita",
+          "quote": "Segnavia bianchi e rossi ridipinti da poco"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e continua",
+          "quote": "Salita di quattro ore e mezza con soste"
+        },
+        {
+          "label": "Arrivo al lago di Ceresole",
+          "quote": "arrivo al lago con il sole basso"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

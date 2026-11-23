@@ -1,0 +1,258 @@
+{
+  "osm": "r9678940",
+  "invented": [
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "alta-via-n-1-della-valle-d-aosta-tappa-15",
+    "activity": "escursionismo",
+    "place": "comune-007064",
+    "name": "Alta Via n. 1 della Valle d'Aosta - Tappa 15",
+    "lat": 45.83487,
+    "lon": 7.18433,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 905,
+      "partenza": 1600,
+      "vetta": 2540,
+      "localita_partenza": "Saint-Rhémy-en-Bosses",
+      "come_arrivare": "Si arriva a Saint-Rhémy-en-Bosses dalla strada del Gran San Bernardo; un parcheggio si trova all'inizio del paese. Il rifugio d'arrivo non è raggiungibile in macchina, quindi il rientro è a piedi o con un passaggio da concordare."
+    },
+    "sections": {
+      "descrizione": "Quindicesima tappa dell'Alta Via n. 1 della Valle d'Aosta, da Saint-Rhémy-en-Bosses (1.600 m) al Rifugio Frassati (2.540 m): circa 10 km e 905 m di salita, senza grandi difficoltà tecniche ma con un dislivello da non sottovalutare.\n\nSi esce dal paese per mulattiere e sentieri che salgono tra pascoli e boschi radi, poi la vegetazione si dirada e il terreno diventa erba e pietre. L'ultima parte guadagna quota in un ambiente di alta montagna aperto, con vista sul Gran San Bernardo e sui ghiacciai in lontananza.\n\nIl periodo più sicuro va da fine giugno a metà settembre: prima il sentiero può avere nevai, dopo il rifugio chiude. Partendo presto si arriva con la giornata ancora tutta davanti."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-10",
+        "words": "Via da Saint-Rhémy alle sette e mezza. La mulattiera all'inizio è comodissima, poi la salita prende corpo e dopo un'ora si sente."
+      },
+      {
+        "observedAt": "2022-08-13",
+        "words": "Dal paese al rifugio si sale quasi sempre, senza discese di rilievo. Ottocento e passa metri in positivo che non perdonano a chi parte tardi."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Il Frassati dietro l'ultimo dosso: una casetta di pietra con il tetto rosso, sorridente. Bevuto un tè prima ancora di sedere."
+      },
+      {
+        "observedAt": "2023-07-07",
+        "words": "Giovedì di ferie e quasi nessuno in giro. Abbiamo incrociato solo due coppie in discesa e una pattuglia di alpini."
+      },
+      {
+        "observedAt": "2023-07-30",
+        "words": "Segnavia AV1 ben fatti, triangolo giallo su ogni masso importante. Impossibile sbagliare anche senza carta."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "In cima la vista si apre sui ghiacciai: una fila di cime bianche che sembra disegnata. Valeva ogni passo."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Nebbia fitta dopo il bosco, siamo saliti seguendo i triangoli gialli uno per uno. Il rifugio è comparso a venti metri."
+      },
+      {
+        "observedAt": "2024-07-10",
+        "words": "Martedì in cerca di silenzio: trovato. Un camoscio sul crinale, qualche marmotta, nient'altro oltre al vento."
+      },
+      {
+        "observedAt": "2024-08-10",
+        "words": "Un temporale breve ma forte ci ha sorpresi a un'ora dal rifugio. Meglio partire presto e arrivare entro il primo pomeriggio."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Ultimo strappo verso il rifugio ripido ma corto. A quel punto le gambe sono già cotte, ma la fine è vicina."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Cena al rifugio con la fontina e una zuppa: ottimo dopo la giornata. La gestione è gentile e il dormitorio ben tenuto."
+      },
+      {
+        "observedAt": "2025-07-30",
+        "words": "Mercoledì sereno con luce perfetta: il Gran San Bernardo in lontananza e l'erba ancora fresca di rugiada."
+      },
+      {
+        "observedAt": "2025-08-23",
+        "words": "Lungo il sentiero una frana ha portato via un tratto di mulattiera sopra il paese: la deviazione è marcata con nastro e si cammina bene."
+      },
+      {
+        "observedAt": "2025-09-14",
+        "words": "Dopo mezzogiorno il cielo si è coperto in un attimo. Tuoni lontani, noi già dentro il rifugio ad aspettare con un caffè."
+      },
+      {
+        "observedAt": "2026-07-11",
+        "words": "La fontana prima del rifugio è stata riparata, ora l'acqua scorre di nuovo e si può riempire la borraccia senza sorprese."
+      },
+      {
+        "observedAt": "2026-07-30",
+        "words": "Prima parte di sentiero nel bosco con tante radici e pietre smosse. Occhio alle caviglie, specie in discesa."
+      },
+      {
+        "observedAt": "2026-08-22",
+        "words": "Un ometto alto che segna il bivio poco prima del rifugio: la traccia si divide e senza di lui avremmo scelto male."
+      },
+      {
+        "observedAt": "2026-09-19",
+        "words": "Fine stagione, il rifugio apre solo nel weekend. Salita bellissima con un po' di neve già sulle creste."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita costante",
+          "quote": "la salita prende corpo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita costante",
+          "quote": "Dal paese al rifugio si sale quasi sempre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Frassati",
+          "quote": "Il Frassati dietro l'ultimo dosso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa tranquilla",
+          "quote": "quasi nessuno in giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica Alta Via 1",
+          "quote": "triangolo giallo su ogni masso importante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sui ghiacciai",
+          "quote": "una fila di cime bianche che sembra disegnata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica Alta Via 1",
+          "quote": "seguendo i triangoli gialli uno per uno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa tranquilla",
+          "quote": "trovato. Un camoscio sul crinale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Un temporale breve ma forte ci ha sorpresi a un'ora dal rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita costante",
+          "quote": "Ultimo strappo verso il rifugio ripido ma corto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Frassati",
+          "quote": "Cena al rifugio con la fontina e una zuppa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sui ghiacciai",
+          "quote": "il Gran San Bernardo in lontananza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Mulattiera franata sopra il paese",
+          "kind": "attenzione",
+          "quote": "una frana ha portato via un tratto di mulattiera sopra il paese"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Tuoni lontani"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Fontana riparata prima del rifugio",
+          "kind": "novita",
+          "quote": "La fontana prima del rifugio è stata riparata"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sui ghiacciai",
+          "quote": "un po' di neve già sulle creste"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

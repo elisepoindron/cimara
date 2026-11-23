@@ -1,0 +1,241 @@
+{
+  "osm": "r11971138",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d11",
+    "activity": "escursionismo",
+    "place": "comune-103014",
+    "name": "Via Alpina Blue D11",
+    "lat": 46.00674,
+    "lon": 8.18354,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 1447,
+      "localita_partenza": "Madonna della Gurva",
+      "come_arrivare": "Il santuario della Madonna della Gurva sorge sopra Molini di Calasca e si raggiunge da una strada secondaria che parte dal fondovalle. L'arrivo a Campello Monti, in Valstrona, è in un'altra valle: il ritorno richiede un secondo mezzo o un taxi."
+    },
+    "sections": {
+      "descrizione": "Lunga tappa della Via Alpina Blu dal Santuario della Madonna della Gurva a Campello Monti, un villaggio di montagna in Valstrona. Sono più di 25 chilometri con quasi 1.450 metri di salita: una giornata intera, con partenza al mattino presto.\n\nIl cammino attraversa creste erbose e boschi di faggio, con lunghi tratti di mulattiera e saliscendi che fanno accumulare dislivello. In giorni limpidi si vedono le Alpi occidentali e il Monte Rosa in lontananza.\n\nNon ci sono punti di appoggio affidabili lungo la via e l'acqua è scarsa: conviene portarne a sufficienza. Chi non vuole sacrificare una giornata può spezzare la tappa in due con un pernottamento."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-06-25",
+        "words": "Ventisei chilometri veri, altro che passeggiata. Siamo partiti alle sei e arrivati a Campello con le ultime luci."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Il crinale erboso è un panorama continuo: Rosa da un lato, laghi dall'altro. Mi sono fermato così spesso che ho perso un'ora."
+      },
+      {
+        "observedAt": "2022-09-16",
+        "words": "Un giovedì di ferie e di luce chiara. Il lungo tratto in faggeta mi ha fatto compagnia con il suo silenzio e l'odore di foglie."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "A ottobre i giorni sono corti e la tappa non perdona: ci siamo fermati con le pile frontali per l'ultima ora di sentiero. Prevedere un'alternativa."
+      },
+      {
+        "observedAt": "2023-05-28",
+        "words": "Neve tardiva a fine maggio sui prati alti, scivolosa nelle ore fredde. Chi parte prima dell'alba la trova dura e ghiacciata."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "Zero fontane per otto ore. Due litri e mezzo a testa e li ho finiti prima del paese, non fate come me."
+      },
+      {
+        "observedAt": "2023-08-31",
+        "words": "Feriale, nessuno. Il bosco di faggi dopo la mezza era una galleria verde che teneva lontano il caldo."
+      },
+      {
+        "observedAt": "2023-09-03",
+        "words": "Saliscendi infiniti, ogni cresta ne nasconde un'altra. Alla fine il dislivello complessivo era di più di quanto dicesse la carta."
+      },
+      {
+        "observedAt": "2024-05-25",
+        "words": "Hanno rifatto un ponte pedonale su un ruscello a metà tappa e ripulito il tratto dalla vegetazione. Le tavole nuove sono ancora chiare e profumano di resina."
+      },
+      {
+        "observedAt": "2024-07-21",
+        "words": "Caldo opprimente nelle ore centrali, quasi 30 gradi sul crinale. Tra l'una e le tre abbiamo cercato un po' di ombra sotto un faggio e aspettato."
+      },
+      {
+        "observedAt": "2024-08-20",
+        "words": "Ho fatto la tappa in due giorni, dormendo in una frazione a metà strada. Molto più rilassata, con tempo per le foto."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Una slavina di sassi ha cancellato un tratto di mulattiera dopo il crinale: la traccia ora aggira il punto con un giro di mezz'ora. È segnata con vernice fresca."
+      },
+      {
+        "observedAt": "2024-10-27",
+        "words": "Foglie rosse e gialle fino al limite del bosco. Arrivo a Campello Monti con una luce rosata che era una cartolina."
+      },
+      {
+        "observedAt": "2025-06-21",
+        "words": "La deviazione dopo la frana è ben segnata, ma allunga il giro. In compenso ho visto un'aquila sopra il costone."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Sentiero invaso dall'erba alta in due punti, si indovina il fondo più che vederlo. Meglio i pantaloni lunghi per le zecche."
+      },
+      {
+        "observedAt": "2025-09-07",
+        "words": "Una tappa lunga che dà dipendenza: i primi dieci chilometri a testa bassa, poi cresta e panorama. A Campello Monti ho pagato una birra a chi mi ha dato un passaggio."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Tappa molto lunga",
+          "quote": "Ventisei chilometri veri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Monte Rosa",
+          "quote": "Rosa da un lato, laghi dall'altro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Faggeta silenziosa",
+          "quote": "Il lungo tratto in faggeta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa molto lunga",
+          "quote": "ci siamo fermati con le pile frontali"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve tardiva in quota",
+          "quote": "Neve tardiva a fine maggio sui prati alti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo e poca acqua",
+          "quote": "Zero fontane per otto ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Faggeta silenziosa",
+          "quote": "Il bosco di faggi dopo la mezza era una galleria verde"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Saliscendi continui",
+          "quote": "Saliscendi infiniti, ogni cresta ne nasconde un'altra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponte rifatto a metà tappa",
+          "kind": "novita",
+          "quote": "Hanno rifatto un ponte pedonale su un ruscello a metà tappa e ripulito il tratto dalla vegetazione."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo e poca acqua",
+          "quote": "quasi 30 gradi sul crinale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa molto lunga",
+          "quote": "Ho fatto la tappa in due giorni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Deviazione dopo la frana",
+          "kind": "attenzione",
+          "quote": "Una slavina di sassi ha cancellato un tratto di mulattiera dopo il crinale: la traccia ora aggira il punto con un giro di mezz'ora."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori d'autunno",
+          "quote": "Foglie rosse e gialle fino al limite del bosco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Deviazione dopo la frana",
+          "quote": "La deviazione dopo la frana è ben segnata, ma allunga il giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Erba alta sul sentiero",
+          "quote": "Sentiero invaso dall'erba alta in due punti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa molto lunga",
+          "quote": "Una tappa lunga che dà dipendenza"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

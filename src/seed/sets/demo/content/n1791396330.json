@@ -1,0 +1,379 @@
+{
+  "osm": "n1791396330",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "palestra-leverogne-settore-mettalica",
+    "activity": "falesia",
+    "place": "comune-007005",
+    "name": "Palestra Leverogne Settore Mettalica",
+    "lat": 45.70368,
+    "lon": 7.15328,
+    "aspect": "N",
+    "altMax": 754,
+    "facts": {
+      "quota_base": 754,
+      "esposizione": "N",
+      "avvicinamento": 5,
+      "localita_partenza": "Arvier"
+    },
+    "sections": {
+      "note": "Il settore Metallica della palestra di Leverogne è una parete bassa e ombrosa sopra Arvier, a 750 metri, rivolta a nord. Una quindicina di vie, dal 5a al 7a, brevi e spesso verticali, con soste a catena e protezioni ravvicinate; le vie hanno nomi da concerto rock.\n\nÈ una falesia da fondovalle: comoda quando le pareti più alte sono in neve o in ghiaccio, poco piacevole nelle giornate umide perché la roccia resta fredda e a volte bagnata. In piena estate l'ombra permette di arrampicare anche nelle ore centrali.\n\nSi può parcheggiare ai piedi del sentiero e in pochi minuti si è sotto la parete; una corda da 60 e dodici rinvii bastano per tutto.",
+      "avvicinamento": "Un sentiero largo e ripido sale dal parcheggio in cinque minuti fino alla base della parete, passando fra vigneti e muretti a secco."
+    },
+    "parts": [
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "Master of Puppets",
+          "grado": "5a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "Fade to Black",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "One",
+          "grado": "5c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "Enter Sandman",
+          "grado": "5c+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "Nothing Else Matters",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "Sad but True",
+          "grado": "6a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "The Unforgiven",
+          "grado": "6b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "Seek and Destroy",
+          "grado": "6b+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "Fuel",
+          "grado": "6c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "Battery",
+          "grado": "6c+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "Hit the Lights",
+          "grado": "7a",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "Ride the Lightning",
+          "grado": "7a",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "Orion",
+          "grado": "6b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Metallica",
+        "fields": {
+          "nome": "Damage Inc",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-26",
+        "words": "In una giornata gelida di marzo la parete era in piena ombra, ma ben asciutta. Nothing Else Matters è un bel 6a, con passi di equilibrio e una sosta molto comoda. Sentiero breve, vigne ancora spoglie."
+      },
+      {
+        "observedAt": "2022-05-22",
+        "words": "Domenica di maggio, parcheggio vuoto e parete tutta per noi. Con il sole alto l'ombra è piacevole e le prese non scottano. Master of Puppets e Fade to Black sono i due riscaldamenti ideali."
+      },
+      {
+        "observedAt": "2022-07-13",
+        "words": "Mercoledì sera dopo il lavoro: arrivati alle sette, ancora luce e aria fresca. Il settore è ideale per le serate d'estate, quando le altre falesie sono troppo calde. Un gatto randagio ci ha tenuto compagnia."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Settembre fresco, vie calde alle dita e nessuna fila. Abbiamo fatto la sequenza dal 5a al 6a+ senza difficoltà. Dalla sosta di Enter Sandman si vede la valle con i vigneti."
+      },
+      {
+        "observedAt": "2022-11-05",
+        "words": "Primi freddi e roccia umida alla base dopo giorni di pioggia. Alle dieci una parte della parete era ancora bagnata. Fuel era l'unica via asciutta dal basso."
+      },
+      {
+        "observedAt": "2023-03-18",
+        "words": "Sabato di fine inverno, tutto sole fuori ma qui dentro in ombra e col naso gelato. Abbiamo scalato con il piumino e le dita ghiacciate. Utile se si vuole solo fare allenamento, meno se si cerca il caldo."
+      },
+      {
+        "observedAt": "2023-06-07",
+        "words": "Mercoledì mattina con aria fresca e sole alto. Seek and Destroy è un 6b+ che mi ha messo a dura prova: un passo di forza sul tetto basso. Subito dopo, un caffè in paese."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Pieno d'estate, caldo incredibile in valle ma qui l'ombra è una benedizione. Siamo stati dalle dieci fino alle quattro senza soffrire. Cuori di roccia dura, ma niente da dire sulla chiodatura."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Giornata autunnale con nuvole basse e qualche goccia. La parete asciuga lentamente, quindi abbiamo salito solo vie corte. Il vento di fondovalle faceva ballare le corde."
+      },
+      {
+        "observedAt": "2024-02-24",
+        "words": "Giornata di sole nel resto della valle e qui un freddo cane. La parete non vede mai il sole d'inverno, ma l'aria è asciutta. Ho fatto cinque vie con le mani sempre gelate."
+      },
+      {
+        "observedAt": "2024-05-11",
+        "words": "Sabato pieno di bambini di una scuola di arrampicata. Il sentiero breve è perfetto per portare gruppi, ma bisogna fare attenzione al ripido con le scarpette. Tutto sotto controllo, con tanti sorrisi."
+      },
+      {
+        "observedAt": "2024-07-17",
+        "words": "Mercoledì di piena estate, prime ore del pomeriggio. L'ombra del bosco accanto aiuta e la parete è fresca come una cantina. Ho ripetuto One cinque volte per allenare il fiato."
+      },
+      {
+        "observedAt": "2024-09-29",
+        "words": "Le catene delle soste sono state tutte sostituite da poco con anelli inox. Gesto utile in una falesia dove le vecchie catene erano ormai tutte arrugginite. Bel lavoro, grazie."
+      },
+      {
+        "observedAt": "2025-03-08",
+        "words": "Parete bagnata dopo due giorni di pioggia. Un sasso di grandi dimensioni è caduto dalla cengia in alto tra Battery e Hit the Lights, lasciando una cicatrice chiara sulla roccia. Non stare mai sotto in due."
+      },
+      {
+        "observedAt": "2025-06-21",
+        "words": "Giornata d'inizio estate con sole altissimo. Arrivati alle nove e già sudati, ma appena sotto la parete si respira. Orion e Damage Inc hanno prese buone e passi corti."
+      },
+      {
+        "observedAt": "2025-10-26",
+        "words": "Fine ottobre, l'aria è secca e fredda. Le vigne sono tutte rosse e gialle e dal parcheggio si vede un tappeto di foglie. Siamo venuti per un'ultima arrampicata prima dell'inverno."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento brevissimo",
+          "quote": "Sentiero breve"
+        },
+        {
+          "label": "Ombra e freddo",
+          "quote": "la parete era in piena ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra e freddo",
+          "quote": "l'ombra è piacevole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Buona d'estate",
+          "quote": "ideale per le serate d'estate"
+        },
+        {
+          "label": "Gatto randagio",
+          "quote": "Un gatto randagio ci ha tenuto compagnia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vigneti sotto la parete",
+          "quote": "la valle con i vigneti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia umida",
+          "quote": "roccia umida alla base dopo giorni di pioggia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra e freddo",
+          "quote": "col naso gelato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Mercoledì mattina"
+        },
+        {
+          "label": "Caffè in paese",
+          "quote": "un caffè in paese"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Buona d'estate",
+          "quote": "qui l'ombra è una benedizione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia umida",
+          "quote": "La parete asciuga lentamente"
+        },
+        {
+          "label": "Vigneti sotto la parete",
+          "quote": "fondovalle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ombra e freddo",
+          "quote": "La parete non vede mai il sole d'inverno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento brevissimo",
+          "quote": "Il sentiero breve è perfetto per portare gruppi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Buona d'estate",
+          "quote": "la parete è fresca come una cantina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Soste nuove inox",
+          "kind": "novita",
+          "quote": "Le catene delle soste sono state tutte sostituite da poco con anelli inox."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia umida",
+          "quote": "Parete bagnata dopo due giorni di pioggia"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Sasso caduto fra Battery e Hit the Lights",
+          "kind": "attenzione",
+          "quote": "Un sasso di grandi dimensioni è caduto dalla cengia in alto tra Battery e Hit the Lights"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Buona d'estate",
+          "quote": "appena sotto la parete si respira"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vigneti sotto la parete",
+          "quote": "Le vigne sono tutte rosse e gialle"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

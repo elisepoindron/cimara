@@ -1,0 +1,4 @@
+{"timestamp":"2026-11-23T10:00:00Z","query":"(fixture)","elements":[
+ {"type":"relation","id":60,"tags":{"name":"Giro di Prova in MTB","route":"mtb","mtb:scale":"2"},"geometry":[{"lat":45.59,"lon":7.75},{"lat":45.595,"lon":7.755},{"lat":45.6,"lon":7.76}]},
+ {"type":"relation","id":61,"tags":{"ref":"12","route":"mtb"},"geometry":[{"lat":45.591,"lon":7.751},{"lat":45.596,"lon":7.756}]}
+]}

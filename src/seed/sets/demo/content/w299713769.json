@@ -1,0 +1,314 @@
+{
+  "osm": "w299713769",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-ferrata-bethaz-bovard",
+    "activity": "via_ferrata",
+    "place": "comune-007068",
+    "name": "Via Ferrata Bethaz Bovard",
+    "lat": 45.63057,
+    "lon": 7.05628,
+    "altMax": 2225,
+    "facts": {},
+    "sections": {
+      "descrizione": "Una ferrata in alta Valgrisenche, in Valle d'Aosta, il cui primo punto attrezzato è a circa 2200 metri. Il livello è medio-alto: pareti verticali di roccia solida, qualche passaggio atletico e un'esposizione che si sente senza mai diventare estrema.\n\nIl tracciato è tenuto bene, con cavo teso, staffe ravvicinate e qualche pedale nei tratti in strapiombo. Chi ha già fatto un paio di ferrate di difficoltà media la trova impegnativa quel tanto che basta, e con la quota nelle gambe si fa sentire anche chi è allenato.\n\nSi fa da luglio a metà settembre, quando il fondo del vallone è libero da neve; prima il sentiero di accesso può trattenerne a lungo. Serve il kit completo, il casco, i guanti e abbigliamento caldo anche in piena estate.",
+      "avvicinamento": "Si lascia la macchina in alta valle e si segue il sentiero verso l'attacco, che si raggiunge in circa un'ora di cammino, con un tratto più ripido sul finale."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-07-23",
+        "words": "Sabato di luglio, caldo in basso e freddo in parete: ho tenuto la giacca per tutta la salita. La roccia è bella e compatta, le staffe sono ravvicinate dove serve. Si vedono le montagne della valle da ogni sosta."
+      },
+      {
+        "observedAt": "2022-08-16",
+        "words": "Martedì di Ferragosto lungo, ma non c'era nessuno: due cordate in tutto. Il traverso a metà percorso è atletico e le braccia lo ricordano. Cavi in ordine, nessuna sorpresa."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Prima neve sulle cime e l'aria tagliente già a settembre. I cavi erano gelidi fino alle dieci. Un consiglio: guanti con le dita coperte, i mezzi guanti sono insufficienti."
+      },
+      {
+        "observedAt": "2023-07-02",
+        "words": "Troppa neve ancora sotto l'attacco, abbiamo dovuto attraversare un nevaio ripido con i ramponi per un quarto d'ora. Dopo, la ferrata era asciutta e bellissima. Se andate presto in stagione, informatevi."
+      },
+      {
+        "observedAt": "2023-07-26",
+        "words": "Mercoledì libero, aria tersa e una luce che non ho più visto. Dalla cima delle placche si vede il fondovalle laggiù, piccolissimo. Ferrata solida e piacevole, sotto la gamba con i pedali."
+      },
+      {
+        "observedAt": "2023-08-19",
+        "words": "Partenza alle sette dal parcheggio, in vetta alle undici. L'ultimo strapiombo mi ha messo alla prova, e ho dovuto fare due soste. Poi tutto più dolce, con il vento che asciugava il sudore."
+      },
+      {
+        "observedAt": "2023-09-17",
+        "words": "Giornata di fine stagione, vento freddo e poca gente. Una cordata di ragazzi ci ha chiesto una mano per un moschettone incastrato. Con il vento in parete conviene non fermarsi troppo."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Primo caldo vero e primo giro dell'estate. Il sentiero era ancora un po' bagnato dalla neve sciolta ma passabile. Abbiamo incrociato una famiglia di stambecchi sul versante di fronte."
+      },
+      {
+        "observedAt": "2024-08-08",
+        "words": "Giovedì di agosto, al mattino nebbia fino alle nove e poi un cielo blu intenso. Le placche sono bellissime, lisce ma sicure con le scarpe giuste. Il panorama dall'alto toglie il fiato."
+      },
+      {
+        "observedAt": "2024-08-31",
+        "words": "Sabato di fine agosto, e nella ferrata c'erano più persone del solito: abbiamo aspettato quasi mezz'ora a un traverso. Per fortuna il tempo è stato clemente e il tratto superiore era libero."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Settembre già autunnale, giacca a vento e berretto. Hanno aggiunto un pedale nel tratto strapiombante che prima era duro da superare, la salita ne guadagna molto in sicurezza. Cime innevate sullo sfondo."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "La ferrata è asciutta ma il sentiero d'accesso ha un nevaio ripido, abbiamo usato la piccozza. Il tratto atletico a metà è sempre una bella sfida. Giornata tersa e un sole che scalda solo dopo le dieci."
+      },
+      {
+        "observedAt": "2025-08-05",
+        "words": "Martedì di vacanza, sono salito da solo con la sveglia alle cinque. Pochissimi altri in giro e il silenzio della valle nelle orecchie. Il cavo è teso e tutto ben fissato, ho dormito sereno."
+      },
+      {
+        "observedAt": "2025-08-23",
+        "words": "Sabato di nuvole alte e un po' di vento. Dall'ultima sosta si vedono le creste e i ghiacciai in lontananza. Ci siamo trattenuti per mezz'ora a guardare, nonostante il freddo."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Dopo un temporale la notte prima la roccia era ancora umida in basso, ma si asciugava salendo. In un punto un masso è caduto sul sentiero e c'è una traccia nuova per aggirarlo, ben segnata con ometti."
+      },
+      {
+        "observedAt": "2025-09-28",
+        "words": "Ultimo weekend utile, cielo sereno. Salita lunga ma soddisfacente, con una fila di una decina di persone all'attacco. Una zuppa calda e una birra nel pomeriggio in valle, come si deve."
+      },
+      {
+        "observedAt": "2026-07-18",
+        "words": "Troppa neve, ma tutto sommato fattibile. Il canale prima dell'attacco è ancora pieno di neve dura e si passa con i ramponi. Ferrata in ottime condizioni di ancoraggi e cavi, la manutenzione si vede."
+      },
+      {
+        "observedAt": "2026-08-13",
+        "words": "Giovedì di agosto, lasciato il lavoro per una giornata in quota. L'ultimo strapiombo è un bel test, e il passaggio atletico finale l'ho fatto sudando. Niente a che vedere con il fondovalle: la valle è bella e silenziosa."
+      },
+      {
+        "observedAt": "2026-09-06",
+        "words": "Ultima domenica utile, sole alto e vento fresco. Sono stati sostituiti alcuni segnali all'inizio del sentiero, ora molto più chiari. In cima la luce del tardo pomeriggio sulle pareti era di quelle da fotografia."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Quota alta e freddo",
+          "quote": "freddo in parete"
+        },
+        {
+          "label": "Roccia compatta",
+          "quote": "La roccia è bella e compatta"
+        },
+        {
+          "label": "Panorama sulla valle",
+          "quote": "Si vedono le montagne della valle da ogni sosta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "non c'era nessuno"
+        },
+        {
+          "label": "Tratto atletico",
+          "quote": "Il traverso a metà percorso è atletico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Quota alta e freddo",
+          "quote": "I cavi erano gelidi fino alle dieci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve residua",
+          "quote": "Troppa neve ancora sotto l'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama sulla valle",
+          "quote": "si vede il fondovalle laggiù"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto atletico",
+          "quote": "L'ultimo strapiombo mi ha messo alla prova"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "poca gente"
+        },
+        {
+          "label": "Quota alta e freddo",
+          "quote": "vento freddo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve residua",
+          "quote": "ancora un po' bagnato dalla neve sciolta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama sulla valle",
+          "quote": "Il panorama dall'alto toglie il fiato"
+        },
+        {
+          "label": "Roccia compatta",
+          "quote": "Le placche sono bellissime"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Più gente a fine estate",
+          "quote": "abbiamo aspettato quasi mezz'ora a un traverso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Quota alta e freddo",
+          "quote": "giacca a vento e berretto"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Pedale aggiunto nel tratto strapiombante",
+          "kind": "novita",
+          "quote": "Hanno aggiunto un pedale nel tratto strapiombante che prima era duro da superare"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve residua",
+          "quote": "il sentiero d'accesso ha un nevaio ripido"
+        },
+        {
+          "label": "Tratto atletico",
+          "quote": "Il tratto atletico a metà"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "Pochissimi altri in giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama sulla valle",
+          "quote": "si vedono le creste e i ghiacciai in lontananza"
+        },
+        {
+          "label": "Quota alta e freddo",
+          "quote": "nonostante il freddo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Traccia nuova per un masso caduto",
+          "kind": "attenzione",
+          "quote": "un masso è caduto sul sentiero e c'è una traccia nuova per aggirarlo"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Più gente a fine estate",
+          "quote": "una fila di una decina di persone all'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve residua",
+          "quote": "Il canale prima dell'attacco è ancora pieno di neve dura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratto atletico",
+          "quote": "L'ultimo strapiombo è un bel test"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama sulla valle",
+          "quote": "la luce del tardo pomeriggio sulle pareti"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Segnali sostituiti sul sentiero",
+          "kind": "novita",
+          "quote": "Sono stati sostituiti alcuni segnali all'inizio del sentiero, ora molto più chiari."
+        }
+      ]
+    }
+  ]
+}

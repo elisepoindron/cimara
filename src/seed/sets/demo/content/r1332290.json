@@ -1,0 +1,259 @@
+{
+  "osm": "r1332290",
+  "invented": [
+    "difficolta",
+    "partenza",
+    "esposizione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "bric-cassin",
+    "activity": "sci_alpinismo",
+    "place": "comune-004001",
+    "name": "Bric Cassin",
+    "lat": 44.43223,
+    "lon": 6.98156,
+    "aspect": "SE",
+    "facts": {
+      "difficolta": "BS",
+      "partenza": 1856,
+      "esposizione": "SE",
+      "localita_partenza": "Acceglio",
+      "come_arrivare": "Da Acceglio si prosegue verso il fondo della valle fino al punto in cui la strada si ferma con la neve, e da lì si parte con le pelli."
+    },
+    "sections": {
+      "descrizione": "Una gita tranquilla e remota nell'alta Valle Maira, lunga circa sette chilometri tra andata e ritorno, che parte oltre i 1800 metri nei pressi di Acceglio e sale verso il Bric Cassin. Il paesaggio è di quelli rari: valli quiete, pochi sciatori, baite sparse e larici in grandi pendii.\n\nLa salita si svolge in gran parte su pendii a media pendenza, prima nel bosco poi in un ambiente aperto di praterie alpine, con una dorsale finale più esposta al vento. È una gita da neve bella, in pieno inverno e in primavera, perché la quota di partenza permette di sciare a lungo.\n\nLa discesa riprende la salita, con ampi pendii nella parte alta e un ultimo tratto nel bosco che richiede un po' di attenzione.",
+      "note": "Poche persone, quindi spesso bisogna fare traccia da soli: più impegno, più attenzione alle condizioni. Il telefono qui prende male. ARTVA, pala, sonda e bollettino valanghe."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-03-06",
+        "words": "Gita di una bellezza silenziosa. In sei ore non abbiamo visto nessuno. Tanto silenzio e nessun altro sciatore in tutta la valle. Bello da pazzi."
+      },
+      {
+        "observedAt": "2022-03-26",
+        "words": "Neve ottima, firn fino alle undici. Un tratto nel bosco tra i larici, con la neve ancora pulita, tutto molto bello. Alla fine ci siamo fermati a mangiare sotto un albero."
+      },
+      {
+        "observedAt": "2022-12-11",
+        "words": "Nevicata abbondante nei giorni precedenti, siamo stati molto lenti a fare la traccia. Ho fatto la traccia quasi tutto il giorno, mi sono stancato ma ne è valsa la pena."
+      },
+      {
+        "observedAt": "2023-01-28",
+        "words": "Giornata di sole su un tappeto di neve intatta. Abbiamo incontrato solo una volpe nel bosco, camosci sulla dorsale sopra di noi a metà salita."
+      },
+      {
+        "observedAt": "2023-02-15",
+        "words": "Mercoledì d'inverno, fuori dai giri. La valle era silenziosa e non c'era un'orma, solo noi e il vento. Salita lunga ma piacevole."
+      },
+      {
+        "observedAt": "2023-03-12",
+        "words": "Quasi arrivati in cima il vento ci ha fermato. Siamo rimasti sulla dorsale a ridosso di una roccia a mangiare, e poi giù. Il bosco di larici in discesa è bello ma richiede attenzione con la neve crostosa."
+      },
+      {
+        "observedAt": "2023-04-01",
+        "words": "Neve di primavera, molle dopo le dieci. Scesi presto per evitare la pesantezza. In basso la strada era ancora coperta di neve fin quasi al parcheggio, bello per sciare fino all'auto."
+      },
+      {
+        "observedAt": "2023-04-19",
+        "words": "Mercoledì di aprile con gran caldo. Siamo partiti alle sei, in vetta alle undici. Firn perfetto al ritorno, ma dopo mezzogiorno la neve diventava subito marcia."
+      },
+      {
+        "observedAt": "2023-12-30",
+        "words": "Ultimo giro del 2023: poca neve ma sufficiente. Siamo partiti dal punto dove la strada era chiusa, con la strada ancora tutta bianca e senza buche."
+      },
+      {
+        "observedAt": "2024-01-14",
+        "words": "Un gruppo di tre, tutti alla prima gita lunga. Bella la dorsale finale, ma dopo l'ultima baita non c'era più nessuna traccia, abbiamo tracciato in tre a turno."
+      },
+      {
+        "observedAt": "2024-02-11",
+        "words": "Mattina fredda, sole pieno. Il pendio sotto la dorsale è già senza neve in alcuni punti, e sotto la dorsale il vento lascia spesso lastroni o il fondo scoperto e conviene tenersi bassi. Siamo scesi piano."
+      },
+      {
+        "observedAt": "2024-03-19",
+        "words": "Martedì di pausa, partiti presto. Che luce sul bosco! I larici carichi di neve fanno una galleria bianca. Nessuno, un lusso."
+      },
+      {
+        "observedAt": "2024-03-31",
+        "words": "Pasqua di sole sulle montagne della Maira. Un'aquila ha fatto due giri sopra la dorsale, un bel segno. Neve ottima in discesa."
+      },
+      {
+        "observedAt": "2024-04-28",
+        "words": "Giro tardivo con neve primaverile e prati già verdi in basso. Ancora una volta nessuno in giro, solo il rumore dei torrenti. Fatica contenuta."
+      },
+      {
+        "observedAt": "2025-02-22",
+        "words": "Dopo giorni di nuvole, giornata chiarissima. Sulla dorsale si vedeva fino alla pianura. Hanno messo dei cartelli di legno con il nome della gita che indicano il passaggio sulla dorsale. Bellissimi."
+      },
+      {
+        "observedAt": "2025-03-20",
+        "words": "Giovedì mattina presto, pochi minuti dopo l'alba già in piedi. Salita regolare e veloce, alle undici il sole aveva già cambiato la neve. Discesa su neve bella."
+      },
+      {
+        "observedAt": "2025-12-27",
+        "words": "Neve scarsa sul fondo, ma abbastanza più su. Tratto di approccio che richiede spalle forti, è stata una giornata passata a battere la traccia. Soddisfatti lo stesso."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Gita tranquilla e solitaria",
+          "quote": "Tanto silenzio e nessun altro sciatore in tutta la valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco di larici",
+          "quote": "tra i larici, con la neve ancora pulita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Traccia da fare da soli",
+          "quote": "Ho fatto la traccia quasi tutto il giorno, mi sono stancato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Camosci sulla dorsale",
+          "quote": "camosci sulla dorsale sopra di noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gita tranquilla e solitaria",
+          "quote": "La valle era silenziosa e non c'era un'orma"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco di larici",
+          "quote": "è bello ma richiede attenzione con la neve crostosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada ancora innevata",
+          "quote": "la strada era ancora coperta di neve fin quasi al parcheggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Attenzione al caldo a mezzogiorno",
+          "quote": "dopo mezzogiorno la neve diventava subito marcia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada chiusa dalla neve",
+          "quote": "con la strada ancora tutta bianca e senza buche"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Traccia da fare da soli",
+          "quote": "dopo l'ultima baita non c'era più nessuna traccia, abbiamo tracciato in tre a turno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Pendio ventato sotto la dorsale",
+          "kind": "attenzione",
+          "quote": "sotto la dorsale il vento lascia spesso lastroni o il fondo scoperto e conviene tenersi bassi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco di larici",
+          "quote": "I larici carichi di neve fanno una galleria bianca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Aquila in volo",
+          "quote": "Un'aquila ha fatto due giri sopra la dorsale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gita tranquilla e solitaria",
+          "quote": "Ancora una volta nessuno in giro, solo il rumore dei torrenti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartelli della gita lungo la dorsale",
+          "kind": "novita",
+          "quote": "Hanno messo dei cartelli di legno con il nome della gita che indicano il passaggio sulla dorsale"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Attenzione al caldo a mezzogiorno",
+          "quote": "alle undici il sole aveva già cambiato la neve"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Traccia da fare da soli",
+          "quote": "è stata una giornata passata a battere la traccia"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

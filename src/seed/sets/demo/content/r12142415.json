@@ -1,0 +1,242 @@
+{
+  "osm": "r12142415",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d40",
+    "activity": "escursionismo",
+    "place": "comune-001145",
+    "name": "Via Alpina Blue D40",
+    "lat": 44.96482,
+    "lon": 7.03234,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 912,
+      "localita_partenza": "Balsiglia",
+      "come_arrivare": "Si arriva a Balsiglia, frazione di Massello, dalla strada della Val Germanasca con un piccolo parcheggio all'ingresso del borgo. La tappa termina a Ghigo di Prali, dove si trovano un servizio di bus e una fermata per il rientro."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu da Balsiglia a Ghigo di Prali, circa 16 km con 910 metri di salita e 830 di discesa, nel cuore della Val Germanasca. Il sentiero lascia il borgo, sale a un colle poco frequentato, poi scende a rientrare nella valle principale.\n\nIl percorso alterna boschi, pascoli e alcuni tratti di mulattiera storica. Il dislivello è meno severo di altre tappe, ma la lunghezza richiede costanza.\n\nPeriodo consigliato da giugno a ottobre. La valle è di tradizione valdese e lungo il cammino si incontrano piccole borgate e fontane di pietra."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-06-26",
+        "words": "Prati ancora freschi di sfalcio e il borgo di Balsiglia al mattino sembra fuori dal tempo. Siamo partiti col fresco e in marcia già alle sette."
+      },
+      {
+        "observedAt": "2022-08-04",
+        "words": "Giovedì con sole pieno. Il colle non ha nessuno, ci siamo messi comodi a mangiare guardando la valle."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "Tappa meno severa delle precedenti, quasi riposante. Le gambe ringraziano dopo giorni di fatica sulle altre."
+      },
+      {
+        "observedAt": "2022-10-01",
+        "words": "Le foglie dei faggi formavano un tappeto arancione, quasi scivoloso sulla mulattiera. Arrivo a Ghigo con le prime luci della sera."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Tracce di un nevaio sul versante ombroso e un ruscello da guadare ancora gonfio. Passato con le scarpe in mano, che freddo."
+      },
+      {
+        "observedAt": "2023-07-19",
+        "words": "Mercoledì d'estate pieno, caldo sulla salita. La fontana di pietra a metà strada è una benedizione."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Incontrati dei pastori valdesi di passaggio con le pecore, un saluto e due chiacchiere sul tempo. Cammino semplice."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "La mulattiera storica, con i muretti a secco, vale da sola la camminata. Peccato che in qualche punto sia invasa dalle felci."
+      },
+      {
+        "observedAt": "2024-07-07",
+        "words": "Cielo bianco e afa nel pomeriggio, nessun temporale ma brontolii in lontananza. Ghigo ci ha offerto un gelato e una fermata fresca."
+      },
+      {
+        "observedAt": "2024-08-13",
+        "words": "Martedì di agosto: due sole persone incontrate. Una guida e un cane con la sua passione per le marmotte."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Un cartello al bivio dopo il colle indica adesso anche il museo della valle, nuovo. Una bella deviazione per chi ha tempo."
+      },
+      {
+        "observedAt": "2024-09-29",
+        "words": "Cielo bellissimo, vento leggero. Bus da Ghigo in perfetto orario, un colpo di fortuna."
+      },
+      {
+        "observedAt": "2025-06-28",
+        "words": "Un ponte di legno sul ruscello a metà tappa è crollato, ci si passa sulle pietre se il livello è basso. Con pioggia recente non è una buona idea."
+      },
+      {
+        "observedAt": "2025-07-30",
+        "words": "Mercoledì di sole. Hanno messo un ponte nuovo, più alto e con il corrimano, passaggio sicuro anche con lo zaino."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Lunga camminata tranquilla tra boschi e prati. Il bus per Ghigo ci è sfuggito per cinque minuti e abbiamo aspettato due ore."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Giornata d'autunno limpida, una luce da cartolina sul borgo. Tappa piacevole che mi ha lasciato voglia di tornare."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Borgo di Balsiglia suggestivo",
+          "quote": "il borgo di Balsiglia al mattino sembra fuori dal tempo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colle poco frequentato",
+          "quote": "Il colle non ha nessuno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa meno impegnativa",
+          "quote": "Tappa meno severa delle precedenti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Autunno nel bosco",
+          "quote": "Le foglie dei faggi formavano un tappeto arancione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Guadi dopo il disgelo",
+          "quote": "un ruscello da guadare ancora gonfio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fontane di pietra lungo la via",
+          "quote": "La fontana di pietra a metà strada"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pastori lungo il percorso",
+          "quote": "pastori valdesi di passaggio con le pecore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mulattiera con muretti a secco",
+          "quote": "La mulattiera storica, con i muretti a secco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo a Ghigo di Prali",
+          "quote": "Ghigo ci ha offerto un gelato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colle poco frequentato",
+          "quote": "due sole persone incontrate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello nuovo verso il museo della valle",
+          "kind": "novita",
+          "quote": "Un cartello al bivio dopo il colle indica adesso anche il museo della valle"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Rientro in bus da Ghigo",
+          "quote": "Bus da Ghigo in perfetto orario"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponte crollato sul ruscello a metà tappa",
+          "kind": "attenzione",
+          "quote": "Un ponte di legno sul ruscello a metà tappa è crollato"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponte nuovo con corrimano",
+          "kind": "novita",
+          "quote": "Hanno messo un ponte nuovo, più alto e con il corrimano"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Rientro in bus da Ghigo",
+          "quote": "Il bus per Ghigo ci è sfuggito"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa meno impegnativa",
+          "quote": "Tappa piacevole"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

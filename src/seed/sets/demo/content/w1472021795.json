@@ -1,0 +1,432 @@
+{
+  "osm": "w1472021795",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "localita_partenza",
+    "parcheggio_nota"
+  ],
+  "itinerary": {
+    "key": "falesia-di-roaschia-settore-centrale",
+    "activity": "falesia",
+    "place": "comune-004183",
+    "name": "Falesia di Roaschia settore centrale",
+    "lat": 44.28563,
+    "lon": 7.44504,
+    "aspect": "O",
+    "altMax": 1127,
+    "facts": {
+      "esposizione": "O",
+      "quota_base": 1127,
+      "avvicinamento": 10,
+      "localita_partenza": "Roaschia",
+      "parcheggio_nota": "Piazzale ghiaioso sotto la strada, qualche posto; nei fine settimana soleggiati si riempie e si parcheggia a bordo strada più in basso."
+    },
+    "sections": {
+      "note": "Il settore centrale di Roaschia è il cuore della falesia: una parete di calcare chiaro a 1130 metri, esposta a ovest, con una ventina di vie dal 5b al 6c+, lunghe fino a trenta metri. Il sole arriva a mezzogiorno e dura fino a sera, quindi in estate si sta bene al mattino e in inverno nelle giornate serene si scala fino al tramonto, quando il calcare diventa dorato.\n\nLa roccia è a tacche e canalette, con tratti di placca appoggiata e muri più verticali; il calcare è compatto e dopo la pioggia asciuga in fretta, grazie al sole pomeridiano. La chiodatura è vicina e le soste sono a catena. È il settore dove arrivano quasi tutti e dove si trovano le vie più ripetute.",
+      "avvicinamento": "Dal parcheggio si segue il sentiero largo che costeggia il pendio e poi sale con due tornanti alla base: dieci minuti, con una comoda panca a metà strada."
+    },
+    "parts": [
+      {
+        "group": "Sinistra del Centro",
+        "fields": {
+          "nome": "Prima Luce",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Sinistra del Centro",
+        "fields": {
+          "nome": "Calcare Facile",
+          "grado": "5b+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Sinistra del Centro",
+        "fields": {
+          "nome": "Il Cornicione",
+          "grado": "5c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Sinistra del Centro",
+        "fields": {
+          "nome": "Giro del Sole",
+          "grado": "5c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Sinistra del Centro",
+        "fields": {
+          "nome": "La Gita",
+          "grado": "6a",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Sinistra del Centro",
+        "fields": {
+          "nome": "Pomeriggio d'Oro",
+          "grado": "6a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Respiro Largo",
+          "grado": "6a+",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Muro del Pianto",
+          "grado": "6b",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Tacca Magica",
+          "grado": "6b",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "La Cresta",
+          "grado": "6b+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Via della Panca",
+          "grado": "6b+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Verticale Gentile",
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Centro",
+        "fields": {
+          "nome": "Dall'Altra Parte",
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Destra del Centro",
+        "fields": {
+          "nome": "Brezza di Ponente",
+          "grado": "5c",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Destra del Centro",
+        "fields": {
+          "nome": "Sole Basso",
+          "grado": "6a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Destra del Centro",
+        "fields": {
+          "nome": "La Lavagna",
+          "grado": "6a+",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Destra del Centro",
+        "fields": {
+          "nome": "Rosso Tramonto",
+          "grado": "6b",
+          "lunghezza": 27
+        }
+      },
+      {
+        "group": "Destra del Centro",
+        "fields": {
+          "nome": "Il Compagno",
+          "grado": "6b+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Destra del Centro",
+        "fields": {
+          "nome": "Ultimo Raggio",
+          "grado": "6c+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Destra del Centro",
+        "fields": {
+          "nome": "Pilastrino",
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-04-09",
+        "words": "Ponte di Pasqua, tanta gente e sole dalle undici: il sole arriva a mezzogiorno e vira alla sera su tutta la parete. Siamo andati con l'ombra sulle prime vie del Centro e abbiamo aspettato di riscaldarci."
+      },
+      {
+        "observedAt": "2022-06-03",
+        "words": "Dopo il lavoro, salita di un'ora per fare due vie con la luce dorata del tramonto. Il calcare diventa dorato e la gente se ne va. Pace assoluta."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "Settembre al meglio: caldo asciutto, roccia calda dal primo pomeriggio. Con Tacca Magica ho capito perché il centro è il preferito."
+      },
+      {
+        "observedAt": "2022-10-15",
+        "words": "Il parcheggio era pieno già alle nove, abbiamo lasciato la macchina lungo la strada. Il piazzale era strapieno, sulla parete c'erano cinque cordate."
+      },
+      {
+        "observedAt": "2023-03-12",
+        "words": "Prima giornata primaverile: tanta aria, l'erba ancora gialla, la roccia fredda ma con sole fino al calare. Un bambino ha pianto per il freddo alle dita, una bella lezione."
+      },
+      {
+        "observedAt": "2023-05-02",
+        "words": "Mi sono preso un giorno di ferie: i ragazzi della scuola di roccia hanno occupato il Centro con un gruppo, ma sulla Destra c'era posto. Un gruppo di corsisti saliva e scendeva di continuo."
+      },
+      {
+        "observedAt": "2023-07-01",
+        "words": "Troppo caldo dopo le due: la roccia diventa una piastra bollente. Ci siamo ritirati alle quattro e abbiamo fatto il bagno nel torrente."
+      },
+      {
+        "observedAt": "2023-09-17",
+        "words": "Tanto vento dal pomeriggio, di Ponente, che faceva ondeggiare la corda. Poi si è calmato verso sera e abbiamo fatto Rosso Tramonto con il sole basso."
+      },
+      {
+        "observedAt": "2023-11-11",
+        "words": "Sole fino al tramonto anche a novembre e aria secca. La Cresta è un 6b+ di continuità, ma la partenza è un po' lucida per i molti passaggi."
+      },
+      {
+        "observedAt": "2024-02-06",
+        "words": "Una giornata di febbraio quasi primaverile: sole sul calcare dalle undici e quasi nessuno. Ho fatto una dozzina di tiri facili per riprendere la forma. Le soste del Centro sono state rifatte con catene nuove, belle e comode."
+      },
+      {
+        "observedAt": "2024-04-20",
+        "words": "Con i bambini ci siamo fermati sulle vie di sinistra. Aprile con le prime farfalle, un po' di umido nel prato sotto la parete. Il piazzale riempito alle dieci, ma una cordata se n'è andata e abbiamo preso il posto."
+      },
+      {
+        "observedAt": "2024-06-09",
+        "words": "Mattina fresca, sole alle spalle, vie corte e sole pieno dopo le due. Siamo andati a mangiare in paese, una trattoria con prodotti locali."
+      },
+      {
+        "observedAt": "2024-08-07",
+        "words": "Venerdì d'agosto, un po' di nebbia in quota che saliva dalla valle. Ho salito la Destra con un amico: tutto fresco, niente sole fino alle quattro."
+      },
+      {
+        "observedAt": "2024-10-05",
+        "words": "Giornata d'autunno bella fresca, foglie rosse e sole sul calcare. Un camoscio sul pendio sopra la parete ci ha guardati a lungo. Tutto tranquillo."
+      },
+      {
+        "observedAt": "2025-03-08",
+        "words": "Un tratto del pendio sopra la parete ha scaricato dei sassi sul sentiero, bisogna camminare in fretta. Con il casco, abbiamo fatto tre vie."
+      },
+      {
+        "observedAt": "2025-05-04",
+        "words": "Il sentiero è stato ripulito dalle pietre cadute: hanno spostato i sassi e messo un cartello di attenzione. Bel tempo, tanti arrampicatori ma nessuna fila."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Partiti alle sei per sfruttare l'ombra. Alle undici il sole prendeva la parete e faceva davvero caldo. Pausa pranzo con un panino sotto un ginepro."
+      },
+      {
+        "observedAt": "2025-09-02",
+        "words": "Un martedì di fine estate, solo due cordate sulla Destra. Il pomeriggio la parete è tutta al sole, ottimo per le dita fredde del mattino."
+      },
+      {
+        "observedAt": "2026-04-11",
+        "words": "In primavera il prato è un tappeto di fiori. Abbiamo fatto la linea Verticale Gentile e Dall'Altra Parte, e poi una pausa lunga a guardare il tramonto sul versante."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole al pomeriggio",
+          "quote": "il sole arriva a mezzogiorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Calcare dorato al tramonto",
+          "quote": "Il calcare diventa dorato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al pomeriggio",
+          "quote": "roccia calda dal primo pomeriggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio pieno nel weekend",
+          "quote": "Il piazzale era strapieno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gruppi e corsi",
+          "quote": "Un gruppo di corsisti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo in estate",
+          "quote": "la roccia diventa una piastra bollente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento di ponente",
+          "quote": "Tanto vento dal pomeriggio, di Ponente, che faceva ondeggiare la corda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Sole fino al tramonto anche a novembre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Soste rinnovate nel Centro",
+          "kind": "novita",
+          "quote": "Le soste del Centro sono state rifatte con catene nuove"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio pieno nel weekend",
+          "quote": "piazzale riempito alle dieci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al pomeriggio",
+          "quote": "sole pieno dopo le due"
+        },
+        {
+          "label": "Trattoria in paese",
+          "quote": "una trattoria con prodotti locali"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Camosci sul pendio",
+          "quote": "Un camoscio sul pendio sopra la parete ci ha guardati a lungo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana di sassi dal pendio",
+          "kind": "attenzione",
+          "quote": "Un tratto del pendio sopra la parete ha scaricato dei sassi sul sentiero, bisogna camminare in fretta"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana di sassi dal pendio",
+          "kind": "attenzione",
+          "quote": "hanno spostato i sassi e messo un cartello di attenzione"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al pomeriggio",
+          "quote": "Il pomeriggio la parete è tutta al sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

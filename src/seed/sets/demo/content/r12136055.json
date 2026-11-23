@@ -1,0 +1,241 @@
+{
+  "osm": "r12136055",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d33",
+    "activity": "escursionismo",
+    "place": "comune-001154",
+    "name": "Via Alpina Blue D33",
+    "lat": 45.17888,
+    "lon": 7.08174,
+    "facts": {
+      "difficolta": "EE",
+      "dislivello": 1648,
+      "localita_partenza": "Rifugio Riposa",
+      "come_arrivare": "Il Rifugio Riposa si raggiunge a piedi dal fondovalle di Mompantero; non c'è strada fino al rifugio. A Mompantero ci sono pochi parcheggi e la fine della tappa, al Rifugio Stellina, richiede un passaggio per il ritorno."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu dal Rifugio Riposa al Rifugio Stellina, circa 12 km con 1.650 metri di salita e 1.260 di discesa, sulle pendici sopra Susa. È una giornata di montagna vera, con una salita lunga e un colle alto dal quale si guarda verso la Francia e verso la val Cenischia.\n\nIl sentiero si inerpica su pietraie e prati, con qualche passaggio su roccia ben marcato. Il tratto in quota può restare innevato fino a luglio e spesso è battuto dal vento.\n\nÈ una tappa fisicamente impegnativa che richiede buone gambe; partire presto e informarsi sul meteo. Periodo da luglio a settembre."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-23",
+        "words": "Dal Riposa siamo partiti con le nuvole che salivano dalla valle. Il colle alto ci ha accolto con un vento gelido."
+      },
+      {
+        "observedAt": "2022-08-13",
+        "words": "Giorno di caldo estremo, salita faticosa e sudata. Sul colle siamo rimasti mezz'ora a goderci l'aria fresca."
+      },
+      {
+        "observedAt": "2022-09-07",
+        "words": "Mercoledì di bel tempo stabile. La vista verso la Francia e la Val Cenischia dal colle vale la fatica."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Passaggio su roccia ben segnato con vernice rossa, niente di difficile ma serve concentrazione. Una coppia davanti a noi ha scambiato la traccia e dovuto tornare indietro."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "Nevaio lungo quasi duecento metri sotto il colle, molto duro al mattino. Abbiamo aspettato un'ora che ammorbidisse."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Finalmente il Rifugio Stellina in vista: una distesa verde sotto la cresta. Il gestore ci ha dato una birra in omaggio per aver camminato tutta la giornata."
+      },
+      {
+        "observedAt": "2023-08-23",
+        "words": "Mercoledì dopo un temporale notturno, sentiero scivoloso nella pietraia. Ho preso con calma e senza correre."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Marmotte lungo la salita e uno stambecco solitario sul filo di cresta. Un panorama di quelli che restano."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Salita da 1.600 metri vissuta quasi tutta in ombra la mattina. Qualche rinfrescata alla fonte metà percorso."
+      },
+      {
+        "observedAt": "2024-08-03",
+        "words": "Partenza all'alba e già in cima per mezzogiorno. Cielo senza nuvole e aria così tersa che si leggevano le targhe dei rifugi dall'altra parte."
+      },
+      {
+        "observedAt": "2024-08-28",
+        "words": "Mercoledì nel rifugio con un gruppo di francesi: serata di canti e vino. Anche la tappa è passata in fretta, con tutta quell'allegria."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Un segnavia sul colle è caduto con il vento, ma il sentiero è comunque evidente. Il vento sul colle non ci ha lasciati un minuto."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Un grosso blocco si è staccato sopra il passaggio su roccia e ha lasciato una scia di sassi sul sentiero. Si passa ma in fretta, senza fermarsi lì sotto."
+      },
+      {
+        "observedAt": "2025-08-10",
+        "words": "Dopo i crolli di luglio hanno installato una piccola catena sul tratto più delicato e rifatto i segnavia. Ora si sta più tranquilli."
+      },
+      {
+        "observedAt": "2025-08-27",
+        "words": "Mercoledì, tre ore e mezza di salita senza sosta e una doccia calda a fine tappa. Il rifugio ci ha dato l'acqua calda gratis."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Ultimo weekend d'apertura. Lungo il colle ho incontrato due cacciatori con i cani, rumorosi ma gentili."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Vento freddo al colle",
+          "quote": "Il colle alto ci ha accolto con un vento gelido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita faticosa",
+          "quote": "salita faticosa e sudata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista verso la Francia",
+          "quote": "La vista verso la Francia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passaggio su roccia segnato",
+          "quote": "Passaggio su roccia ben segnato con vernice rossa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nevai fino a luglio",
+          "quote": "Nevaio lungo quasi duecento metri sotto il colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo allo Stellina",
+          "quote": "Finalmente il Rifugio Stellina in vista"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero scivoloso dopo la pioggia",
+          "quote": "sentiero scivoloso nella pietraia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna lungo il percorso",
+          "quote": "uno stambecco solitario sul filo di cresta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita faticosa",
+          "quote": "Salita da 1.600 metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama limpido dall'alto",
+          "quote": "aria così tersa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Atmosfera del rifugio",
+          "quote": "serata di canti e vino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento freddo al colle",
+          "quote": "Il vento sul colle non ci ha lasciati un minuto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Crollo di blocchi sopra il passaggio su roccia",
+          "kind": "attenzione",
+          "quote": "Un grosso blocco si è staccato sopra il passaggio su roccia"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena e segnavia rifatti dopo i crolli",
+          "kind": "novita",
+          "quote": "hanno installato una piccola catena sul tratto più delicato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Atmosfera del rifugio",
+          "quote": "Il rifugio ci ha dato l'acqua calda gratis"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna lungo il percorso",
+          "quote": "due cacciatori con i cani"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

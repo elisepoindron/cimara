@@ -1,0 +1,811 @@
+{
+  "osm": "w627802454",
+  "invented": [
+    "difficolta",
+    "partenza",
+    "vetta",
+    "dislivello",
+    "tipologia",
+    "esposizione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "rifugio-deffeyes-tete-du-rutor",
+    "activity": "sci_alpinismo",
+    "place": "comune-007041",
+    "name": "Rifugio Deffeyes - Tete du Rutor",
+    "lat": 45.67523,
+    "lon": 6.98611,
+    "aspect": "N",
+    "altMax": 3486,
+    "facts": {
+      "difficolta": "BSA",
+      "partenza": 2489,
+      "vetta": 3486,
+      "dislivello": 1000,
+      "esposizione": "N",
+      "tipologia": "Ghiacciaio",
+      "localita_partenza": "La Thuile",
+      "come_arrivare": "Da La Thuile si sale a piedi o con le pelli lungo la valle del Rutor, oltre le cascate, fino al Rifugio Deffeyes: tre o quattro ore, di solito il giorno prima."
+    },
+    "sections": {
+      "descrizione": "Una delle grandi classiche dello scialpinismo valdostano: dal Rifugio Alberto Deffeyes (circa 2.500 m) si risale il vasto ghiacciaio del Rutor fino alla Testa del Rutor, la cima più alta del gruppo, a quasi 3.500 metri. Il percorso è lungo ma poco ripido per gran parte della salita, con un ultimo tratto più ripido sulla cresta finale.\n\nIl rifugio si raggiunge da La Thuile risalendo la valle del torrente Rutor lungo le cascate: a piedi o con le pelli secondo l'innevamento, contate tre o quattro ore con lo zaino da due giorni. Quasi tutti salgono il giorno prima e dormono al rifugio; chi ha gamba fa tutto in giornata partendo con le frontali.\n\nDal rifugio si sale verso sud per pendii morenici fino alla fronte del ghiacciaio, poi lungo il ghiacciaio con pendenze regolari, aggirando la zona crepacciata sotto la spalla. L'ultimo tratto, sulla cresta che porta alla vetta, è spesso ghiacciato: servono rampanti e a volte qualche passo a piedi. In cima il panorama si apre su tutta la catena del Monte Bianco.\n\nLa discesa segue la via di salita fino al rifugio e poi la valle fino a La Thuile: quasi duemila metri di dislivello, con la parte bassa spesso a piedi a fine stagione.",
+      "note": "Gita su ghiacciaio: corda, imbragatura, materiale da autosoccorso in crepaccio, ramponi e piccozza oltre a ARTVA, pala e sonda. Consultare il bollettino valanghe prima di partire.\n\nStagione da febbraio a giugno, la migliore in primavera con neve trasformata: partire presto per salire su neve portante e scendere sul firn prima che molli. Il rifugio è gestito in primavera; fuori stagione è aperto il locale invernale."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-03-05",
+        "words": "Prima gita della stagione. Saliti da La Thuile con gli sci in spalla per il primo tratto, poi pelli fino al rifugio: quasi quattro ore con lo zaino pesante. Al rifugio ancora poca gente."
+      },
+      {
+        "observedAt": "2022-03-06",
+        "words": "Domenica in vetta con cielo pulito. Ghiacciaio in buone condizioni ma ci siamo legati lo stesso, i crepacci sotto la seraccata si intuiscono anche con tanta neve. Dalla cima il Monte Bianco sembrava a un passo."
+      },
+      {
+        "observedAt": "2022-03-16",
+        "words": "Giro in giornata, mercoledì, partiti da La Thuile alle cinque con le frontali. Al rifugio alle otto e mezza, in cima alle dodici. Lungo ma fattibile se si ha gamba. Neve dura in salita, ottima in discesa nella parte alta."
+      },
+      {
+        "observedAt": "2022-03-26",
+        "words": "Rifugio pieno, sabato sera cena in due turni. Gestori gentilissimi, si mangia bene e si dorme stretti. Portatevi i tappi per le orecchie."
+      },
+      {
+        "observedAt": "2022-04-02",
+        "words": "Vento fortissimo sull'ultima cresta, abbiamo tolto le pelli dietro un sasso e siamo scesi senza neanche fare la foto in cima. Sotto, sul ghiacciaio, era tutta un'altra giornata."
+      },
+      {
+        "observedAt": "2022-04-09",
+        "words": "Sulla cresta finale servono i rampanti, il pendio è ghiacciato fino a tardi. Noi li avevamo, la cordata davanti no e ha dovuto fare la traccia a piedi."
+      },
+      {
+        "observedAt": "2022-04-23",
+        "words": "Arrivando sul ghiacciaio si vede bene quanto si è ritirata la fronte: dove anni fa si entrava direttamente sul ghiaccio ora c'è un tratto di placche e morena da attraversare. Con poca neve occhio ai sassi."
+      },
+      {
+        "observedAt": "2022-04-24",
+        "words": "Partiti alle sei dal rifugio, in cima alle nove e mezza, giù con il firn perfetto. Chi è partito alle otto ha trovato la neve già marcia sotto i 2800."
+      },
+      {
+        "observedAt": "2022-05-04",
+        "words": "Mercoledì quasi da soli sul ghiacciaio, solo due cordate. Discesa fino a La Thuile su neve primaverile, gli ultimi trecento metri a piedi perché il sentiero era pulito."
+      },
+      {
+        "observedAt": "2022-05-14",
+        "words": "Caldo. Ponti di neve sui crepacci già molli alle undici, abbiamo fatto attenzione a passare in fila e legati. Vista enorme su tutta la catena del Bianco."
+      },
+      {
+        "observedAt": "2022-05-17",
+        "words": "Stambecchi a due passi dal rifugio la mattina presto, per niente spaventati. Poi gita classica, niente di speciale da segnalare."
+      },
+      {
+        "observedAt": "2023-02-25",
+        "words": "Fine febbraio, rifugio chiuso, abbiamo dormito nel locale invernale. Freddo cane ma neve farinosa in alto, bellissima. Ci siamo fatti tutta la salita da La Thuile il giorno prima, sentiero battuto fino alle cascate e poi traccia nostra."
+      },
+      {
+        "observedAt": "2023-03-11",
+        "words": "Al rifugio ci hanno detto che quest'estate partono i lavori: rifacimento del tetto e delle camerate. In primavera dovrebbe restare aperto normalmente."
+      },
+      {
+        "observedAt": "2023-03-12",
+        "words": "Domenica nebbia a 3000 metri, sul ghiacciaio non si vedeva niente e siamo tornati indietro con il GPS. Meglio così che girare in tondo tra i crepacci."
+      },
+      {
+        "observedAt": "2023-03-22",
+        "words": "Giornata infrasettimanale perfetta. Salita regolare, il ghiacciaio sale piano e lungo, la cima arriva quando non ci speri più. In vetta un po' d'aria fredda ma niente di che."
+      },
+      {
+        "observedAt": "2023-04-01",
+        "words": "Tantissima gente, al rifugio esaurito da settimane, sul ghiacciaio una processione di cordate. Bello ma se cercate tranquillità venite in settimana."
+      },
+      {
+        "observedAt": "2023-04-15",
+        "words": "Prima volta su un ghiacciaio per me, con due amici esperti. Mi hanno insegnato a legarmi e a tenere la corda tesa. Emozione grande in cima davanti al Bianco e alle Grandes Jorasses."
+      },
+      {
+        "observedAt": "2023-04-16",
+        "words": "Rampanti indispensabili da 3300 in su. Poi la discesa: dalla vetta a La Thuile sono quasi duemila metri, alla fine le gambe non c'erano più."
+      },
+      {
+        "observedAt": "2023-04-28",
+        "words": "Venerdì, ponte. Neve trasformata, partenza alle sei e rientro al rifugio per un caffè alle dieci e mezza. La fronte del ghiacciaio ancora più indietro rispetto all'anno scorso."
+      },
+      {
+        "observedAt": "2023-05-09",
+        "words": "Pelli che non tenevano più sulla neve bagnata, ho fatto metà della salita con la cera in mano. Da cambiare."
+      },
+      {
+        "observedAt": "2023-05-20",
+        "words": "Neve poca per la stagione, discesa con gli sci fino a circa 2000 metri, poi tutto a piedi lungo le cascate. Il sentiero al rifugio comunque bello, si fa volentieri anche con gli sci sullo zaino."
+      },
+      {
+        "observedAt": "2023-06-03",
+        "words": "Ultima gita dell'anno. Crepacci ben aperti sopra i 3100, abbiamo dovuto fare un giro largo verso destra. A giugno legarsi non è un consiglio, è obbligatorio."
+      },
+      {
+        "observedAt": "2024-02-17",
+        "words": "Locale invernale pulito e con coperte, grazie a chi lo tiene in ordine. Fuori i ponteggi dei lavori ancora montati, coperti di neve."
+      },
+      {
+        "observedAt": "2024-03-09",
+        "words": "Il rifugio riapre rinnovato: camerate nuove, bagni nuovi, una sala da pranzo più grande. Si sta molto meglio di prima."
+      },
+      {
+        "observedAt": "2024-03-10",
+        "words": "In vetta vento teso da nord, mani gelate nel cambio assetto. Il panorama sul Monte Bianco però valeva tutto il freddo."
+      },
+      {
+        "observedAt": "2024-03-20",
+        "words": "Mercoledì con un amico, da La Thuile e ritorno in giornata. Al rifugio alle nove, in cima a mezzogiorno, giù per le tre. Lunga ma regolare."
+      },
+      {
+        "observedAt": "2024-04-06",
+        "words": "Attenzione: la traccia ormai non entra più sul ghiacciaio dal solito punto, le placche lisciate alla fronte sono scoperte e si passa più a sinistra, su un pendio ripido sopra la morena. Con neve dura si sale meglio a piedi."
+      },
+      {
+        "observedAt": "2024-04-07",
+        "words": "Domenica di folla ma tutti tranquilli. Partiti presto per non trovarci in coda sulla cresta, alle sette eravamo già sul ghiacciaio."
+      },
+      {
+        "observedAt": "2024-04-18",
+        "words": "Giovedì, quasi deserto. Cresta finale in neve dura, rampanti e qualche passo con gli sci sullo zaino per gli ultimi metri. Vetta tutta per noi."
+      },
+      {
+        "observedAt": "2024-04-27",
+        "words": "Sabato sera al rifugio nuovo: cena ottima, si dorme bene. Sotto il rifugio nessun campo per il telefono, avvisate a casa prima di partire."
+      },
+      {
+        "observedAt": "2024-04-28",
+        "words": "Il nuovo ingresso sul ghiacciaio a sinistra della fronte è segnato da una traccia evidente. Poi tutto liscio fino in cima, firn da manuale in discesa se scendi entro le undici."
+      },
+      {
+        "observedAt": "2024-05-11",
+        "words": "Crepaccio largo sotto la spalla finale, aperto già a metà maggio. Si aggira bene ma da legati."
+      },
+      {
+        "observedAt": "2024-05-29",
+        "words": "Discesa lunghissima ma divertente, neve buona fino al rifugio, poi pappa fino a 2100 e a piedi lungo il sentiero delle cascate."
+      },
+      {
+        "observedAt": "2025-02-22",
+        "words": "Febbraio freddo e ventoso. In cima non ci si stava, raffiche da far perdere l'equilibrio. Giù subito."
+      },
+      {
+        "observedAt": "2025-03-08",
+        "words": "Rifugio aperto da poco, solita accoglienza. Neve abbondante, i crepacci quest'anno sono ben coperti ma la corda resta nello zaino solo per i matti."
+      },
+      {
+        "observedAt": "2025-03-19",
+        "words": "Mercoledì, festa del papà con mio padre. Salita al rifugio lunga ma lui ha tenuto il passo meglio di me. Vista sul Monte Bianco da togliere il fiato."
+      },
+      {
+        "observedAt": "2025-04-05",
+        "words": "Tanta gente, sabato. Code anche al cambio pelli in vetta, si aspettava il proprio turno per scendere dalla cresta."
+      },
+      {
+        "observedAt": "2025-04-12",
+        "words": "Sul sentiero di salita, poco sopra le cascate, è venuta giù una frana: il tracciato estivo è interrotto e si passa su una traccia provvisoria più a destra, ripida e stretta. Con gli sci in spalla serve attenzione."
+      },
+      {
+        "observedAt": "2025-04-13",
+        "words": "Domenica partiti col buio, alle cinque e mezza. Sulla cresta i rampanti hanno fatto la differenza, neve vetrata fino alle nove."
+      },
+      {
+        "observedAt": "2025-04-24",
+        "words": "Ponte del 25, giovedì. Passaggio della frana sopra le cascate ancora sulla traccia provvisoria, si fa ma con calma. In alto neve perfetta."
+      },
+      {
+        "observedAt": "2025-05-10",
+        "words": "Ghiacciaio sempre più magro, si vedono crepacci dove l'anno scorso c'era solo neve. Noi in quattro, corda da 50 metri e due viti a testa."
+      },
+      {
+        "observedAt": "2025-05-31",
+        "words": "Fine maggio, sci ai piedi solo dal rifugio in su. Dalla cima a La Thuile è una bella faticata, metà a piedi."
+      },
+      {
+        "observedAt": "2026-02-21",
+        "words": "Locale invernale e cielo stellato. In vetta il giorno dopo nemmeno un filo d'aria, cosa rara da queste parti."
+      },
+      {
+        "observedAt": "2026-03-14",
+        "words": "Il sentiero dopo la frana adesso ha una variante segnata con paline e bolli nuovi, più lunga di dieci minuti ma sicura. Bel lavoro."
+      },
+      {
+        "observedAt": "2026-03-25",
+        "words": "Mercoledì di sole. Neve dura fino alle dieci, poi trasforma. Sopra la seraccata il solito tratto crepacciato, ben visibile."
+      },
+      {
+        "observedAt": "2026-04-04",
+        "words": "Pasqua al rifugio, tutto esaurito. Per entrare sul ghiacciaio si passa ormai a sinistra della fronte, sulla traccia degli ultimi anni."
+      },
+      {
+        "observedAt": "2026-04-19",
+        "words": "Vetta con vento gelido ma vista pazzesca: Monte Bianco, Grandes Jorasses, il Cervino in fondo. Poi discesa infinita fino alla macchina."
+      },
+      {
+        "observedAt": "2026-05-09",
+        "words": "Primavera tardiva, neve ancora fino a La Thuile quasi. Rampanti sull'ultimo pendio, come sempre."
+      },
+      {
+        "observedAt": "2026-05-21",
+        "words": "Giovedì, due cordate in tutto. Variante del sentiero ormai battuta, ghiacciaio con crepacci aperti nella parte alta, si passa bene da legati."
+      },
+      {
+        "observedAt": "2026-06-06",
+        "words": "Ultimo giro di stagione, sci in spalla fino a 2400. In alto ancora neve buona la mattina presto."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita al rifugio",
+          "quote": "quasi quattro ore con lo zaino pesante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ghiacciaio crepacciato",
+          "quote": "ci siamo legati lo stesso"
+        },
+        {
+          "label": "Vista sul Monte Bianco",
+          "quote": "il Monte Bianco sembrava a un passo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partire presto",
+          "quote": "partiti da La Thuile alle cinque con le frontali"
+        },
+        {
+          "label": "Discesa lunga",
+          "quote": "Lungo ma fattibile se si ha gamba"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Notte al rifugio",
+          "quote": "sabato sera cena in due turni"
+        },
+        {
+          "label": "Affollato in primavera",
+          "quote": "Rifugio pieno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento in vetta",
+          "quote": "Vento fortissimo sull'ultima cresta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rampanti sulla cresta finale",
+          "quote": "Sulla cresta finale servono i rampanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Fronte del ghiacciaio in ritiro",
+          "kind": "attenzione",
+          "quote": "dove anni fa si entrava direttamente sul ghiaccio ora c'è un tratto di placche e morena da attraversare"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Partire presto",
+          "quote": "Chi è partito alle otto ha trovato la neve già marcia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "gli ultimi trecento metri a piedi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ghiacciaio crepacciato",
+          "quote": "Ponti di neve sui crepacci già molli alle undici"
+        },
+        {
+          "label": "Vista sul Monte Bianco",
+          "quote": "Vista enorme su tutta la catena del Bianco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi al rifugio",
+          "quote": "Stambecchi a due passi dal rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Notte al rifugio",
+          "quote": "abbiamo dormito nel locale invernale"
+        },
+        {
+          "label": "Salita al rifugio",
+          "quote": "Ci siamo fatti tutta la salita da La Thuile il giorno prima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Lavori al rifugio",
+          "kind": "novita",
+          "quote": "quest'estate partono i lavori: rifacimento del tetto e delle camerate"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sul ghiacciaio",
+          "quote": "sul ghiacciaio non si vedeva niente"
+        },
+        {
+          "label": "Ghiacciaio crepacciato",
+          "quote": "girare in tondo tra i crepacci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento in vetta",
+          "quote": "In vetta un po' d'aria fredda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollato in primavera",
+          "quote": "sul ghiacciaio una processione di cordate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Prima volta su ghiacciaio",
+          "quote": "Prima volta su un ghiacciaio per me"
+        },
+        {
+          "label": "Ghiacciaio crepacciato",
+          "quote": "Mi hanno insegnato a legarmi"
+        },
+        {
+          "label": "Vista sul Monte Bianco",
+          "quote": "davanti al Bianco e alle Grandes Jorasses"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rampanti sulla cresta finale",
+          "quote": "Rampanti indispensabili da 3300 in su"
+        },
+        {
+          "label": "Discesa lunga",
+          "quote": "alla fine le gambe non c'erano più"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partire presto",
+          "quote": "partenza alle sei"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Fronte del ghiacciaio in ritiro",
+          "kind": "attenzione",
+          "quote": "La fronte del ghiacciaio ancora più indietro rispetto all'anno scorso"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pelli che non tengono",
+          "quote": "Pelli che non tenevano più sulla neve bagnata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "poi tutto a piedi lungo le cascate"
+        },
+        {
+          "label": "Salita al rifugio",
+          "quote": "si fa volentieri anche con gli sci sullo zaino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ghiacciaio crepacciato",
+          "quote": "Crepacci ben aperti sopra i 3100"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Notte al rifugio",
+          "quote": "Locale invernale pulito e con coperte"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Lavori al rifugio",
+          "kind": "novita",
+          "quote": "i ponteggi dei lavori ancora montati"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Notte al rifugio",
+          "quote": "Si sta molto meglio di prima"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Rifugio ristrutturato",
+          "kind": "novita",
+          "quote": "camerate nuove, bagni nuovi, una sala da pranzo più grande"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento in vetta",
+          "quote": "vento teso da nord, mani gelate nel cambio assetto"
+        },
+        {
+          "label": "Vista sul Monte Bianco",
+          "quote": "Il panorama sul Monte Bianco però valeva tutto il freddo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "giù per le tre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ingresso sul ghiacciaio spostato",
+          "kind": "attenzione",
+          "quote": "la traccia ormai non entra più sul ghiacciaio dal solito punto"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollato in primavera",
+          "quote": "Domenica di folla"
+        },
+        {
+          "label": "Partire presto",
+          "quote": "alle sette eravamo già sul ghiacciaio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rampanti sulla cresta finale",
+          "quote": "Cresta finale in neve dura, rampanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Notte al rifugio",
+          "quote": "cena ottima, si dorme bene"
+        },
+        {
+          "label": "Rifugio senza campo",
+          "quote": "nessun campo per il telefono"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partire presto",
+          "quote": "firn da manuale in discesa se scendi entro le undici"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Ingresso sul ghiacciaio spostato",
+          "kind": "attenzione",
+          "quote": "Il nuovo ingresso sul ghiacciaio a sinistra della fronte"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Ghiacciaio crepacciato",
+          "quote": "Si aggira bene ma da legati"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "Discesa lunghissima ma divertente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento in vetta",
+          "quote": "raffiche da far perdere l'equilibrio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ghiacciaio crepacciato",
+          "quote": "la corda resta nello zaino solo per i matti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita al rifugio",
+          "quote": "Salita al rifugio lunga"
+        },
+        {
+          "label": "Vista sul Monte Bianco",
+          "quote": "Vista sul Monte Bianco da togliere il fiato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollato in primavera",
+          "quote": "Code anche al cambio pelli in vetta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana sul sentiero di salita",
+          "kind": "attenzione",
+          "quote": "è venuta giù una frana: il tracciato estivo è interrotto"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Partire presto",
+          "quote": "partiti col buio, alle cinque e mezza"
+        },
+        {
+          "label": "Rampanti sulla cresta finale",
+          "quote": "Sulla cresta i rampanti hanno fatto la differenza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana sul sentiero di salita",
+          "kind": "attenzione",
+          "quote": "Passaggio della frana sopra le cascate ancora sulla traccia provvisoria"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Ghiacciaio crepacciato",
+          "quote": "si vedono crepacci dove l'anno scorso c'era solo neve"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "Dalla cima a La Thuile è una bella faticata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Notte al rifugio",
+          "quote": "Locale invernale e cielo stellato"
+        },
+        {
+          "label": "Vento in vetta",
+          "quote": "nemmeno un filo d'aria, cosa rara da queste parti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita al rifugio",
+          "quote": "più lunga di dieci minuti ma sicura"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Nuova variante segnalata",
+          "kind": "novita",
+          "quote": "una variante segnata con paline e bolli nuovi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Partire presto",
+          "quote": "Neve dura fino alle dieci, poi trasforma"
+        },
+        {
+          "label": "Ghiacciaio crepacciato",
+          "quote": "il solito tratto crepacciato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollato in primavera",
+          "quote": "Pasqua al rifugio, tutto esaurito"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Ingresso sul ghiacciaio spostato",
+          "kind": "attenzione",
+          "quote": "si passa ormai a sinistra della fronte"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento in vetta",
+          "quote": "Vetta con vento gelido"
+        },
+        {
+          "label": "Vista sul Monte Bianco",
+          "quote": "Monte Bianco, Grandes Jorasses, il Cervino in fondo"
+        },
+        {
+          "label": "Discesa lunga",
+          "quote": "discesa infinita fino alla macchina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rampanti sulla cresta finale",
+          "quote": "Rampanti sull'ultimo pendio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ghiacciaio crepacciato",
+          "quote": "crepacci aperti nella parte alta"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Nuova variante segnalata",
+          "kind": "novita",
+          "quote": "Variante del sentiero ormai battuta"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

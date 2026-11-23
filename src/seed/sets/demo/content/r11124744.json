@@ -1,0 +1,266 @@
+{
+  "osm": "r11124744",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-red-r140",
+    "activity": "escursionismo",
+    "place": "comune-004248",
+    "name": "Via Alpina Red R140",
+    "lat": 44.23159,
+    "lon": 7.1056,
+    "facts": {
+      "difficolta": "E",
+      "localita_partenza": "Sant'Anna di Vinadio",
+      "come_arrivare": "Il Santuario di Sant'Anna di Vinadio si raggiunge in auto dalla Val Stura per una strada di montagna che d'estate è molto frequentata. Il rifugio all'arrivo non è collegato da servizi regolari: per rientrare serve un secondo mezzo o un taxi."
+    },
+    "sections": {
+      "descrizione": "Tappa di alta quota della Via Alpina Rossa, nelle Alpi Marittime: dal Santuario di Sant'Anna di Vinadio al Rifugio Malinvern. Si cammina per ore in un ambiente di rocce chiare e laghi, tra le valli del Vinadio e dell'Argentera, con diversi valichi da superare.\n\nIl tracciato sale dal santuario con un sentiero ben visibile e attraversa una successione di conche glaciali con laghetti di acqua verde e blu. Il tratto più impegnativo è la parte mediana, una lunga traversata su pietraie e cengie larghe, che richiede passo fermo. La discesa verso Malinvern è meno ripida di quanto sembri dall'alto.\n\nSi fa da luglio a settembre; a inizio stagione la neve è presente in alcuni versanti. Il tempo cambia in fretta e in caso di nebbia i segni vanno cercati con attenzione. Non c'è acqua sicura lungo il percorso se non nei laghi."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "A inizio luglio c'era ancora neve nei canaloni più in ombra, ma il tracciato era ben calpestato. Nei canaloni la neve era ancora dura al mattino."
+      },
+      {
+        "observedAt": "2022-07-30",
+        "words": "Una bellezza che non mi aspettavo. I laghetti in fila uno dopo l'altro, ognuno di un colore diverso, sono la ricompensa della fatica."
+      },
+      {
+        "observedAt": "2022-08-17",
+        "words": "Mercoledì dopo Ferragosto, nessuno al valico. Un lungo tratto di pietraie dove bisogna guardare dove si mettono i piedi ha richiesto concentrazione."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Giornata di sole e vento freddo. Una nebbia improvvisa ha coperto il secondo valico e abbiamo cercato i segni uno ad uno."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Tutto asciutto, aria limpida. Le marmotte fischiavano ovunque e una si è messa in posa per le foto."
+      },
+      {
+        "observedAt": "2023-07-02",
+        "words": "A giugno le piogge avevano portato giù il sentiero in un punto della traversata. La neve ammorbidita sul versante nord ci ha obbligati a un giro largo."
+      },
+      {
+        "observedAt": "2023-07-23",
+        "words": "Giornata lunghissima, tredici ore con le soste. Fra salite, discese e pietraie è una tappa che toglie le forze."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Notte al santuario e partenza alle sei, perfetto per i temporali che qui scoppiano dopo le due. Alle due già tuonava dietro le cime."
+      },
+      {
+        "observedAt": "2023-09-06",
+        "words": "Mercoledì fuori stagione, tutto per noi. L'acqua dei laghi è così limpida che si vedono i sassi sul fondo."
+      },
+      {
+        "observedAt": "2023-09-27",
+        "words": "Giornata nuvolosa con schiarite. Dal valico si vedeva solo il bianco e abbiamo atteso mezz'ora che salisse."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Una tappa da fare con il sole. Il fondo di pietre mobili richiede bastoncini e scarponi alti."
+      },
+      {
+        "observedAt": "2024-08-04",
+        "words": "Il rifugio a fine giornata ci ha accolti con una zuppa e un letto. Al rifugio ci hanno trattati da amici di lunga data."
+      },
+      {
+        "observedAt": "2024-08-23",
+        "words": "Venerdì lavorativo a perdersi tra i laghi. Un paio di segnavia nella traversata sono spariti dopo l'inverno, e si deve intuire il tracciato."
+      },
+      {
+        "observedAt": "2024-09-15",
+        "words": "I segni mancanti sono stati rifatti, adesso ogni cento metri c'è un segno nuovo sulle rocce e la traccia si trova senza difficoltà."
+      },
+      {
+        "observedAt": "2024-09-29",
+        "words": "Camosci sul lago, poco prima del tramonto. Un branco di camosci a dissetarsi, silenziosi, a venti metri."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Tappa che faccio ogni estate da quando l'ho scoperta. Marmotte ovunque nei pascoli iniziali e un cielo che non cambia."
+      },
+      {
+        "observedAt": "2025-08-06",
+        "words": "Giorno infrasettimanale, tre ore senza vedere nessuno. Tappa lunga ma mai pericolosa se si parte alla mattina presto."
+      },
+      {
+        "observedAt": "2025-09-14",
+        "words": "Primi accenni d'autunno, ginestre e larici ingialliti. I laghi alti sono fantastici in questa luce bassa."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Nei canaloni la neve era ancora dura al mattino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Laghi alti color smeraldo",
+          "quote": "I laghetti in fila uno dopo l'altro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie e sfasciumi",
+          "quote": "Un lungo tratto di pietraie dove bisogna guardare dove si mettono i piedi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sui valichi",
+          "quote": "Una nebbia improvvisa ha coperto il secondo valico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte nei pascoli",
+          "quote": "Le marmotte fischiavano ovunque"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "La neve ammorbidita sul versante nord"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e faticosa",
+          "quote": "Fra salite, discese e pietraie è una tappa che toglie le forze"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Alle due già tuonava dietro le cime"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Laghi alti color smeraldo",
+          "quote": "L'acqua dei laghi è così limpida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sui valichi",
+          "quote": "Dal valico si vedeva solo il bianco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie e sfasciumi",
+          "quote": "Il fondo di pietre mobili"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Malinvern accogliente",
+          "quote": "Al rifugio ci hanno trattati da amici di lunga data"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnaletica mancante in un passaggio",
+          "kind": "attenzione",
+          "quote": "Un paio di segnavia nella traversata sono spariti dopo l'inverno"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnavia rifatti nella traversata",
+          "kind": "novita",
+          "quote": "ogni cento metri c'è un segno nuovo sulle rocce"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Camosci vicino ai laghi",
+          "quote": "Un branco di camosci a dissetarsi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte nei pascoli",
+          "quote": "Marmotte ovunque nei pascoli iniziali"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga e faticosa",
+          "quote": "Tappa lunga ma mai pericolosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Laghi alti color smeraldo",
+          "quote": "I laghi alti sono fantastici"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

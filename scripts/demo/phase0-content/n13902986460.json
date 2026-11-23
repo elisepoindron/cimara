@@ -1,0 +1,36 @@
+{
+  "osm": "n13902986460",
+  "invented": ["avvicinamento", "vie", "note", "parcheggio_nota"],
+  "itinerary": {
+    "key": "paretina",
+    "activity": "falesia",
+    "place": "comune-007034",
+    "name": "Paretina",
+    "lat": 45.62258,
+    "lon": 7.70906,
+    "aspect": "S",
+    "altMax": 1489,
+    "facts": {
+      "esposizione": "S",
+      "quota_base": 1489,
+      "avvicinamento": 25,
+      "localita_partenza": "Hône",
+      "parcheggio_nota": "Spazio ridotto sul bordo della strada, lasciare libero il passaggio."
+    },
+    "sections": {
+      "note": "Parete di roccia grigia con diedri, fessure e qualche placca. Sette vie, dal 5a al 7a, lunghe tra i venti e i ventotto metri.\n\nEsposta a sud: prende il sole per gran parte della giornata, quindi d'inverno è la falesia da scegliere. D'estate il pomeriggio è caldo, meglio partire presto.\n\nI chiodi sono a fix inox, le soste ad anelli. Portare i rinvii e una corda da 60.",
+      "avvicinamento": "Venticinque minuti a piedi dal bordo della strada, su un sentiero che sale nel bosco fino alla base."
+    },
+    "parts": [
+      { "group": "Parete", "fields": { "nome": "Sasso bianco", "grado": "5a", "lunghezza": 20 } },
+      { "group": "Parete", "fields": { "nome": "Diedro della nonna", "grado": "5c", "lunghezza": 22 } },
+      { "group": "Parete", "fields": { "nome": "Fessura buia", "grado": "6a", "lunghezza": 24 } },
+      { "group": "Parete", "fields": { "nome": "Placca sottile", "grado": "6b+", "lunghezza": 22 } },
+      { "group": "Pilastro", "fields": { "nome": "Il pilastro", "grado": "6a+", "lunghezza": 26 } },
+      { "group": "Pilastro", "fields": { "nome": "Spigolo di marzo", "grado": "6c", "lunghezza": 24 } },
+      { "group": "Pilastro", "fields": { "nome": "Ultima luce", "grado": "7a", "lunghezza": 28 } }
+    ],
+    "reports": [],
+    "readings": []
+  }
+}

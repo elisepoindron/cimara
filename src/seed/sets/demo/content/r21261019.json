@@ -1,0 +1,559 @@
+{
+  "osm": "r21261019",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "parcheggio_nota",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "valle-dell-orco",
+    "activity": "falesia",
+    "place": "comune-001134",
+    "name": "Valle dell'Orco",
+    "lat": 45.43591,
+    "lon": 7.41149,
+    "aspect": "SE",
+    "altMax": 903,
+    "facts": {
+      "esposizione": "SE",
+      "quota_base": 903,
+      "avvicinamento": 15,
+      "localita_partenza": "Locana",
+      "parcheggio_nota": "Si parcheggia negli slarghi lungo la strada della valle; nei weekend di primavera ne servono più di uno e si finisce a camminare."
+    },
+    "sections": {
+      "note": "Il fondovalle della Valle dell'Orco è una raccolta di placche e pareti di granito a quota 900 metri, sul versante esposto a sud-est. Qui sono descritti i settori più frequentati per l'arrampicata sportiva: placche tecniche, fessure e muri compatti, con vie da 5a a 7b e lunghezze fra i 15 e i 40 metri. In zona ci sono anche vie a più tiri, vie tradizionali e blocchi.\n\nIl granito è a grana fine, ruvido, molto buono: si scala di aderenza e di precisione, con poche prese nette. Le fessure hanno bisogno di friend, mentre le vie spittate sono in genere ben protette, con qualche passo da non sbagliare sulle placche alte. Il sole arriva presto al mattino e c'è fino al primo pomeriggio.\n\nLe stagioni migliori sono la primavera e l'autunno; d'estate ci si sposta in alto o all'ombra, d'inverno nelle giornate serene si sta bene al sole. I settori sono sparsi lungo la strada: questa è una selezione di quelli sportivi, ce ne sono altri sulle pareti più alte.",
+      "avvicinamento": "Dal fondovalle si lascia l'auto in uno degli slarghi e si seguono i sentieri che salgono nel bosco di latifoglie fino alle pareti. Dalla Placca Bassa si impiega un quarto d'ora, mentre alla Parete Alta serve mezz'ora di salita ripida; i sentieri sono ben battuti ma scivolosi con le foglie."
+    },
+    "parts": [
+      {
+        "group": "Placca Bassa",
+        "fields": {
+          "nome": "Primo Granito",
+          "grado": "4b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Placca Bassa",
+        "fields": {
+          "nome": "Domenica in Valle",
+          "grado": "4c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Placca Bassa",
+        "fields": {
+          "nome": "Scivolo Facile",
+          "grado": "5a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Placca Bassa",
+        "fields": {
+          "nome": "Il Trasloco",
+          "grado": "5a+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Placca Bassa",
+        "fields": {
+          "nome": "Mani in Tasca",
+          "grado": "5b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Placca Bassa",
+        "fields": {
+          "nome": "Granito No Grazie",
+          "grado": "5b+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Placca Bassa",
+        "fields": {
+          "nome": "Cuore di Roccia",
+          "grado": "5c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro Grigio",
+        "fields": {
+          "nome": "Via della Lepre",
+          "grado": "5c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro Grigio",
+        "fields": {
+          "nome": "Placca Maledetta",
+          "grado": "6a",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Muro Grigio",
+        "fields": {
+          "nome": "Tre Pini",
+          "grado": "6a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro Grigio",
+        "fields": {
+          "nome": "Il Riccio",
+          "grado": "6a+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Muro Grigio",
+        "fields": {
+          "nome": "Frutti di Bosco",
+          "grado": "6a+",
+          "lunghezza": 27
+        }
+      },
+      {
+        "group": "Muro Grigio",
+        "fields": {
+          "nome": "Nebbia Fitta",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Muro Grigio",
+        "fields": {
+          "nome": "La Cinghialessa",
+          "grado": "6b",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Muro Grigio",
+        "fields": {
+          "nome": "Fredda Mattina",
+          "grado": "6b+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Fessura del Pino",
+        "fields": {
+          "nome": "Fessura Facile",
+          "grado": "5b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Fessura del Pino",
+        "fields": {
+          "nome": "Il Pettine",
+          "grado": "5c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Fessura del Pino",
+        "fields": {
+          "nome": "Dolce Furia",
+          "grado": "6a+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Fessura del Pino",
+        "fields": {
+          "nome": "Inverno Lungo",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Fessura del Pino",
+        "fields": {
+          "nome": "Sbuffo",
+          "grado": "6c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Parete Alta",
+        "fields": {
+          "nome": "Sguardo in Giù",
+          "grado": "6c",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Parete Alta",
+        "fields": {
+          "nome": "Rosso Fuoco",
+          "grado": "6c+",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Parete Alta",
+        "fields": {
+          "nome": "Vertigine Cortese",
+          "grado": "7a",
+          "lunghezza": 38
+        }
+      },
+      {
+        "group": "Parete Alta",
+        "fields": {
+          "nome": "Muro del Pianto",
+          "grado": "7a+",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Parete Alta",
+        "fields": {
+          "nome": "L'Ultimo Tiro",
+          "grado": "7b",
+          "lunghezza": 40
+        }
+      },
+      {
+        "group": "Parete Alta",
+        "fields": {
+          "nome": "Come Una Rosa",
+          "grado": "6b+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Parete Alta",
+        "fields": {
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-19",
+        "words": "Prima uscita primaverile in valle. Sole sul fondo dalle nove e roccia asciutta, un po' fredda alle dita. Sulla Placca Bassa abbiamo fatto sei vie senza problemi: il granito è ruvido ma generoso."
+      },
+      {
+        "observedAt": "2022-04-23",
+        "words": "Sabato di aprile con una folla da primavera. Parcheggio a un chilometro dalla placca, ma si cammina in mezzo ai fiori. Il muro grigio è bellissimo, i gradi sono onesti."
+      },
+      {
+        "observedAt": "2022-05-18",
+        "words": "Mercoledì, siamo quasi soli. La Fessura del Pino richiede friend piccoli: il 6a+ si può proteggere bene ma serve occhio. Il bosco in questo periodo è verdissimo e tutto cinguetta."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Fine settembre, giornata tersa. Granito a temperatura giusta, appena fresco, e quasi tutti i tiri puliti dalle foglie. Abbiamo fatto la Parete Alta, salita ripida ma ne vale la pena."
+      },
+      {
+        "observedAt": "2022-10-29",
+        "words": "Giornata di ottobre piena di colori: larici gialli, cielo blu, vento zero. Il granito è fantastico per l'aderenza. Gruppo di scout alla base, ma ci siamo ritagliati i nostri tiri."
+      },
+      {
+        "observedAt": "2023-03-04",
+        "words": "Primo sole serio dopo l'inverno. La valle è ancora ghiacciata nei punti in ombra, ma sulle placche esposte a sud-est si scalava in maglietta alle undici. Strada con qualche lastra di ghiaccio."
+      },
+      {
+        "observedAt": "2023-04-15",
+        "words": "Con due amici dal Canavese. Molti tiri puliti di recente: sulla Placca Bassa qualcuno ha spazzolato e cambiato due soste con catene nuove. Si nota la mano di chi tiene la falesia."
+      },
+      {
+        "observedAt": "2023-05-26",
+        "words": "Venerdì pomeriggio libero. Siamo saliti alla Parete Alta passando per il sentiero nuovo, meno ripido del vecchio. Il 7a ha un passo di dita secco subito dopo il tetto, bellissimo."
+      },
+      {
+        "observedAt": "2023-06-17",
+        "words": "Troppo caldo sul fondovalle: dopo mezzogiorno il sole sulle placche era insopportabile. Meglio arrivare presto e finire entro le undici. Birra al ritorno, meritata."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Settembre, finalmente fresco. Sul Muro Grigio il 6b+ Fredda Mattina mi ha messo in croce: placca a tacche invisibili. Parcheggio pieno, abbiamo lasciato l'auto all'imbocco della valle."
+      },
+      {
+        "observedAt": "2023-11-05",
+        "words": "Una delle ultime belle giornate. Sole solo per qualche ora, poi l'ombra dei monti prende la valle. Granito ancora asciutto e roccia fredda: ottimo per i passaggi di forza."
+      },
+      {
+        "observedAt": "2024-03-30",
+        "words": "Pasqua anticipata, valle piena di campeggiatori e di gente con cani. Placca Bassa affollatissima, noi su Muro Grigio più tranquillo. Alcune vie umide dopo la pioggia dei giorni scorsi."
+      },
+      {
+        "observedAt": "2024-04-25",
+        "words": "25 aprile, festa. Giornata splendida, ma code alle partenze dei tiri più facili. Abbiamo fatto la Fessura Facile in apertura: friend numero 1, 2 e 3 bastano. La parete scalda presto."
+      },
+      {
+        "observedAt": "2024-05-22",
+        "words": "Mercoledì, nessuno. Dopo una settimana di pioggia la roccia asciugava lentamente, abbiamo aspettato mezzogiorno. Alla sommità della Placca Bassa un pino è caduto sul sentiero: si passa sotto strisciando."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Quasi autunno. Mattina nebbiosa in valle, poi il sole ha preso tutto. Il Pettine è un 5c di fessura stupendo; ho trovato un'abbondanza di friend lasciati da qualcuno come cordino."
+      },
+      {
+        "observedAt": "2024-10-13",
+        "words": "Ottobre dorato. Io e mia sorella, prima volta in Orco. L'avvicinamento è corto per la Placca Bassa e il tratto di bosco è uno spettacolo. Il granito qui non perdona ma insegna."
+      },
+      {
+        "observedAt": "2025-04-12",
+        "words": "Primavera tardiva, con neve a quota 1500 e vento forte lungo la valle. In falesia comunque stavamo bene perché il versante è riparato dal sole di mattina. Il pino della Placca Bassa è stato tagliato."
+      },
+      {
+        "observedAt": "2025-06-06",
+        "words": "Venerdì di giugno, valle calda ma ancora fresca di mattina. Abbiamo evitato la Parete Alta per il sole e ci siamo fermati sui tiri all'ombra. Fatto Dolce Furia, bellissima, sempre in tensione."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Primo weekend d'autunno. Tante cordate, ma la valle accoglie tutti: nessuna tensione agli attacchi. Giornata luminosa, vento a tratti. Il Muro Grigio è sempre una delizia."
+      },
+      {
+        "observedAt": "2025-10-25",
+        "words": "Giornata di fine ottobre: bosco rosso, granito caldo di giorno e freddo dopo le tre. Ho provato Come Una Rosa, 6b+ che mi pare tosto per il grado ma con spit generosi."
+      },
+      {
+        "observedAt": "2026-03-28",
+        "words": "Primo sabato con il sole forte. Sentiero molto fangoso, scarpe nuove da buttare. La roccia però era perfetta: asciutta e con un po' di calore al mattino. Parcheggio sulla strada pieno."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "Sole sul fondo dalle nove"
+        },
+        {
+          "label": "Granito ruvido",
+          "quote": "il granito è ruvido ma generoso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio sulla strada",
+          "quote": "Parcheggio a un chilometro dalla placca"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "una folla da primavera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "siamo quasi soli"
+        },
+        {
+          "label": "Protezioni veloci da integrare",
+          "quote": "serve occhio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita ripida alla parete alta",
+          "quote": "salita ripida ma ne vale la pena"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Granito ruvido",
+          "quote": "Il granito è fantastico per l'aderenza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "sulle placche esposte a sud-est si scalava in maglietta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Soste cambiate sulla Placca Bassa",
+          "kind": "novita",
+          "quote": "cambiato due soste con catene nuove"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero nuovo alla Parete Alta",
+          "kind": "novita",
+          "quote": "il sentiero nuovo, meno ripido del vecchio"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "il sole sulle placche era insopportabile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio sulla strada",
+          "quote": "abbiamo lasciato l'auto all'imbocco della valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "Sole solo per qualche ora"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "valle piena di campeggiatori"
+        },
+        {
+          "label": "Roccia umida dopo la pioggia",
+          "quote": "Alcune vie umide"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "code alle partenze"
+        },
+        {
+          "label": "Protezioni veloci da integrare",
+          "quote": "friend numero 1, 2 e 3 bastano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "nessuno"
+        },
+        {
+          "label": "Roccia umida dopo la pioggia",
+          "quote": "la roccia asciugava lentamente"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Pino caduto sul sentiero della Placca Bassa",
+          "kind": "attenzione",
+          "quote": "un pino è caduto sul sentiero"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "L'avvicinamento è corto per la Placca Bassa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "il versante è riparato dal sole di mattina"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Pino tagliato sul sentiero della Placca Bassa",
+          "kind": "novita",
+          "quote": "Il pino della Placca Bassa è stato tagliato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Abbiamo evitato la Parete Alta per il sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Tante cordate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura ravvicinata",
+          "quote": "spit generosi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio sulla strada",
+          "quote": "Parcheggio sulla strada pieno"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

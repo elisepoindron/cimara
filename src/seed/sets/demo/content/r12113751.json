@@ -1,0 +1,231 @@
+{
+  "osm": "r12113751",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d26",
+    "activity": "escursionismo",
+    "place": "comune-001134",
+    "name": "Via Alpina Blue D26",
+    "lat": 45.45037,
+    "lon": 7.41025,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 1696,
+      "localita_partenza": "Talosio",
+      "come_arrivare": "Talosio è una frazione della Valle Soana; si raggiunge da Ronco Canavese seguendo la strada che risale la valle, con parcheggi poco ampi nella frazione. L'arrivo a San Lorenzo, nella Valle dell'Orco presso Locana, è in un'altra valle: serve un trasferimento per tornare."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu da Talosio, in Valle Soana, a San Lorenzo, nel territorio di Locana, in Valle dell'Orco. Quasi 16 chilometri con circa 1.700 metri di salita e 1.900 di discesa: una tappa vera, lunga e con un valico alto.\n\nSi sale da Talosio per un sentiero ripido che attraversa boschi di faggio, poi prati d'alpeggio e pietraie fino al colle. Dal colle si scende lunghi chilometri nella Valle dell'Orco, tra frazioni e terrazzamenti, fino a San Lorenzo.\n\nÈ la tappa più impegnativa della zona e richiede partenza all'alba. Il tempo cambia in fretta e l'acqua è scarsa nella parte alta."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Salita ripidissima nei primi due chilometri, poi il sentiero si addolcisce. In totale quasi 1.700 metri di dislivello: bisogna dosarsi bene."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Il colle è sferzato dal vento e coperto di ometti. Siamo scesi subito sul lato Orco e il tempo è cambiato nel giro di un quarto d'ora."
+      },
+      {
+        "observedAt": "2022-09-16",
+        "words": "Giorno infrasettimanale, silenzio assoluto. Ho incontrato una famiglia di camosci con tre piccoli e un cacciatore che saliva con il cane."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Ottobre con le prime nevicate sopra i duemila e nebbia nel pomeriggio. Siamo scesi velocemente a San Lorenzo con i bastoncini ben stretti."
+      },
+      {
+        "observedAt": "2023-06-25",
+        "words": "Nevai ancora presenti vicino al colle, rassodati ma insidiosi nelle ore calde. Abbiamo tagliato direttamente con attenzione."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "La discesa in Valle dell'Orco è lunghissima, con tornanti e radici. All'arrivo avevo male ovunque ma il fiume sotto il ponte era un balsamo."
+      },
+      {
+        "observedAt": "2023-08-31",
+        "words": "Feriale di agosto, sul sentiero solo un trekker francese con lo zaino enorme. Ci siamo scambiati i nomi dei rifugi e delle tappe già fatte."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Pochissima acqua nella parte alta, solo un rigagnolo che ho filtrato. Meglio partire con almeno due litri."
+      },
+      {
+        "observedAt": "2024-06-08",
+        "words": "I segnavia sono stati ridipinti con colori freschi e nel tratto del valico hanno piantato nuovi pali con la freccia direzionale. Con la nebbia fanno la differenza."
+      },
+      {
+        "observedAt": "2024-07-21",
+        "words": "Partenza all'alba da Talosio, aria fresca e quasi nessuna nuvola. Alle undici ero già sul colle e potevo mangiare in pace."
+      },
+      {
+        "observedAt": "2024-08-20",
+        "words": "Giovedì con temporale da mezzogiorno: ho accelerato la discesa e sono arrivato a San Lorenzo bagnato ma contento."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "La frana di fine estate ha tagliato il sentiero poco sotto il colle sul lato Orco, con una traccia nuova aperta nel prato. Si passa, ma attenzione alle pietre mobili."
+      },
+      {
+        "observedAt": "2024-10-27",
+        "words": "Con la traccia nuova sotto il colle si perde una mezz'ora, ma il percorso è segnato bene. I larici a fine mese erano un incendio di colori."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Tappa lunga e bella, col vantaggio che dopo il colle si cammina quasi sempre in discesa. A San Lorenzo ho trovato un bar aperto e una fontana d'acqua fresca."
+      },
+      {
+        "observedAt": "2025-08-31",
+        "words": "La mattina presto era già caldo nel bosco. Più in alto, vento e un cielo bianco: sul colle mi sono fermato appena per una barretta."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Dopo il colle la vista sulla Valle dell'Orco con i versanti verdi è fantastica. Il sentiero in discesa ha qualche tratto smosso ma niente di pericoloso."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita ripida all'inizio",
+          "quote": "Salita ripidissima nei primi due chilometri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento al colle",
+          "quote": "Il colle è sferzato dal vento"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve in quota",
+          "quote": "le prime nevicate sopra i duemila"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve in quota",
+          "quote": "Nevai ancora presenti vicino al colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa molto lunga",
+          "quote": "La discesa in Valle dell'Orco è lunghissima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua nella parte alta",
+          "quote": "Pochissima acqua nella parte alta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnavia e pali nuovi al valico",
+          "kind": "novita",
+          "quote": "I segnavia sono stati ridipinti con colori freschi e nel tratto del valico hanno piantato nuovi pali con la freccia direzionale."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Partenza all'alba",
+          "quote": "Partenza all'alba da Talosio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "temporale da mezzogiorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Traccia nuova dopo la frana",
+          "kind": "attenzione",
+          "quote": "La frana di fine estate ha tagliato il sentiero poco sotto il colle sul lato Orco, con una traccia nuova aperta nel prato."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori d'autunno",
+          "quote": "I larici a fine mese erano un incendio di colori"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa molto lunga",
+          "quote": "dopo il colle si cammina quasi sempre in discesa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento al colle",
+          "quote": "vento e un cielo bianco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama sulla Valle dell'Orco",
+          "quote": "la vista sulla Valle dell'Orco con i versanti verdi"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

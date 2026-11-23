@@ -1,0 +1,903 @@
+{
+  "osm": "n8062483777",
+  "invented": [
+    "grado_obbligatorio",
+    "avvicinamento",
+    "protezione",
+    "localita_partenza",
+    "come_arrivare",
+    "tiri",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-yoghi",
+    "activity": "multipitch",
+    "place": "comune-001073",
+    "name": "Via Yoghi",
+    "lat": 45.44104,
+    "lon": 7.27094,
+    "aspect": "SE",
+    "altMax": 2000,
+    "facts": {
+      "grado_max": "5c",
+      "grado_obbligatorio": "5a",
+      "sviluppo": 450,
+      "tiri": 14,
+      "quota_base": 1621,
+      "esposizione": "SE",
+      "avvicinamento": 30,
+      "protezione": "da_integrare",
+      "localita_partenza": "Ceresole Reale",
+      "come_arrivare": "Da Cuorgnè si risale la Valle dell'Orco fino a Ceresole Reale. Si parcheggia lungo la strada, dove c'è spazio, poco prima del paese."
+    },
+    "sections": {
+      "descrizione": "Lunga via di granito su una parete esposta a sud-est sopra il lago di Ceresole, quattordici tiri per circa 450 metri di sviluppo. Le difficoltà non superano mai il 5c, ma la via è lunga e va presa come una giornata intera.\n\nLa scalata alterna placche di aderenza, dove si sale di piedi su granito compatto, e fessure pulite da incastro, più continue nella seconda metà. Il tiro chiave è il quinto, una placca liscia e delicata; il decimo, una lunga fessura, è il più bello.\n\nNei tiri centrali più appoggiati la linea non è evidente e gli spit sono radi: conviene cercare le fessure piuttosto che le protezioni. Il sole arriva sulla parete presto: d'estate si attacca all'alba, nelle mezze stagioni si sta bene tutto il giorno. Il periodo è da aprile a ottobre.",
+      "discesa": "A piedi, per il sentiero segnato con ometti e bolli gialli che scende a sinistra della parete e riporta all'attacco in circa un'ora; un breve tratto franato sotto la seconda balza è attrezzato con una corda fissa. Si può anche scendere in doppia sulla via, dalle soste attrezzate, ma le calate sono tante e disturbano le cordate che salgono.",
+      "materiale": "Corda da 60 metri (due mezze se si vuole scendere in doppia), dodici rinvii, qualche cordino e casco. Le soste sono a fix con catena, ma lungo i tiri gli spit sono distanti: portare una serie di friend dal piccolo al medio (circa 0.4–2) per le fessure.",
+      "avvicinamento": "Dal parcheggio si segue un sentierino nel bosco e poi una breve pietraia fino alla base della parete, in circa mezz'ora. L'attacco è sotto un diedro appoggiato con una fessura sul fondo."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 30,
+          "descrizione": "Diedro appoggiato con fessura sul fondo, spesso umido a inizio stagione."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 35,
+          "descrizione": "Dal diedro si esce a destra su una placca a tacche, poi dritti alla sosta."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 30,
+          "descrizione": "Placca facile e lavorata, protezioni distanti."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 35,
+          "descrizione": "Fessura obliqua verso sinistra, bella da incastro; si integra bene con friend medi."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 25,
+          "descrizione": "Il tiro chiave: placca liscia di pura aderenza, un passo delicato sopra il secondo spit."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 40,
+          "descrizione": "Lunga fessura verticale, la più continua della via; friend medi utili."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4b",
+          "lunghezza": 30,
+          "descrizione": "Rampa facile verso destra fino a un terrazzino erboso."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 35,
+          "descrizione": "Muretto con buone lame, poi placca fino alla sosta sotto il pilastrino."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 30,
+          "descrizione": "Placca a buchi e piccole tacche, spit radi."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 35,
+          "descrizione": "La fessura lunga: incastro di mani e piedi in aderenza, la sezione più bella della via."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 30,
+          "descrizione": "Placconata appoggiata dove la linea si perde: tenersi a destra verso la fessura obliqua."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 35,
+          "descrizione": "Fessura obliqua a destra, poi placca; si integra con un friend piccolo."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 30,
+          "descrizione": "Diedrino con uscita su lame, l'ultimo tratto un po' esposto."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4b",
+          "lunghezza": 30,
+          "descrizione": "Facili roccette e lame fino alla cima della parete."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-04-24",
+        "words": "Prima via lunga dell'anno, forse un po' presto: alla base c'era ancora qualche chiazza di neve e i primi tiri erano umidi nelle fessure. Sopra invece granito asciutto e caldo. Quattordici tiri si sentono tutti, siamo arrivati in cima alle tre del pomeriggio."
+      },
+      {
+        "observedAt": "2022-05-15",
+        "words": "Via splendida, granito che tiene da paura. Si alternano placche lisce e belle fessure da incastro, mai difficile ma sempre da stare attenti ai piedi. Una cordata davanti, una dietro, tutto tranquillo."
+      },
+      {
+        "observedAt": "2022-06-11",
+        "words": "Partiti alle sette e già al terzo tiro il sole picchiava in pieno. Esposizione a sud-est: d'estate conviene essere all'attacco all'alba, verso le undici la placca scotta. Portato un litro e mezzo a testa, finito tutto."
+      },
+      {
+        "observedAt": "2022-06-29",
+        "words": "Giorno di ferie, parete tutta per noi. Che differenza rispetto al weekend: nessuna attesa in sosta, abbiamo fatto i quattordici tiri in sei ore con calma. Dalla cima il lago sembra dipinto."
+      },
+      {
+        "observedAt": "2022-07-09",
+        "words": "Tre cordate davanti a noi all'attacco, e altre due arrivate dopo. Al quinto tiro abbiamo aspettato quasi mezz'ora. Nei weekend d'estate bisogna mettere in conto la coda, oppure partire prestissimo."
+      },
+      {
+        "observedAt": "2022-07-24",
+        "words": "Attenzione: all'ottavo tiro, poco sopra la sosta, c'è un blocco grande come un frigorifero piccolo che si muove se lo tiri. Si passa a destra senza toccarlo, ma chi è sotto in sosta è proprio sulla traiettoria. Per il resto via bellissima."
+      },
+      {
+        "observedAt": "2022-08-16",
+        "words": "Il giorno dopo Ferragosto pensavamo di trovare il pienone e invece due sole cordate. Soste a spit vecchi con cordoni stinti, da guardare bene prima di appendersi. Un paio di friend medi li abbiamo messi spesso."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Settembre è il mese giusto: sole fino a mezzogiorno, poi un'arietta che asciuga. Il blocco dell'ottavo tiro è ancora lì, l'abbiamo girato largo. Discesa in doppia sulla via, lunga e con le corde che si incastrano due volte."
+      },
+      {
+        "observedAt": "2022-09-22",
+        "words": "Uscita infrasettimanale con il socio di sempre. Nei tiri centrali, quelli più appoggiati, la linea non è evidentissima: abbiamo sbagliato una sosta e fatto un tiro di troppo a sinistra. Si ritrova la via cercando gli spit, ma sono radi."
+      },
+      {
+        "observedAt": "2022-10-09",
+        "words": "Freddo all'attacco, guanti per i primi due tiri, poi è arrivato il sole e si stava benissimo. Le giornate sono corte: siamo scesi con la frontale le ultime due doppie."
+      },
+      {
+        "observedAt": "2023-04-30",
+        "words": "Fine aprile e la parete è già asciutta, solo il diedro del primo tiro gocciolava un po'. Ottima per iniziare la stagione delle vie lunghe: i tiri di 5c sono due, il resto è tutto più facile ma lungo."
+      },
+      {
+        "observedAt": "2023-05-20",
+        "words": "Granito di Valle dell'Orco come lo si immagina: aderenza pazzesca sulle placche e fessure pulite dove infilare le mani. Le placche intermedie hanno spit distanti, si sale tranquilli ma non bisogna avere paura di fare qualche metro sopra la protezione."
+      },
+      {
+        "observedAt": "2023-06-02",
+        "words": "Festa della Repubblica, prevedibile: sei cordate in parete. Ci siamo fermati più in sosta che a scalare. Uno davanti a noi ha fatto cadere un sasso al nono tiro, per fortuna nessuno sotto. Casco sempre."
+      },
+      {
+        "observedAt": "2023-06-18",
+        "words": "Bella novità: le soste fino alla nona sono state rifatte con due fix e catena. Finalmente ci si appende tranquilli. Le ultime sono ancora quelle vecchie."
+      },
+      {
+        "observedAt": "2023-07-05",
+        "words": "Mercoledì caldissimo. In parete alle sei e mezza e fuori alle dodici, appena in tempo: l'ultimo tiro era già un forno. Vista sul lago di Ceresole e sui ghiacciai del Gran Paradiso che da sola vale la levataccia."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "Mi sono portato una serie di friend dal 0.5 al 2 e li ho usati quasi tutti, soprattutto nelle fessure del sesto e del decimo tiro. Senza si passa, ma i tratti lontani dagli spit sono parecchi."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Partiti tardi, errore. Coda all'attacco e sole a picco dal secondo tiro. Siamo usciti alle quattro cotti e senza acqua."
+      },
+      {
+        "observedAt": "2023-08-23",
+        "words": "Prima via lunga per la mia compagna, scelta per i gradi contenuti. Ha retto benissimo fino al decimo tiro, poi la stanchezza: è una via facile ma lunghissima, da non sottovalutare. Arrivati in cima felici e distrutti."
+      },
+      {
+        "observedAt": "2023-09-10",
+        "words": "Ora anche le ultime soste hanno fix nuovi e anello di calata: la via è attrezzata a nuovo dalla base alla cima. Grazie a chi ci ha lavorato. Gli spit lungo i tiri invece sono rimasti quelli di prima."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Giornata perfetta, fresca e limpida. Abbiamo incontrato solo una cordata. Le doppie con le soste nuove filano molto meglio, anche se restano tante e con la corda da recuperare sempre storta."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Ultimo giro dell'anno. All'ombra si gelava, al sole si stava bene. In cima un branco di stambecchi a dieci metri da noi, per niente impressionati."
+      },
+      {
+        "observedAt": "2024-05-11",
+        "words": "Riaperta la stagione. Ai tiri undici e dodici, quelli più appoggiati, la linea si perde facile: cercate la fessura obliqua a destra e non andate dritti, sopra è tutto liscio e senza spit."
+      },
+      {
+        "observedAt": "2024-05-26",
+        "words": "Novità per la discesa: è stato segnato un sentiero a sinistra della parete, con ometti e bolli gialli, che in un'ora riporta all'attacco. Niente più doppie sopra le cordate che salgono. Lo abbiamo fatto e si segue bene."
+      },
+      {
+        "observedAt": "2024-06-15",
+        "words": "Code ormai di casa: alle otto c'erano già quattro cordate in fila all'attacco. Abbiamo aspettato un'ora prima di partire. Poi tutto liscio, il granito è sempre una gioia."
+      },
+      {
+        "observedAt": "2024-06-27",
+        "words": "Giovedì, ci siamo solo noi. Il quinto tiro è la placca chiave, delicata e con lo spit un po' alto per chi è basso. Fessure belle e pulite nella seconda metà della via."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Partenza col buio dal parcheggio, all'attacco alle sei. Ombra fino alle otto e mezza, poi il sole è arrivato sulla parete e non se n'è più andato. Sceso a piedi dal nuovo sentiero, comodo e veloce."
+      },
+      {
+        "observedAt": "2024-07-28",
+        "words": "Lunga. Lunghissima."
+      },
+      {
+        "observedAt": "2024-08-14",
+        "words": "Vigilia di Ferragosto, poca gente. Alla cima siamo rimasti mezz'ora a guardare il lago verde sotto di noi. Discesa a piedi, ginocchia ringraziano."
+      },
+      {
+        "observedAt": "2024-08-31",
+        "words": "Temporale in arrivo alle due, eravamo al dodicesimo tiro. Abbiamo chiuso di corsa e siamo scesi dal sentiero sotto le prime gocce. In estate meglio tenere d'occhio il cielo da metà giornata."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Il blocco instabile dell'ottavo tiro non c'è più, qualcuno l'ha disgaggiato: sopra la sosta resta solo una cicatrice chiara nella roccia. Si passa senza patemi."
+      },
+      {
+        "observedAt": "2024-09-25",
+        "words": "Infrasettimanale di fine settembre, la parete giusta al momento giusto. Granito asciutto e grip incredibile, le soste nuove sono una sicurezza. Unico appunto: le protezioni lungo i tiri sono poche, un paio di friend non guastano."
+      },
+      {
+        "observedAt": "2024-10-12",
+        "words": "Fredda e bellissima. Siamo partiti alle nove per aspettare il sole e abbiamo finito con le ultime luci: in ottobre i quattordici tiri riempiono tutta la giornata."
+      },
+      {
+        "observedAt": "2025-04-26",
+        "words": "Troppo presto: neve nel canale alla base e i primi due tiri bagnati. Siamo saliti fino alla quarta sosta e poi giù. Si riprova a maggio."
+      },
+      {
+        "observedAt": "2025-05-18",
+        "words": "Bella via di aderenza. Chi è abituato al calcare deve fidarsi dei piedi: qui si sale in spalmo su placche senza appigli, poi ci si rilassa in fessura."
+      },
+      {
+        "observedAt": "2025-06-07",
+        "words": "Attenzione al sentiero di discesa: una piccola frana ha portato via un tratto sotto la seconda balza, adesso si passa su ghiaia instabile e bisogna mettere le mani. Niente di drammatico ma col buio non lo farei."
+      },
+      {
+        "observedAt": "2025-06-19",
+        "words": "Giovedì di sole e di silenzio. Abbiamo fatto la via in sette ore, con calma, mangiando in sosta. Il decimo tiro, la fessura lunga, è il più bello di tutta la via secondo me."
+      },
+      {
+        "observedAt": "2025-07-06",
+        "words": "Vipera acciambellata sul sasso dove si lasciano gli zaini all'attacco. Si è spostata da sola, ma occhio a dove mettete le mani nel tratto di pietraia."
+      },
+      {
+        "observedAt": "2025-07-22",
+        "words": "Martedì e comunque due cordate davanti, segno che la via è diventata famosa. Niente attese lunghe però. Caldo da subito, eravamo in pieno sole già alle sette e mezza."
+      },
+      {
+        "observedAt": "2025-08-09",
+        "words": "Coda lunga anche oggi, cinque cordate. Un gruppo ha deciso di scendere in doppia sulla via mentre noi salivamo: corde che ci passavano accanto e un bel po' di confusione alla sesta sosta. Usate il sentiero, per favore."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Con un amico che veniva per la prima volta in valle. Ci siamo persi un attimo all'undicesimo tiro, la placca appoggiata dove gli spit non si vedono, poi abbiamo ritrovato la fessura. Panorama sul lago e sulle cime intorno che lo ha lasciato a bocca aperta."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Nel tratto franato della discesa hanno messo una corda fissa e qualche gradino di pietre: ora si passa bene anche stanchi. Via sempre splendida."
+      },
+      {
+        "observedAt": "2025-10-03",
+        "words": "Venerdì d'ottobre, freddo secco. Ho usato i friend medi nelle fessure del sesto e del decimo tiro, come dicevano. Soste perfette."
+      },
+      {
+        "observedAt": "2025-10-19",
+        "words": "Giornata corta, siamo partiti tardi e non ci siamo stati dentro: arrivati alla nona sosta alle tre, abbiamo preferito calarci. Va presa sul serio come giornata."
+      },
+      {
+        "observedAt": "2026-05-10",
+        "words": "Prima di stagione, parete asciutta. Granito magnifico come sempre, fessure pulite e placche che tengono anche quando non ci credi."
+      },
+      {
+        "observedAt": "2026-05-30",
+        "words": "Al dodicesimo tiro manca la placchetta del primo spit: c'è solo il tassello che sporge. Si protegge con un friend piccolo nella fessura a fianco, ma chi non ne ha si trova un bel tratto senza niente."
+      },
+      {
+        "observedAt": "2026-06-24",
+        "words": "Mercoledì, poca gente. In parete alle sette, sole sulla schiena dalle otto. La via è sempre quella: lunga, varia, mai dura."
+      },
+      {
+        "observedAt": "2026-07-11",
+        "words": "Lo spit del dodicesimo tiro ha di nuovo la sua placchetta, qualcuno l'ha rimessa. Per il resto la solita fila: tre cordate all'attacco alle sette."
+      },
+      {
+        "observedAt": "2026-08-05",
+        "words": "Settimana di ferie in valle, oggi la via lunga. Sole e caldo, ma con un filo d'aria si stava. Discesa dal sentiero, il tratto con la corda fissa è comodo."
+      },
+      {
+        "observedAt": "2026-08-22",
+        "words": "Pensavo fosse più facile visti i gradi, e invece le placche sopra gli spit lontani mi hanno fatto sudare. Il 5c del granito non è il 5c della palestra."
+      },
+      {
+        "observedAt": "2026-09-19",
+        "words": "Settembre limpido, la parete per noi dopo le dieci, quando le cordate del mattino erano già alte. Dalla cima il lago e i ghiacciai, uno spettacolo."
+      },
+      {
+        "observedAt": "2026-10-08",
+        "words": "Giovedì fresco, l'ultima via lunga prima dell'inverno. In ottobre tre strati all'attacco e maglietta dal quarto tiro. Quattordici tiri in otto ore, fuori al tramonto."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "Quattordici tiri si sentono tutti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche e fessure",
+          "quote": "Si alternano placche lisce e belle fessure da incastro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "Partiti alle sette e già al terzo tiro il sole picchiava in pieno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Code di cordate",
+          "quote": "nessuna attesa in sosta"
+        },
+        {
+          "label": "Vista sul lago",
+          "quote": "Dalla cima il lago sembra dipinto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Code di cordate",
+          "quote": "Nei weekend d'estate bisogna mettere in conto la coda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Blocco instabile all'ottavo tiro",
+          "kind": "attenzione",
+          "quote": "all'ottavo tiro, poco sopra la sosta, c'è un blocco grande come un frigorifero piccolo che si muove se lo tiri"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Le soste",
+          "quote": "Soste a spit vecchi con cordoni stinti"
+        },
+        {
+          "label": "Friend utili",
+          "quote": "Un paio di friend medi li abbiamo messi spesso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "sole fino a mezzogiorno"
+        },
+        {
+          "label": "La discesa",
+          "quote": "Discesa in doppia sulla via, lunga e con le corde che si incastrano due volte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Orientamento nei tiri facili",
+          "quote": "la linea non è evidentissima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "siamo scesi con la frontale le ultime due doppie"
+        },
+        {
+          "label": "La discesa",
+          "quote": "le ultime due doppie"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "il resto è tutto più facile ma lungo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche e fessure",
+          "quote": "aderenza pazzesca sulle placche e fessure pulite dove infilare le mani"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Code di cordate",
+          "quote": "sei cordate in parete. Ci siamo fermati più in sosta che a scalare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Le soste",
+          "quote": "Finalmente ci si appende tranquilli"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Soste rifatte fino alla nona",
+          "kind": "novita",
+          "quote": "le soste fino alla nona sono state rifatte con due fix e catena"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "l'ultimo tiro era già un forno"
+        },
+        {
+          "label": "Vista sul lago",
+          "quote": "Vista sul lago di Ceresole e sui ghiacciai"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Friend utili",
+          "quote": "Mi sono portato una serie di friend dal 0.5 al 2 e li ho usati quasi tutti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Code di cordate",
+          "quote": "Coda all'attacco"
+        },
+        {
+          "label": "Sole al mattino",
+          "quote": "sole a picco dal secondo tiro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "è una via facile ma lunghissima, da non sottovalutare"
+        },
+        {
+          "label": "Prima via lunga",
+          "quote": "Prima via lunga per la mia compagna"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Le soste",
+          "quote": "la via è attrezzata a nuovo dalla base alla cima"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Soste nuove fino in cima",
+          "kind": "novita",
+          "quote": "Ora anche le ultime soste hanno fix nuovi e anello di calata"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "La discesa",
+          "quote": "Le doppie con le soste nuove filano molto meglio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi in cima",
+          "quote": "In cima un branco di stambecchi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Orientamento nei tiri facili",
+          "quote": "la linea si perde facile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "La discesa",
+          "quote": "Niente più doppie sopra le cordate che salgono"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Sentiero di discesa segnato",
+          "kind": "novita",
+          "quote": "è stato segnato un sentiero a sinistra della parete, con ometti e bolli gialli"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Code di cordate",
+          "quote": "alle otto c'erano già quattro cordate in fila all'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche e fessure",
+          "quote": "Fessure belle e pulite nella seconda metà della via"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "poi il sole è arrivato sulla parete e non se n'è più andato"
+        },
+        {
+          "label": "La discesa",
+          "quote": "Sceso a piedi dal nuovo sentiero, comodo e veloce"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "Lunghissima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "a guardare il lago verde sotto di noi"
+        },
+        {
+          "label": "La discesa",
+          "quote": "Discesa a piedi, ginocchia ringraziano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali pomeridiani",
+          "quote": "In estate meglio tenere d'occhio il cielo da metà giornata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Blocco dell'ottavo tiro disgaggiato",
+          "kind": "novita",
+          "quote": "Il blocco instabile dell'ottavo tiro non c'è più, qualcuno l'ha disgaggiato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Le soste",
+          "quote": "le soste nuove sono una sicurezza"
+        },
+        {
+          "label": "Friend utili",
+          "quote": "un paio di friend non guastano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "in ottobre i quattordici tiri riempiono tutta la giornata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "neve nel canale alla base"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche e fessure",
+          "quote": "qui si sale in spalmo su placche senza appigli, poi ci si rilassa in fessura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "La discesa",
+          "quote": "bisogna mettere le mani"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Frana sul sentiero di discesa",
+          "kind": "attenzione",
+          "quote": "una piccola frana ha portato via un tratto sotto la seconda balza"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche e fessure",
+          "quote": "Il decimo tiro, la fessura lunga, è il più bello"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vipera all'attacco",
+          "quote": "Vipera acciambellata sul sasso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "eravamo in pieno sole già alle sette e mezza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Code di cordate",
+          "quote": "Coda lunga anche oggi, cinque cordate"
+        },
+        {
+          "label": "La discesa",
+          "quote": "Usate il sentiero, per favore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Orientamento nei tiri facili",
+          "quote": "Ci siamo persi un attimo all'undicesimo tiro"
+        },
+        {
+          "label": "Vista sul lago",
+          "quote": "Panorama sul lago e sulle cime intorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Corda fissa sul tratto franato",
+          "kind": "novita",
+          "quote": "Nel tratto franato della discesa hanno messo una corda fissa"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Friend utili",
+          "quote": "Ho usato i friend medi nelle fessure"
+        },
+        {
+          "label": "Le soste",
+          "quote": "Soste perfette"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "Va presa sul serio come giornata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche e fessure",
+          "quote": "fessure pulite e placche che tengono anche quando non ci credi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Friend utili",
+          "quote": "Si protegge con un friend piccolo"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Spit senza placchetta al dodicesimo tiro",
+          "kind": "attenzione",
+          "quote": "Al dodicesimo tiro manca la placchetta del primo spit"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "sole sulla schiena dalle otto"
+        },
+        {
+          "label": "Giornata lunga",
+          "quote": "lunga, varia, mai dura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Code di cordate",
+          "quote": "tre cordate all'attacco alle sette"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Placchetta rimessa al dodicesimo tiro",
+          "kind": "novita",
+          "quote": "Lo spit del dodicesimo tiro ha di nuovo la sua placchetta"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "La discesa",
+          "quote": "Discesa dal sentiero, il tratto con la corda fissa è comodo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche e fessure",
+          "quote": "le placche sopra gli spit lontani mi hanno fatto sudare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "Dalla cima il lago e i ghiacciai, uno spettacolo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "Quattordici tiri in otto ore, fuori al tramonto"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

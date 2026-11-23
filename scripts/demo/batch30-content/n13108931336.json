@@ -1,0 +1,109 @@
+{
+  "osm": "n13108931336",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "men-at-work",
+    "activity": "falesia",
+    "place": "comune-007034",
+    "name": "Men at Work",
+    "lat": 45.6228,
+    "lon": 7.70334,
+    "aspect": "S",
+    "altMax": 1529,
+    "facts": {
+      "esposizione": "S",
+      "quota_base": 1529,
+      "avvicinamento": 30,
+      "localita_partenza": "Hône"
+    },
+    "sections": {
+      "note": "Parete ripida sopra un canalone, roccia buona con alcune lame e tacche. Guarda a sud: in autunno e in primavera prende il sole per tutto il pomeriggio.\n\nChiodatura a spit, soste attrezzate. Le vie sono fisiche e lunghe: serve una buona resistenza.\n\nPortare una corda da 60 metri, rinvii e un po' d'acqua.",
+      "avvicinamento": "Dal parcheggio si scende nel canalone e si risale sull'altro versante: mezz'ora abbondante."
+    },
+    "parts": [
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Lavori in corso",
+          "grado": "6a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Canalone",
+          "grado": "5c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Tacche",
+          "grado": "5b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Fisica",
+          "grado": "6b+",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Ultima luce",
+          "grado": "5a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Parete",
+        "fields": {
+          "nome": "Lame",
+          "grado": "6a",
+          "lunghezza": 24
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2024-04-13",
+        "words": "Aria tiepida, sole dal mezzogiorno. Due vie fisiche e la sosta sopra è comoda."
+      },
+      {
+        "observedAt": "2026-10-17",
+        "words": "Giornata tranquilla, la parete era asciutta e ci siamo fermati fino al tramonto."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Vie fisiche",
+          "quote": "Due vie fisiche"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parete asciutta",
+          "quote": "la parete era asciutta"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

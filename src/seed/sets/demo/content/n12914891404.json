@@ -1,0 +1,317 @@
+{
+  "osm": "n12914891404",
+  "invented": [
+    "grado_obbligatorio",
+    "sviluppo",
+    "avvicinamento",
+    "protezione",
+    "localita_partenza",
+    "come_arrivare",
+    "tiri",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "echi-silenziosi",
+    "activity": "multipitch",
+    "place": "comune-004053",
+    "name": "Echi Silenziosi",
+    "lat": 44.4006,
+    "lon": 7.1374,
+    "aspect": "SO",
+    "altMax": 2540,
+    "facts": {
+      "grado_obbligatorio": "5c",
+      "sviluppo": 230,
+      "avvicinamento": 40,
+      "protezione": "da_integrare",
+      "localita_partenza": "Castelmagno",
+      "come_arrivare": "Da Castelmagno si sale lungo la strada di montagna fino al termine della carreggiata e si lascia l'auto; poi un sentiero attraversa prati e una pietraia verso una parete rivolta a sud-ovest.",
+      "quota_base": 2283,
+      "esposizione": "SO",
+      "grado_max": "6a+",
+      "tiri": 7
+    },
+    "sections": {
+      "descrizione": "Sette tiri su quarzite, in un ambiente silenzioso, a due passi da un'altra via più breve. Il nome dice la sensazione: qui non c'è quasi nessuno, e anche gli altri rumori della montagna sembrano lontani.\n\nLa chiodatura è presente nei tiri duri ma spesso distante: in diverse placche bisogna accettare un po' di impegno di testa o integrare con friend piccoli nelle fessure. Il tiro più impegnativo è il quinto, un 6a+ di aderenza con piedi minimi.\n\nParete a sud-ovest, il sole arriva a metà mattina e dura fin dopo le sei in estate. Meglio venire in primavera avanzata o ad autunno inoltrato, evitando i giorni più caldi.",
+      "discesa": "Sette calate in doppia lungo la via con corde da 60 metri; occorre fare attenzione alla quarta, che richiede di spostarsi leggermente a sinistra per evitare uno spigolo.",
+      "materiale": "Corde da 60 metri, dodici rinvii, friend piccoli e medi, una serie di dadi, due fettucce e casco.",
+      "avvicinamento": "Dal parcheggio un sentiero nel prato e poi sulla pietraia porta alla parete; l'attacco è sotto una placca scura con un rigagnolo secco."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 30,
+          "descrizione": "Placca appoggiata di quarzite con buone tacche."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 35,
+          "descrizione": "Muro con fessura utile per un friend piccolo."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 35,
+          "descrizione": "Traverso a sinistra e salita su placca lavorata."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 30,
+          "descrizione": "Spigolo con piedi minimi e spit distanti."
+        }
+      },
+      {
+        "fields": {
+          "grado": "6a+",
+          "lunghezza": 35,
+          "descrizione": "Il tiro chiave: placca di aderenza con un passo di equilibrio."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 35,
+          "descrizione": "Fessura a destra, integrabile con dadi e friend."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4b",
+          "lunghezza": 30,
+          "descrizione": "Placche facili fino alla sosta finale."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-06-25",
+        "words": "Una via silenziosa: in tutta la giornata non ho incrociato anima viva, solo il vento e il fischio di una marmotta lontana."
+      },
+      {
+        "observedAt": "2022-07-23",
+        "words": "Chiodatura distante nel quarto tiro, quasi tre metri tra uno spit e l'altro. Con piedi minimi e quarzite liscia si sente tutta."
+      },
+      {
+        "observedAt": "2022-08-10",
+        "words": "Mercoledì d'agosto, bel tempo stabile. Ho integrato con due friend piccoli sul secondo tiro, quasi un obbligo."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Il tiro chiave del quinto è un 6a+ sincero: aderenza, piedi minimi e una tacca che si trova solo dopo un po'. Alla fine ci sono arrivato a testa bassa."
+      },
+      {
+        "observedAt": "2023-06-17",
+        "words": "Sentiero con ancora un po' di neve nella prima pietraia ma la parete già asciutta. Sole sulla placca dalle dieci, ottimo."
+      },
+      {
+        "observedAt": "2023-07-14",
+        "words": "Venerdì, valle deserta e cielo limpido. Sosta lunga alla quinta con un panino e una vista da cartolina."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Una cordata di tre davanti a noi e un po' di attesa alle soste. Nonostante questo, nessuna fretta e un'atmosfera tranquilla."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Mi sono portato dadi e friend piccoli e li ho usati tutti: la via chiede protezioni proprie dove gli spit sono lontani. Sesto tiro con una fessura bellissima."
+      },
+      {
+        "observedAt": "2023-10-07",
+        "words": "Prime gelate e foglie dorate sul prato prima della pietraia. La quarzite era gelata al mattino e le dita faticavano a scaldarsi."
+      },
+      {
+        "observedAt": "2024-06-15",
+        "words": "Sulla quarta sosta c'era un anello di cordino marcio e sbiadito, abbiamo aggiunto un nostro anello. Chi passa dopo di noi controlli con attenzione."
+      },
+      {
+        "observedAt": "2024-07-20",
+        "words": "Alla quarta sosta ora c'è una catena nuova con maillon inox. Qualcuno è passato in primavera con il trapano e ha sistemato anche due spit nel tiro seguente."
+      },
+      {
+        "observedAt": "2024-08-28",
+        "words": "Mercoledì di fine agosto con aria tersa. La via resta silenziosa e lenta; ci ho messo sei ore e mezza e non me ne sono accorto."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Il sesto tiro con la fessura integrata di dadi e friend è un piccolo capolavoro di incastri. Siamo scesi alle quattro con una luce rossa sulle placche."
+      },
+      {
+        "observedAt": "2025-06-21",
+        "words": "Per il solstizio una giornata infinita: partiti alle sette e finito alle sei di sera, sole fino alla sosta finale."
+      },
+      {
+        "observedAt": "2025-08-23",
+        "words": "Due spit nuovi nel quarto tiro, finalmente. Il passaggio è rimasto di piedi minimi, ma ora non si sente più solo."
+      },
+      {
+        "observedAt": "2026-09-05",
+        "words": "Una via che resta nel cuore proprio perché non ha nulla di speciale: roccia, silenzio, e un po' di fatica per arrivare. Ci tornerò."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Via silenziosa",
+          "quote": "in tutta la giornata non ho incrociato anima viva"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Spit distanti",
+          "quote": "Chiodatura distante nel quarto tiro"
+        },
+        {
+          "label": "Quarzite liscia",
+          "quote": "piedi minimi e quarzite liscia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Da integrare con friend",
+          "quote": "Ho integrato con due friend piccoli sul secondo tiro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tiro chiave di aderenza",
+          "quote": "Il tiro chiave del quinto è un 6a+ sincero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole dalla tarda mattina",
+          "quote": "Sole sulla placca dalle dieci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Via silenziosa",
+          "quote": "valle deserta e cielo limpido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Soste comode",
+          "quote": "nessuna fretta e un'atmosfera tranquilla"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Da integrare con friend",
+          "quote": "la via chiede protezioni proprie dove gli spit sono lontani"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Freddo al mattino",
+          "quote": "La quarzite era gelata al mattino e le dita faticavano a scaldarsi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Anello consumato alla quarta sosta",
+          "kind": "attenzione",
+          "quote": "Sulla quarta sosta c'era un anello di cordino marcio e sbiadito, abbiamo aggiunto un nostro anello."
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Quarta sosta rifatta",
+          "kind": "novita",
+          "quote": "Alla quarta sosta ora c'è una catena nuova con maillon inox."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Via silenziosa",
+          "quote": "La via resta silenziosa e lenta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Da integrare con friend",
+          "quote": "la fessura integrata di dadi e friend"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole dalla tarda mattina",
+          "quote": "sole fino alla sosta finale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Spit distanti",
+          "quote": "Due spit nuovi nel quarto tiro, finalmente"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Spit nuovi sul quarto tiro",
+          "kind": "novita",
+          "quote": "Due spit nuovi nel quarto tiro, finalmente."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Via silenziosa",
+          "quote": "roccia, silenzio, e un po' di fatica per arrivare"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

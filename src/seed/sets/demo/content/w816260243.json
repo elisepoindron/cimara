@@ -1,0 +1,318 @@
+{
+  "osm": "w816260243",
+  "invented": [
+    "aspect",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "ferrata-la-miccia",
+    "activity": "via_ferrata",
+    "place": "comune-103008",
+    "name": "Ferrata La Miccia",
+    "lat": 45.91356,
+    "lon": 8.47814,
+    "aspect": "E",
+    "facts": {},
+    "sections": {
+      "descrizione": "Una ferrata impegnativa sopra Baveno, sulle pareti di granito che guardano il lago Maggiore. Il primo punto attrezzato è a circa 684 metri, quindi si parte già con un bel po' di dislivello sulle gambe e si resta sempre sopra le case, con il golfo che si apre a ogni cambio di parete. È una via di difficoltà alta: lo sviluppo è fatto di placche lisce, cenge e alcuni passaggi in verticale dove le braccia lavorano davvero.\n\nIl cavo corre quasi sempre continuo, con staffe e pioli nei punti più duri e qualche tratto strapiombante da superare in forza. Il granito è compatto e, dove passa tanta gente, levigato: con la roccia bagnata o umida diventa insidioso, anche con scarponi buoni.\n\nSi percorre in primavera e in autunno, nei mesi freschi; d'estate il versante prende il sole presto e si soffre. Serve il kit da ferrata completo con dissipatore, casco e guanti, e conviene avere fiato e braccia allenate: non è una ferrata da prima volta.",
+      "avvicinamento": "Dal paese si sale per stradine e poi per sentiero fino all'attacco, in circa tre quarti d'ora, sempre in salita. Il sentiero è segnato, ma dopo le piogge il fondo è scivoloso."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-04-09",
+        "words": "Primo giro dell'anno su ferrata e subito una bella: granito pulito e il lago sotto a ogni tiro di cavo. L'avvicinamento dal paese è corto, ma ripido, e arrivi all'attacco già scaldato."
+      },
+      {
+        "observedAt": "2022-05-01",
+        "words": "Domenica di festa, coda da subito: tre gruppi davanti a noi al primo strapiombo. Abbiamo aspettato mezz'ora in piedi sulla cengia, ma almeno il panorama era da cartolina."
+      },
+      {
+        "observedAt": "2022-06-15",
+        "words": "Mercoledì di ferie e finalmente la ferrata tutta per noi. Fa già caldo e il granito si scalda presto, alle undici si sudava come in agosto. Le braccia cedono nel tratto verticale centrale."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Giornata fresca e limpida, perfetta. La roccia era un po' umida nei primi metri per via della notte, ma si saliva bene. Il passaggio strapiombante mi ha fatto sudare, due soste per recuperare il fiato."
+      },
+      {
+        "observedAt": "2022-11-01",
+        "words": "Giorno festivo infrasettimanale, partiti presto per scansare la folla e infatti non ne abbiamo trovata. Ultime foglie gialle lungo il sentiero. Dopo l'uscita siamo scesi con calma, il sentiero era coperto di foglie e scivoloso."
+      },
+      {
+        "observedAt": "2023-03-25",
+        "words": "Stagione aperta! Il cavo è freddo al mattino, le mani dopo un'ora facevano male anche con i guanti. Una bella giornata di sole che ha riscaldato la parete solo verso mezzogiorno."
+      },
+      {
+        "observedAt": "2023-04-25",
+        "words": "Giorno di vacanza in settimana. Pochissima gente e la ferrata scorreva liscia, però alcuni gradini sono lucidi come specchi: con la suola sporca di terra scivolano subito. Meglio scarponi con suola buona."
+      },
+      {
+        "observedAt": "2023-05-13",
+        "words": "Sabato con il sole e tanta gente sull'attacco. Ho sentito un gruppo davanti discutere sulla corda: un'ora buona di fila prima del traverso, poi tutto libero. Sulla via di uscita belle fioriture di ginestra."
+      },
+      {
+        "observedAt": "2023-09-17",
+        "words": "Domenica di settembre senza caldo, arrivati all'attacco alle otto e mezza. Il lago era una lastra, nessuna nuvola. Per me la parte più bella è il tratto di placche con il cavo teso, quasi senza appoggi per le mani."
+      },
+      {
+        "observedAt": "2023-10-21",
+        "words": "Mi hanno detto che è dura e lo è. Quarto grado di ferrata, strapiombo, braccia di gomma all'uscita. Ma la roccia buona e la vista valgono la fatica; ci torno quando sono più allenato."
+      },
+      {
+        "observedAt": "2024-03-30",
+        "words": "Sulla via di avvicinamento hanno messo un cartello nuovo con il tracciato e i numeri utili, ben fatto. Ferrata asciutta, giornata fredda ma serena. Il vento in cresta dava fastidio solo nel tratto finale."
+      },
+      {
+        "observedAt": "2024-04-21",
+        "words": "Coda per l'attacco, bambini al seguito di un gruppo e tanta attesa. Dopo il primo tratto si dirada. Il cavo è in ottimo stato, per fortuna, e i punti d'ancoraggio sembrano nuovi."
+      },
+      {
+        "observedAt": "2024-05-02",
+        "words": "Giovedì di ponte, in due. Un nido di calabroni nel tratto sotto lo strapiombo: li abbiamo evitati passando in silenzio, ma sembravano arrabbiati. Se è maggio, meglio guardare prima dove si mettono le mani."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Sabato con meteo incerto: nuvole basse, poi un po' di sole nel pomeriggio. La roccia era ancora umida per la pioggia di ieri e le placche erano scivolose, meglio rallentare e non fidarsi dei piedi."
+      },
+      {
+        "observedAt": "2024-10-13",
+        "words": "Domenica d'autunno, nessuna fretta. Dopo lo strapiombo mi sono fermato a mangiare sulla cengia con il lago sotto i piedi: il momento migliore della giornata. Discesa lunga ma comoda."
+      },
+      {
+        "observedAt": "2025-04-05",
+        "words": "Hanno sostituito un pezzo di cavo nel tratto centrale e si vede: è teso e lucido. Il resto della ferrata è come sempre, impegnativo. Fresco, sole pieno dalle dieci."
+      },
+      {
+        "observedAt": "2025-05-25",
+        "words": "Domenica caldissima, per questo siamo partiti all'alba e a mezzogiorno eravamo già sotto la birra. Dopo le undici il granito scotta e il kit pesa. La ferrata è bella ma ha bisogno di mattine fresche."
+      },
+      {
+        "observedAt": "2025-06-04",
+        "words": "Mercoledì in solitaria ma con il telefono sempre carico. Un sasso instabile sulla cengia dopo il primo tratto: l'ho spostato dal percorso e l'ho segnalato a chi saliva dietro. Chi viene dovrebbe guardare dove appoggia i piedi."
+      },
+      {
+        "observedAt": "2025-10-18",
+        "words": "Sabato con un gruppo di amici del CAI: nove persone, nessun problema, ma abbiamo dovuto spaziare con le soste. Granito asciutto, cielo velato sul lago. Da fare con calma e con la testa fresca."
+      },
+      {
+        "observedAt": "2025-11-09",
+        "words": "Ultima ferrata della stagione. Faceva freddo, soprattutto all'ombra dopo la cengia, e il cavo era gelido. Poca gente, silenzio, qualche foglia secca sul sentiero di discesa che ha reso l'ultimo tratto scivoloso."
+      },
+      {
+        "observedAt": "2026-04-11",
+        "words": "Sabato di sole dopo una settimana di pioggia. Ferrata asciutta in alto ma bagnata in basso, con il fango alla partenza. Il cartello all'attacco è ancora lì, utile. Il tratto strapiombante resta il passaggio da rispettare."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento ripido",
+          "quote": "L'avvicinamento dal paese è corto, ma ripido"
+        },
+        {
+          "label": "Vista sul lago",
+          "quote": "il lago sotto a ogni tiro di cavo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Coda nei giorni di festa",
+          "quote": "coda da subito: tre gruppi davanti a noi"
+        },
+        {
+          "label": "Vista sul lago",
+          "quote": "il panorama era da cartolina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strapiombo che stanca le braccia",
+          "quote": "Le braccia cedono nel tratto verticale centrale"
+        },
+        {
+          "label": "Caldo con il sole",
+          "quote": "il granito si scalda presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia liscia e umida",
+          "quote": "La roccia era un po' umida nei primi metri"
+        },
+        {
+          "label": "Strapiombo che stanca le braccia",
+          "quote": "Il passaggio strapiombante mi ha fatto sudare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cavo freddo al mattino",
+          "quote": "Il cavo è freddo al mattino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia liscia e umida",
+          "quote": "alcuni gradini sono lucidi come specchi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Coda nei giorni di festa",
+          "quote": "un'ora buona di fila prima del traverso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "Il lago era una lastra"
+        },
+        {
+          "label": "Placche lisce con cavo teso",
+          "quote": "il tratto di placche con il cavo teso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strapiombo che stanca le braccia",
+          "quote": "strapiombo, braccia di gomma all'uscita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuovo cartello all'attacco",
+          "kind": "novita",
+          "quote": "hanno messo un cartello nuovo con il tracciato e i numeri utili"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Coda nei giorni di festa",
+          "quote": "Coda per l'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Calabroni sulla parete",
+          "quote": "Un nido di calabroni nel tratto sotto lo strapiombo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia liscia e umida",
+          "quote": "La roccia era ancora umida per la pioggia di ieri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "con il lago sotto i piedi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cavo sostituito nel tratto centrale",
+          "kind": "novita",
+          "quote": "Hanno sostituito un pezzo di cavo nel tratto centrale"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo con il sole",
+          "quote": "Dopo le undici il granito scotta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sasso instabile sulla cengia",
+          "kind": "attenzione",
+          "quote": "Un sasso instabile sulla cengia dopo il primo tratto"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "cielo velato sul lago"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cavo freddo al mattino",
+          "quote": "il cavo era gelido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strapiombo che stanca le braccia",
+          "quote": "Il tratto strapiombante resta il passaggio da rispettare"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

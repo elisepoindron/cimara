@@ -1,0 +1,57 @@
+{
+  "osm": "r2085720",
+  "invented": [
+    "description",
+    "reports",
+    "esposizione"
+  ],
+  "itinerary": {
+    "key": "ru-de-chandianaz",
+    "activity": "escursionismo",
+    "place": "comune-007020",
+    "name": "Ru de Chandianaz",
+    "lat": 45.76431,
+    "lon": 7.60454,
+    "aspect": "N",
+    "altMax": 666,
+    "facts": {
+      "difficolta": "E",
+      "partenza": 666,
+      "localita_partenza": "Châtillon"
+    },
+    "sections": {
+      "descrizione": "Sentiero segnato in giallo che sale lungo il ru di Chandianaz, dal fondovalle verso le borgate alte. Nel primo tratto è largo e sassoso, poi si restringe e attraversa castagneti e prati.\n\nIl percorso non ha punti esposti, ma il fondo può essere scivoloso dopo la pioggia. Segnaletica presente sui tratti di bosco."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-10-16",
+        "words": "Castagne a terra e sentiero umido, il ru faceva un bel rumore. Un po' di fango nei tratti in ombra."
+      },
+      {
+        "observedAt": "2024-04-06",
+        "words": "Primavera appena iniziata, ancora pochi fiori. Abbiamo fatto la salita in due ore senza fermarci."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Fango all'ombra",
+          "quote": "Un po' di fango nei tratti in ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Primavera presto",
+          "quote": "ancora pochi fiori"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

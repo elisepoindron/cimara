@@ -1,0 +1,241 @@
+{
+  "osm": "r12133037",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d31",
+    "activity": "escursionismo",
+    "place": "comune-001019",
+    "name": "Via Alpina Blue D31",
+    "lat": 45.30241,
+    "lon": 7.21753,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 1251,
+      "localita_partenza": "Balme",
+      "come_arrivare": "Si arriva a Balme in Val d'Ala dalla provinciale che risale la valle da Lanzo, con parcheggi nei pressi del centro. Alla fine, a Usseglio, il ritorno richiede un mezzo: pochi autobus e solo in alcuni giorni."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu da Balme a Usseglio, circa 12,5 km con 1.250 metri di salita e 1.430 di discesa, che passa da una valle delle Lanzo all'altra scavalcando una dorsale di alta quota. La salita parte dai pascoli alti sopra Balme, prosegue per pietraie e dossi erbosi, poi porta a un colle da cui si vedono entrambe le valli.\n\nLa discesa verso Usseglio attraversa alpeggi e laghetti e scende in un bosco di larici, con alcuni punti ripidi e un fondo che dopo la pioggia diventa fangoso. Il sentiero è in generale ben segnato, con qualche tratto da cercare con attenzione nelle pietraie.\n\nPeriodo migliore da fine giugno a settembre. Conviene partire presto e avere un piano per il rientro."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-02",
+        "words": "Il sentiero sopra Balme si prende bene appena si lascia l'ultima baita. In due ore siamo al primo dosso, poi pietraie fino al colle."
+      },
+      {
+        "observedAt": "2022-08-06",
+        "words": "Dal colle si vedono entrambe le valli con una chiarezza che toglie le parole. Alla discesa un laghetto con l'acqua trasparentissima."
+      },
+      {
+        "observedAt": "2022-08-30",
+        "words": "Martedì quasi vuoto: una coppia di francesi, noi e basta. La discesa di Usseglio nel bosco è dolce e profumata."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Fango e acquitrini in discesa dopo tre giorni di pioggia, scarponi da cambiare. Però il lariceto era un incanto."
+      },
+      {
+        "observedAt": "2023-06-25",
+        "words": "Troppa neve per questa data sul versante di Balme, abbiamo seguito le tracce di altri. Meglio avere i ramponcini e la bussola."
+      },
+      {
+        "observedAt": "2023-07-16",
+        "words": "Sul colle faceva freddo e il vento ci ha costretti a indossare tutto. Panino mangiato nel riparo di un masso."
+      },
+      {
+        "observedAt": "2023-08-17",
+        "words": "Giovedì pieno d'estate. Sentiero ben segnato fino al colle, dopo i segnavia diventano più rari ma si trova."
+      },
+      {
+        "observedAt": "2023-09-10",
+        "words": "Siamo partiti con la nebbia e arrivati con il sole. La discesa verso Usseglio mi ha stupito per quanto è lunga."
+      },
+      {
+        "observedAt": "2024-07-07",
+        "words": "Un'infinità di fiori sui pascoli alti, arnica e genziane. Ho fatto più pause per le foto che per il fiato."
+      },
+      {
+        "observedAt": "2024-08-11",
+        "words": "Ho preso un acquazzone sotto il colle, pochi minuti. Poi sole pieno e tutto che fumava."
+      },
+      {
+        "observedAt": "2024-09-04",
+        "words": "Mercoledì di settembre, aria cristallina. Incontrati un gregge e il suo pastore con tre cani enormi, meglio non avvicinarsi."
+      },
+      {
+        "observedAt": "2024-09-29",
+        "words": "Il bus per tornare a Balme parte una volta sola al pomeriggio: l'abbiamo perso e siamo rimasti a Usseglio per cena. Organizzatevi meglio di noi."
+      },
+      {
+        "observedAt": "2025-07-13",
+        "words": "Nuovi segnavia in vernice gialla e rossa sul tratto roccioso sotto il colle, ora si segue anche con poca visibilità. Fatti con cura."
+      },
+      {
+        "observedAt": "2025-08-08",
+        "words": "Venerdì di vacanza, silenzio e cielo terso. Un tratto di sentiero in discesa è stato rimosso da una frana: bisogna aggirarlo sul costone."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "La deviazione per la frana è ben segnalata e aggiunge dieci minuti. Per il resto discesa tranquilla fino al bosco."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Neve fresca sul colle, polvere sottile sulle pietre. Una giornata di silenzio e luce bassa."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Pietraie nella parte alta",
+          "quote": "poi pietraie fino al colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colle con vista su due valli",
+          "quote": "Dal colle si vedono entrambe le valli"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "una coppia di francesi, noi e basta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fango dopo la pioggia",
+          "quote": "Fango e acquitrini in discesa dopo tre giorni di pioggia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Troppa neve per questa data sul versante di Balme"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento sul colle",
+          "quote": "Sul colle faceva freddo e il vento"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnalazione irregolare nelle pietraie",
+          "quote": "dopo i segnavia diventano più rari"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga verso Usseglio",
+          "quote": "La discesa verso Usseglio mi ha stupito per quanto è lunga"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fioriture sui pascoli alti",
+          "quote": "Un'infinità di fiori sui pascoli alti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acquazzoni pomeridiani",
+          "quote": "Ho preso un acquazzone sotto il colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cani da guardia dei greggi",
+          "quote": "tre cani enormi, meglio non avvicinarsi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rientro da organizzare",
+          "quote": "Il bus per tornare a Balme parte una volta sola"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnavia nuovi sul tratto roccioso",
+          "kind": "novita",
+          "quote": "Nuovi segnavia in vernice gialla e rossa sul tratto roccioso sotto il colle"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana sul sentiero in discesa",
+          "kind": "attenzione",
+          "quote": "Un tratto di sentiero in discesa è stato rimosso da una frana"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Deviazione segnalata",
+          "quote": "La deviazione per la frana è ben segnalata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Neve fresca sul colle"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

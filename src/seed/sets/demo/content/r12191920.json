@@ -1,0 +1,262 @@
+{
+  "osm": "r12191920",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d51",
+    "activity": "escursionismo",
+    "place": "comune-004174",
+    "name": "Via Alpina Blue D51",
+    "lat": 44.48241,
+    "lon": 7.03956,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 911,
+      "localita_partenza": "Ussolo",
+      "come_arrivare": "Ussolo si trova in Val Maira, in comune di Prazzo, e si raggiunge dalla strada provinciale che risale la valle; si parcheggia nei pressi del paese. L'arrivo a Chiappera richiede un secondo mezzo o un trasferimento in valle."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu da Ussolo a Chiappera, entrambe in alta Val Maira: circa 15,8 km con 911 m di salita e 699 di discesa. Si sale dal paese per mulattiere e sentieri in un vallone laterale, si supera un valico, poi si scende fino a Chiappera, ai piedi della Rocca Provenzale.\n\nIl paesaggio è tipico dell'alta Val Maira: pareti calcaree, pascoli ripidi, larici. La giornata è lunga ma meno faticosa della precedente grazie a un fondo regolare.\n\nIl periodo va da giugno a ottobre. L'arrivo a Chiappera, dove nascono i sentieri per i rifugi e le pareti da arrampicata, è il premio finale."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "Prima parte tutta su mulattiera, soffice e regolare. Il vallone laterale è un'altra Val Maira, più selvaggia e meno battuta."
+      },
+      {
+        "observedAt": "2022-08-13",
+        "words": "Sedici chilometri quasi tondi, e l'ultimo pezzo di discesa su asfalto si fa sentire. Tappa da mettere in conto per un'intera giornata."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "La Rocca Provenzale compare a un tratto da dietro un dosso, enorme, rossastra al tramonto. Fermati dieci minuti."
+      },
+      {
+        "observedAt": "2023-06-30",
+        "words": "Mercoledì sereno, nessun altro lungo la tappa. Un cervo ha attraversato il sentiero a pochi metri dai miei piedi."
+      },
+      {
+        "observedAt": "2023-07-29",
+        "words": "Larici enormi nel bosco di mezzo, con il sottobosco di mirtilli. Siamo rimasti a raccoglierne una bella manciata."
+      },
+      {
+        "observedAt": "2023-08-27",
+        "words": "Sul valico un po' di vento e un fresco inaspettato anche a luglio. Pausa panino riparati dietro una roccia."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Giorno di ferie e sentiero deserto. Ho incontrato solo un pastore con il gregge e i suoi quattro cani."
+      },
+      {
+        "observedAt": "2024-07-05",
+        "words": "Dopo il valico la discesa è lunga ma dolce, con vista sull'alta valle e sulle pareti di Chiappera. Una vera ricompensa."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Un temporale improvviso mi ha colto nel vallone, ho trovato riparo in una baita di pastori. Un'ora poi tutto è tornato sereno."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Caldo da cuocere nel tratto basso, tra Ussolo e il bosco. Meglio partire prima dell'alba."
+      },
+      {
+        "observedAt": "2025-07-05",
+        "words": "Giovedì di fine settembre con colori d'autunno: larici arancioni e foglie rosse sui versanti sotto il valico."
+      },
+      {
+        "observedAt": "2025-07-29",
+        "words": "Alcune mucche con vitelli occupavano il sentiero nel pascolo alto. Le abbiamo aggirate con calma, senza fretta."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Hanno ripristinato la mulattiera sopra Ussolo con nuovo fondo e canalette per l'acqua: ora è in perfette condizioni."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Una piccola frana ha interrotto il sentiero nel vallone: bisogna scavalcare un blocco di roccia caduto, non difficile."
+      },
+      {
+        "observedAt": "2026-07-04",
+        "words": "Lunedì grigio, ma senza pioggia. Le nuvole basse sul valico davano un tono severo, il silenzio era totale."
+      },
+      {
+        "observedAt": "2026-07-29",
+        "words": "Un paio di fontane lungo il percorso, tutte funzionanti. Bevuto e riempito senza problemi."
+      },
+      {
+        "observedAt": "2026-08-29",
+        "words": "Arrivo a Chiappera nel tardo pomeriggio, con i climber che scendevano dalle pareti e una birra al bar del paese."
+      },
+      {
+        "observedAt": "2026-09-26",
+        "words": "Giornata di fine stagione con la prima neve sui monti sopra Chiappera. Aria frizzante, un cielo come cristallo."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Mulattiera regolare",
+          "quote": "Prima parte tutta su mulattiera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa lunga",
+          "quote": "Sedici chilometri quasi tondi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rocca Provenzale all'arrivo",
+          "quote": "La Rocca Provenzale compare a un tratto da dietro un dosso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna lungo il sentiero",
+          "quote": "Un cervo ha attraversato il sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Larici e sottobosco",
+          "quote": "Larici enormi nel bosco di mezzo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento al valico",
+          "quote": "Sul valico un po' di vento"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero solitario",
+          "quote": "sentiero deserto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rocca Provenzale all'arrivo",
+          "quote": "vista sull'alta valle e sulle pareti di Chiappera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Un temporale improvviso mi ha colto nel vallone"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nella parte bassa",
+          "quote": "Caldo da cuocere nel tratto basso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Larici e sottobosco",
+          "quote": "larici arancioni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Mucche e pastori",
+          "quote": "Alcune mucche con vitelli occupavano il sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Mulattiera ripristinata sopra Ussolo",
+          "kind": "novita",
+          "quote": "Hanno ripristinato la mulattiera sopra Ussolo con nuovo fondo e canalette per l'acqua"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana nel vallone",
+          "kind": "attenzione",
+          "quote": "Una piccola frana ha interrotto il sentiero nel vallone"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero solitario",
+          "quote": "il silenzio era totale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rocca Provenzale all'arrivo",
+          "quote": "i climber che scendevano dalle pareti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento al valico",
+          "quote": "Aria frizzante"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

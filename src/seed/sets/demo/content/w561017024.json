@@ -1,0 +1,316 @@
+{
+  "osm": "w561017024",
+  "invented": [
+    "difficolta",
+    "vetta",
+    "esposizione",
+    "aspect",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "canale-dell-aquila",
+    "activity": "sci_alpinismo",
+    "place": "comune-007032",
+    "name": "Canale dell'Aquila",
+    "lat": 45.87911,
+    "lon": 7.85259,
+    "aspect": "N",
+    "facts": {
+      "difficolta": "BS",
+      "partenza": 2675,
+      "esposizione": "N",
+      "localita_partenza": "Gressoney-La-Trinité",
+      "come_arrivare": "Da Gressoney-La-Trinité si sale agli impianti e si prosegue fino alla quota da cui parte la gita, circa 2675 metri."
+    },
+    "sections": {
+      "descrizione": "Un canale che scende verso nord dal comprensorio di Gressoney, di difficoltà intermedia, che si raggiunge dagli impianti in circa mezz'ora di pelli. Si parte oltre i 2600 metri, quindi la neve tiene più a lungo che altrove e anche con poco inverno spesso si scia bene. L'ambiente è aperto, con la valle sotto e il Monte Rosa alle spalle quando il tempo è limpido.\n\nIl canale si stringe a metà discesa, con pareti di roccia ai lati e qualche cambio di pendenza da leggere bene prima di buttarsi. Con neve primaverile morbida si scende in sicurezza e con soddisfazione; con neve ventata o crosta il tratto stretto è più duro e conviene sciare con calma.\n\nLa stagione va da dicembre a maggio, con il meglio tra febbraio e aprile. Dopo nevicata o vento il canale si carica e raccoglie accumuli: il bollettino valanghe va letto ogni volta e ARTVA, pala e sonda sono d'obbligo.",
+      "note": "Esposizione nord: neve fredda e polverosa a lungo, ma di mattina presto e con vento il canale può essere ghiacciato. Con poca neve gli ultimi tratti verso il fondovalle sono a piedi."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-03-12",
+        "words": "Sabato di fine inverno, salita con le pelli di una mezz'ora dagli impianti. La neve nel canale era ancora fredda e leggera nonostante il sole in alto. Siamo scesi uno alla volta nel tratto stretto, come si deve."
+      },
+      {
+        "observedAt": "2022-04-02",
+        "words": "Primavera già avanzata: partiti presto per essere in discesa prima che la neve si trasformasse. Alle dieci era perfetta, alle undici già pesante. Chi parte tardi prende la crosta mollissima."
+      },
+      {
+        "observedAt": "2022-04-20",
+        "words": "Mercoledì di ferie, nessuno in giro. Il canale aveva una traccia sola e la neve era ottima, con il cielo senza una nuvola. Un pomeriggio di quelli che si ricordano."
+      },
+      {
+        "observedAt": "2023-01-28",
+        "words": "Dopo la nevicata di giovedì abbiamo trovato venti centimetri di polvere nel canale, ma anche un lastrone in alto sotto la cresta. Abbiamo letto il bollettino due volte e siamo scesi sul lato più sicuro."
+      },
+      {
+        "observedAt": "2023-02-19",
+        "words": "Domenica bellissima ma affollata: dodici persone in salita, tanti gruppi di amici. Il canale era già tutto rigato quando siamo arrivati alla partenza della discesa. La neve ha retto, comunque."
+      },
+      {
+        "observedAt": "2023-03-15",
+        "words": "Mercoledì, neve assestata dopo giorni di freddo. Il tratto stretto del canale era morbido e senza crosta, una discesa pulita. Siamo tornati alle macchine con le guance bruciate dal sole."
+      },
+      {
+        "observedAt": "2023-04-08",
+        "words": "Poca neve ai piedi del canale: l'ultima parte l'abbiamo fatta con gli sci in spalla per cinquanta metri. In alto invece si scendeva bene su neve di primavera. Valeva comunque la pena."
+      },
+      {
+        "observedAt": "2023-05-06",
+        "words": "Fine stagione, ultimo canale prima dell'estate. La neve era molle e a tratti a chiazze, ma il canale teneva ancora. Siamo partiti alle sei per scendere con la neve ancora portante."
+      },
+      {
+        "observedAt": "2024-02-03",
+        "words": "Giornata di nebbia fitta in alto: abbiamo salito con la bussola e il gps perché non si vedeva niente oltre i dieci metri. Alla fine siamo scesi sulla traccia di salita senza provare il canale. A volte si rinuncia."
+      },
+      {
+        "observedAt": "2024-03-02",
+        "words": "Sabato di sole con una neve incredibile, polvere asciutta ancora nel canale. Eravamo in sei e ci siamo divisi in due gruppi per non scaricare uno sull'altro nel tratto stretto. Una discesa da incorniciare."
+      },
+      {
+        "observedAt": "2024-03-27",
+        "words": "Giorno feriale, il canale era tutto per me e un amico. In alto un po' di vento aveva lavorato la neve e la superficie era dura per i primi trenta metri, poi si apriva. Ho preferito scendere con gli sci agganciati ben stretti."
+      },
+      {
+        "observedAt": "2024-04-14",
+        "words": "Domenica di aprile con qualche nuvola, caldo e tanta gente in salita già dalle sette. Il fondo era trasformato e ci siamo tolti le pelli subito. All'imbocco del canale hanno messo un cartello con il bollettino del giorno, ottima cosa."
+      },
+      {
+        "observedAt": "2024-05-04",
+        "words": "Neve tardiva, ma in alto c'era ancora tanto. Dalla cima il canale era una striscia bianca senza rocce scoperte. Nel tratto basso era già primavera piena, con erba e ruscelli."
+      },
+      {
+        "observedAt": "2025-02-22",
+        "words": "Sabato freddo e secco. Un metro di neve caduta in settimana e il canale era carico: siamo saliti ma non siamo scesi dal canale, abbiamo sciato il pendio a lato. Il rischio valanghe era alto e abbiamo scelto la prudenza."
+      },
+      {
+        "observedAt": "2025-03-16",
+        "words": "Domenica con cielo tersissimo e Monte Rosa che brillava. Neve compatta nel canale, portante e sicura. Il restringimento è più comodo di quanto ricordassi, qualcuno ha pulito le rocce dai sassi."
+      },
+      {
+        "observedAt": "2025-04-10",
+        "words": "Giovedì mattina presto, partiti alle sei dagli impianti. Neve gelata dalla notte fino alle otto, poi in trasformazione. Con i ramponi si saliva bene, in discesa il ghiaccio all'inizio ha richiesto attenzione."
+      },
+      {
+        "observedAt": "2025-04-26",
+        "words": "Sabato di sole con fusione rapida: alle undici il canale era già molle e pesante. Si vedono le prime rocce affiorare nel restringimento, quindi chi viene dopo questo periodo avrà poca neve in quel punto."
+      },
+      {
+        "observedAt": "2026-02-14",
+        "words": "Neve ottima dopo la nevicata di martedì: polvere leggera nel canale, senza tracce fino alle dieci. Un lastrone si è staccato a lato mentre salivamo, piccolo ma abbastanza da ricordare di non scherzare con il bollettino."
+      },
+      {
+        "observedAt": "2026-03-08",
+        "words": "Domenica piena di gente, ma il canale è largo e c'era posto per tutti. Il sole in alto ha ammorbidito la neve già alle dieci. Sul fondovalle la neve finiva presto e abbiamo camminato venti minuti con gli sci in mano."
+      },
+      {
+        "observedAt": "2026-04-01",
+        "words": "Mercoledì di aprile, pochi in giro e la neve in ottime condizioni, mezza polvere mezza primavera. Siamo scesi con calma nel tratto stretto e poi abbiamo schiacciato il pedale nella parte larga. Birra a Gressoney dopo."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve da primavera trasformata",
+          "quote": "Alle dieci era perfetta, alle undici già pesante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "nessuno in giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Polvere dopo la nevicata",
+          "quote": "venti centimetri di polvere nel canale"
+        },
+        {
+          "label": "Accumuli da vento",
+          "quote": "un lastrone in alto sotto la cresta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollato nel weekend",
+          "quote": "dodici persone in salita"
+        },
+        {
+          "label": "Tracce di altri sul pendio",
+          "quote": "Il canale era già tutto rigato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Restringimento a metà discesa",
+          "quote": "Il tratto stretto del canale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve da primavera trasformata",
+          "quote": "La neve era molle e a tratti a chiazze"
+        },
+        {
+          "label": "Partenza all'alba",
+          "quote": "Siamo partiti alle sei"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Visibilità scarsa in nebbia",
+          "quote": "non si vedeva niente oltre i dieci metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Restringimento a metà discesa",
+          "quote": "nel tratto stretto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "il canale era tutto per me e un amico"
+        },
+        {
+          "label": "Accumuli da vento",
+          "quote": "un po' di vento aveva lavorato la neve"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello del bollettino valanghe",
+          "kind": "novita",
+          "quote": "All'imbocco del canale hanno messo un cartello con il bollettino del giorno"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Accumuli da vento",
+          "quote": "il canale era carico"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Restringimento a metà discesa",
+          "quote": "Il restringimento è più comodo di quanto ricordassi"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Rocce pulite nel restringimento",
+          "kind": "novita",
+          "quote": "qualcuno ha pulito le rocce dai sassi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Ramponi in salita",
+          "quote": "Con i ramponi si saliva bene"
+        },
+        {
+          "label": "Neve da primavera trasformata",
+          "quote": "Neve gelata dalla notte fino alle otto, poi in trasformazione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Restringimento a metà discesa",
+          "quote": "le prime rocce affiorare nel restringimento"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Polvere dopo la nevicata",
+          "quote": "polvere leggera nel canale"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Distacchi di lastroni nel canale",
+          "kind": "attenzione",
+          "quote": "Un lastrone si è staccato a lato mentre salivamo"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollato nel weekend",
+          "quote": "Domenica piena di gente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "pochi in giro"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

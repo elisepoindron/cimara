@@ -1,0 +1,300 @@
+{
+  "osm": "n12947335859",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "localita_partenza"
+  ],
+  "itinerary": {
+    "key": "falesia-di-moiola-settore-placca-degli-scorpioni",
+    "activity": "falesia",
+    "place": "comune-004123",
+    "name": "Falesia di Moiola settore Placca degli Scorpioni",
+    "lat": 44.32522,
+    "lon": 7.38699,
+    "aspect": "SE",
+    "altMax": 928,
+    "facts": {
+      "esposizione": "SE",
+      "quota_base": 928,
+      "avvicinamento": 10,
+      "localita_partenza": "Moiola"
+    },
+    "sections": {
+      "note": "La Placca degli Scorpioni è il settore facile del gruppo di Moiola: sei vie su una placca di calcare chiaro a 930 metri, esposta a sud-est, dal 4a al 5b. La roccia è liscia ma aderente, con piccole tacche e tanti piedi, e la chiodatura è vicina e rassicurante, anche per chi sale da primo per la prima volta.\n\nIl sole arriva alle nove e resta fin dopo le due; d'estate è più comodo tornare nel pomeriggio, quando la placca va in ombra. Alla base c'è un po' di erba e qualche ginepro; attenti a qualche piccolo scorpione che si nasconde sotto i sassi, come il nome indica.",
+      "avvicinamento": "Dalla sterrata si segue un sentiero in costa verso est per dieci minuti scarsi: i primi tornanti sono su roccette facili, poi si arriva alla base della placca."
+    },
+    "parts": [
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "Primo Passo",
+          "grado": "4a",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "Zampa di Ragno",
+          "grado": "4a+",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "Il Pungiglione",
+          "grado": "4b",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "Scorpioncino",
+          "grado": "4c",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "La Coda",
+          "grado": "5a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Placca",
+        "fields": {
+          "nome": "Veleno Dolce",
+          "grado": "5b",
+          "lunghezza": 18
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-05-21",
+        "words": "Portato mio nipote di nove anni a fare le prime vie: placca rassicurante e vie facili per bambini con soste comode. Sole bello dalle nove."
+      },
+      {
+        "observedAt": "2022-06-03",
+        "words": "Pomeriggio di giugno quando la placca va in ombra e il fresco sale: abbiamo scalato fino alle sette. Un lucertolone enorme ci ha seguito dalla base."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Settembre, aria tersa. Abbiamo fatto tutte e sei le vie e poi siamo saliti nei settori vicini. Sole sul calcare dal mattino ma senza fretta."
+      },
+      {
+        "observedAt": "2023-03-11",
+        "words": "Primi tepori di marzo, calcare ancora un po' freddo nei primi metri. Con la chiodatura vicina anche chi sale da primo per la prima volta si sente tranquillo."
+      },
+      {
+        "observedAt": "2023-04-06",
+        "words": "Giornata di vacanza, il sentiero pieno di fiorellini gialli e silenzio. Ci siamo arrampicati su Il Pungiglione e Scorpioncino per tenere l'allenamento."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Fa caldo fin dalle dieci, la placca prende il sole fino a tardi e scotta. Meglio salire nel tardo pomeriggio."
+      },
+      {
+        "observedAt": "2023-10-01",
+        "words": "Placca facile e bella per i bambini: mia figlia ha fatto La Coda con l'assicurazione della mamma. Un piccolo scorpione sotto un sasso alla base, giusto per rispettare il nome."
+      },
+      {
+        "observedAt": "2024-02-02",
+        "words": "Febbraio, giornata fredda ma con il sole sulla placca dalle nove. Ho fatto un giro solitario con la corda tirata su. Nessuno in zona."
+      },
+      {
+        "observedAt": "2024-04-20",
+        "words": "Giornata affollata di bambini e genitori: non è un posto da weekend tranquillo, c'è sempre qualche famiglia. Divertente, ma bisogna aspettare la partenza."
+      },
+      {
+        "observedAt": "2024-06-09",
+        "words": "Abbiamo tenuto una lezione di autoassicurazione per due principianti: la placca è sicura, le soste sono pulite. Hanno messo un cartello che vieta di accendere fuochi nella zona."
+      },
+      {
+        "observedAt": "2024-08-01",
+        "words": "Giornata calda e secca, nessun vento. La roccia scottava già alle nove, siamo andati via dopo due vie."
+      },
+      {
+        "observedAt": "2024-10-12",
+        "words": "Una cordata ci ha detto che la sosta della Zampa di Ragno era un po' arrugginita. La catena di Zampa di Ragno è arrugginita, meglio non fidarsi del solo anello, si può usare l'altra via accanto."
+      },
+      {
+        "observedAt": "2024-12-01",
+        "words": "Dicembre con sole piacevole, giacca fuori dopo mezz'ora. Placca semplice, perfetta per fare gli scambi di capocordata senza stress."
+      },
+      {
+        "observedAt": "2025-03-01",
+        "words": "Visita di mezza giornata con una guida alpina che portava un gruppetto di ragazzi: tutto organizzato, la placca ha retto bene per ore. Il sentiero era umido in basso."
+      },
+      {
+        "observedAt": "2025-05-07",
+        "words": "La mattina dopo la pioggia, tutto asciutto: la placca è esposta bene. Io ho fatto Veleno Dolce da primo e sono stato soddisfatto del grado."
+      },
+      {
+        "observedAt": "2025-07-20",
+        "words": "Abbiamo provato nel tardo pomeriggio, quando il caldo cede. I bambini hanno mangiato gelato al ritorno. La placca ora ha qualche piccolo appiglio levigato dal passaggio."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "La catena di Zampa di Ragno è stata cambiata, ora è nuova e lucida. Tutto bene sul resto, chiodatura vicina come sempre."
+      },
+      {
+        "observedAt": "2026-04-18",
+        "words": "Primavera piena, il prato alla base è pieno di margherite. Sole presto, fresco il sentiero, e abbiamo fatto una dopo l'altra tutte le vie con calma."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Vie facili per bambini",
+          "quote": "vie facili per bambini"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lucertole e rettili",
+          "quote": "Un lucertolone enorme ci ha seguito dalla base"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole al mattino",
+          "quote": "Sole sul calcare dal mattino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura vicina",
+          "quote": "chiodatura vicina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "la placca prende il sole fino a tardi e scotta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie facili per bambini",
+          "quote": "bella per i bambini"
+        },
+        {
+          "label": "Scorpioni sotto i sassi",
+          "quote": "Un piccolo scorpione sotto un sasso alla base"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Famiglie nel weekend",
+          "quote": "non è un posto da weekend tranquillo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuovo cartello di divieto di fuoco",
+          "kind": "novita",
+          "quote": "Hanno messo un cartello che vieta di accendere fuochi nella zona"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Troppo caldo d'estate",
+          "quote": "La roccia scottava già alle nove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sosta di Zampa di Ragno arrugginita",
+          "kind": "attenzione",
+          "quote": "La catena di Zampa di Ragno è arrugginita, meglio non fidarsi del solo anello"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Corsi con guida",
+          "quote": "Visita di mezza giornata con una guida alpina che portava un gruppetto di ragazzi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura vicina",
+          "quote": "chiodatura vicina"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Sosta di Zampa di Ragno arrugginita",
+          "kind": "attenzione",
+          "quote": "La catena di Zampa di Ragno è stata cambiata"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

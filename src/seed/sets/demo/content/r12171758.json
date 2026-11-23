@@ -1,0 +1,262 @@
+{
+  "osm": "r12171758",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d46",
+    "activity": "escursionismo",
+    "place": "comune-004077",
+    "name": "Via Alpina Blue D46",
+    "lat": 44.70089,
+    "lon": 7.09626,
+    "facts": {
+      "difficolta": "EE",
+      "dislivello": 973,
+      "localita_partenza": "Pian del Re",
+      "come_arrivare": "Da Crissolo la strada sale in alta Valle Po fino a Pian del Re, dove nasce il fiume: parcheggio grande ma d'estate affollato. Il Refuge du Viso è in Francia e non è raggiungibile in auto da questo lato, quindi serve un rientro organizzato."
+    },
+    "sections": {
+      "descrizione": "Tappa transfrontaliera della Via Alpina Blu: da Pian del Re, sulla sorgente del Po, fino al Refuge du Viso, in territorio francese, circa 8 km con 973 m di salita e 535 di discesa. Si passa per il famoso tunnel scavato nella roccia, il Buco di Viso, uno dei punti più singolari delle Alpi occidentali.\n\nIl percorso sale lungo i laghi alpini, in un ambiente di alta quota dominato dal Monviso, poi attraversa il passaggio di confine e scende sul versante opposto fino al rifugio. Il fondo è sentiero di pietre e roccette, con qualche tratto esposto.\n\nIl periodo è da luglio a settembre, con la neve che può resistere fino a metà luglio nel tunnel. È una tappa impegnativa ma una delle più emozionanti di tutta la traversata."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-23",
+        "words": "Il Buco di Viso è una galleria scavata a mano nella roccia, buia ma breve: passarci con la frontale è un'esperienza da non perdere."
+      },
+      {
+        "observedAt": "2022-08-13",
+        "words": "Partiti da Pian del Re all'alba con il Monviso rosa. La sorgente del Po e poi su per i laghi, uno dopo l'altro."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Salita lunga e regolare, ma al passaggio di confine l'ambiente cambia di colpo: più aspro, più grande, meno verde."
+      },
+      {
+        "observedAt": "2023-07-17",
+        "words": "Mercoledì e già qualche gruppo davanti a noi sul sentiero. Ma il Buco di Viso aspetta tutti con la stessa pazienza."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Dall'altra parte del tunnel si vede già la valle francese e il rifugio laggiù, piccolo sul prato. La discesa si fa in fretta."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Neve nel tunnel ancora a metà luglio: un tratto di ghiaccio all'uscita, abbiamo usato i ramponcini e passato uno alla volta."
+      },
+      {
+        "observedAt": "2023-09-10",
+        "words": "Il sentiero è un nastro di pietre sempre in vista del Monviso, che sembra non avvicinarsi mai e poi è tutto addosso."
+      },
+      {
+        "observedAt": "2024-07-18",
+        "words": "Giorno feriale, ma la strada per Pian del Re era già piena di auto a metà mattina. Meglio arrivare presto."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Un tratto roccioso poco sotto la galleria è esposto ma attrezzato con una vecchia catena: nulla di difficile, basta attenzione."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Al rifugio francese servono un pasto semplice e una birra a prezzi onesti. Il dormitorio pieno, ma silenzioso."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Documento d'identità nello zaino, per prudenza: non ci hanno chiesto nulla ma si attraversa un confine."
+      },
+      {
+        "observedAt": "2025-08-04",
+        "words": "Giovedì di luce perfetta. Ai piedi del Buco di Viso un gruppetto aspettava il turno, noi abbiamo atteso cinque minuti."
+      },
+      {
+        "observedAt": "2025-08-23",
+        "words": "Quest'anno hanno posato una scaletta di metallo all'ingresso del tunnel dal lato italiano: si sale senza arrampicare."
+      },
+      {
+        "observedAt": "2025-09-13",
+        "words": "Parcheggio di Pian del Re pieno già alle sette in agosto: tre chilometri a piedi in più per chi arriva tardi."
+      },
+      {
+        "observedAt": "2026-07-18",
+        "words": "Nel tratto sopra l'ultimo lago una sezione del sentiero è crollata e si passa su una striscia di terra stretta. Con le racchette stringete le mani."
+      },
+      {
+        "observedAt": "2026-08-03",
+        "words": "Nuvole sul Monviso a mezza mattina e un po' di vento forte nel tunnel. Per fortuna dentro era riparato."
+      },
+      {
+        "observedAt": "2026-08-22",
+        "words": "Marmotte lungo tutta la salita, una con un fischio acutissimo vicino al laghetto. Il rifugio sembrava un miraggio."
+      },
+      {
+        "observedAt": "2026-09-12",
+        "words": "Discesa verso il Refuge du Viso lunga e sassosa, con i polpacci che gridavano. Ma l'arrivo valeva tutta la fatica."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Buco di Viso",
+          "quote": "Il Buco di Viso è una galleria scavata a mano nella roccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Laghi e Monviso",
+          "quote": "uno dopo l'altro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passaggio di confine",
+          "quote": "al passaggio di confine l'ambiente cambia di colpo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Buco di Viso",
+          "quote": "il Buco di Viso aspetta tutti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passaggio di confine",
+          "quote": "la valle francese e il rifugio laggiù"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve nel tunnel",
+          "quote": "Neve nel tunnel ancora a metà luglio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Laghi e Monviso",
+          "quote": "Monviso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio affollato a Pian del Re",
+          "quote": "la strada per Pian del Re era già piena di auto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratti esposti",
+          "quote": "Un tratto roccioso poco sotto la galleria è esposto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Refuge du Viso",
+          "quote": "Al rifugio francese servono un pasto semplice"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Passaggio di confine",
+          "quote": "si attraversa un confine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Buco di Viso",
+          "quote": "Ai piedi del Buco di Viso un gruppetto aspettava il turno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Scaletta nuova al Buco di Viso",
+          "kind": "novita",
+          "quote": "hanno posato una scaletta di metallo all'ingresso del tunnel"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio affollato a Pian del Re",
+          "quote": "Parcheggio di Pian del Re pieno già alle sette"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto del sentiero crollato sopra il lago",
+          "kind": "attenzione",
+          "quote": "una sezione del sentiero è crollata"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve nel tunnel",
+          "quote": "un po' di vento forte nel tunnel"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratti esposti",
+          "quote": "Discesa verso il Refuge du Viso lunga e sassosa"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

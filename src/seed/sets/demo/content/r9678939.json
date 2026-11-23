@@ -1,0 +1,268 @@
+{
+  "osm": "r9678939",
+  "invented": [
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "alta-via-n-1-della-valle-d-aosta-tappa-16",
+    "activity": "escursionismo",
+    "place": "comune-007064",
+    "name": "Alta Via n. 1 della Valle d'Aosta - Tappa 16",
+    "lat": 45.8379,
+    "lon": 7.08488,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 430,
+      "partenza": 2540,
+      "vetta": 2970,
+      "localita_partenza": "Rifugio Frassati",
+      "come_arrivare": "Il Rifugio Frassati si raggiunge a piedi da Saint-Rhémy-en-Bosses, in circa quattro ore. L'arrivo al Rifugio Bonatti, in Val Ferret, richiede un rientro organizzato in auto o con i mezzi locali."
+    },
+    "sections": {
+      "descrizione": "Sedicesima tappa dell'Alta Via n. 1 della Valle d'Aosta: dal Rifugio Frassati (2.540 m) al Rifugio Bonatti (2.025 m), circa 7,5 km con 430 m di salita e 903 di discesa. Dal rifugio si sale a un colle, poi si scende sull'altro versante, in una valle dominata dal massiccio del Monte Bianco.\n\nIl tratto in salita è breve ma su terreno sassoso e pendente. La discesa è lunga e varia: prima pietraie, poi pascoli, infine il bosco fino al rifugio. I panorami sul Monte Bianco, con le Grandes Jorasses sullo sfondo, sono tra i più celebri della regione.\n\nIl periodo va da fine giugno a metà settembre. È una tappa più breve delle altre, adatta a chi ha voglia di godersi la vista senza fretta."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-10",
+        "words": "Dal Frassati al colle con il sole in faccia, poi il Monte Bianco compare tutto di colpo. Sono rimasto a bocca aperta per dieci minuti."
+      },
+      {
+        "observedAt": "2022-08-13",
+        "words": "Salita breve, discesa lunga: i numeri dicono tutto. I quattrocento metri in su si fanno con calma, quelli in giù sono la vera fatica."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Il Bonatti è un rifugio con il panorama più bello della valle: ci siamo fermati due ore sul prato davanti."
+      },
+      {
+        "observedAt": "2023-07-07",
+        "words": "Giovedì feriale e un cielo di cristallo. Sul colle una coppia di stambecchi imperturbabili, quasi in posa per le foto."
+      },
+      {
+        "observedAt": "2023-07-30",
+        "words": "Un nevaio residuo sul versante nord del colle a inizio luglio, ancora duro in mattinata. Con i ramponcini nessun problema."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Dopo il colle le pietraie sono lunghe e si scende su pietre mobili: meglio concentrati e con i bastoncini."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Giornata ventosa al colle, il cappello mi è volato via per dieci metri. Poi calma assoluta nel bosco sotto."
+      },
+      {
+        "observedAt": "2024-07-10",
+        "words": "Giovedì di ferie e quasi tutta la tappa in solitudine. Il silenzio del colle con il Bianco davanti è impagabile."
+      },
+      {
+        "observedAt": "2024-08-10",
+        "words": "Il bosco finale prima del Bonatti profuma di resina. I campanacci delle mucche nei pascoli di Val Ferret ci hanno accompagnato."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Tappa più corta rispetto alla precedente, perfetta per camminare con calma e fermarsi a leggere il paesaggio."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Nebbia alta dopo il colle: la discesa si è fatta seguendo i segni gialli sulla roccia. Il Monte Bianco, ahimè, era nascosto."
+      },
+      {
+        "observedAt": "2025-07-30",
+        "words": "Marmotte a decine sul pendio dopo il colle, una addirittura sul sentiero. Ci siamo fermati un quarto d'ora a guardarle."
+      },
+      {
+        "observedAt": "2025-08-23",
+        "words": "Lungo il tratto più ripido della discesa hanno sistemato una catena nuova per aiutarsi sui passi esposti."
+      },
+      {
+        "observedAt": "2025-09-14",
+        "words": "Scarpe da trekking rigide consigliate: i sassi sono taglienti. Ho visto qualcuno con le scarpe da ginnastica soffrire parecchio."
+      },
+      {
+        "observedAt": "2026-07-11",
+        "words": "Un temporale nel pomeriggio ci ha sorpresi in discesa, a metà strada dal Bonatti. Per fortuna il bosco ha dato riparo."
+      },
+      {
+        "observedAt": "2026-07-30",
+        "words": "Dopo le piogge di agosto un tratto del sentiero sotto il colle è stato spazzato via: si passa su una nuova traccia a monte, segnalata con bandierine rosse."
+      },
+      {
+        "observedAt": "2026-08-22",
+        "words": "Una tappa breve, ma al Bonatti ci siamo fermati comunque a dormire. Vista serale sulle Grandes Jorasses da incorniciare."
+      },
+      {
+        "observedAt": "2026-09-19",
+        "words": "A fine settembre il colle aveva già la brina al mattino. Faceva freddo, ma il cielo era limpidissimo."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Vista sul Monte Bianco",
+          "quote": "il Monte Bianco compare tutto di colpo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "quelli in giù sono la vera fatica"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Bonatti",
+          "quote": "Il Bonatti è un rifugio con il panorama più bello della valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna al colle",
+          "quote": "una coppia di stambecchi imperturbabili"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Un nevaio residuo sul versante nord del colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie nella discesa",
+          "quote": "si scende su pietre mobili"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento al colle",
+          "quote": "il cappello mi è volato via"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Monte Bianco",
+          "quote": "il Bianco davanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Bonatti",
+          "quote": "I campanacci delle mucche nei pascoli di Val Ferret"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa breve",
+          "quote": "Tappa più corta rispetto alla precedente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica Alta Via 1",
+          "quote": "seguendo i segni gialli sulla roccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna al colle",
+          "quote": "Marmotte a decine sul pendio dopo il colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena nuova nella discesa",
+          "kind": "novita",
+          "quote": "hanno sistemato una catena nuova per aiutarsi sui passi esposti"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietraie nella discesa",
+          "quote": "i sassi sono taglienti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Un temporale nel pomeriggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Tratto sotto il colle spostato",
+          "kind": "attenzione",
+          "quote": "un tratto del sentiero sotto il colle è stato spazzato via"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio Bonatti",
+          "quote": "Vista serale sulle Grandes Jorasses"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento al colle",
+          "quote": "il colle aveva già la brina al mattino"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

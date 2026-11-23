@@ -1,0 +1,493 @@
+{
+ "osm": "w1473636975",
+ "invented": [
+  "avvicinamento",
+  "localita_partenza",
+  "parcheggio_nota",
+  "vie",
+  "description",
+  "reports"
+ ],
+ "itinerary": {
+  "key": "falesia-storica-di-camoglieres",
+  "activity": "falesia",
+  "place": "comune-004112",
+  "name": "Falesia storica di Camoglieres",
+  "lat": 44.50396,
+  "lon": 7.19116,
+  "aspect": "SE",
+  "altMax": 1091,
+  "facts": {
+   "esposizione": "SE",
+   "quota_base": 1091,
+   "avvicinamento": 5,
+   "localita_partenza": "Macra",
+   "parcheggio_nota": "Spiazzo all'inizio della strada sterrata, per quattro o cinque macchine; non occupare le strade dei contadini."
+  },
+  "sections": {
+   "note": "La falesia storica di Camoglieres è uno dei primi luoghi dove si è arrampicato in Val Maira. Sta a circa 1100 metri, sopra Macra, rivolta a sud-est, su un calcare grigio e compatto con tante gocce e buchi. Le vie sono corte, dieci-quindici metri, ma intense, dal 4a al 7c: tanti tiri brevi in cui si lavora sulla fatica e sulle dita.\n\nIl calcare è lavorato dall'acqua: tacche, piccole colonnine, pance. Gli spit sono ravvicinati e le vie, rivedute più volte negli anni, sono sicure anche sui passi duri. Il sole arriva la mattina e ci rimane fino a metà pomeriggio, quindi in estate si scala presto o al tramonto.\n\nAlla base c'è un prato in lieve pendenza, comodo per sedersi e lasciare i bambini. Non ci sono molti settori ma le vie sono quasi trenta.",
+   "avvicinamento": "Si lascia l'auto lungo la strada sterrata e si segue una traccia nel prato fino alla base delle pareti: cinque minuti, facile anche con i bambini."
+  },
+  "parts": [
+   {
+    "group": "Prato",
+    "fields": {
+     "nome": "Primo Passo",
+     "grado": "4a",
+     "lunghezza": 10
+    }
+   },
+   {
+    "group": "Prato",
+    "fields": {
+     "nome": "Gradino Facile",
+     "grado": "4b",
+     "lunghezza": 11
+    }
+   },
+   {
+    "group": "Prato",
+    "fields": {
+     "nome": "La Gocciolina",
+     "grado": "4c",
+     "lunghezza": 12
+    }
+   },
+   {
+    "group": "Prato",
+    "fields": {
+     "nome": "Tacche di Nonno",
+     "grado": "5a",
+     "lunghezza": 12
+    }
+   },
+   {
+    "group": "Prato",
+    "fields": {
+     "nome": "Buchi e Basta",
+     "grado": "5a+",
+     "lunghezza": 12
+    }
+   },
+   {
+    "group": "Prato",
+    "fields": {
+     "nome": "Il Cecchino",
+     "grado": "5b",
+     "lunghezza": 13
+    }
+   },
+   {
+    "group": "Prato",
+    "fields": {
+     "nome": "Trottola",
+     "grado": "5c",
+     "lunghezza": 13
+    }
+   },
+   {
+    "group": "Pancia",
+    "fields": {
+     "nome": "Calcare Bianco",
+     "grado": "5c+",
+     "lunghezza": 14
+    }
+   },
+   {
+    "group": "Pancia",
+    "fields": {
+     "nome": "La Pancia",
+     "grado": "6a",
+     "lunghezza": 14
+    }
+   },
+   {
+    "group": "Pancia",
+    "fields": {
+     "nome": "Fuori Misura",
+     "grado": "6a+",
+     "lunghezza": 14
+    }
+   },
+   {
+    "group": "Pancia",
+    "fields": {
+     "nome": "Meridiana",
+     "grado": "6b",
+     "lunghezza": 15
+    }
+   },
+   {
+    "group": "Pancia",
+    "fields": {
+     "nome": "Sgocciolando",
+     "grado": "6b+",
+     "lunghezza": 15
+    }
+   },
+   {
+    "group": "Pancia",
+    "fields": {
+     "nome": "Il Camino Falso",
+     "grado": "6b",
+     "lunghezza": 14
+    }
+   },
+   {
+    "group": "Pancia",
+    "fields": {
+     "nome": "Dita Corte",
+     "grado": "6c",
+     "lunghezza": 15
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Storia Antica",
+     "grado": "6c+",
+     "lunghezza": 15
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Il Rinvio d'Oro",
+     "grado": "7a",
+     "lunghezza": 15
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Pugni nel Vento",
+     "grado": "7a+",
+     "lunghezza": 15
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "La Resistenza",
+     "grado": "7b",
+     "lunghezza": 15
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Maledetto Sole",
+     "grado": "7b+",
+     "lunghezza": 14
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Il Vecchio Lupo",
+     "grado": "7c",
+     "lunghezza": 15
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Rondine",
+     "grado": "6b+",
+     "lunghezza": 14
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Quattro Dita",
+     "grado": "6c",
+     "lunghezza": 14
+    }
+   },
+   {
+    "group": "Muro Alto",
+    "fields": {
+     "nome": "Corto e Cattivo",
+     "grado": "7a",
+     "lunghezza": 12
+    }
+   }
+  ],
+  "reports": [
+   {
+    "observedAt": "2022-03-20",
+    "words": "Falesia che mi era sfuggita per anni, e che invece è una piccola perla. Vie brevi, ma ogni movimento è una scelta, e la roccia asciutta nonostante la nebbia in valle."
+   },
+   {
+    "observedAt": "2022-04-27",
+    "words": "Mercoledì libero, siamo arrivati alle dieci e ci siamo stesi sul prato con la corda ancora in sacco. Poi quattro vie facili, due ore di sole e a casa."
+   },
+   {
+    "observedAt": "2022-06-11",
+    "words": "Calcare grigio, tacche e gocce: un'arrampicata di dita, non di braccia. I rinvii sono pochi ma servono tutti perché gli spit sono vicini."
+   },
+   {
+    "observedAt": "2022-07-16",
+    "words": "Sole dalle nove e per l'una la parete era un forno. Si può arrivare presto o a fine giornata, poi l'aria cala e si respira."
+   },
+   {
+    "observedAt": "2022-09-10",
+    "words": "Settembre perfetto: ho provato Il Rinvio d'Oro dopo un po' di allenamento. Il 7a è fisico e breve, tre rinvii e la sosta. Bello il tono del luogo, quasi familiare."
+   },
+   {
+    "observedAt": "2022-10-30",
+    "words": "Ottobre dorato, prato ancora verde e nessuna fretta. Con una bambina di sei anni che ha tirato la corda sulla via più facile, orgogliosissima."
+   },
+   {
+    "observedAt": "2023-03-18",
+    "words": "Le soste sono state rifatte quest'inverno: catene nuove, moschettoni belli grossi. Calcare un po' bagnato nei buchi dopo la pioggia, ma a mezzogiorno asciutto."
+   },
+   {
+    "observedAt": "2023-05-02",
+    "words": "Martedì, giorno festivo per me. Eravamo tre persone in tutta la falesia, tutto il resto del prato vuoto. Le vie medie sono le più belle, Meridiana in particolare."
+   },
+   {
+    "observedAt": "2023-06-24",
+    "words": "Un bel gruppo di ragazzi del posto, vie facili e musica bassa. Chiacchiere sul prato mentre si assicura, un'atmosfera da vecchio ritrovo."
+   },
+   {
+    "observedAt": "2023-08-19",
+    "words": "Evitate le ore centrali: in agosto serve essere in parete alle otto. Ci siamo rifugiati in un bar di Macra a metà pomeriggio. Buon calcare, qualche chiodo sul Muro Alto da controllare."
+   },
+   {
+    "observedAt": "2023-10-08",
+    "words": "Un tratto di sentiero franato all'inizio, si vede il ghiaione fresco: passate piano e tenetevi alla destra del prato. Dentro la falesia tutto ok, calcare asciutto."
+   },
+   {
+    "observedAt": "2024-03-31",
+    "words": "Pasqua, tanta gente, ma la falesia è piccola e tutti si muovono con garbo. Per le vie più dure serve fare la fila: La Resistenza ha avuto quattro tentativi dopo di me."
+   },
+   {
+    "observedAt": "2024-05-23",
+    "words": "Giovedì pomeriggio dopo l'ufficio. Sole in faccia fino alle sei, poi l'ombra sale e si scala comodi. Scarpette strette, dita felici: tacche piccole e aderenti."
+   },
+   {
+    "observedAt": "2024-07-06",
+    "words": "Sveglia presto, partiti alle sei, in parete alle sette. La mattina fresca vale tutto: a mezzogiorno stavamo già bevendo birra in paese."
+   },
+   {
+    "observedAt": "2024-09-21",
+    "words": "Nuove maglie sulla Pancia: la linea di rinvii è stata ripulita e riequipaggiata, con anelli inox. Bella la sensazione di sicurezza anche sul passo duro."
+   },
+   {
+    "observedAt": "2024-11-03",
+    "words": "Domenica quasi invernale: aria frizzante, sole pieno dalle dieci. Siamo rimasti in tre fino alle quattro, senza maglione, a ripetere Quattro Dita."
+   },
+   {
+    "observedAt": "2025-04-14",
+    "words": "Lunedì di aprile con un po' di vento, ma la parete è riparata. Due ore di scalata, due vie provate, nessun altro. Mi piace questo posto per il silenzio."
+   },
+   {
+    "observedAt": "2025-06-29",
+    "words": "Una famiglia con due bambini piccoli ha fatto base sul prato tutto il giorno. Mi ha ricordato com'era una volta, con tanta calma e nessuno che corre."
+   },
+   {
+    "observedAt": "2025-10-11",
+    "words": "Una vecchia via in Muro Alto ha un passo che non è cambiato dagli anni novanta: dura, scomoda, bella. Qui il grado non si discute mai."
+   },
+   {
+    "observedAt": "2026-03-28",
+    "words": "Marzo mite, prato fiorito e roccia perfetta. Una di quelle giornate in cui non si ha voglia di tornare in macchina. Il grado delle vie facili sembra generoso."
+   }
+  ]
+ },
+ "readings": [
+  {
+   "themes": [
+    {
+     "label": "Vie brevi e intense",
+     "quote": "Vie brevi, ma ogni movimento è una scelta"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Prato alla base",
+     "quote": "ci siamo stesi sul prato"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Calcare lavorato",
+     "quote": "Calcare grigio, tacche e gocce"
+    },
+    {
+     "label": "Chiodatura fitta",
+     "quote": "gli spit sono vicini"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole forte d'estate",
+     "quote": "per l'una la parete era un forno"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Vie brevi e intense",
+     "quote": "Il 7a è fisico e breve"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Adatta alle famiglie",
+     "quote": "una bambina di sei anni"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Calcare lavorato",
+     "quote": "Calcare un po' bagnato nei buchi"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Soste rifatte con catene nuove",
+     "kind": "novita",
+     "quote": "Le soste sono state rifatte quest'inverno"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "tre persone in tutta la falesia"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Prato alla base",
+     "quote": "Chiacchiere sul prato"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole forte d'estate",
+     "quote": "in agosto serve essere in parete alle otto"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Frana sul sentiero d'accesso",
+     "kind": "attenzione",
+     "quote": "Un tratto di sentiero franato all'inizio"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Affollata nelle feste",
+     "quote": "Pasqua, tanta gente"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Calcare lavorato",
+     "quote": "tacche piccole e aderenti"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Chiodatura fitta",
+     "quote": "anelli inox"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Spit sostituiti sulla Pancia",
+     "kind": "novita",
+     "quote": "Nuove maglie sulla Pancia"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "Siamo rimasti in tre"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "nessun altro"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Adatta alle famiglie",
+     "quote": "Una famiglia con due bambini piccoli"
+    },
+    {
+     "label": "Prato alla base",
+     "quote": "sul prato tutto il giorno"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Prato alla base",
+     "quote": "prato fiorito"
+    }
+   ],
+   "flags": []
+  }
+ ]
+}

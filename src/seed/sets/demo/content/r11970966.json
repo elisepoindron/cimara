@@ -1,0 +1,262 @@
+{
+  "osm": "r11970966",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d9",
+    "activity": "escursionismo",
+    "place": "comune-103001",
+    "name": "Via Alpina Blue D9",
+    "lat": 46.09579,
+    "lon": 8.07161,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 0,
+      "localita_partenza": "Rifugio Andolla",
+      "come_arrivare": "Il Rifugio Andolla si raggiunge a piedi dalla Valle Antrona, da un parcheggio in fondo alla strada. L'arrivo ad Antronapiana si raggiunge in discesa: il rientro in alto richiede un mezzo di appoggio o un trasferimento."
+    },
+    "sections": {
+      "descrizione": "Tappa di sola discesa della Via Alpina Blu in Valle Antrona: dal Rifugio Andolla ad Antronapiana, circa 8,5 km e oltre mille metri di dislivello in discesa. Dal rifugio, a oltre 2.000 metri, il sentiero scende tra pascoli, bosco e baite d'alpeggio verso il fondovalle.\n\nIl percorso è su sentiero e mulattiera, ben segnato, con qualche tratto ripido e sassoso. Si attraversano alcuni torrenti su ponticelli e si passa vicino a piccoli alpeggi con le mucche. L'ultima parte entra nel bosco e arriva al lago e al paese.\n\nIl periodo va da fine giugno a inizio ottobre. Essendo una discesa lunga, i bastoncini sono un aiuto prezioso per le ginocchia."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Colazione all'Andolla e via in discesa. Le prime due ore sono su pascoli aperti con le mucche e i campanacci."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Mille metri di discesa tutta d'un fiato. Le ginocchia ringraziano i bastoncini e il passo lento dell'ultima ora."
+      },
+      {
+        "observedAt": "2022-09-18",
+        "words": "Il bosco nell'ultima parte è fresco e ombroso, un sollievo dopo il sole dei pascoli. Si sente il torrente che accompagna."
+      },
+      {
+        "observedAt": "2023-07-10",
+        "words": "Martedì pomeriggio senza nessuno, solo due cani che abbaiavano da un'alpe. Ho camminato in silenzio per quasi tutto il tempo."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Un ponticello sul torrente un po' malconcio ma percorribile: tre assi, un corrimano. Meglio passare uno alla volta."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Arrivati in paese verso le tre, con le gambe stanche e una fame da lupi. Un'ottima polenta in un ristorante vicino alla piazza."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Il lago appare tra gli alberi quasi alla fine, immobile e verde. Fermarsi due minuti per capire dove si è."
+      },
+      {
+        "observedAt": "2024-07-12",
+        "words": "Mercoledì di agosto con cielo velato. Il sentiero è così ben segnato che si cammina senza consultare nulla."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Nel primo tratto un po' di fango dopo la pioggia notturna. Con le scarpe adatte nessun problema."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Capre di montagna sul pendio sopra l'alpeggio, ferme a guardarci. Sono scomparse dietro un dosso appena ci siamo avvicinati."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Lunghe discese come questa si pagano al mattino dopo: polpacci duri e ginocchia gonfie. Ma ne è valsa la pena."
+      },
+      {
+        "observedAt": "2025-08-04",
+        "words": "Giovedì di ferie, nessuno. La luce del mattino sul pendio opposto era dorata e netta."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Dopo la tempesta di giugno una frana ha chiuso il sentiero nel bosco basso: segnalata una deviazione di duecento metri su una traccia nuova."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Il ponticello è stato sostituito in primavera con uno nuovo in acciaio e legno: solido, con ringhiere. Un vero progresso."
+      },
+      {
+        "observedAt": "2026-07-11",
+        "words": "Giornata tersa, l'aria ancora fredda all'alba. Alle otto il sole era già alto sul crinale."
+      },
+      {
+        "observedAt": "2026-08-03",
+        "words": "Alpeggio con formaggio fresco venduto da una pastora: ne abbiamo comprato due forme per il rientro. Un tocco di sapore locale."
+      },
+      {
+        "observedAt": "2026-08-29",
+        "words": "Lago di Antrona alla fine, e il paese lì davanti. Ci siamo concessi un bagno di piedi nell'acqua gelida."
+      },
+      {
+        "observedAt": "2026-09-26",
+        "words": "Autunno avanzato, bosco giallo e rosso e prime brinate. La discesa è più lunga con il buio che arriva presto."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Alpeggi e mucche",
+          "quote": "le mucche e i campanacci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "Mille metri di discesa tutta d'un fiato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco e torrente",
+          "quote": "Il bosco nell'ultima parte è fresco e ombroso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero poco frequentato",
+          "quote": "Ho camminato in silenzio per quasi tutto il tempo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ponticelli sul torrente",
+          "quote": "Un ponticello sul torrente un po' malconcio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo ad Antronapiana",
+          "quote": "Arrivati in paese verso le tre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lago all'arrivo",
+          "quote": "Il lago appare tra gli alberi quasi alla fine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica chiara",
+          "quote": "Il sentiero è così ben segnato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna lungo il sentiero",
+          "quote": "Capre di montagna sul pendio sopra l'alpeggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "Lunghe discese come questa si pagano al mattino dopo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero poco frequentato",
+          "quote": "nessuno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Deviazione per frana nel bosco",
+          "kind": "attenzione",
+          "quote": "una frana ha chiuso il sentiero nel bosco basso"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Ponticelli sul torrente",
+          "quote": "Il ponticello è stato sostituito in primavera"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Ponte nuovo sul torrente",
+          "kind": "novita",
+          "quote": "Il ponticello è stato sostituito in primavera con uno nuovo in acciaio e legno"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Alpeggi e mucche",
+          "quote": "Alpeggio con formaggio fresco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Lago all'arrivo",
+          "quote": "Lago di Antrona alla fine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bosco e torrente",
+          "quote": "bosco giallo e rosso"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

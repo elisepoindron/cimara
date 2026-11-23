@@ -1,0 +1,303 @@
+{
+  "osm": "w144824382",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "ferrata-dei-funs-ico-quaranta",
+    "activity": "via_ferrata",
+    "place": "comune-004084",
+    "name": "Ferrata dei Funs \"Ico Quaranta\"",
+    "lat": 44.24411,
+    "lon": 7.42803,
+    "altMax": 1191,
+    "facts": {},
+    "sections": {
+      "descrizione": "Una ferrata di media montagna sopra Entracque, in Valle Gesso, dedicata a una persona del posto. Il primo punto attrezzato è a poco più di mille metri, quindi si fa in una stagione lunga, da aprile fino a novembre, ed è una delle prime del Cuneese a liberarsi dalla neve.\n\nIl grado è moderato: cavi, staffe e qualche pedale su pareti verticali ma ben appigliate, senza strapiombi. È un buon banco di prova per chi ha già fatto una via attrezzata corta e vuole qualcosa di più lungo, ma anche per chi cerca una mezza giornata di movimento senza l'impegno dell'alta quota.\n\nSi porta il kit completo, casco e guanti. In caso di pioggia la roccia diventa scivolosa e conviene rinunciare.",
+      "avvicinamento": "Dal paese si raggiunge in macchina il parcheggio più vicino alla partenza e da lì si segue un sentiero ben segnato fino all'attacco, in meno di mezz'ora."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-04-09",
+        "words": "Prima ferrata della stagione e prima uscita dopo un lungo inverno. Roccia asciutta, cavi puliti, e un'aria ancora fresca all'ombra. L'avvicinamento è breve, in venti minuti eravamo imbragati."
+      },
+      {
+        "observedAt": "2022-05-14",
+        "words": "Giornata tiepida e un po' di gente: abbiamo aspettato dieci minuti prima di partire per non stare sotto altri. I passaggi verticali hanno staffe ben messe, si procede senza forzare."
+      },
+      {
+        "observedAt": "2022-06-21",
+        "words": "Martedì pomeriggio, caldo di inizio estate ma al fresco della parete. Ho portato un amico alla prima ferrata e ha apprezzato: nessun passo duro, solo ben concentrato. Per chi comincia è perfetta."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Sulla via del ritorno ha cominciato a piovere e le staffe diventavano lisce come sapone. Meglio saperlo: con la roccia umida qui si scivola. In compenso, in fondo alla valle c'erano già i colori d'autunno."
+      },
+      {
+        "observedAt": "2022-11-05",
+        "words": "Ultima uscita dell'anno prima che arrivi il freddo vero. Giornata secca, parete in ombra con un po' di brina sui cavi. Pochi gradi ma si sale bene, e a mezzogiorno il sole è arrivato."
+      },
+      {
+        "observedAt": "2023-04-15",
+        "words": "Primo giro con il nuovo kit. Abbiamo trovato i cavi tesi e puliti, la ferrata è stata sistemata in primavera e si vede. Avvicinamento comodo sotto il bosco."
+      },
+      {
+        "observedAt": "2023-05-17",
+        "words": "Mercoledì libero, parete deserta. Non pensavo di trovare così poca gente a metà maggio. Il tratto centrale è un po' impegnativo con il caldo e lo zaino pesante, ma niente di serio."
+      },
+      {
+        "observedAt": "2023-07-30",
+        "words": "Pomeriggio caldo, siamo partiti troppo tardi e abbiamo sofferto. Meglio la mattina presto: la parete prende il sole dopo pranzo. Alla fine due gelati in paese per rimettersi in sesto."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Sabato di ottobre, giornata perfetta e un po' di coda al primo tratto. Con la luce d'autunno il bosco in basso è un'altra cosa. Roccia asciutta e solida."
+      },
+      {
+        "observedAt": "2024-04-27",
+        "words": "Di nuovo in zona per la prima di stagione. All'attacco hanno messo un cartello nuovo con le indicazioni e il numero per le emergenze, cosa utile. Roccia fredda, cavo leggermente ruvido di ruggine all'inizio."
+      },
+      {
+        "observedAt": "2024-05-30",
+        "words": "Giovedì di ferie, e per fortuna la ferrata non è così nota da essere in coda. Abbiamo fatto tutto con calma in due ore e mezza, con una sosta per mangiare in cima."
+      },
+      {
+        "observedAt": "2024-06-23",
+        "words": "Ci siamo accorti che un ancoraggio vicino al terzo salto vibrava un po' sotto il peso: lo abbiamo segnalato al ritorno. Per il resto, ferrata solida e piacevole, con il rumore del torrente in fondo."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Con il caldo di agosto siamo saliti alle otto e già c'era gente davanti. Non è un posto che si fa in solitudine nel weekend. Ma il panorama sulla valle ripaga la coda."
+      },
+      {
+        "observedAt": "2024-10-09",
+        "words": "Mercoledì di ottobre, silenzio quasi totale. Foglie gialle sul sentiero di avvicinamento, che è corto e piacevole. Parete asciutta e luminosa nelle ore centrali."
+      },
+      {
+        "observedAt": "2025-04-05",
+        "words": "Il tratto iniziale era ancora bagnato dalla notte e le staffe tenevano un velo d'acqua. Siamo andati piano. Mi dispiace per chi sale senza guanti, il cavo è freddo."
+      },
+      {
+        "observedAt": "2025-06-14",
+        "words": "Bambini di dodici anni, prima ferrata per loro, e se la sono cavata benissimo con le longe corte. Una ferrata ideale per iniziare: niente di strapiombante, tutto sotto controllo."
+      },
+      {
+        "observedAt": "2025-09-07",
+        "words": "Settembre soleggiato. Qualche escursionista scendeva dal sentiero parallelo e ci ha guardati un po' stupiti. Sul tratto centrale il cavo nuovo che hanno aggiunto rende più sicuro un passaggio che prima era un po' esposto."
+      },
+      {
+        "observedAt": "2025-11-02",
+        "words": "Fine stagione, ci siamo regalati una giornata libera prima dell'inverno. Pochi gradi, ma il bosco in basso è ancora dorato. Dieci minuti di sentiero e poi la ferrata, che ha ancora il suo fascino."
+      },
+      {
+        "observedAt": "2026-04-11",
+        "words": "Giornata di sole piena, parete in condizioni ottime e un paio di gruppi davanti. Rispetto agli anni scorsi i cavi sono in ordine e l'avvicinamento breve la rende perfetta per una mezza giornata."
+      },
+      {
+        "observedAt": "2026-09-29",
+        "words": "Martedì di fine settembre, ho preso un giorno di ferie. Nessuno in vista, luce dorata, e la ferrata scorre bene. Bellissimo finale di stagione."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "L'avvicinamento è breve"
+        },
+        {
+          "label": "Stagione lunga",
+          "quote": "Prima ferrata della stagione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "un po' di gente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta a chi comincia",
+          "quote": "Per chi comincia è perfetta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia umida scivolosa",
+          "quote": "con la roccia umida qui si scivola"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stagione lunga",
+          "quote": "Ultima uscita dell'anno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Avvicinamento comodo"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cavi e ancoraggi rifatti",
+          "kind": "novita",
+          "quote": "la ferrata è stata sistemata in primavera e si vede"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "parete deserta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo nel pomeriggio",
+          "quote": "abbiamo sofferto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "un po' di coda al primo tratto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello nuovo alla partenza",
+          "kind": "novita",
+          "quote": "All'attacco hanno messo un cartello nuovo con le indicazioni e il numero per le emergenze"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "non è così nota da essere in coda"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ancoraggio lento al terzo salto",
+          "kind": "attenzione",
+          "quote": "un ancoraggio vicino al terzo salto vibrava un po' sotto il peso"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "già c'era gente davanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "sentiero di avvicinamento, che è corto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia umida scivolosa",
+          "quote": "le staffe tenevano un velo d'acqua"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta a chi comincia",
+          "quote": "ideale per iniziare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cavo aggiunto sul tratto centrale",
+          "kind": "novita",
+          "quote": "il cavo nuovo che hanno aggiunto rende più sicuro un passaggio che prima era un po' esposto"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Stagione lunga",
+          "quote": "Fine stagione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "l'avvicinamento breve"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "un paio di gruppi davanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "Nessuno in vista"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

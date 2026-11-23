@@ -1,0 +1,464 @@
+{
+  "osm": "w1472021794",
+  "invented": [
+    "avvicinamento",
+    "vie",
+    "description",
+    "reports",
+    "localita_partenza",
+    "parcheggio_nota"
+  ],
+  "itinerary": {
+    "key": "falesia-di-roaschia-settore-iniziale",
+    "activity": "falesia",
+    "place": "comune-004183",
+    "name": "Falesia di Roaschia settore iniziale",
+    "lat": 44.28506,
+    "lon": 7.44572,
+    "aspect": "SO",
+    "altMax": 1127,
+    "facts": {
+      "esposizione": "SO",
+      "quota_base": 1127,
+      "avvicinamento": 5,
+      "localita_partenza": "Roaschia",
+      "parcheggio_nota": "Si parcheggia nello stesso piazzale degli altri settori, a pochi passi dall'attacco di questo."
+    },
+    "sections": {
+      "note": "Il settore iniziale di Roaschia è il primo che si incontra salendo dal parcheggio: una fascia di calcare a 1130 metri, esposta a sud-ovest, con una trentina di vie fra il 5b e il 6c+ e lunghezze che non superano i venti metri. È il più comodo e il più vicino, quindi il più frequentato dalle famiglie e dai corsi.\n\nIl calcare è a lame e buchi, con tratti di muro un po' sbalzato; le vie sono molto vicine tra loro, quasi come una palestra in falesia, e le soste sono tutte a catena. Il sole prende la parete dal mattino alle undici e resta fino a sera: in estate si va nel tardo pomeriggio.\n\nLa vicinanza dell'attacco rende comodo cambiare settore se la fila si allunga: dopo cinque minuti si è già sul centrale.",
+      "avvicinamento": "Dal piazzale si sale per pochi gradini di terra e si è alla base: cinque minuti in tutto, senza nessuna difficoltà. Un sentierino prosegue a destra verso gli altri settori."
+    },
+    "parts": [
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Giro Facile",
+          "grado": "5b",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Scalino Uno",
+          "grado": "5b",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Scalino Due",
+          "grado": "5b+",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Primi Passi",
+          "grado": "5c",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Il Cavallino",
+          "grado": "5c",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Fessura Rosa",
+          "grado": "5c+",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Lama di Rasoio",
+          "grado": "6a",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Muro d'Ingresso",
+          "grado": "6a",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Basso",
+        "fields": {
+          "nome": "Il Gradino Alto",
+          "grado": "6a+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Scampagnata",
+          "grado": "5c",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Il Merlo",
+          "grado": "6a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Gazza Ladra",
+          "grado": "6a+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "La Picchiata",
+          "grado": "6b",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Ritorno a Casa",
+          "grado": "6b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Compagni di Cordata",
+          "grado": "6b+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Ultima Fermata",
+          "grado": "6c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Salto di Qualità",
+          "grado": "6c+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Piccolo Tetto",
+          "grado": "6b",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Il Dente",
+          "grado": "6c",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Sorriso",
+          "grado": "5c",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Pane e Burro",
+          "grado": "6a",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Zigzag",
+          "grado": "6a+",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Fretta",
+          "grado": "5b+",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Alto",
+        "fields": {
+          "nome": "Il Buon Vicino",
+          "grado": "6b+",
+          "lunghezza": 18
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-04-16",
+        "words": "Facile da raggiungere, l'attacco è a cinque minuti dal parcheggio e la gente non si ferma mai: molti bambini, molte voci. Abbiamo fatto una dozzina di tiri senza fatica."
+      },
+      {
+        "observedAt": "2022-05-03",
+        "words": "Un martedì di sole, la fascia era tutta mia: ho fatto una decina di tiri veloci con un amico. Le vie sono così vicine che si sentono le voci dall'una all'altra."
+      },
+      {
+        "observedAt": "2022-08-06",
+        "words": "In estate il sole prende la parete già al mattino, alle nove era già al sole e alle dodici faceva un caldo notevole. Pausa lunga e pomeriggio al fresco in paese."
+      },
+      {
+        "observedAt": "2022-10-02",
+        "words": "Giornata di tanta gente: un corso di roccia e due famiglie. Il gruppo del corso occupava metà del settore, ma c'è sempre spazio sulle vie dell'alto."
+      },
+      {
+        "observedAt": "2023-03-25",
+        "words": "Giornata di sole e primi tepori, aria secca. Ho provato Ultima Fermata, un 6c da lavorare con calma. Si resta in contatto visivo con il parcheggio, comodo."
+      },
+      {
+        "observedAt": "2023-05-01",
+        "words": "Un ponte di maggio con poca gente, il calcare ancora freddo al mattino. Mi sono arrampicato con il caschetto: alla base ci sono sassi smossi dai passaggi."
+      },
+      {
+        "observedAt": "2023-07-09",
+        "words": "Caldo e zanzare. Siamo arrivati alle quattro, quando la fascia cominciava a ombreggiarsi, e abbiamo fatto sei tiri. Aperitivo sul prato davanti alla macchina."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Giornata nuvolosa, le vie asciutte. Ho fatto Salto di Qualità, la linea più dura, e ho scoperto che le prese sono più piccole di come sembrano. Il gruppo accanto faceva il tifo."
+      },
+      {
+        "observedAt": "2023-11-03",
+        "words": "Sole già alle nove su una parete fredda, fuori dal vento. Una bellissima luce autunnale, tutto in silenzio."
+      },
+      {
+        "observedAt": "2024-01-13",
+        "words": "Sole d'inverno e vento fermo, il calcare caldo alle undici. Quasi nessuno in giro, ci siamo goduti il settore da soli. Hanno messo un cartello con la mappa dei settori vicino al piazzale."
+      },
+      {
+        "observedAt": "2024-04-21",
+        "words": "In coppia, con picnic: abbiamo lasciato lo zaino con il pranzo ai piedi della via e scalato con calma. Il Dente è un bel tiro tecnico."
+      },
+      {
+        "observedAt": "2024-06-15",
+        "words": "Tanta gente dalle dieci, due gruppi di corsisti con istruttori. Nessun problema, solo un po' di attesa alla partenza di Il Merlo."
+      },
+      {
+        "observedAt": "2024-08-06",
+        "words": "Giornata di ferie in agosto, siamo andati nel tardo pomeriggio perché la mattina era già troppo caldo. La fascia era in ombra dalle sei, e si stava davvero bene."
+      },
+      {
+        "observedAt": "2024-10-12",
+        "words": "La caduta di un sasso da una lama ha toccato una cordata: su Gazza Ladra una lama si è staccata e ha lasciato il tiro con un punto fragile. Nessun ferito, ma attenzione."
+      },
+      {
+        "observedAt": "2025-03-02",
+        "words": "Nuovo inverno, tanti arrampicatori: il settore sembra più affollato di una palestra. Abbiamo atteso mezz'ora per Giro Facile. Per fortuna c'è tanto spazio sul prato."
+      },
+      {
+        "observedAt": "2025-05-03",
+        "words": "Aria limpida, cielo blu: foto delle cime. Gazza Ladra ora è stata pulita da qualcuno (il punto fragile di Gazza Ladra è stato ripulito e battuto)."
+      },
+      {
+        "observedAt": "2025-08-07",
+        "words": "Venerdì al tramonto: siamo andati a fare due vie e a goderci l'atmosfera. Le vie vicine permettono di scambiare due parole con i vicini senza alzare la voce."
+      },
+      {
+        "observedAt": "2025-10-18",
+        "words": "Foglie e silenzio. Il calcare è levigato dalle tante mani su Scalino Uno e Scalino Due, ma è comunque pulito. Un buon posto per chi comincia o per chi ritorna."
+      },
+      {
+        "observedAt": "2026-05-09",
+        "words": "Giornata splendida, ma il parcheggio era già pieno: il cartello con la mappa dei settori è stato rinnovato e ingrandito."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Attacco a pochi passi",
+          "quote": "l'attacco è a cinque minuti dal parcheggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie vicine fra loro",
+          "quote": "Le vie sono così vicine che si sentono le voci dall'una all'altra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole sin dal mattino",
+          "quote": "alle nove era già al sole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Corsi e scuole",
+          "quote": "gruppo del corso occupava metà del settore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sassi sulla base",
+          "quote": "alla base ci sono sassi smossi dai passaggi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Zanzare in estate",
+          "quote": "Caldo e zanzare"
+        },
+        {
+          "label": "Aperitivo sul prato",
+          "quote": "Aperitivo sul prato davanti alla macchina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole sin dal mattino",
+          "quote": "Sole già alle nove"
+        },
+        {
+          "label": "Luce d'autunno",
+          "quote": "Una bellissima luce autunnale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello con la mappa dei settori",
+          "kind": "novita",
+          "quote": "Hanno messo un cartello con la mappa dei settori vicino al piazzale"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Attacco a pochi passi",
+          "quote": "abbiamo lasciato lo zaino con il pranzo ai piedi della via"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Corsi e scuole",
+          "quote": "due gruppi di corsisti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Lama staccata su Gazza Ladra",
+          "kind": "attenzione",
+          "quote": "su Gazza Ladra una lama si è staccata e ha lasciato il tiro con un punto fragile"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Lama staccata su Gazza Ladra",
+          "kind": "attenzione",
+          "quote": "il punto fragile di Gazza Ladra è stato ripulito e battuto"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie vicine fra loro",
+          "quote": "Le vie vicine permettono di scambiare due parole con i vicini"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Cartello con la mappa dei settori",
+          "kind": "novita",
+          "quote": "il cartello con la mappa dei settori è stato rinnovato e ingrandito"
+        }
+      ]
+    }
+  ]
+}

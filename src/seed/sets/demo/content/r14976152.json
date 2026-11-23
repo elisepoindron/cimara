@@ -1,0 +1,255 @@
+{
+  "osm": "r14976152",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "cannero-biasca",
+    "activity": "mountain_bike",
+    "place": "comune-103016",
+    "name": "Cannero - Biasca",
+    "lat": 46.02294,
+    "lon": 8.68147,
+    "facts": {},
+    "sections": {
+      "descrizione": "Il tratto Cannero-Biasca parte da Cannero Riviera, sul Lago Maggiore, e segue il percorso ciclabile regionale verso nord, in direzione della Svizzera e del Ticino. È un itinerario lungo e vario: si comincia sul lago, tra paesi e brevi saliscendi, poi si abbandona la riva e si risale una valle in direzione del confine.\n\nIl fondo alterna strade secondarie asfaltate, ciclabili e tratti di sterrato; la salita è graduale e non richiede tecnica, ma la lunghezza complessiva e il traffico nei punti di passaggio rendono necessaria un'attenzione costante. Una volta oltre il confine si prosegue su percorsi segnalati verso la meta.\n\nÈ un giro di una giornata intera, con cibo e acqua, adatto a chi ha già esperienza di tratte lunghe in bici da trekking o gravel. Il ritorno può farsi in treno dalla Svizzera con la bici al seguito, informandosi sulle condizioni di trasporto.",
+      "note": "Da aprile a ottobre il periodo migliore. Portare un documento valido per il confine. Il tempo in alta valle può cambiare in fretta: giacca leggera nello zaino.",
+      "avvicinamento": "Si parte da Cannero Riviera, parcheggiando vicino al lungolago."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-04-30",
+        "words": "Partenza dal lago e subito il tratto sulla litoranea con traffico, poi si lascia la riva e il silenzio è totale. Una giornata intera, quasi dieci ore con soste lunghe."
+      },
+      {
+        "observedAt": "2022-05-22",
+        "words": "Ho dovuto controllare i documenti al confine, non ci avevo pensato: per fortuna avevo la carta d'identità nello zaino. Al passaggio nessun problema, la guardia ha sorriso."
+      },
+      {
+        "observedAt": "2022-06-15",
+        "words": "Giorno di ferie. Il tragitto sale dolcemente dalla riva del lago fino a un fondovalle ombroso, con un torrente che accompagna la strada per chilometri. Un fresco quasi inatteso."
+      },
+      {
+        "observedAt": "2022-07-23",
+        "words": "Partito alle 6:30, il caldo sul lago era già intenso. Il tratto più duro è la parte iniziale in salita su asfalto: dopo, la valle è più fresca. Almeno tre litri d'acqua."
+      },
+      {
+        "observedAt": "2022-08-11",
+        "words": "Un temporale pomeridiano ha costretto a una sosta di un'ora sotto una pensilina vicino a un paese. Poi il cielo si è pulito e ho concluso il giro con le strade umide."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Settembre perfetto: luce limpida e panorami profondi sulla valle, con il lago sempre più piccolo alle spalle. Ho fatto il ritorno in treno dalla Svizzera con la bici, senza difficoltà."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Boschi di castagni e faggi che cambiano colore a ogni curva. Pochi ciclisti, qualche moto, un camioncino con la legna. Sentiero tranquillo con fondo ottimo per la gravel."
+      },
+      {
+        "observedAt": "2023-05-13",
+        "words": "Ho sbagliato strada in un bivio non segnalato poco dopo un piccolo paese: dieci minuti persi a controllare la traccia. Meglio avere il GPS acceso e la traccia scaricata."
+      },
+      {
+        "observedAt": "2023-06-21",
+        "words": "In tre ore ero già lontano dal lago. Silenzio, aria fresca e solo il rumore della ruota libera. Ho incontrato due escursionisti e una volpe, la volpe si è fermata a guardarmi."
+      },
+      {
+        "observedAt": "2023-07-29",
+        "words": "Caldo e afa sulla parte bassa vicino al lago, poi la valle regala frescura. Ho fatto più soste del previsto: una per mangiare, una per bagnarmi la testa a una fonte."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Ritorno in treno con la bici: nel convoglio svizzero c'era posto per più bici, un cartello indicava dove metterle. Informarsi prima sugli orari, fanno meno corse nei festivi."
+      },
+      {
+        "observedAt": "2024-05-18",
+        "words": "Un tratto di strada vicino al confine è chiuso per lavori, la deviazione è segnalata con cartelli arancioni. In bici si fa un giro di due chilometri in più ma si passa."
+      },
+      {
+        "observedAt": "2024-06-26",
+        "words": "Lavori finiti, strada riaperta e asfalto fresco: ora si pedala liscio e veloce. Uscita di un mercoledì lunghissima ma godibile, con pranzo a un bar di una frazione."
+      },
+      {
+        "observedAt": "2024-08-24",
+        "words": "Temporale in alta valle nel pomeriggio, grandine e fulmini a poca distanza. Ho aspettato in una chiesetta aperta e poi sono ripartito appena smesso."
+      },
+      {
+        "observedAt": "2024-10-05",
+        "words": "I colori d'ottobre sulla salita sono splendidi, ma il mattino è freddo: sono partito con i guanti. A metà giornata già 18 gradi e maniche corte."
+      },
+      {
+        "observedAt": "2025-06-07",
+        "words": "Cartelli nuovi al bivio che mi aveva ingannato l'anno scorso: ora c'è una freccia grande con la scritta in due lingue. Bene, un problema in meno."
+      },
+      {
+        "observedAt": "2025-09-21",
+        "words": "Una bella giornata fresca: poco traffico, solo un paio di auto in due ore. Dalla cima si vedeva il lago in lontananza, un puntino azzurro."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Giornata intera",
+          "quote": "Una giornata intera"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Documento al confine",
+          "quote": "controllare i documenti al confine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Valle ombrosa lungo il torrente",
+          "quote": "un torrente che accompagna la strada per chilometri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo sul lago",
+          "quote": "il caldo sul lago era già intenso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali in alta valle",
+          "quote": "Un temporale pomeridiano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ritorno in treno",
+          "quote": "Ho fatto il ritorno in treno dalla Svizzera con la bici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori d'autunno",
+          "quote": "Boschi di castagni e faggi che cambiano colore a ogni curva"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bivi poco segnalati",
+          "quote": "un bivio non segnalato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Valle ombrosa lungo il torrente",
+          "quote": "Silenzio, aria fresca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo sul lago",
+          "quote": "Caldo e afa sulla parte bassa vicino al lago"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ritorno in treno",
+          "quote": "Ritorno in treno con la bici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Deviazione per lavori vicino al confine",
+          "kind": "attenzione",
+          "quote": "Un tratto di strada vicino al confine è chiuso per lavori"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Lavori finiti vicino al confine",
+          "kind": "novita",
+          "quote": "Lavori finiti, strada riaperta e asfalto fresco"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali in alta valle",
+          "quote": "Temporale in alta valle nel pomeriggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori d'autunno",
+          "quote": "I colori d'ottobre sulla salita sono splendidi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bivi poco segnalati",
+          "quote": "Cartelli nuovi al bivio"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cartello nuovo al bivio dopo il paese",
+          "kind": "novita",
+          "quote": "Cartelli nuovi al bivio che mi aveva ingannato l'anno scorso"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Valle ombrosa lungo il torrente",
+          "quote": "poco traffico, solo un paio di auto in due ore"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "osm": "r12185593",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d48",
+    "activity": "escursionismo",
+    "place": "comune-004172",
+    "name": "Via Alpina Blue D48",
+    "lat": 44.62189,
+    "lon": 7.02812,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 718,
+      "localita_partenza": "Rifugio Savigliano",
+      "come_arrivare": "Il Rifugio Savigliano si raggiunge a piedi dall'alta Val Varaita, dove la strada finisce in un parcheggio. L'arrivo a Bellino richiede un rientro organizzato con un secondo mezzo o il trasporto locale."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu dall'alta Val Varaita alla Val Varaita di Bellino: dal Rifugio Savigliano alla chiesa di Bellino, circa 8,6 km con 718 m di salita e 942 di discesa. Dal rifugio si sale per pascoli e pietraie a un colle, poi si scende sul versante opposto in una valle più chiusa, fino al borgo.\n\nIl percorso è tutto su sentiero, ben segnato, con un tratto più ripido in discesa e qualche passaggio su sassi. L'ambiente è aperto e luminoso, con panorami sull'alta valle e poi sul fondo chiuso di Bellino.\n\nIl periodo è da fine giugno a inizio ottobre; a inizio estate si può trovare neve in quota. Partendo presto si arriva a Bellino per un pranzo tranquillo."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "Via dal Savigliano alle otto, con il sole già sui prati. Dopo il colle il sentiero scende in una valle che sembra un'altra regione."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Salita leggera, quasi una passeggiata fino al colle. La parte dura è la discesa su Bellino, interminabile e sassosa."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Un paio di capanne di pastori lungo il pascolo, con le pecore che brucavano. I cani ci hanno seguiti per un tratto."
+      },
+      {
+        "observedAt": "2023-07-04",
+        "words": "Martedì tranquillissimo. Un solo escursionista incontrato in tutta la tappa, e due marmotte sul sentiero."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Neve a macchie sotto il colle a fine giugno, ma sempre dura e senza problemi con i bastoncini."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Arrivati a Bellino alle due, con una birra alla bottega vicino alla chiesa. Il campanile è l'immagine che resta del giorno."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Segnavia rossi e bianchi rinfrescati da poco, a ogni bivio c'è una freccia. Si cammina in tranquillità."
+      },
+      {
+        "observedAt": "2024-07-09",
+        "words": "Giovedì di nebbia, abbiamo preso il colle quasi alla cieca. Il tratto sassoso richiede passo lento e attenzione."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "La discesa mette le ginocchia in ginocchio. I bastoncini sono stati i migliori amici della giornata."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Vista sul Monviso dal colle, in lontananza. La luce di fine agosto è la migliore dell'anno."
+      },
+      {
+        "observedAt": "2025-07-05",
+        "words": "Caldo sulla salita, ma al colle una brezza fresca. Pausa lunga con panino e vista tutta intorno."
+      },
+      {
+        "observedAt": "2025-08-01",
+        "words": "Lunedì di ferie, tutto per noi. Fontana a metà salita, fresca e abbondante."
+      },
+      {
+        "observedAt": "2025-08-30",
+        "words": "Il sentiero sul versante di Bellino è franato in due punti dopo le piogge di giugno: due tratti da attraversare in fretta, segnalati con cartelli."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Un temporale all'altezza del colle ci ha costretti a una sosta in una baita di pastori. Poi è tornato il sole."
+      },
+      {
+        "observedAt": "2026-07-04",
+        "words": "Hanno messo un nuovo ponticello di legno sul ruscello prima del paese, finalmente senza bagnarsi i piedi."
+      },
+      {
+        "observedAt": "2026-08-03",
+        "words": "Con i bambini di nove e undici anni: ce l'hanno fatta bene, con soste frequenti e storie per distrarli. Arrivo con gelato."
+      },
+      {
+        "observedAt": "2026-08-29",
+        "words": "Un temporale pomeridiano ci ha colti già in paese. Meglio muoversi di mattina presto, come dicono le guide."
+      },
+      {
+        "observedAt": "2026-09-26",
+        "words": "Autunno avanzato, larici gialli in basso e prime nevicate sulle cime. Tappa bellissima, silenziosa e luminosa."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Cambio di valle al colle",
+          "quote": "Dopo il colle il sentiero scende in una valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga su Bellino",
+          "quote": "La parte dura è la discesa su Bellino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Greggi e cani da pastore",
+          "quote": "con le pecore che brucavano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero poco frequentato",
+          "quote": "Un solo escursionista incontrato in tutta la tappa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Neve a macchie sotto il colle a fine giugno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo a Bellino",
+          "quote": "Arrivati a Bellino alle due"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica curata",
+          "quote": "Segnavia rossi e bianchi rinfrescati da poco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia al colle",
+          "quote": "abbiamo preso il colle quasi alla cieca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga su Bellino",
+          "quote": "I bastoncini sono stati i migliori amici della giornata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cambio di valle al colle",
+          "quote": "Pausa lunga con panino e vista tutta intorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero poco frequentato",
+          "quote": "tutto per noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frane sul versante di Bellino",
+          "kind": "attenzione",
+          "quote": "Il sentiero sul versante di Bellino è franato in due punti"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Un temporale all'altezza del colle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponticello nuovo prima di Bellino",
+          "kind": "novita",
+          "quote": "Hanno messo un nuovo ponticello di legno sul ruscello prima del paese"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Arrivo a Bellino",
+          "quote": "Arrivo con gelato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Un temporale pomeridiano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica curata",
+          "quote": "Tappa bellissima, silenziosa e luminosa"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

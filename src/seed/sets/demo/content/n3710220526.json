@@ -1,0 +1,297 @@
+{
+ "osm": "n3710220526",
+ "invented": [
+  "avvicinamento",
+  "localita_partenza",
+  "vie",
+  "description",
+  "reports"
+ ],
+ "itinerary": {
+  "key": "la-fessura",
+  "activity": "falesia",
+  "place": "comune-004077",
+  "name": "La Fessura",
+  "lat": 44.69661,
+  "lon": 7.07489,
+  "aspect": "E",
+  "altMax": 2785,
+  "facts": {
+   "esposizione": "E",
+   "quota_base": 2785,
+   "avvicinamento": 40,
+   "localita_partenza": "Crissolo"
+  },
+  "sections": {
+   "note": "La Fessura è una via di quattro tiri e cento metri a circa 2800 metri, sopra Crissolo, nel gruppo del Monviso. Sta su una parete rivolta a est e a sud, quindi prende il sole fin dal mattino. La via è chiodata a spit, con soste a catena; il quarto tiro, quello chiave, segue una bella fessura leggermente strapiombante, da cui il nome.\n\nA questa quota la stagione è breve: da luglio a settembre, con giornate fresche e aria rarefatta. Le difficoltà arrivano fino al 6a+, ma l'altitudine e il freddo rendono ogni passo più serio.\n\nLa discesa è in doppia: due calate, la più alta fino a una sosta di calata una decina di metri a sinistra della via, poco sotto la seconda sosta.",
+   "avvicinamento": "Dal parcheggio un sentiero sale per ore fino al pianoro sotto la parete: l'avvicinamento è lungo e in quota, quasi quaranta minuti dalla fine della strada, e conviene partire presto."
+  },
+  "parts": [
+   {
+    "group": "Via",
+    "fields": {
+     "nome": "Primo tiro",
+     "grado": "5b",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Via",
+    "fields": {
+     "nome": "Secondo tiro",
+     "grado": "5c",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Via",
+    "fields": {
+     "nome": "Terzo tiro",
+     "grado": "5c+",
+     "lunghezza": 25
+    }
+   },
+   {
+    "group": "Via",
+    "fields": {
+     "nome": "Quarto tiro (la fessura)",
+     "grado": "6a+",
+     "lunghezza": 25
+    }
+   }
+  ],
+  "reports": [
+   {
+    "observedAt": "2022-07-09",
+    "words": "Prima volta qui, in un giorno limpido di luglio. Il sole arriva presto sulla parete e a quasi tremila metri scalare in maglietta alle nove è una gioia. Il quarto tiro è bellissimo: fessura continua, un po' strapiombante."
+   },
+   {
+    "observedAt": "2022-08-04",
+    "words": "Giovedì in quota, ferie d'agosto. Cielo azzurro, soli sulla via, qualche cordata sul sentiero. La roccia è fresca, quasi fredda al tatto sui primi due tiri."
+   },
+   {
+    "observedAt": "2022-08-27",
+    "words": "Una via breve, ma l'avvicinamento lungo la fa sembrare una giornata di montagna vera. Siamo partiti alle cinque e abbiamo fatto la via entro mezzogiorno."
+   },
+   {
+    "observedAt": "2022-09-17",
+    "words": "Settembre nitido, aria rarefatta. Con la fessura strapiombante finale bisogna dosare le forze: due riposi in sosta e poi il passo. Calata in doppia veloce, due corde da cinquanta bastano."
+   },
+   {
+    "observedAt": "2023-07-15",
+    "words": "Neve residua sul sentiero fino a quota 2600, ma la parete era asciutta. Bella la fessura, giusto da concentrarsi sull'incastro. Una nuvola passeggera ha oscurato il sole per un'ora."
+   },
+   {
+    "observedAt": "2023-08-09",
+    "words": "Mercoledì di agosto, vento forte ma costante. In parete ci siamo riparati con le giacche tra un tiro e l'altro. Roccia calda al sole, fredda all'ombra."
+   },
+   {
+    "observedAt": "2023-08-26",
+    "words": "La calata dalla seconda sosta è un po' scomoda: bisogna traversare a sinistra di una decina di metri per arrivare alla sosta di calata. Con due corde da sessanta è facile, con quelle da cinquanta meglio fare attenzione."
+   },
+   {
+    "observedAt": "2023-09-10",
+    "words": "Il quarto tiro è la ragione per cui si sale fin qui. Strapiombo leggero, incastri buoni, il rinvio sembra più lontano di quanto sia. Vale il viaggio."
+   },
+   {
+    "observedAt": "2024-07-20",
+    "words": "Una linea di spit nuovi sul tratto basso: hanno rinforzato la chiodatura del secondo tiro e rifatto la sosta. Si dorme più tranquilli. Giornata splendida, sole pieno."
+   },
+   {
+    "observedAt": "2024-08-07",
+    "words": "Mercoledì, pomeriggio da solo con un amico. In quota alle due si arriva presto con le nuvole: noi abbiamo anticipato e finito prima di mezzogiorno. Temporale puntuale alle tre."
+   },
+   {
+    "observedAt": "2024-08-31",
+    "words": "Il sentiero ha un tratto di ghiaione instabile, in fondo, sotto il pianoro. Con il casco ci si passa, ma meglio sapere che ogni sasso si muove. Salita in tre, ottimo equilibrio."
+   },
+   {
+    "observedAt": "2024-09-21",
+    "words": "Un bel finale di stagione: aria asciutta, nessun vento. Il quarto tiro in fessura è davvero un passo da ricordare. Eravamo in due cordate, ben distanziate."
+   },
+   {
+    "observedAt": "2025-07-26",
+    "words": "Finalmente neve sciolta, sentiero libero e giornata asciutta. Fatto la via con un amico, calando in doppia due volte. Il sole scotta ma l'aria fresca compensa."
+   },
+   {
+    "observedAt": "2025-08-14",
+    "words": "Giovedì, giorno ferie. Il vento ha reso il quarto tiro un po' più impegnativo ma la fessura è sempre generosa. Pochissimi in giro, solo marmotte e un gracchio sulla sosta."
+   },
+   {
+    "observedAt": "2025-09-07",
+    "words": "Ultima uscita estiva: la via ha ora una targhetta all'attacco con il nome e il grado. L'avvicinamento è lungo ma bellissimo, con il Monviso a farti compagnia."
+   },
+   {
+    "observedAt": "2025-09-27",
+    "words": "Una mattina fredda, 3 gradi alla base, ma il sole è arrivato sulla parete alle otto e mezza e ci siamo scaldati subito. Bellissima fessura, respiri lunghi e una gran vista."
+   }
+  ]
+ },
+ "readings": [
+  {
+   "themes": [
+    {
+     "label": "Sole fin dal mattino",
+     "quote": "Il sole arriva presto sulla parete"
+    },
+    {
+     "label": "Fessura finale spettacolare",
+     "quote": "Il quarto tiro è bellissimo"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Poca gente",
+     "quote": "soli sulla via"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Avvicinamento lungo",
+     "quote": "l'avvicinamento lungo"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Fessura finale spettacolare",
+     "quote": "la fessura strapiombante finale"
+    },
+    {
+     "label": "Doppie da gestire",
+     "quote": "Calata in doppia veloce"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Fessura finale spettacolare",
+     "quote": "Bella la fessura"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Vento in quota",
+     "quote": "vento forte ma costante"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Doppie da gestire",
+     "quote": "La calata dalla seconda sosta è un po' scomoda"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Fessura finale spettacolare",
+     "quote": "Il quarto tiro è la ragione per cui si sale fin qui"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole fin dal mattino",
+     "quote": "sole pieno"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Spit nuovi sul secondo tiro",
+     "kind": "novita",
+     "quote": "hanno rinforzato la chiodatura del secondo tiro e rifatto la sosta"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Temporali pomeridiani",
+     "quote": "Temporale puntuale alle tre"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [],
+   "flags": [
+    {
+     "label": "Ghiaione instabile sotto il pianoro",
+     "kind": "attenzione",
+     "quote": "Il sentiero ha un tratto di ghiaione instabile"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Fessura finale spettacolare",
+     "quote": "Il quarto tiro in fessura"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Doppie da gestire",
+     "quote": "calando in doppia due volte"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Vento in quota",
+     "quote": "Il vento ha reso il quarto tiro un po' più impegnativo"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "themes": [
+    {
+     "label": "Avvicinamento lungo",
+     "quote": "L'avvicinamento è lungo ma bellissimo"
+    }
+   ],
+   "flags": [
+    {
+     "label": "Targhetta con nome e grado all'attacco",
+     "kind": "novita",
+     "quote": "la via ha ora una targhetta all'attacco con il nome e il grado"
+    }
+   ]
+  },
+  {
+   "themes": [
+    {
+     "label": "Sole fin dal mattino",
+     "quote": "il sole è arrivato sulla parete alle otto e mezza"
+    }
+   ],
+   "flags": []
+  }
+ ]
+}

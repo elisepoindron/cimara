@@ -1,0 +1,55 @@
+{
+  "osm": "r2800318",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "sentiero-herin-losson",
+    "activity": "escursionismo",
+    "place": "comune-007017",
+    "name": "Sentiero Hérin Losson",
+    "lat": 45.69168,
+    "lon": 7.63342,
+    "aspect": "S",
+    "altMax": 1490,
+    "facts": {
+      "partenza": 1490,
+      "localita_partenza": "Champdepraz"
+    },
+    "sections": {
+      "descrizione": "Sentiero che sale da Hérin verso il Losson, con tratti stretti nel bosco e un passaggio su prato con vista sul fondovalle. Nel tratto finale il sentiero è più ripido e sassoso.\n\nPer il ritorno si può scendere per la stessa strada: il percorso ad anello non è segnalato."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2023-06-03",
+        "words": "Sentiero pulito, qualche zanzara vicino al ru. La cima è spoglia, il vento era forte."
+      },
+      {
+        "observedAt": "2025-09-02",
+        "words": "Abbiamo fatto la salita al mattino presto, un'ora e tre quarti. Sentiero ben battuto, incontrati due ciclisti."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Vento in cima",
+          "quote": "il vento era forte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita al mattino",
+          "quote": "Abbiamo fatto la salita al mattino presto"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

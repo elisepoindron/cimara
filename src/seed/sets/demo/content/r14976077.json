@@ -1,0 +1,255 @@
+{
+  "osm": "r14976077",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "cannero-verbania",
+    "activity": "mountain_bike",
+    "place": "comune-103016",
+    "name": "Cannero - Verbania",
+    "lat": 46.02293,
+    "lon": 8.68062,
+    "facts": {},
+    "sections": {
+      "descrizione": "Il tratto Cannero-Verbania segue la riva occidentale del Lago Maggiore: una pista ciclabile che unisce Cannero Riviera a Verbania lungo la costa, alternando la strada litoranea, brevi tratti di ciclabile separata e qualche passaggio nei paesi del lago. Il dislivello è modesto, ma i continui saliscendi tra una frazione e l'altra tengono le gambe sveglie.\n\nIl giro è soprattutto turistico: la vista sul lago è quasi continua, con le isole Borromee all'orizzonte nelle giornate nitide, i giardini delle ville e i piccoli porti. La strada litoranea può essere trafficata nei fine settimana e in alta stagione, quindi vale la pena partire presto.\n\nÈ adatto a bici da trekking, gravel e mountain bike; con una bici da corsa può essere troppo stretto in certi tratti.",
+      "note": "Si pedala quasi tutto l'anno, da marzo a novembre i mesi più piacevoli. In estate le ore centrali sono calde e il traffico aumenta. Fontane e bar nei paesi del lago.",
+      "avvicinamento": "Si parte da Cannero Riviera, dove c'è parcheggio vicino al lungolago."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-03-26",
+        "words": "Giornata di sole sul lago a fine marzo: poca gente e temperatura mite. Le salite brevi fra una frazione e l'altra sono sufficienti per scaldare le gambe, e le isole Borromee si vedevano in lontananza."
+      },
+      {
+        "observedAt": "2022-04-20",
+        "words": "Mercoledì e pochissimo traffico sulla litoranea, un piacere. Mi sono fermato a un bar sul porto di Cannero a bere un caffè con vista sulle rocche."
+      },
+      {
+        "observedAt": "2022-05-28",
+        "words": "Sabato di maggio: tantissimo traffico e moto sulla strada, soprattutto vicino a Cannobio e agli imbarcaderi. Ho tenuto la destra e rallentato nei punti stretti, ma non è sempre piacevole."
+      },
+      {
+        "observedAt": "2022-06-19",
+        "words": "Partito alle 7 e arrivato a Verbania quando i bar aprivano: perfetto per godersi il lago senza folla. Tornato in treno e bus con la bici senza problemi."
+      },
+      {
+        "observedAt": "2022-07-14",
+        "words": "Caldo di luglio in settimana, ma la brezza del lago rende sopportabile anche le ore centrali. Ho fatto il bagno a una spiaggetta sassosa dopo Cannero, acqua fresca."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Giornata afosa con tanti turisti. Le ciclabili separate sono poche, per la maggior parte del tempo si pedala vicino alle auto. Per bambini piccoli non è l'ideale."
+      },
+      {
+        "observedAt": "2022-09-25",
+        "words": "Fine settembre è un periodo perfetto: lago calmo, luce dorata, meno traffico. Con la gravel ho preso anche qualche sentiero in riva, divertente e panoramico."
+      },
+      {
+        "observedAt": "2022-10-30",
+        "words": "Giornata grigia con qualche goccia, ma il lago con le nuvole basse ha un fascino particolare. Ho trovato quasi tutte le fontane spente per l'autunno, meglio avere la borraccia piena."
+      },
+      {
+        "observedAt": "2023-04-08",
+        "words": "Primavera sul lago, camelie fiorite e ville con i giardini aperti. Ho fatto una sosta lunga a Ghiffa per guardare i giardini, poi giù fino a Verbania."
+      },
+      {
+        "observedAt": "2023-06-03",
+        "words": "Sabato di giugno con molti ciclisti e anche tante bici elettriche a noleggio. Dopo mezzogiorno la strada è un via vai continuo, meglio finire presto."
+      },
+      {
+        "observedAt": "2023-07-26",
+        "words": "Mattina presto in settimana: lago liscio come olio e pochissimi turisti. In un'ora e mezza ero già a metà strada, con una colazione nel porto."
+      },
+      {
+        "observedAt": "2023-09-17",
+        "words": "Una frana leggera ha lasciato sassi sulla carreggiata poco dopo Ghiffa: si passa in fila, ma un cartello avverte. Nulla di grave ma da tenere d'occhio."
+      },
+      {
+        "observedAt": "2024-04-13",
+        "words": "Hanno ripulito la carreggiata dopo Ghiffa e messo una rete paramassi nuova. Si passa tranquilli. Giornata ventosa con il lago increspato e nuvole veloci."
+      },
+      {
+        "observedAt": "2024-06-30",
+        "words": "Il vento da nord sul lago è forte, in alcuni tratti ci vuole un po' di fatica. Sul lungolago di Verbania c'era un mercatino con prodotti locali, ci siamo fermati per un gelato."
+      },
+      {
+        "observedAt": "2024-09-11",
+        "words": "Ciclabile separata allungata di alcune centinaia di metri vicino a Intra: finalmente un tratto sicuro lontano dalle auto. Si capisce che stanno lavorando per migliorare il percorso."
+      },
+      {
+        "observedAt": "2025-05-10",
+        "words": "Giornata nitida con le montagne ancora innevate dall'altra parte del lago. Una pedalata semplice, con tante soste fotografiche sui ponticelli."
+      },
+      {
+        "observedAt": "2025-10-12",
+        "words": "Autunno sul lago: platani gialli lungo il viale e un po' di nebbia sull'acqua. Ci siamo fermati a lungo a leggere i nomi sulle barche del porticciolo."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "le isole Borromee si vedevano in lontananza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada con traffico",
+          "quote": "pochissimo traffico sulla litoranea"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada con traffico",
+          "quote": "tantissimo traffico e moto sulla strada"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meglio presto la mattina",
+          "quote": "Partito alle 7"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bagno nel lago",
+          "quote": "Ho fatto il bagno a una spiaggetta sassosa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada con traffico",
+          "quote": "si pedala vicino alle auto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "lago calmo, luce dorata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fontane spente fuori stagione",
+          "quote": "quasi tutte le fontane spente per l'autunno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giardini e ville",
+          "quote": "camelie fiorite e ville con i giardini aperti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meglio presto la mattina",
+          "quote": "meglio finire presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Meglio presto la mattina",
+          "quote": "Mattina presto in settimana"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sassi sulla carreggiata dopo Ghiffa",
+          "kind": "attenzione",
+          "quote": "Una frana leggera ha lasciato sassi sulla carreggiata poco dopo Ghiffa"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Rete paramassi nuova dopo Ghiffa",
+          "kind": "novita",
+          "quote": "messo una rete paramassi nuova"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento sul lago",
+          "quote": "Il vento da nord sul lago è forte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada con traffico",
+          "quote": "un tratto sicuro lontano dalle auto"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Ciclabile separata più lunga vicino a Intra",
+          "kind": "novita",
+          "quote": "Ciclabile separata allungata di alcune centinaia di metri vicino a Intra"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul lago",
+          "quote": "le montagne ancora innevate dall'altra parte del lago"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giardini e ville",
+          "quote": "platani gialli lungo il viale"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

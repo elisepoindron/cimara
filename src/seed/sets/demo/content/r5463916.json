@@ -1,0 +1,238 @@
+{
+  "osm": "r5463916",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "dragon-bike",
+    "activity": "mountain_bike",
+    "place": "comune-004082",
+    "name": "Dragon Bike",
+    "lat": 44.46601,
+    "lon": 7.31613,
+    "facts": {},
+    "sections": {
+      "descrizione": "Il Dragon Bike ricalca il tracciato di quella che per qualche anno è stata una delle più belle e conosciute gran fondo di mountain bike delle Alpi Cuneesi. Parte da Dronero e si sviluppa per circa 47 chilometri con poco più di 2000 metri di dislivello, in un anello che non ha tratti davvero tecnici ma non regala nemmeno un metro di riposo.\n\nSi alternano strade bianche, mulattiere, tratti di sentiero larghi e brevi collegamenti asfaltati. La salita è fatta di tante rampe, alcune dure, separate da falsopiani; le discese sono veloci e scorrevoli, con qualche pietraia e qualche traverso più stretto. La difficoltà tecnica è quella di un buon cross country, su una scala che gli appassionati chiamano di secondo grado.\n\nÈ un giro da fare con la mente allenata più che con i muscoli: la lunghezza richiede cibo e acqua per un'intera giornata, e la bici da cross country biammortizzata è la scelta migliore.",
+      "note": "Da aprile a novembre, con i mesi migliori maggio-giugno e settembre-ottobre. D'estate l'inizio presto è indispensabile. Dopo le piogge alcuni tratti in prato diventano un pantano. Un paio di fontane lungo il percorso, per il resto si porta tutto dal paese.",
+      "avvicinamento": "Si parte da Dronero: c'è parcheggio in centro e vicino al fiume. Il percorso esce dall'abitato su strade secondarie e subito comincia a salire."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-04-23",
+        "words": "Fatto per testarmi in vista della stagione: quasi sette ore con soste, 2000 metri sul computer e le gambe finite negli ultimi dieci chilometri. Salite sempre pedalabili ma mai brevi, qui non c'è un momento in cui puoi rilassarti."
+      },
+      {
+        "observedAt": "2022-05-15",
+        "words": "Con tre amici in una domenica di sole. Fondo perfetto, poco fango e qualche pozzanghera nei prati. La discesa dopo il secondo colle è un piacere, scorrevole e senza pericoli."
+      },
+      {
+        "observedAt": "2022-06-08",
+        "words": "Un mercoledì di giugno, nessuno in giro e il cielo pulito. Il giro è così lungo che a un certo punto ho smesso di guardare il contachilometri. Ho riempito la borraccia a una fontana a metà giro, essenziale."
+      },
+      {
+        "observedAt": "2022-07-16",
+        "words": "Caldo opprimente nel pomeriggio, partito troppo tardi. Alle 14 ero ancora in salita sul secondo colle, senza ombra e con la borraccia vuota. Consiglio vivamente di partire all'alba, d'estate non si scherza."
+      },
+      {
+        "observedAt": "2022-09-18",
+        "words": "Giornata ideale di settembre, aria secca e luce bassa. Ho incrociato un gruppo organizzato di una ventina di ciclisti che faceva la stessa traccia in senso opposto. Ci siamo salutati, il percorso ha spazio per tutti."
+      },
+      {
+        "observedAt": "2022-10-22",
+        "words": "Foglie e castagne sul sentiero dopo il bosco di castagni, scivoloso in alcuni punti. La traccia segnalata si segue bene, ogni tanto un adesivo sui pali con il numero 40."
+      },
+      {
+        "observedAt": "2023-04-15",
+        "words": "Pioggia fino a ieri e il fondo ne risente: un tratto di prato vicino a una cascina è un acquitrino che si attacca ai copertoni e bisogna spingere. Poi il giro scorre bene, ma avrei fatto meglio ad aspettare una settimana."
+      },
+      {
+        "observedAt": "2023-05-21",
+        "words": "Seconda volta sul Dragon Bike: stavolta con più cibo e meno ansia. Quattro barrette, due panini e un gel, non è esagerato. Per i dislivelli che ci sono qui bisogna mangiare spesso o si finisce a secco."
+      },
+      {
+        "observedAt": "2023-06-14",
+        "words": "Giorno libero in settimana. Sole pieno e cielo limpido, davanti a me le Alpi marittime ancora innevate. Un mix di colline, boschi e pascoli che non avevo mai visto così bene."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Troppa gente in discesa nel pomeriggio: ho incrociato due gruppi di enduro che salivano con navetta e scendevano veloci. Con attenzione si convive bene, ma meglio dare la precedenza."
+      },
+      {
+        "observedAt": "2023-09-24",
+        "words": "Tutto in ordine, nessun inconveniente tecnico se non una foratura all'ultima discesa. Il percorso è lungo ma non dà mai l'impressione di essere impossibile: ogni salita ha una fine."
+      },
+      {
+        "observedAt": "2024-05-04",
+        "words": "Grande novità: sul primo colle hanno rifatto una parte della strada bianca con ghiaia nuova e compattata. Si sale molto più veloci e senza fatica sui sassi smossi."
+      },
+      {
+        "observedAt": "2024-06-23",
+        "words": "Sul secondo colle c'è un ponte in legno inagibile: il cartello lo segnala, bisogna guadare un piccolo torrente. Con l'acqua bassa si passa senza problemi, ma non so in caso di piena."
+      },
+      {
+        "observedAt": "2024-08-14",
+        "words": "Giornata infrasettimanale con temporale alle spalle. Ho fatto metà giro e sono tornato indietro quando il cielo si è fatto nero. La zona tra i due colli è esposta, meglio non farsi sorprendere."
+      },
+      {
+        "observedAt": "2024-10-12",
+        "words": "Fresco ma asciutto, percorso in tre ore e quaranta fino al secondo colle. Ho notato che il ponte in legno è stato sostituito con una piccola passerella in ferro, adesso si passa in tutta sicurezza."
+      },
+      {
+        "observedAt": "2025-05-31",
+        "words": "Fine maggio perfetta: verde ovunque, fiori nei prati e tanto silenzio. Meno ciclisti che in passato, sembra che questo giro sia un po' dimenticato, ma resta uno dei più belli della zona."
+      },
+      {
+        "observedAt": "2025-09-20",
+        "words": "Con l'e-bike ho concluso in cinque ore e dieci. Ho dovuto dosare l'assistenza per non restare a secco prima della fine: 2000 metri di salita chiedono una batteria grande."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Dislivello importante",
+          "quote": "2000 metri sul computer"
+        },
+        {
+          "label": "Giro lungo da una giornata",
+          "quote": "quasi sette ore con soste"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discese scorrevoli",
+          "quote": "La discesa dopo il secondo colle è un piacere, scorrevole"
+        },
+        {
+          "label": "Fango dopo la pioggia",
+          "quote": "qualche pozzanghera nei prati"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fontane lungo il giro",
+          "quote": "Ho riempito la borraccia a una fontana a metà giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Caldo opprimente nel pomeriggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Colori di settembre",
+          "quote": "aria secca e luce bassa"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica con il numero 40",
+          "quote": "un adesivo sui pali con il numero 40"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fango dopo la pioggia",
+          "quote": "un acquitrino che si attacca ai copertoni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Dislivello importante",
+          "quote": "Per i dislivelli che ci sono qui"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giro lungo da una giornata",
+          "quote": "Il percorso è lungo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Strada bianca rifatta sul primo colle",
+          "kind": "novita",
+          "quote": "hanno rifatto una parte della strada bianca con ghiaia nuova e compattata"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponte in legno inagibile sul secondo colle",
+          "kind": "attenzione",
+          "quote": "Sul secondo colle c'è un ponte in legno inagibile"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Passerella in ferro al posto del ponte",
+          "kind": "novita",
+          "quote": "il ponte in legno è stato sostituito con una piccola passerella in ferro"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Dislivello importante",
+          "quote": "2000 metri di salita"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

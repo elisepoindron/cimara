@@ -1,0 +1,281 @@
+{
+  "osm": "w1414715335",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-ferrata-la-voie-du-paradis-2-2",
+    "activity": "via_ferrata",
+    "place": "comune-007070",
+    "name": "Via Ferrata \"La Voie du Paradis\" 2/2",
+    "lat": 45.55789,
+    "lon": 7.20984,
+    "aspect": "SE",
+    "altMax": 2000,
+    "facts": {},
+    "sections": {
+      "descrizione": "La seconda parte della Voie du Paradis, in Valsavarenche, riprende dove la prima finisce, intorno agli 1800 metri, e ne addolcisce il carattere. Il cavo corre su placche appoggiate e cenge, con qualche gradino verticale e un paio di passaggi aerei, ma senza mai la durezza dell'inizio. Si può fare da sola, come ferrata di media difficoltà, oppure in continuazione della prima.\n\nIl ritmo è più disteso: si cammina quasi quanto si arrampica, e c'è tempo per guardarsi intorno. Il tracciato è ben segnato e il cavo in buone condizioni; solo nei tratti più battuti la roccia è lucida.\n\nSi fa da giugno a ottobre, meglio al mattino quando la parete è ancora in ombra. Kit da ferrata, casco e guanti; l'uscita porta a un sentiero di rientro semplice, che chiude l'anello in poco tempo.",
+      "avvicinamento": "Si raggiunge in pochi minuti dalla fine della prima parte o, partendo da qui, dal parcheggio sulla strada della valle seguendo il sentiero segnalato."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-06-25",
+        "words": "Fatta da sola, senza la prima parte: è molto più abbordabile, passaggi in cui bisogna mettere le mani ma mai davvero duri. Ideale per chi vuole entrare in ferrata con una via carina."
+      },
+      {
+        "observedAt": "2022-07-14",
+        "words": "Giorno di ferie, in mezzo alla settimana, una parete mezza vuota. Il tracciato segue cenge e placchette con tanta aria sotto ma sempre un buon appiglio. Una bella mezza giornata."
+      },
+      {
+        "observedAt": "2022-08-06",
+        "words": "Abbiamo fatto la prima parte e questa di seguito: la differenza si sente subito, dopo il muro duro qui si recupera. Il cavo scorre bene e il fiato torna."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Con i miei figli di dodici e quindici anni, entusiasti. Un passaggio un po' verticale ma con staffe vicine, nessuno si è bloccato. Gran merenda in cima."
+      },
+      {
+        "observedAt": "2022-09-22",
+        "words": "Giovedì pomeriggio di sole pieno. In basso il torrente luccica e in alto compare il Gran Paradiso tra i larici. L'uscita sul sentiero è comoda e senza difficoltà."
+      },
+      {
+        "observedAt": "2023-06-17",
+        "words": "A giugno la parete è ancora umida e i sassi della base scivolosi. La via in sé è divertente e senza pensieri; occhio solo ai passaggi sull'erba bagnata."
+      },
+      {
+        "observedAt": "2023-07-30",
+        "words": "Una ferrata di quelle da fare in compagnia, con calma. In un'ora e un quarto siamo stati fuori, poi un caffè al bar in paese. Molta gente ma nessuna coda."
+      },
+      {
+        "observedAt": "2023-08-22",
+        "words": "Martedì, silenzio. Il cavo in un tratto di cengia è appena stato rimesso in tensione: prima ciondolava, ora è teso e sicuro. Brava a chi si prende cura di queste vie."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Con un amico alla prima ferrata ma con buon senso: si è fidato dei piedi, ha chiesto quando serviva, ha sorriso tutto il tempo. Questa seconda parte è perfetta per lui."
+      },
+      {
+        "observedAt": "2024-06-29",
+        "words": "Sole sulla parete dalle dieci, quindi partenza presto. Dalle undici in poi la roccia è calda e le mani soffrono. In compenso il sentiero di rientro è all'ombra."
+      },
+      {
+        "observedAt": "2024-07-24",
+        "words": "Mercoledì di luglio, l'unica persona in tutta la via. Mi sono preso il tempo di fare foto e ascoltare il torrente. Ferrata gentile, che non spaventa nessuno."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Ferragosto affollato in valle: la parete ospita due gruppi di scout e una guida con un cliente. Bella la vista dal passaggio aereo, ma si aspetta ad ogni sosta."
+      },
+      {
+        "observedAt": "2024-09-08",
+        "words": "Dopo una frana di sassi a primavera il sentiero di rientro è stato deviato. La deviazione è ben segnata, ma allunga di dieci minuti. Per il resto, tutto in ordine."
+      },
+      {
+        "observedAt": "2024-10-05",
+        "words": "Ottobre, larici d'oro e aria frizzante. Per essere così a fine stagione la roccia era secca e pulita. Un bel modo di chiudere l'anno di ferrate."
+      },
+      {
+        "observedAt": "2025-06-21",
+        "words": "Giornata di inizio estate, con la valle verde brillante. Poche staffe, molti tratti di cavo orizzontale su cenge: più una camminata attrezzata che una vera arrampicata."
+      },
+      {
+        "observedAt": "2025-08-02",
+        "words": "Abbiamo portato un cane piccolo nello zaino, e lui si è comportato benissimo. Le cenge sono abbastanza larghe, poi la discesa è comoda. Sconsiglio i cani grandi."
+      },
+      {
+        "observedAt": "2025-09-12",
+        "words": "Un venerdì di fine estate. Il sentiero di rientro, con la deviazione nuova, è più lungo ma anche più dolce e senza sassi. Alla fine, sul prato, gran pennichella."
+      },
+      {
+        "observedAt": "2025-10-11",
+        "words": "Da noi in inverno è una ferrata che si guarda e basta, ma a metà ottobre si fa ancora. Sole dalle undici, qualche chiazza di brina all'ombra."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Più facile della prima parte",
+          "quote": "molto più abbordabile"
+        },
+        {
+          "label": "Adatta a chi comincia",
+          "quote": "Ideale per chi vuole entrare in ferrata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Esposizione moderata",
+          "quote": "tanta aria sotto ma sempre un buon appiglio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Più facile della prima parte",
+          "quote": "dopo il muro duro qui si recupera"
+        },
+        {
+          "label": "Fatta di seguito alla prima",
+          "quote": "Abbiamo fatto la prima parte e questa di seguito"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Con i ragazzi",
+          "quote": "Con i miei figli di dodici e quindici anni"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Uscita panoramica",
+          "quote": "compare il Gran Paradiso tra i larici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lucida e bagnata",
+          "quote": "la parete è ancora umida"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta a chi comincia",
+          "quote": "Una ferrata di quelle da fare in compagnia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cavo curato",
+          "quote": "ora è teso e sicuro"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Cavo rimesso in tensione sulla cengia",
+          "kind": "novita",
+          "quote": "Il cavo in un tratto di cengia è appena stato rimesso in tensione"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Adatta a chi comincia",
+          "quote": "alla prima ferrata ma con buon senso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole del pomeriggio",
+          "quote": "Sole sulla parete dalle dieci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Più facile della prima parte",
+          "quote": "Ferrata gentile, che non spaventa nessuno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Esposizione moderata",
+          "quote": "passaggio aereo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero di rientro facile",
+          "quote": "il sentiero di rientro è stato deviato"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Sentiero di rientro deviato",
+          "kind": "attenzione",
+          "quote": "Dopo una frana di sassi a primavera il sentiero di rientro è stato deviato."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Uscita panoramica",
+          "quote": "larici d'oro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Più facile della prima parte",
+          "quote": "più una camminata attrezzata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cane nello zaino",
+          "quote": "un cane piccolo nello zaino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sentiero di rientro facile",
+          "quote": "sentiero di rientro, con la deviazione nuova"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole del pomeriggio",
+          "quote": "Sole dalle undici"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "osm": "r2545315",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "jafferau",
+    "activity": "mountain_bike",
+    "place": "comune-001022",
+    "name": "Jafferau",
+    "lat": 45.08646,
+    "lon": 6.76919,
+    "altMax": 2805,
+    "facts": {},
+    "sections": {
+      "descrizione": "Il grande giro di Bardonecchia: dal paese si sale per la vecchia strada militare fino al Forte Jafferau, sul crinale a quasi 2.800 metri. Quasi duemila metri di dislivello, quasi tutti su sterrato largo e a pendenza regolare, senza strappi ma lunghissimi: in sella dall'inizio alla fine si fa, ma va messa in conto una mattina intera.\n\nIn basso la strada sale nel bosco di larici con il fondo compatto; oltre il limite degli alberi si fa più sassosa e i tornanti si stringono. In alto si passa la galleria scavata nella montagna, lunga e umida, che sbuca sul versante opposto a poca distanza dal forte. Dai ruderi lo sguardo corre su tutta la conca di Bardonecchia e sulle cime di confine.\n\nLa discesa più semplice è per la stessa strada: veloce, ma con molto pietrame mobile nei tornanti alti. Chi ha una bici da enduro può prendere il sentiero che si stacca sotto la galleria, ripido, sassoso e tecnico, con qualche tratto da fare a piedi.\n\nLa strada è aperta anche a fuoristrada e moto, che nei weekend d'estate sollevano parecchia polvere. Chi non vuole pedalare tutto il dislivello può usare la seggiovia estiva con il porta bici o una navetta, e pedalare solo la parte alta.",
+      "note": "Si va da giugno a ottobre: prima e dopo, sopra i 2.000 metri c'è neve e l'imbocco della galleria resta chiuso a lungo. Acqua solo in paese e in basso, sopra niente: due borracce almeno. In cima fa freddo anche d'estate, una giacca e i guanti lunghi per la discesa servono sempre; nei pomeriggi d'estate i temporali arrivano in fretta.",
+      "avvicinamento": "Si parte direttamente da Bardonecchia, dove si lascia l'auto: i primi chilometri sono asfaltati, poi si imbocca la strada militare sterrata che sale verso lo Jafferau."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-06-19",
+        "words": "Prima volta sul Jafferau. Partiti dal paese alle 8, è una salita che non finisce mai: sterrato largo, pendenza regolare, ma sono quasi duemila metri di dislivello e si sentono tutti. Sopra i 2.400 ancora lingue di neve sulla strada, un paio di tratti a piedi con la bici in spalla."
+      },
+      {
+        "observedAt": "2022-06-26",
+        "words": "Neve finita quasi del tutto, solo un nevaio poco prima del forte che si aggira a lato. In cima vento gelido, mangiato qualcosa al riparo dei muri e giù subito."
+      },
+      {
+        "observedAt": "2022-07-06",
+        "words": "Giro di metà settimana, strada deserta, incontrate solo due jeep in tutta la mattina. La galleria è lunga e completamente buia: senza una luce frontale non si vede la mano davanti agli occhi, e dentro gocciola."
+      },
+      {
+        "observedAt": "2022-07-10",
+        "words": "Che caos. Domenica di luglio e sulla militare sono passate decine di moto e fuoristrada, ogni volta una nuvola di polvere. Salita bella ma da rifare in un giorno feriale."
+      },
+      {
+        "observedAt": "2022-07-17",
+        "words": "Saliti con la seggiovia fino a metà e poi pedalato il resto: per chi non ha le gambe per tutto il dislivello è la soluzione giusta. Dal forte vista enorme, si vedono le cime della Francia e giù la conca di Bardonecchia."
+      },
+      {
+        "observedAt": "2022-07-24",
+        "words": "La discesa sulla strada è veloce ma piena di sassi mobili, nei tornanti la ruota davanti scappa. Gomme larghe e pressione bassa, altrimenti si fora. Visto un gruppo di marmotte enormi vicino al forte, per niente spaventate."
+      },
+      {
+        "observedAt": "2022-08-07",
+        "words": "Attenzione: c'è una frana sul tornante poco sotto il forte, la strada è chiusa alle auto con una transenna. In bici si passa a piedi sul bordo, una decina di metri, ma con calma che il terreno sopra non sembra fermo."
+      },
+      {
+        "observedAt": "2022-08-15",
+        "words": "Ferragosto in quota. Grazie alla frana sopra non salgono più le macchine, quindi l'ultimo pezzo era tranquillo. Poca acqua: l'unica fontana è in basso, sopra niente. Portare almeno due borracce."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Salita regolare, mai troppo dura, ma lunghissima. Io ci ho messo tre ore e mezza fino alla galleria con qualche sosta."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Partenza alle 7 per evitare il temporale annunciato, arrivati al forte alle 11 col cielo che si chiudeva. Discesa con i primi tuoni alle spalle: non aspettate il pomeriggio d'estate quassù."
+      },
+      {
+        "observedAt": "2022-09-14",
+        "words": "Giornata limpida di settembre, nessuno in giro. Dalle feritoie del forte si guarda tutta la valle, uno dei panorami più belli che conosco in bici."
+      },
+      {
+        "observedAt": "2022-09-25",
+        "words": "Freddo serio in cima, a fine settembre ci vogliono guanti lunghi e una giacca vera per la discesa. Sotto il sole si stava bene, ma appena il vento gira si gela."
+      },
+      {
+        "observedAt": "2022-10-09",
+        "words": "Ultimo giro dell'anno. Larici gialli, strada asciutta, frana ancora lì: si passa a piedi come in estate."
+      },
+      {
+        "observedAt": "2023-06-18",
+        "words": "Inizio stagione con troppa neve: ci siamo fermati alla galleria, l'imbocco era ancora pieno. Torneremo tra due settimane."
+      },
+      {
+        "observedAt": "2023-07-02",
+        "words": "La galleria è chiusa per lavori, cancello chiuso e cartello del comune. Non si può passare: si torna indietro o si sale a piedi per il sentiero sopra, con la bici in spalla, che è roba da matti."
+      },
+      {
+        "observedAt": "2023-07-12",
+        "words": "Con la galleria chiusa ho fatto il giro corto, fino all'imbocco e giù. Comunque mille e passa metri di sterrato, buon allenamento. Pochissime auto in un mercoledì."
+      },
+      {
+        "observedAt": "2023-07-23",
+        "words": "Navetta fino alla partenza alta organizzata da un noleggio del paese, poi solo discesa. I sassi sulla strada sono tanti, freni a disco caldissimi alla fine."
+      },
+      {
+        "observedAt": "2023-08-06",
+        "words": "Alla galleria ancora i lavori. Pare stiano rifacendo la volta. Siamo saliti fin lì e poi giù, sterrato pieno di polvere per le moto."
+      },
+      {
+        "observedAt": "2023-08-19",
+        "words": "Caldo anche in quota, finita l'acqua a metà salita. Non c'è nulla dove riempire la borraccia una volta lasciato il bosco."
+      },
+      {
+        "observedAt": "2023-09-10",
+        "words": "Buone notizie: la frana sotto il forte è stata sistemata, c'è un muro nuovo e la strada è di nuovo libera fino in cima. Galleria però sempre chiusa, quindi ci siamo fermati lì sotto."
+      },
+      {
+        "observedAt": "2023-09-20",
+        "words": "Giro infrasettimanale con un collega. Vento fortissimo sul crinale, in certi punti spingeva di lato la bici. Sul forte non si stava in piedi."
+      },
+      {
+        "observedAt": "2023-10-01",
+        "words": "Discesa veloce ma bisogna stare attenti: pietrame sciolto sui tornanti e sotto il bordo strada niente protezione."
+      },
+      {
+        "observedAt": "2023-10-15",
+        "words": "Ottobre fresco e asciutto. Su e giù senza incontrare nessuno, solo un gregge con due cani da pastore che ci hanno accompagnato abbaiando per cento metri. Scesi dalla bici e passati piano."
+      },
+      {
+        "observedAt": "2024-06-23",
+        "words": "Neve ancora oltre i 2.500, tra la galleria e il forte un paio di tratti da attraversare a piedi. Fattibile con scarpe buone."
+      },
+      {
+        "observedAt": "2024-07-07",
+        "words": "La galleria è aperta di nuovo e adesso è illuminata, ci sono le luci lungo tutta la volta. Finalmente si passa senza frontale, anche se il fondo resta bagnato."
+      },
+      {
+        "observedAt": "2024-07-14",
+        "words": "Tre ore e quaranta dal paese al forte, sempre sterrato a parte i primi chilometri. Se lo fai tutto in sella sei a posto per la settimana. Vista dal forte sempre incredibile."
+      },
+      {
+        "observedAt": "2024-07-24",
+        "words": "Seggiovia aperta d'estate con il porta bici, salito fino in alto e poi gli ultimi tornanti pedalati. Molto comodo, e sulla strada a metà settimana c'era poca gente."
+      },
+      {
+        "observedAt": "2024-08-04",
+        "words": "Tanti fuoristrada, qualcuno anche veloce sui tornanti. Tenersi a destra e occhio alle curve cieche."
+      },
+      {
+        "observedAt": "2024-08-11",
+        "words": "Galleria con le luci: si passa tranquilli, ma fa freddo dentro, una giacca leggera aiuta."
+      },
+      {
+        "observedAt": "2024-08-14",
+        "words": "Vigilia di ferragosto, partito all'alba da solo. Al forte alle nove, nessuno, il sole che scaldava i muri e sotto le nuvole basse sulla valle. Mezz'ora seduto a guardare. Poi discesa, attento ai sassi."
+      },
+      {
+        "observedAt": "2024-08-25",
+        "words": "Tante bici elettriche quest'anno, ci superano in salita parlando come se fossero al bar. Va bene così, la montagna è di tutti."
+      },
+      {
+        "observedAt": "2024-09-08",
+        "words": "Un classico della valle. Lunga, faticosa, panoramica. Due borracce non bastano se fa caldo."
+      },
+      {
+        "observedAt": "2024-09-18",
+        "words": "Settembre, vento da ovest freddo. In cima sotto i dieci gradi, mangiato di corsa dentro i ruderi del forte."
+      },
+      {
+        "observedAt": "2024-09-29",
+        "words": "Discesa scivolosa dopo la pioggia della notte: le pietre bagnate non tengono e il fango nella galleria ti arriva dappertutto."
+      },
+      {
+        "observedAt": "2024-10-13",
+        "words": "Ultimo giro prima della neve, cielo pulitissimo. Strada vuota."
+      },
+      {
+        "observedAt": "2025-06-15",
+        "words": "Neve sciolta presto quest'anno, già a metà giugno si arriva in cima pulito. Fredda la discesa."
+      },
+      {
+        "observedAt": "2025-06-25",
+        "words": "Hanno messo i cartelli nuovi per il sentiero di discesa che si stacca dalla strada sotto la galleria: frecce gialle con il numero, prima si andava a intuito. Il sentiero è ripido e sassoso, va bene solo con una bici da enduro."
+      },
+      {
+        "observedAt": "2025-07-06",
+        "words": "Novità di quest'anno: per salire con auto e moto ora si paga un permesso e i passaggi sono contati. Si vede: domenica di luglio e pochissimi motori sulla strada, finalmente si respira."
+      },
+      {
+        "observedAt": "2025-07-13",
+        "words": "Salita in due tempi: seggiovia fino a metà e poi su in bici, perché mia figlia di dodici anni non aveva le gambe per tutto. Lei felicissima al forte."
+      },
+      {
+        "observedAt": "2025-07-20",
+        "words": "Giornata perfetta. Sterrato compatto in basso, più sassoso in alto, la galleria con le luci. Dal forte si vedeva fino al Monviso."
+      },
+      {
+        "observedAt": "2025-07-30",
+        "words": "Uscita del mercoledì. Strada tranquilla col permesso per i motori, incontrato solo un furgone del comune. In cima vento teso e nuvole che correvano."
+      },
+      {
+        "observedAt": "2025-08-10",
+        "words": "Seguito il sentiero nuovo con i cartelli per la discesa: tecnico, radici e sassi, bello ma da non sottovalutare. Pastiglie dei freni finite alla fine."
+      },
+      {
+        "observedAt": "2025-08-24",
+        "words": "Quasi duemila metri di salita in una mattina. La salita è sempre quella, lunga e senza strappi. L'acqua solo giù in basso."
+      },
+      {
+        "observedAt": "2025-09-07",
+        "words": "Dopo la galleria si apre tutto e il forte compare in alto sul crinale. Tra i ruderi qualcuno aveva lasciato rifiuti, portati giù noi."
+      },
+      {
+        "observedAt": "2025-09-17",
+        "words": "Giorno di ferie usato bene. Freddino al mattino, poi sole pieno. Discesa tutta sulla strada, sassi ovunque nei tornanti alti."
+      },
+      {
+        "observedAt": "2025-10-05",
+        "words": "A ottobre la luce è bellissima ma in cima tira un vento che taglia la faccia. Guanti invernali."
+      },
+      {
+        "observedAt": "2026-06-21",
+        "words": "Neve ancora sopra la galleria, fermati lì. Il resto della strada asciutto."
+      },
+      {
+        "observedAt": "2026-07-05",
+        "words": "Dopo i temporali di fine giugno c'è un canale scavato dall'acqua in mezzo al sentiero di discesa, profondo anche mezzo metro nel tratto basso. Si scende a lato, ma all'improvviso è pericoloso."
+      },
+      {
+        "observedAt": "2026-07-15",
+        "words": "Salita lunghissima come sempre, fatta tutta in sella. Galleria illuminata, forte deserto, vista pulita sulla conca."
+      },
+      {
+        "observedAt": "2026-07-26",
+        "words": "Navetta del noleggio e poi solo discesa. Sul sentiero il canale c'è ancora, segnato con un nastro."
+      },
+      {
+        "observedAt": "2026-08-09",
+        "words": "Poche moto, il permesso funziona. Sassi in discesa come sempre, pressione bassa e via."
+      },
+      {
+        "observedAt": "2026-08-20",
+        "words": "Partito presto un giovedì. Al forte da solo, freddo pungente e una vista che toglie il fiato."
+      },
+      {
+        "observedAt": "2026-09-13",
+        "words": "Fine stagione con le prime spolverate in alto. Fontana in paese e poi niente per tutta la salita."
+      },
+      {
+        "observedAt": "2026-10-04",
+        "words": "Ultimo giro del 2026, larici gialli. Salita, galleria con le luci, forte, discesa con calma."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Salita lunga su sterrato",
+          "quote": "è una salita che non finisce mai"
+        },
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "ancora lingue di neve sulla strada"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "solo un nevaio poco prima del forte"
+        },
+        {
+          "label": "Vento e freddo in cima",
+          "quote": "In cima vento gelido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Auto e moto sulla strada",
+          "quote": "incontrate solo due jeep in tutta la mattina"
+        },
+        {
+          "label": "Galleria sulla strada",
+          "quote": "senza una luce frontale non si vede la mano davanti agli occhi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Auto e moto sulla strada",
+          "quote": "sono passate decine di moto e fuoristrada"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Seggiovia o navetta",
+          "quote": "Saliti con la seggiovia fino a metà"
+        },
+        {
+          "label": "Forte e panorama",
+          "quote": "Dal forte vista enorme"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietre smosse in discesa",
+          "quote": "piena di sassi mobili, nei tornanti la ruota davanti scappa"
+        },
+        {
+          "label": "Marmotte vicino al forte",
+          "quote": "Visto un gruppo di marmotte enormi vicino al forte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana sotto il forte",
+          "kind": "attenzione",
+          "quote": "c'è una frana sul tornante poco sotto il forte, la strada è chiusa alle auto con una transenna"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Auto e moto sulla strada",
+          "quote": "sopra non salgono più le macchine"
+        },
+        {
+          "label": "Poca acqua in quota",
+          "quote": "l'unica fontana è in basso, sopra niente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga su sterrato",
+          "quote": "Salita regolare, mai troppo dura, ma lunghissima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "non aspettate il pomeriggio d'estate quassù"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Forte e panorama",
+          "quote": "uno dei panorami più belli che conosco in bici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento e freddo in cima",
+          "quote": "Freddo serio in cima"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "l'imbocco era ancora pieno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Galleria chiusa per lavori",
+          "kind": "attenzione",
+          "quote": "La galleria è chiusa per lavori, cancello chiuso e cartello del comune"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga su sterrato",
+          "quote": "Comunque mille e passa metri di sterrato"
+        },
+        {
+          "label": "Auto e moto sulla strada",
+          "quote": "Pochissime auto in un mercoledì"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Seggiovia o navetta",
+          "quote": "Navetta fino alla partenza alta"
+        },
+        {
+          "label": "Pietre smosse in discesa",
+          "quote": "I sassi sulla strada sono tanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Auto e moto sulla strada",
+          "quote": "sterrato pieno di polvere per le moto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua in quota",
+          "quote": "Non c'è nulla dove riempire la borraccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Strada riaperta dopo la frana",
+          "kind": "novita",
+          "quote": "la frana sotto il forte è stata sistemata, c'è un muro nuovo"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento e freddo in cima",
+          "quote": "Vento fortissimo sul crinale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietre smosse in discesa",
+          "quote": "pietrame sciolto sui tornanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cani da pastore",
+          "quote": "un gregge con due cani da pastore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Neve ancora oltre i 2.500"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Galleria sulla strada",
+          "quote": "il fondo resta bagnato"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Galleria illuminata",
+          "kind": "novita",
+          "quote": "La galleria è aperta di nuovo e adesso è illuminata"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga su sterrato",
+          "quote": "sempre sterrato a parte i primi chilometri"
+        },
+        {
+          "label": "Forte e panorama",
+          "quote": "Vista dal forte sempre incredibile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Seggiovia o navetta",
+          "quote": "Seggiovia aperta d'estate con il porta bici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Auto e moto sulla strada",
+          "quote": "Tanti fuoristrada, qualcuno anche veloce sui tornanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Galleria sulla strada",
+          "quote": "fa freddo dentro, una giacca leggera aiuta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Forte e panorama",
+          "quote": "Mezz'ora seduto a guardare"
+        },
+        {
+          "label": "Pietre smosse in discesa",
+          "quote": "attento ai sassi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bici elettriche",
+          "quote": "Tante bici elettriche quest'anno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga su sterrato",
+          "quote": "Lunga, faticosa, panoramica"
+        },
+        {
+          "label": "Poca acqua in quota",
+          "quote": "Due borracce non bastano se fa caldo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento e freddo in cima",
+          "quote": "In cima sotto i dieci gradi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietre smosse in discesa",
+          "quote": "le pietre bagnate non tengono"
+        },
+        {
+          "label": "Galleria sulla strada",
+          "quote": "il fango nella galleria ti arriva dappertutto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Neve sciolta presto quest'anno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietre smosse in discesa",
+          "quote": "Il sentiero è ripido e sassoso"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Nuovi cartelli in discesa",
+          "kind": "novita",
+          "quote": "Hanno messo i cartelli nuovi per il sentiero di discesa"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Auto e moto sulla strada",
+          "quote": "pochissimi motori sulla strada"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Pedaggio per auto e moto",
+          "kind": "novita",
+          "quote": "per salire con auto e moto ora si paga un permesso e i passaggi sono contati"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Seggiovia o navetta",
+          "quote": "seggiovia fino a metà e poi su in bici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Galleria sulla strada",
+          "quote": "la galleria con le luci"
+        },
+        {
+          "label": "Forte e panorama",
+          "quote": "Dal forte si vedeva fino al Monviso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Auto e moto sulla strada",
+          "quote": "incontrato solo un furgone del comune"
+        },
+        {
+          "label": "Vento e freddo in cima",
+          "quote": "In cima vento teso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietre smosse in discesa",
+          "quote": "radici e sassi, bello ma da non sottovalutare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga su sterrato",
+          "quote": "La salita è sempre quella, lunga e senza strappi"
+        },
+        {
+          "label": "Poca acqua in quota",
+          "quote": "L'acqua solo giù in basso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Forte e panorama",
+          "quote": "il forte compare in alto sul crinale"
+        },
+        {
+          "label": "Rifiuti tra i ruderi",
+          "quote": "qualcuno aveva lasciato rifiuti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pietre smosse in discesa",
+          "quote": "sassi ovunque nei tornanti alti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento e freddo in cima",
+          "quote": "in cima tira un vento che taglia la faccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "Neve ancora sopra la galleria"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Canale eroso in discesa",
+          "kind": "attenzione",
+          "quote": "c'è un canale scavato dall'acqua in mezzo al sentiero di discesa"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga su sterrato",
+          "quote": "Salita lunghissima come sempre"
+        },
+        {
+          "label": "Forte e panorama",
+          "quote": "vista pulita sulla conca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Seggiovia o navetta",
+          "quote": "Navetta del noleggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Auto e moto sulla strada",
+          "quote": "Poche moto, il permesso funziona"
+        },
+        {
+          "label": "Pietre smosse in discesa",
+          "quote": "Sassi in discesa come sempre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vento e freddo in cima",
+          "quote": "freddo pungente"
+        },
+        {
+          "label": "Forte e panorama",
+          "quote": "una vista che toglie il fiato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua in quota",
+          "quote": "Fontana in paese e poi niente per tutta la salita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    }
+  ]
+}

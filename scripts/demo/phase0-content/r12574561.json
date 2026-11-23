@@ -1,0 +1,299 @@
+{
+  "osm": "r12574561",
+  "invented": [
+    "description",
+    "note",
+    "reports",
+    "esposizione"
+  ],
+  "itinerary": {
+    "key": "cammino-balteo-tappa-4",
+    "activity": "escursionismo",
+    "place": "comune-007023",
+    "name": "Cammino Balteo (Bassa Via della Valle d'Aosta), Tappa 4",
+    "lat": 45.60548,
+    "lon": 7.76445,
+    "aspect": "S",
+    "altMax": 357,
+    "facts": {
+      "difficolta": "E",
+      "partenza": 357,
+      "esposizione": "S",
+      "localita_partenza": "Donnas"
+    },
+    "sections": {
+      "descrizione": "La quarta tappa del cammino collega Donnas ad Arnad, per circa dodici chilometri e mezzo. Si resta a quote basse, tra i 300 e i 500 metri circa, su mulattiere, sentieri e tratti di strada secondaria, attraversando boschi e versanti terrazzati.\n\nIl segnavia è il numero 3 nel triangolo giallo con bordo nero, ripetuto lungo tutta la via. In alcuni punti i segni sono rari e conviene tenere sott'occhio la traccia.\n\nÈ un percorso senza difficoltà tecniche, adatto a chi ha un po' di gamba. Per la sua quota è percorribile per buona parte dell'anno.",
+      "note": "Poca ombra nei tratti aperti: in estate partire presto e portare acqua. Dopo piogge forti i tratti in terra possono diventare fangosi."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-03-26",
+        "words": "Primavera piena a bassa quota: tutto il giorno a camminare con il sole, e a marzo è una gioia. Fine tappa dopo circa quattro ore e mezza, passo tranquillo."
+      },
+      {
+        "observedAt": "2022-05-14",
+        "words": "I segnavia a un certo punto sembrano sparire e abbiamo perso un quarto d'ora a cercare il triangolo giallo. Poi si ritrova. Ottimo il tratto nel bosco."
+      },
+      {
+        "observedAt": "2022-07-02",
+        "words": "Troppo caldo per questa tappa a luglio: poca ombra nei tratti aperti e l'acqua finita a metà. Partire prima delle sette o scegliere un altro periodo."
+      },
+      {
+        "observedAt": "2022-10-22",
+        "words": "Ottobre è il mese giusto. Fogliame giallo, aria fresca, il silenzio dei sentieri. Un po' troppa strada asfaltata verso la fine, però si cammina bene."
+      },
+      {
+        "observedAt": "2023-02-18",
+        "words": "Inverno mite, siamo partiti in maglione e abbiamo finito in maglietta. Con la pioggia dei giorni prima il sentiero era una pista di fango in diversi punti."
+      },
+      {
+        "observedAt": "2023-04-15",
+        "words": "Sul sentiero c'è una frana recente: un tratto è interrotto e c'è una deviazione improvvisata tra gli alberi, non segnata. Fate attenzione a seguirla."
+      },
+      {
+        "observedAt": "2023-06-24",
+        "words": "Sabato caldo. Sole sulla schiena quasi sempre, pochissima ombra fino al bosco. Abbiamo incontrato solo un ciclista."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Fine settembre: temperatura ideale. Sentiero battuto e asciutto. L'ultimo pezzo è sull'asfalto, un po' noioso dopo tutto il resto."
+      },
+      {
+        "observedAt": "2023-11-11",
+        "words": "Pioggia nei giorni scorsi, e il fondo era melmoso nei tratti in terra battuta. Scarponi consigliati. Nessuno in giro, tranquillo."
+      },
+      {
+        "observedAt": "2024-03-09",
+        "words": "La deviazione della frana adesso è segnata con i triangoli gialli e un nastro, e il sentiero è stato rimesso in ordine. Bella camminata di inizio primavera."
+      },
+      {
+        "observedAt": "2024-05-19",
+        "words": "Domenica fresca con qualche nuvola, ideale. Alcuni segnavia sono sbiaditi e c'è un bivio dove ho dovuto guardare la mappa."
+      },
+      {
+        "observedAt": "2024-08-10",
+        "words": "Partenza alle sei e già caldo. Dopo le dieci il sole picchia e non c'è un albero dove fermarsi. Per fortuna a metà una fontana."
+      },
+      {
+        "observedAt": "2024-10-26",
+        "words": "Autunno: i castagni gialli e il vino nuovo nell'aria. Tappa lunga, dodici chilometri, ma senza strappi. Ci sono tratti stradali fastidiosi vicino alla fine."
+      },
+      {
+        "observedAt": "2025-03-22",
+        "words": "Hanno ripassato la segnaletica: triangoli gialli nuovi e ben visibili ai bivi, finalmente. Cammino pulito e senza dubbi."
+      },
+      {
+        "observedAt": "2025-06-07",
+        "words": "Sabato soleggiato, poca ombra e caldo già alle dieci. Ho fatto la tappa con due bambini di dieci anni: ce l'hanno fatta, ma con tante soste."
+      },
+      {
+        "observedAt": "2025-11-01",
+        "words": "Bel giorno di inizio novembre, luce bassa e sentiero coperto di foglie. Dopo la pioggia c'era un po' di fango ma niente di serio."
+      },
+      {
+        "observedAt": "2026-04-04",
+        "words": "Primavera, prati fioriti e temperatura giusta. Un tratto lungo asfaltato prima di Arnad, per il resto sentiero vero."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Tempo di percorrenza",
+          "quote": "circa quattro ore e mezza"
+        },
+        {
+          "label": "Bella fuori stagione",
+          "quote": "Primavera piena a bassa quota"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica a tratti incerta",
+          "quote": "I segnavia a un certo punto sembrano sparire"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca ombra",
+          "quote": "poca ombra nei tratti aperti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bella fuori stagione",
+          "quote": "Ottobre è il mese giusto"
+        },
+        {
+          "label": "Tratti su asfalto",
+          "quote": "Un po' troppa strada asfaltata verso la fine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fango dopo la pioggia",
+          "quote": "il sentiero era una pista di fango in diversi punti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica a tratti incerta",
+          "quote": "una deviazione improvvisata tra gli alberi, non segnata"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Frana sul sentiero con deviazione",
+          "kind": "attenzione",
+          "quote": "Sul sentiero c'è una frana recente: un tratto è interrotto"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Un solo ciclista",
+          "quote": "solo un ciclista"
+        },
+        {
+          "label": "Poca ombra",
+          "quote": "Sole sulla schiena quasi sempre, pochissima ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bella fuori stagione",
+          "quote": "temperatura ideale"
+        },
+        {
+          "label": "Tratti su asfalto",
+          "quote": "L'ultimo pezzo è sull'asfalto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fango dopo la pioggia",
+          "quote": "il fondo era melmoso nei tratti in terra battuta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Bella fuori stagione",
+          "quote": "Bella camminata di inizio primavera"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Deviazione segnata dopo la frana",
+          "kind": "novita",
+          "quote": "La deviazione della frana adesso è segnata con i triangoli gialli e un nastro"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica a tratti incerta",
+          "quote": "Alcuni segnavia sono sbiaditi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fontana lungo la tappa",
+          "quote": "a metà una fontana"
+        },
+        {
+          "label": "Poca ombra",
+          "quote": "non c'è un albero dove fermarsi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Castagni in autunno",
+          "quote": "i castagni gialli"
+        },
+        {
+          "label": "Tratti su asfalto",
+          "quote": "tratti stradali fastidiosi vicino alla fine"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnavia ripassati",
+          "kind": "novita",
+          "quote": "Hanno ripassato la segnaletica: triangoli gialli nuovi e ben visibili ai bivi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tappa con bambini",
+          "quote": "con due bambini di dieci anni"
+        },
+        {
+          "label": "Poca ombra",
+          "quote": "poca ombra e caldo già alle dieci"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fango dopo la pioggia",
+          "quote": "Dopo la pioggia c'era un po' di fango"
+        },
+        {
+          "label": "Bella fuori stagione",
+          "quote": "Bel giorno di inizio novembre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tratti su asfalto",
+          "quote": "Un tratto lungo asfaltato prima di Arnad"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

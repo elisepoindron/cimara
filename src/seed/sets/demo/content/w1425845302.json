@@ -1,0 +1,287 @@
+{
+  "osm": "w1425845302",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "coulour-del-porco",
+    "activity": "via_ferrata",
+    "place": "comune-004077",
+    "name": "Coulour del Porco",
+    "lat": 44.69751,
+    "lon": 7.07341,
+    "aspect": "NO",
+    "altMax": 2769,
+    "facts": {},
+    "sections": {
+      "descrizione": "Un canalone di alta quota sopra Crissolo, nel gruppo del Monviso, attrezzato con catene e corde fisse. Non è una ferrata sportiva: il tracciato segue il fondo e le pareti del couloir, con tratti di roccia rotta e detrito, e qualche spit per le eventuali doppie. Il primo punto attrezzato è intorno ai 2770 metri, quindi si è già in ambiente alpino prima di toccare il ferro.\n\nLe difficoltà tecniche sono contenute, ma la ferrata richiede passo sicuro e testa fredda: i gradini sono scavati, la catena è spesso fredda e bagnata, e il canalone convoglia i sassi di chi sale davanti. Conviene non stare mai in fila sotto un altro gruppo.\n\nSi fa in piena estate, da luglio a metà settembre; prima, il fondo del canale tiene neve dura fino a stagione avanzata e serve la piccozza. Si porta il kit da ferrata completo, casco obbligatorio, guanti, una giacca anche in agosto. La discesa avviene per i sentieri della zona, con attenzione alle placche umide.",
+      "avvicinamento": "Dal parcheggio di Crissolo si sale per sentiero e mulattiera fino alle quote alte sotto il canalone; sono ore, non minuti, quindi la giornata va programmata con la partenza all'alba. Il traverso finale all'attacco è su sfasciumi."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-07-09",
+        "words": "Giornata limpida, partiti alle sei dal parcheggio. Il canalone ha ancora una lingua di neve sul fondo e abbiamo messo i ramponi per i primi dieci metri. Le catene sono fredde fino alle nove."
+      },
+      {
+        "observedAt": "2022-07-27",
+        "words": "Giorno di ferie, in mezzo alla settimana. Non c'era nessuno e meno male: il canale scarica sassi appena qualcuno si muove. Un blocco grosso come un forno è passato a due metri da me."
+      },
+      {
+        "observedAt": "2022-08-14",
+        "words": "Alba al lago, poi la salita. Ferrata corta ma intensa: catene ben ancorate, gradini scavati nella roccia. In cima il Monviso senza una nuvola."
+      },
+      {
+        "observedAt": "2022-08-28",
+        "words": "Abbiamo incrociato due cordate sopra di noi e ci siamo fermati ad aspettare: sotto un'altra persona non si sale, qui i sassi sono un rischio vero. Con il casco si dorme più tranquilli."
+      },
+      {
+        "observedAt": "2022-09-10",
+        "words": "Sabato di fine estate. Si arriva stanchi all'attacco, la camminata è lunga e il kit pesa. Poi la ferrata scorre in fretta, in un'ora eravamo fuori."
+      },
+      {
+        "observedAt": "2022-09-21",
+        "words": "Un giorno feriale di quelli rari, cielo terso e vento zero. Il tratto centrale ha una placca bagnata dalla rugiada che ha richiesto attenzione. Ottimo il silenzio."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "Prima di salire abbiamo chiesto al rifugio: il canale tiene ancora tanta neve, quindi piccozza e ramponi. L'abbiamo fatto lo stesso e c'è voluto il doppio del tempo."
+      },
+      {
+        "observedAt": "2023-08-06",
+        "words": "Partiti prestissimo per evitare il traffico della domenica. Il ferro è abbastanza nuovo in basso, più vecchio in alto, dove due ancoraggi mi sono sembrati un po' lenti."
+      },
+      {
+        "observedAt": "2023-08-23",
+        "words": "Tra le rocce del canalone una marmotta ci ha seguiti per metà salita, curiosissima. Per il resto itinerario serio, non da principianti, nonostante il grado basso."
+      },
+      {
+        "observedAt": "2023-09-02",
+        "words": "Cielo coperto verso mezzogiorno. In discesa la nebbia ci ha fatto perdere il sentiero per venti minuti, quindi occhio a segnarsi bene i bolli all'andata."
+      },
+      {
+        "observedAt": "2023-09-16",
+        "words": "Sul sentiero di avvicinamento c'è un tratto franato da un temporale: passa solo una persona alla volta. Poi tutto regolare."
+      },
+      {
+        "observedAt": "2024-07-20",
+        "words": "Con il caldo di luglio pensavamo di trovare il canale pulito, invece ancora neve residua sul fondo, poca ma ghiacciata. Meglio salire presto, quando regge."
+      },
+      {
+        "observedAt": "2024-08-07",
+        "words": "Pomeriggio di ferie, in mezzo alla settimana. Hanno sostituito parte delle catene nel tratto alto: nuove, lucide, rassicuranti."
+      },
+      {
+        "observedAt": "2024-08-31",
+        "words": "Giornata bellissima. Il Monviso si vede da ogni curva e il canalone è un posto strano, tra pareti grigie e un cielo molto blu. Raccomando i guanti: il ferro raffredda le mani."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Bel giro, ma attenti ai gruppi con poca esperienza: uno ha fatto cadere una pietra che per fortuna ci ha mancato. Casco sempre in testa, anche all'attacco."
+      },
+      {
+        "observedAt": "2025-07-26",
+        "words": "Giornata caldissima in basso, fresca all'ingresso del canale. Le doppie attrezzate con spit servono a chi vuole scendere dal canale; noi siamo scesi a piedi come da tradizione."
+      },
+      {
+        "observedAt": "2025-08-17",
+        "words": "Ferragosto prolungato, ma in parete solo quattro persone. La neve è sparita del tutto e i gradini sono puliti. Una marmotta ci ha fatto la guardia all'attacco."
+      },
+      {
+        "observedAt": "2025-09-09",
+        "words": "Cielo bellissimo. Fatica l'avvicinamento, scioltezza la ferrata. Si scende per sentiero e all'ultimo tratto nel bosco si ha il piacere del fiume."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Neve residua in luglio",
+          "quote": "ancora una lingua di neve sul fondo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caduta sassi nel canale",
+          "quote": "scarica sassi appena qualcuno si muove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partenza all'alba",
+          "quote": "Alba al lago"
+        },
+        {
+          "label": "Catene ben ancorate",
+          "quote": "catene ben ancorate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caduta sassi nel canale",
+          "quote": "sotto un'altra persona non si sale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "la camminata è lunga"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Placche umide",
+          "quote": "placca bagnata dalla rugiada"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve residua in luglio",
+          "quote": "tiene ancora tanta neve"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Partenza all'alba",
+          "quote": "Partiti prestissimo"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Ancoraggi lenti da controllare",
+          "kind": "attenzione",
+          "quote": "due ancoraggi mi sono sembrati un po' lenti"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte",
+          "quote": "una marmotta ci ha seguiti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia in discesa",
+          "quote": "la nebbia ci ha fatto perdere il sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "sentiero di avvicinamento"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Tratto franato sul sentiero",
+          "kind": "attenzione",
+          "quote": "c'è un tratto franato da un temporale"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve residua in luglio",
+          "quote": "ancora neve residua sul fondo"
+        },
+        {
+          "label": "Partenza all'alba",
+          "quote": "salire presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Catene ben ancorate",
+          "quote": "nuove, lucide, rassicuranti"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Catene nuove nel tratto alto",
+          "kind": "novita",
+          "quote": "Hanno sostituito parte delle catene nel tratto alto"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Catene ben ancorate",
+          "quote": "il ferro raffredda le mani"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caduta sassi nel canale",
+          "quote": "ha fatto cadere una pietra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Spit per doppie",
+          "quote": "doppie attrezzate con spit"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Marmotte",
+          "quote": "Una marmotta ci ha fatto la guardia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "Fatica l'avvicinamento"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

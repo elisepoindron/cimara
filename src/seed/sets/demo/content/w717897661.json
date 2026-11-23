@@ -1,0 +1,290 @@
+{
+  "osm": "w717897661",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "ferrata-al-pizzo-montevecchio-carcoforo",
+    "activity": "via_ferrata",
+    "place": "comune-002029",
+    "name": "Ferrata al Pizzo Montevecchio",
+    "lat": 45.91426,
+    "lon": 7.99778,
+    "aspect": "O",
+    "altMax": 2900,
+    "facts": {},
+    "sections": {
+      "descrizione": "Il lato di Carcoforo della ferrata al Pizzo Montevecchio parte molto in alto, intorno ai 2660 metri, e sale per una cresta rocciosa con cavo, staffe e qualche passaggio verticale di buona difficoltà. È una ferrata di alta quota, del tipo che si sceglie per il paesaggio più che per l'allenamento: tutt'intorno un anfiteatro di creste e prati alpini con il gruppo del Rosa sullo sfondo.\n\nIl tracciato è impegnativo ma ben attrezzato. Il cavo è solido, le staffe frequenti; i tratti più atletici sono due placche e un camino stretto dove lo zaino si incastra. A questa quota anche d'estate la roccia può essere fredda o bagnata di mattino, e il tempo cambia in fretta.\n\nSi fa da luglio a settembre, con il bollettino sotto controllo e una partenza presta: dopo mezzogiorno i temporali sono frequenti. Kit completo da ferrata, casco, guanti e abbigliamento da montagna vero, non da gita.",
+      "avvicinamento": "L'attacco si raggiunge dal lato di Carcoforo con una lunga salita per sentiero e tracce tra i pascoli alti, fino a circa 2660 metri. Servono diverse ore dal fondovalle: molti scelgono di dormire in quota."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Siamo partiti dal fondovalle alle cinque, all'attacco verso le nove. La ferrata è alta e fredda di mattina, il cavo gelato nei primi metri. Con i guanti però si lavora bene."
+      },
+      {
+        "observedAt": "2022-08-03",
+        "words": "Mercoledì tranquillo, cielo azzurro. Il camino stretto a metà è il passaggio più scomodo: zaino che si incastra, si deve togliere o spingere avanti. Meglio zaini piccoli."
+      },
+      {
+        "observedAt": "2022-08-20",
+        "words": "Giornata splendida, salita regolare. In cima il Rosa si vede tutto e sotto i pascoli verdi che scendono. Ripaga ogni goccia di sudore."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Partiti presto per il timore dei temporali, e infatti a mezzogiorno le nubi salivano dalla valle. Siamo scesi di corsa e ci ha preso un rovescio a metà sentiero."
+      },
+      {
+        "observedAt": "2022-09-14",
+        "words": "Mercoledì di fine estate, nessuno in parete. L'ambiente è grande, silenzioso, quasi severo. Ferrata solida, passaggi atletici ma divertenti."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Quest'anno ancora neve sui pendii alti sotto l'attacco, siamo arrivati con le ghette. La roccia è bagnata nei primi cinquanta metri."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Dopo aver dormito in quota ci siamo svegliati con il sole sul Rosa. La ferrata è solo una scusa per questo spettacolo; i passaggi tosti li ho fatti con calma."
+      },
+      {
+        "observedAt": "2023-08-30",
+        "words": "Giorno feriale con previsioni perfette. Per l'avvicinamento si parte con la frontale e si cammina quasi tre ore prima dell'attacco: allenatevi."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Placca verticale con staffe distanziate. Qualcuna è dritta, altre sembrano piegate, ma tengono. Per salire serve un po' di forza di braccia."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "A fine settembre il primo freddo vero. In cima 4 gradi e il vento a raffiche. Meglio una giacca in più nello zaino e qualcosa di caldo da bere."
+      },
+      {
+        "observedAt": "2024-07-27",
+        "words": "Siamo in quattro, due sono alla prima ferrata alta. Il bollettino dava temporali dopo le 14, siamo usciti in cima alle 11 e al sicuro per la discesa."
+      },
+      {
+        "observedAt": "2024-08-14",
+        "words": "Vigilia di Ferragosto, una decina di persone sul percorso ma si sale bene perché ognuno parte a orari diversi. Una nuova targa all'attacco indica difficoltà e orari."
+      },
+      {
+        "observedAt": "2024-08-28",
+        "words": "Mercoledì, ferie. Una marmotta curiosa e uno stambecco di passaggio. La cresta finale è esposta e panoramica, passaggio chiave subito sotto la cima."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Rovescio improvviso con grandine alle due del pomeriggio. Ci ha trovato già sul sentiero di discesa, fradici ma illesi. Ricordatevi che a 2800 metri i temporali fanno sul serio."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Il sentiero d'avvicinamento è stato segnalato con nuovi ometti e vernice fresca. Aiuta molto con la nebbia bassa, che ci ha accompagnati per la prima ora."
+      },
+      {
+        "observedAt": "2025-08-09",
+        "words": "Una ferrata che sa di alpinismo: tre ore di cammino, poi un bel muro attrezzato, poi una cresta. Non è per tutti ma chi la fa se la ricorda a lungo."
+      },
+      {
+        "observedAt": "2025-09-02",
+        "words": "Martedì sera, dormito in quota per evitare il tragitto lungo. Notte stellata e un'alba rosa su tutta la catena. Poi la salita, in due ore."
+      },
+      {
+        "observedAt": "2026-08-22",
+        "words": "La roccia è solida, il cavo bene in ordine dove ho guardato io. Arrivati al sole alle otto e mezza; scesi per lo stesso sentiero senza intoppi."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Quota alta e fredda",
+          "quote": "alta e fredda di mattina"
+        },
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "Siamo partiti dal fondovalle alle cinque"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Camino stretto",
+          "quote": "Il camino stretto a metà"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama sul Rosa",
+          "quote": "il Rosa si vede tutto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "a mezzogiorno le nubi salivano dalla valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ferrata atletica",
+          "quote": "passaggi atletici ma divertenti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "ancora neve sui pendii alti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Panorama sul Rosa",
+          "quote": "il sole sul Rosa"
+        },
+        {
+          "label": "Dormire in quota",
+          "quote": "Dopo aver dormito in quota"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "si cammina quasi tre ore prima dell'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ferrata atletica",
+          "quote": "Placca verticale con staffe distanziate"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Staffe piegate nella placca",
+          "kind": "attenzione",
+          "quote": "Qualcuna è dritta, altre sembrano piegate, ma tengono."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Quota alta e fredda",
+          "quote": "In cima 4 gradi e il vento a raffiche"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "temporali dopo le 14"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Targa nuova all'attacco",
+          "kind": "novita",
+          "quote": "Una nuova targa all'attacco indica difficoltà e orari."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Camino stretto",
+          "quote": "passaggio chiave subito sotto la cima"
+        },
+        {
+          "label": "Fauna in quota",
+          "quote": "Una marmotta curiosa e uno stambecco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "i temporali fanno sul serio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Nebbia sul sentiero",
+          "quote": "la nebbia bassa"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Sentiero segnalato di nuovo",
+          "kind": "novita",
+          "quote": "Il sentiero d'avvicinamento è stato segnalato con nuovi ometti e vernice fresca."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Ferrata atletica",
+          "quote": "un bel muro attrezzato"
+        },
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "tre ore di cammino"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Dormire in quota",
+          "quote": "dormito in quota"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Quota alta e fredda",
+          "quote": "Arrivati al sole alle otto e mezza"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

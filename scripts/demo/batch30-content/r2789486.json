@@ -1,0 +1,56 @@
+{
+  "osm": "r2789486",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "sentiero-ru-de-chevrere-e-montjovet",
+    "activity": "escursionismo",
+    "place": "comune-007017",
+    "name": "Sentiero Ru de Chevrère e Montjovet",
+    "lat": 45.67269,
+    "lon": 7.58659,
+    "aspect": "E",
+    "altMax": 1570,
+    "facts": {
+      "difficolta": "E",
+      "partenza": 1570,
+      "localita_partenza": "Champdepraz"
+    },
+    "sections": {
+      "descrizione": "Il sentiero parte da Hérin e sale lungo il ru de Chevrère fino all'altoforno della Serva, su un tracciato segnato in viola e bianco. Nel primo tratto è largo e battuto; poi si stringe nel bosco di castagni e torna su un prato con vista sul fondovalle.\n\nL'ultimo tratto è sassoso e va fatto con attenzione quando il fondo è bagnato. Tempo previsto tre ore fra andata e ritorno."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2024-10-19",
+        "words": "Castagni gialli e sentiero asciutto, si cammina bene fino all'altoforno."
+      },
+      {
+        "observedAt": "2026-06-14",
+        "words": "Caldo nel prato in cima, abbiamo cercato l'ombra per il pranzo. Ruscello pieno."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Castagni d'autunno",
+          "quote": "Castagni gialli"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Prato senza ombra",
+          "quote": "abbiamo cercato l'ombra per il pranzo"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

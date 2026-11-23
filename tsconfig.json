@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es2023",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "allowImportingTsExtensions": true,
+    "erasableSyntaxOnly": true,
+    "verbatimModuleSyntax": true,
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noEmit": true,
+    "types": ["node"],
+    // linkedom's shipped .d.ts files implement the ambient DOM lib (pulled in by
+    // default for this target) against an older shape than TS 5.9's lib.dom.d.ts,
+    // so checking linkedom's own declarations fails even though usage is fine.
+    // This only skips checking .d.ts files, never this project's own source.
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*.ts", "db/**/*.ts", "tests/**/*.ts"]
+}

@@ -1,0 +1,237 @@
+{
+  "osm": "r12113680",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d25",
+    "activity": "escursionismo",
+    "place": "comune-001224",
+    "name": "Via Alpina Blue D25",
+    "lat": 45.49941,
+    "lon": 7.54693,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 1263,
+      "localita_partenza": "Ronco Canavese",
+      "come_arrivare": "Ronco Canavese si raggiunge da Cuorgnè risalendo la Valle Soana in auto, con parcheggio in paese. L'arrivo a Talosio, una frazione della vallata vicina, richiede un secondo mezzo oppure un trasferimento per il ritorno."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu da Ronco Canavese a Talosio, nel Parco Nazionale del Gran Paradiso. Poco più di 13 chilometri con circa 1.260 metri di salita e quasi 1.000 di discesa.\n\nSi lascia Ronco e si sale lungo vecchie mulattiere tra frazioni, boschi di faggio e prati, fino a un valico sopra i duemila metri. Dal valico si scende all'altro versante, in una valle più stretta, fino a Talosio.\n\nÈ una tappa di salita lunga e di discesa moderata; il sentiero è ben segnato e frequentato. Meglio fare scorta d'acqua in basso."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-06-25",
+        "words": "Salita da Ronco tra case di pietra e giardini terrazzati. Le frazioni sono mezze abbandonate ma con qualche finestra piena di gerani."
+      },
+      {
+        "observedAt": "2022-07-03",
+        "words": "Il valico è largo e ventilato, con vista sui piccoli laghi sul versante opposto. Pranzo con le gambe penzoloni sopra il vuoto."
+      },
+      {
+        "observedAt": "2022-09-16",
+        "words": "Un mercoledì dal cielo grigio ma asciutto. Lungo la mulattiera i funghi erano così tanti che ho riempito un sacchetto."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Ottobre inoltrato, larici gialli in alto e foglie rosse in basso. Un cartello vecchio e consumato indicava ancora i tempi di una volta, ormai troppo ottimistici."
+      },
+      {
+        "observedAt": "2023-05-28",
+        "words": "Primi giorni di stagione: sopra i 1800 metri ancora neve compatta, ma ben calpestata da chi era passato. Ghette e occhiali da sole."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "Una salita con tanti sali-scendi che sembrano non aiutare. Alla fine il fiato è tornato regolare e ho smesso di guardare l'altimetro."
+      },
+      {
+        "observedAt": "2023-08-31",
+        "words": "Ferie in Valle Soana, tappa solitaria. Lo stambecco sul crinale era così immobile che l'ho scambiato per un sasso."
+      },
+      {
+        "observedAt": "2023-09-03",
+        "words": "In discesa verso Talosio il sentiero è stretto e scivoloso sull'erba bagnata. Prudenza e passo corto."
+      },
+      {
+        "observedAt": "2024-06-08",
+        "words": "Il tratto sopra l'ultima frazione è stato risistemato: muretti a secco rifatti e una nuova panca sotto il noce. Un bel segno per chi cammina."
+      },
+      {
+        "observedAt": "2024-07-21",
+        "words": "Caldo nel primo tratto e brezza al valico, con le zanzare nei prati bagnati. Alla fontana sotto il colle ho riempito la borraccia due volte."
+      },
+      {
+        "observedAt": "2024-08-20",
+        "words": "Giorno di ferie, aria limpida e Gran Paradiso all'orizzonte. Ci ho messo meno del previsto e sono arrivato a Talosio con ancora energia."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Un ponte di legno sul rio nella parte media è marcio e cede sotto il peso: meglio guadare poco a monte, dove l'acqua è bassa. Non fidarsi delle travi."
+      },
+      {
+        "observedAt": "2024-10-27",
+        "words": "Sentiero invaso dalle foglie e tracce di cinghiale nel fango. Ho sentito un grugnito nel bosco e ho accelerato."
+      },
+      {
+        "observedAt": "2025-06-21",
+        "words": "Il ponte è stato sostituito con una passerella in metallo, solida e con il corrimano. Si passa comodi anche con il cane."
+      },
+      {
+        "observedAt": "2025-08-31",
+        "words": "Valico con vento e nuvole. Mi sono rifugiato dietro un masso per mettere la giacca, poi giù fino a Talosio con una pioggerella leggera."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "La discesa finale su erba lunga è una pacchia con i bastoncini. A Talosio il pulmino non c'era, ma un passante gentile mi ha dato un passaggio."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Frazioni di pietra",
+          "quote": "Le frazioni sono mezze abbandonate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Valico panoramico",
+          "quote": "Il valico è largo e ventilato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Autunno nel bosco",
+          "quote": "i funghi erano così tanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Autunno nel bosco",
+          "quote": "larici gialli in alto e foglie rosse in basso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "sopra i 1800 metri ancora neve compatta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna alpina",
+          "quote": "Lo stambecco sul crinale era così immobile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Erba bagnata in discesa",
+          "quote": "il sentiero è stretto e scivoloso sull'erba bagnata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Muretti e panca nuovi sopra la frazione",
+          "kind": "novita",
+          "quote": "Il tratto sopra l'ultima frazione è stato risistemato: muretti a secco rifatti e una nuova panca sotto il noce."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Fontana lungo il percorso",
+          "quote": "Alla fontana sotto il colle ho riempito la borraccia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Gran Paradiso all'orizzonte",
+          "quote": "Gran Paradiso all'orizzonte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponte marcio sul rio",
+          "kind": "attenzione",
+          "quote": "Un ponte di legno sul rio nella parte media è marcio e cede sotto il peso: meglio guadare poco a monte, dove l'acqua è bassa."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Fauna alpina",
+          "quote": "tracce di cinghiale nel fango"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Passerella in metallo sul rio",
+          "kind": "novita",
+          "quote": "Il ponte è stato sostituito con una passerella in metallo, solida e con il corrimano."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Valico panoramico",
+          "quote": "Valico con vento e nuvole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rientro da organizzare",
+          "quote": "il pulmino non c'era"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

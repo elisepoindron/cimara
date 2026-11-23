@@ -1,0 +1,258 @@
+{
+  "osm": "r11971029",
+  "invented": [
+    "difficolta",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "via-alpina-blue-d10",
+    "activity": "escursionismo",
+    "place": "comune-103078",
+    "name": "Via Alpina Blue D10",
+    "lat": 46.04579,
+    "lon": 8.17886,
+    "facts": {
+      "difficolta": "E",
+      "dislivello": 886,
+      "localita_partenza": "Antronapiana",
+      "come_arrivare": "Antronapiana è in Valle Antrona, nell'Ossola: si arriva da Villadossola risalendo la valle in auto, con parcheggio vicino al Lago di Antrona. L'arrivo al Santuario della Madonna della Gurva, sopra Molini di Calasca, è in un'altra valle e si raggiunge solo a piedi."
+    },
+    "sections": {
+      "descrizione": "Tappa della Via Alpina Blu da Antronapiana, in Valle Antrona, al Santuario della Madonna della Gurva, sopra Molini di Calasca. Sono circa 14,6 chilometri in una sola direzione, con quasi 900 metri di salita e una discesa molto più lunga, di quasi 1.300.\n\nSi parte vicino al lago, poi si sale tra boschi e alpeggi fino a un passaggio di cresta che separa la Valle Antrona dalla Valle Anzasca. Dal valico il sentiero scende a lungo, con un bel colpo d'occhio sulle montagne dell'Ossola, fino al santuario.\n\nÈ una tappa di media lunghezza ma che chiede gambe per la discesa. Conviene farla da giugno a ottobre; non ci sono rifugi lungo il percorso, quindi acqua e cibo vanno portati da casa."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-06-25",
+        "words": "Partiti dal lago di Antrona con una nebbiolina che saliva dall'acqua. Siamo stati fortunati, perché poi il cielo si è aperto del tutto."
+      },
+      {
+        "observedAt": "2022-07-03",
+        "words": "Salita costante nel bosco di larici e poi sui pascoli alti. Verso la cresta il vento portava odore di fieno tagliato."
+      },
+      {
+        "observedAt": "2022-09-16",
+        "words": "Ho preso un giorno di ferie e l'ho dedicato alla Gurva. Solo io e un gregge di capre incrociato a metà salita."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "La discesa dal valico non finisce mai: gradini, radici e sassi smossi per ore. Ginocchia a pezzi ma il santuario in fondo vale la visita."
+      },
+      {
+        "observedAt": "2023-05-28",
+        "words": "In primavera nei prati sotto la cresta c'erano ancora lembi di neve e il sentiero era molle di fango. Scarpe da trekking, non da ginnastica."
+      },
+      {
+        "observedAt": "2023-06-17",
+        "words": "Il tratto di cresta ha un po' di esposizione ma c'è un passaggio facile aiutato da una catena. Con le mani bagnate fa un certo effetto."
+      },
+      {
+        "observedAt": "2023-08-31",
+        "words": "Mercoledì di caldo vero. Alla fontana vicino all'alpe l'acqua gelata mi ha salvato la giornata, poi su fino al valico."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "All'arrivo al santuario c'era una funzione e il suono delle campane si sentiva fino al bosco sopra. Un finale più bello di quanto sperassi."
+      },
+      {
+        "observedAt": "2024-06-08",
+        "words": "Un temporale in quota ci ha costretti a rifugiarci in una baita vuota. Quando è finito, il sentiero era un torrente."
+      },
+      {
+        "observedAt": "2024-07-21",
+        "words": "La catena è stata sostituita e il passaggio sulla cresta sistemato con gradini di legno. Ora è davvero più sicuro anche con lo zaino pesante."
+      },
+      {
+        "observedAt": "2024-08-20",
+        "words": "Giovedì con le nubi basse e qualche goccia. Il valico era vuoto e silenzioso, si sentiva solo il campanaccio di una mucca lontana."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "La salita dal lago è fatta di tornanti in bosco, tutti uguali tra loro. A un certo punto ho smesso di contarli e ho messo la musica."
+      },
+      {
+        "observedAt": "2024-10-27",
+        "words": "Sul versante sopra il santuario un ramo grosso ha sbarrato il sentiero e ci hanno aggirato in mezzo ai rovi. Dalle foglie capisco che non è una novità recente."
+      },
+      {
+        "observedAt": "2025-06-21",
+        "words": "La nuova segnaletica con le frecce gialle sulle rocce ha reso la traccia molto più chiara nella parte alta. Prima sbagliavo il bivio, stavolta no."
+      },
+      {
+        "observedAt": "2025-08-31",
+        "words": "Erano le tre quando ho raggiunto il santuario e c'era un mercatino sul piazzale. Una birra all'ombra e poi la navetta fino a Molini."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Il passo di cresta con la catena è rimasto in ordine, ma la discesa verso il santuario ha qualche tratto scivoloso quando c'è rugiada."
+      },
+      {
+        "observedAt": "2026-06-27",
+        "words": "Temporali previsti dal primo pomeriggio, quindi sveglia alle cinque. Siamo arrivati alla Gurva alle due e un quarto, prima dei tuoni."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Partenza dal lago",
+          "quote": "Partiti dal lago di Antrona"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita regolare nel bosco",
+          "quote": "Salita costante nel bosco di larici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "Solo io e un gregge di capre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "La discesa dal valico non finisce mai"
+        },
+        {
+          "label": "Santuario in fondo",
+          "quote": "il santuario in fondo vale la visita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve e fango in primavera",
+          "quote": "ancora lembi di neve e il sentiero era molle di fango"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cresta con catena",
+          "quote": "un passaggio facile aiutato da una catena"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua alla fontana",
+          "quote": "Alla fontana vicino all'alpe l'acqua gelata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Santuario in fondo",
+          "quote": "All'arrivo al santuario c'era una funzione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Un temporale in quota ci ha costretti a rifugiarci in una baita vuota"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena e gradini sulla cresta",
+          "kind": "novita",
+          "quote": "La catena è stata sostituita e il passaggio sulla cresta sistemato con gradini di legno."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi escursionisti",
+          "quote": "Il valico era vuoto e silenzioso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita regolare nel bosco",
+          "quote": "La salita dal lago è fatta di tornanti in bosco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Alberi caduti sul sentiero",
+          "quote": "un ramo grosso ha sbarrato il sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Segnaletica nuova sulle rocce",
+          "kind": "novita",
+          "quote": "La nuova segnaletica con le frecce gialle sulle rocce ha reso la traccia molto più chiara nella parte alta."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Rientro con la navetta",
+          "quote": "poi la navetta fino a Molini"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa lunga",
+          "quote": "la discesa verso il santuario ha qualche tratto scivoloso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Temporali previsti dal primo pomeriggio"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

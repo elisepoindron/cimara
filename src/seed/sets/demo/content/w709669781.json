@@ -1,0 +1,594 @@
+{
+  "osm": "w709669781",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "parcheggio_nota",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "falesia-di-monte-moro",
+    "activity": "falesia",
+    "place": "comune-004091",
+    "name": "Falesia di Monte Moro",
+    "lat": 44.26446,
+    "lon": 7.7909,
+    "aspect": "SO",
+    "altMax": 1702,
+    "facts": {
+      "esposizione": "SO",
+      "quota_base": 1702,
+      "avvicinamento": 10,
+      "localita_partenza": "Frabosa Sottana",
+      "parcheggio_nota": "Piazzola sterrata a lato della strada, pochi posti: nei weekend d'estate si riempie e si parcheggia più in basso."
+    },
+    "sections": {
+      "note": "Falesia di quarzite compatta a 1700 metri, esposta a sud-ovest, con una cinquantina di monotiri dal 4a al 7a, lunghi al massimo una trentina di metri. La roccia è grigia e levigata, di placca e muro verticale, con qualche tetto sul lato destro.\n\nLa chiodatura è a fix inox, ravvicinata e ben controllata, con soste a catena e moschettone di calata. Sulle placche facili i fix sono un po' più radi ma sempre comodi. Il sole arriva nel primo pomeriggio e resta fino al tramonto: è una falesia estiva e di inizio autunno, quando in valle fa troppo caldo.\n\nPortare una corda da 60 metri e una dozzina di rinvii. Con la neve la parete si libera tardi, spesso solo a fine maggio. Le vie descritte qui sono una selezione: ce ne sono altre sulle estremità.",
+      "avvicinamento": "Dalla strada si lascia l'auto nella piazzola e si segue il sentiero segnato che costeggia il pendio, in leggera salita, fino alla base della parete: una decina di minuti. Il settore dei Principianti è il primo che si incontra, quello Centrale è poco oltre, i Tetti sono in fondo a destra."
+    },
+    "parts": [
+      {
+        "group": "Principianti",
+        "fields": {
+          "nome": "Bacio di Quarzo",
+          "grado": "4a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Principianti",
+        "fields": {
+          "nome": "Lucertola",
+          "grado": "4b",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Principianti",
+        "fields": {
+          "nome": "Nonno Gigi",
+          "grado": "4c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Principianti",
+        "fields": {
+          "nome": "Colazione in Prato",
+          "grado": "5a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Principianti",
+        "fields": {
+          "nome": "Marmotta Stanca",
+          "grado": "5a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Principianti",
+        "fields": {
+          "nome": "Il Tarlo",
+          "grado": "5b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Principianti",
+        "fields": {
+          "nome": "Tre Tacche",
+          "grado": "5b+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Specchio Rosso",
+          "grado": "5c",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Vento di Libeccio",
+          "grado": "5c+",
+          "lunghezza": 27
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "La Sorgente",
+          "grado": "6a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Pane e Salame",
+          "grado": "6a",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Grigio Perla",
+          "grado": "6a+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Dolce Attesa",
+          "grado": "6b",
+          "lunghezza": 27
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Il Cacciatore",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Bella Scoperta",
+          "grado": "6b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Zitto e Tira",
+          "grado": "6c",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Centrale",
+        "fields": {
+          "nome": "Equilibrista",
+          "grado": "6c+",
+          "lunghezza": 29
+        }
+      },
+      {
+        "group": "Muro del Pomeriggio",
+        "fields": {
+          "nome": "Ombra Corta",
+          "grado": "5a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Muro del Pomeriggio",
+        "fields": {
+          "nome": "Caffè Lungo",
+          "grado": "5c",
+          "lunghezza": 23
+        }
+      },
+      {
+        "group": "Muro del Pomeriggio",
+        "fields": {
+          "nome": "La Mucca Pazza",
+          "grado": "6a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Muro del Pomeriggio",
+        "fields": {
+          "nome": "Ricordi d'Agosto",
+          "grado": "6a+",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Muro del Pomeriggio",
+        "fields": {
+          "nome": "Cielo Stretto",
+          "grado": "6b",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro del Pomeriggio",
+        "fields": {
+          "nome": "Fiato Corto",
+          "grado": "6b+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro del Pomeriggio",
+        "fields": {
+          "nome": "Nessuno Sa",
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Muro del Pomeriggio",
+        "fields": {
+          "nome": "Il Gabbiano",
+          "grado": "7a",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Tetti",
+        "fields": {
+          "nome": "Mezzaluna",
+          "grado": "6c",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Tetti",
+        "fields": {
+          "nome": "Tettoia",
+          "grado": "6c+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Tetti",
+        "fields": {
+          "nome": "Sotto la Grondaia",
+          "grado": "7a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Tetti",
+        "fields": {
+          "nome": "Cinque Dita",
+          "grado": "7a",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Tetti",
+        "fields": {
+          "nome": "Sopra la Soglia",
+          "grado": "6b+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Tetti",
+        "fields": {
+          "grado": "6c",
+          "lunghezza": 23
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Prima volta a Monte Moro, dopo giorni di caldo in pianura. A 1700 metri si stava benissimo e la quarzite è un piacere: aderenza e piccole tacche. Abbiamo fatto le vie del Centrale, tutte ben protette."
+      },
+      {
+        "observedAt": "2022-08-24",
+        "words": "Giovedì di ferie, posto quasi deserto. Salita in una decina di minuti, siamo stati soli fino alle quattro. Il sole gira nel primo pomeriggio quindi conviene arrivare con calma."
+      },
+      {
+        "observedAt": "2022-09-18",
+        "words": "Domenica di fine estate con i bambini: siamo restati sul settore Principianti, il 4a e il 4b sono perfetti per iniziare. La piazzola per l'auto era già piena alle dieci."
+      },
+      {
+        "observedAt": "2022-10-08",
+        "words": "Giornata limpida, tramontana leggera e roccia asciutta. Ho provato Zitto e Tira, 6c con un passo di blocco al terzo rinvio: l'ho chiusa al secondo giro. Bella la quarzite quando è fredda."
+      },
+      {
+        "observedAt": "2023-05-27",
+        "words": "Con la neve ancora a chiazze lungo il sentiero, ma la parete era asciutta. Sorpresa: sulla sosta del Centrale hanno cambiato le catene, adesso ci sono maillon nuovi lucidi. Il vento da ovest però si faceva sentire."
+      },
+      {
+        "observedAt": "2023-06-30",
+        "words": "Venerdì pomeriggio, scappato dal lavoro. Il sole picchia dalle due, meglio l'ombra del mattino sui tetti quando c'è. Le vie di placca sono dure per il grado, soprattutto la 6a+."
+      },
+      {
+        "observedAt": "2023-07-22",
+        "words": "Weekend affollato, quattro cordate sul Centrale. Si aspetta ma si sta bene tra una via e l'altra: erba, fiori e vista sulle valli. Il parcheggio ormai è lungo la strada."
+      },
+      {
+        "observedAt": "2023-08-15",
+        "words": "Ferragosto: siamo saliti presto per sfuggire alla calca, alle nove eravamo già sotto la parete. La mattina il pendio è in ombra e si sta freschi, poi dalle due torna il sole pieno."
+      },
+      {
+        "observedAt": "2023-09-12",
+        "words": "Martedì di settembre, giornata perfetta e nessuno in giro. Abbiamo fatto Il Gabbiano, 7a corto ma molto bello, con un tetto fisico finale. Soste ottime con anello di calata."
+      },
+      {
+        "observedAt": "2023-10-14",
+        "words": "Fine stagione. Alle sette di sera era già freddo, la parete prende il sole fino al tramonto ma la quota si sente. Conviene un pile anche con il sole."
+      },
+      {
+        "observedAt": "2024-06-15",
+        "words": "Primo giorno dell'anno qui, il sentiero ha ancora il fango. Alla base dei Tetti è caduto un grosso masso dal bordo, non ha colpito nessuna via ma segnalato con nastro: meglio non sostare lì sotto."
+      },
+      {
+        "observedAt": "2024-07-05",
+        "words": "Venerdì, giornata da fuoriorario. Per fare le vie dei Tetti serve forza nelle dita, io mi sono fermato alla 6c: la Mezzaluna fa male. Il posto però è molto tranquillo in settimana."
+      },
+      {
+        "observedAt": "2024-07-28",
+        "words": "Domenica di caldo africano in pianura, qui 22 gradi. Le vie sono ben spittate, ottimo sia per chi inizia sia per chi vuole fare un 6c senza ansia. Fila agli attacchi più facili."
+      },
+      {
+        "observedAt": "2024-08-31",
+        "words": "Dopo la pioggia della notte la roccia asciugava a macchie: aspettato fino alle undici prima di legarci. Poi tutto perfetto, vento leggero, nubi alte. Facili ma divertenti le placche a sinistra."
+      },
+      {
+        "observedAt": "2024-09-21",
+        "words": "Giornata di sole con gli amici del corso. Per i principianti questa falesia è l'ideale: avvicinamento corto e gradi bassi, e le soste con catena evitano i dubbi."
+      },
+      {
+        "observedAt": "2024-10-19",
+        "words": "Ultima uscita prima della neve: il sentiero ha già qualche foglia gialla. Sulla parete sono comparse due vie nuove alla destra dei Tetti, ancora con i fix lucidi e un po' di polvere sulla roccia."
+      },
+      {
+        "observedAt": "2025-06-07",
+        "words": "Giornata di giugno, sole e vento. Sul Centrale la roccia era un po' sporca di lichene dopo l'inverno, ma dopo due vie era tutto pulito. Ho fatto La Sorgente e Pane e Salame."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Con due amici, tre cordate. Non c'era nessuno e abbiamo girato su tutto il Centrale. Il 6b della Dolce Attesa vale la giornata, spaccato dai movimenti a incastro dei piedi."
+      },
+      {
+        "observedAt": "2025-08-20",
+        "words": "Mercoledì d'agosto, resistendo alla tentazione del mare. Qui si arrampica in maglietta e pile nello zaino, il vento diventa fresco dalle tre. Il parcheggio era libero a metà giornata."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Ultimo sabato di bel tempo, tutta la parete in sole. Chi arriva dopo le dieci non trova posto per l'auto. Io mi sono accontentato della seconda piazzola più in basso, dieci minuti a piedi in più."
+      },
+      {
+        "observedAt": "2026-06-20",
+        "words": "Dopo un inverno nevoso il sentiero era franato in un punto, segnalato con un cordino: si passa tenendo la mano sulla roccia a sinistra. Parete in condizioni ottime, sole forte dalle due."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Fresco d'estate",
+          "quote": "A 1700 metri si stava benissimo"
+        },
+        {
+          "label": "Chiodatura ravvicinata",
+          "quote": "tutte ben protette"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Salita in una decina di minuti"
+        },
+        {
+          "label": "Poca gente in settimana",
+          "quote": "siamo stati soli fino alle quattro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "La piazzola per l'auto era già piena"
+        },
+        {
+          "label": "Adatta ai principianti",
+          "quote": "il 4a e il 4b sono perfetti per iniziare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Quarzite levigata",
+          "quote": "Bella la quarzite"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Soste rifatte nel Centrale",
+          "kind": "novita",
+          "quote": "hanno cambiato le catene, adesso ci sono maillon nuovi lucidi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Gradi severi",
+          "quote": "dure per il grado"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "quattro cordate sul Centrale"
+        },
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "Il parcheggio ormai è lungo la strada"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresco d'estate",
+          "quote": "si sta freschi"
+        },
+        {
+          "label": "Sole nel pomeriggio",
+          "quote": "dalle due torna il sole pieno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "nessuno in giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole nel pomeriggio",
+          "quote": "la parete prende il sole fino al tramonto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Masso caduto ai Tetti",
+          "kind": "attenzione",
+          "quote": "è caduto un grosso masso dal bordo"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente in settimana",
+          "quote": "molto tranquillo in settimana"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresco d'estate",
+          "quote": "qui 22 gradi"
+        },
+        {
+          "label": "Chiodatura ravvicinata",
+          "quote": "ben spittate"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Fila agli attacchi più facili"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lenta ad asciugare",
+          "quote": "aspettato fino alle undici"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "avvicinamento corto"
+        },
+        {
+          "label": "Adatta ai principianti",
+          "quote": "Per i principianti questa falesia è l'ideale"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Vie nuove a destra dei Tetti",
+          "kind": "novita",
+          "quote": "sono comparse due vie nuove alla destra dei Tetti"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Quarzite levigata",
+          "quote": "movimenti a incastro dei piedi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Fresco d'estate",
+          "quote": "il vento diventa fresco dalle tre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio piccolo",
+          "quote": "non trova posto per l'auto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole nel pomeriggio",
+          "quote": "sole forte dalle due"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Tratto franato sul sentiero",
+          "kind": "attenzione",
+          "quote": "il sentiero era franato in un punto"
+        }
+      ]
+    }
+  ]
+}

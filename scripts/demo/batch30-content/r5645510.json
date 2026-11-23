@@ -1,0 +1,55 @@
+{
+  "osm": "r5645510",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "itinerario-7-bourg-prele",
+    "activity": "escursionismo",
+    "place": "comune-007023",
+    "name": "Itinerario 7 Bourg Préle",
+    "lat": 45.60808,
+    "lon": 7.76269,
+    "aspect": "SE",
+    "altMax": 435,
+    "facts": {
+      "partenza": 435,
+      "localita_partenza": "Donnas"
+    },
+    "sections": {
+      "descrizione": "Itinerario 7 della rete comunale di Donnas, che parte dal borgo di Bourg Préle e risale tra vigneti e boschi di castagno. Il tracciato è largo nel primo tratto, poi più stretto nel bosco.\n\nLungo il percorso ci sono muretti a secco e qualche panchina. Il ritorno si fa per la stessa strada, circa un'ora."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-04-09",
+        "words": "Primavera, il sentiero era pulito e i muretti erano pieni di fiori. Abbiamo fatto un giro breve con i bambini."
+      },
+      {
+        "observedAt": "2024-12-07",
+        "words": "Freddo ma sole, siamo tornati al paese in mezz'ora. Il sentiero è ben tenuto."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Giro con i bambini",
+          "quote": "Abbiamo fatto un giro breve con i bambini"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Freddo e sole",
+          "quote": "Freddo ma sole"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "osm": "n14119753864",
+  "invented": [
+    "grado_obbligatorio",
+    "sviluppo",
+    "avvicinamento",
+    "protezione",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "amici-accademici",
+    "activity": "multipitch",
+    "place": "comune-004233",
+    "name": "Amici Accademici",
+    "lat": 44.16227,
+    "lon": 7.30272,
+    "aspect": "O",
+    "altMax": 2900,
+    "facts": {
+      "grado_obbligatorio": "4b",
+      "sviluppo": 270,
+      "avvicinamento": 60,
+      "protezione": "spittata",
+      "localita_partenza": "Valdieri",
+      "come_arrivare": "Da Valdieri si risale la valle fino al termine della strada e si prosegue a piedi su sentiero fino a un ripiano erboso, da cui parte una traccia sulle pietraie che porta alla parete rivolta a ovest.",
+      "quota_base": 2683,
+      "esposizione": "O",
+      "grado_max": "4c",
+      "tiri": 9
+    },
+    "sections": {
+      "descrizione": "Nove tiri su gneiss chiaro, la salita facile e lunga del gruppo, pensata come una via a spit quasi di falesia: protezione ravvicinata, soste con catena, difficoltà mai oltre il 4c. È il luogo ideale per fare esperienza d'alta quota senza troppa pressione.\n\nGli spit sono inox e ravvicinati; le soste sono comode e la linea è facile da seguire. Il sole arriva tardi sulla parete esposta a ovest, e d'estate resta fino al tramonto, che qui dura molto.\n\nUna via di scuola, ma non da sottovalutare: la quota e la lunghezza chiedono fiato.",
+      "discesa": "In doppia lungo la via, nove calate con corde da 60 metri; la linea è diritta, le soste sono tutte ben visibili.",
+      "materiale": "Due corde da 60 metri, dieci rinvii, un paio di cordini, il casco e una giacca antivento: fa freddo fuori dal sole.",
+      "avvicinamento": "Dal ripiano erboso una traccia segnata con ometti sale tra le pietraie verso destra fino all'attacco, che è marcato da un grande masso a terra."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "3",
+          "lunghezza": 30,
+          "descrizione": "Placca appoggiata con prese a volontà."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4a",
+          "lunghezza": 30,
+          "descrizione": "Muretto a lame e spit ravvicinati."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4b",
+          "lunghezza": 30,
+          "descrizione": "Placca a buchi e poi una cengia comoda."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4a",
+          "lunghezza": 30,
+          "descrizione": "Rampa obliqua con roccia ben lavorata."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 30,
+          "descrizione": "Placca liscia con un solo passo delicato."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4b",
+          "lunghezza": 30,
+          "descrizione": "Muro verticale con tacche larghe."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4a",
+          "lunghezza": 30,
+          "descrizione": "Diedro facile ma lungo, con ottima sosta."
+        }
+      },
+      {
+        "fields": {
+          "grado": "4b",
+          "lunghezza": 30,
+          "descrizione": "Placca con buchi e lame verso destra."
+        }
+      },
+      {
+        "fields": {
+          "grado": "3",
+          "lunghezza": 30,
+          "descrizione": "Ultime roccette fino alla sosta finale sulla cresta."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-24",
+        "words": "Una via lunghissima ma facile: nove tiri sempre tranquilli, spit vicini e soste a catena. Per chi sale per la prima volta oltre i 2500 è perfetta."
+      },
+      {
+        "observedAt": "2022-08-14",
+        "words": "Partiti con la luna e arrivati all'attacco all'alba. La parete resta in ombra fino a mezzogiorno e poi il sole arriva tutto insieme sul granito freddo."
+      },
+      {
+        "observedAt": "2022-09-09",
+        "words": "Martedì ferie. Con due compagni alle prime armi abbiamo fatto la via con calma, undici ore in tutto, doppie incluse. Nessun problema."
+      },
+      {
+        "observedAt": "2023-07-09",
+        "words": "Il ripiano erboso alla base del sentiero era pieno di fiori, bellissimo. L'avvicinamento è lungo ma piacevole, in un ambiente da cartolina."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Il sole sul diedro del settimo tiro è arrivato alle quattro del pomeriggio: un'ora scarsa di caldo prima del freddo. Meglio portare la giacca."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Con i bambini di quattordici anni abbiamo fatto la via in due cordate. Si sono divertiti ma la quota si sente nelle gambe."
+      },
+      {
+        "observedAt": "2023-09-13",
+        "words": "Mercoledì quasi in solitaria, solo un'altra cordata in alto. Una luce serale incredibile sul gneiss chiaro."
+      },
+      {
+        "observedAt": "2024-07-14",
+        "words": "Ho trovato la catena della sosta tre piegata, probabilmente da una scarica di sassi. Tiene, ma meglio fare sosta sui due spit con un cordino."
+      },
+      {
+        "observedAt": "2024-08-11",
+        "words": "Mi aspettavo difficoltà e invece un tracciato davvero dolce. Il quinto tiro con la placca liscia è il più impegnativo, ma niente di che."
+      },
+      {
+        "observedAt": "2024-08-30",
+        "words": "Un venerdì di vento forte da nord: abbiamo fatto la via in giacca e guanti. Lo splendore del cielo azzurro valeva la pena."
+      },
+      {
+        "observedAt": "2024-09-22",
+        "words": "La catena piegata alla terza sosta è stata cambiata: ora c'è un anello nuovo e solido. Grazie a chi ci ha pensato."
+      },
+      {
+        "observedAt": "2025-07-13",
+        "words": "Prima di partire una breve scossa: un blocco grande si è staccato nel canale a destra, pare nella notte. Meglio tenersi lontani da quel lato nell'avvicinamento."
+      },
+      {
+        "observedAt": "2025-08-17",
+        "words": "Una marmotta ci ha seguiti per metà avvicinamento, curiosa. Poi via lunga e piacevole con una gran vista sulle valli sotto."
+      },
+      {
+        "observedAt": "2025-09-07",
+        "words": "In nove tiri ci siamo arrivati a pomeriggio inoltrato, lenti ma felici. La discesa in doppia in nove calate ha richiesto quasi due ore."
+      },
+      {
+        "observedAt": "2026-08-08",
+        "words": "Ritorno con la cognata che voleva provare. Facile, lineare, nessuna sorpresa. Il sole del tramonto sulla parete è da togliere il fiato."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Via facile e lunga",
+          "quote": "nove tiri sempre tranquilli"
+        },
+        {
+          "label": "Spit ravvicinati",
+          "quote": "spit vicini e soste a catena"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole tardi sulla parete",
+          "quote": "La parete resta in ombra fino a mezzogiorno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "undici ore in tutto, doppie incluse"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento lungo",
+          "quote": "L'avvicinamento è lungo ma piacevole"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole tardi sulla parete",
+          "quote": "Il sole sul diedro del settimo tiro è arrivato alle quattro del pomeriggio"
+        },
+        {
+          "label": "Freddo in quota",
+          "quote": "Meglio portare la giacca"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Via facile e lunga",
+          "quote": "Si sono divertiti ma la quota si sente nelle gambe"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "solo un'altra cordata in alto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena piegata alla terza sosta",
+          "kind": "attenzione",
+          "quote": "Ho trovato la catena della sosta tre piegata, probabilmente da una scarica di sassi."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Via facile e lunga",
+          "quote": "un tracciato davvero dolce"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Freddo in quota",
+          "quote": "abbiamo fatto la via in giacca e guanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena nuova alla terza sosta",
+          "kind": "novita",
+          "quote": "La catena piegata alla terza sosta è stata cambiata: ora c'è un anello nuovo e solido."
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Blocco caduto nel canale destro",
+          "kind": "attenzione",
+          "quote": "un blocco grande si è staccato nel canale a destra, pare nella notte"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulle valli",
+          "quote": "una gran vista sulle valli sotto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Giornata lunga",
+          "quote": "La discesa in doppia in nove calate ha richiesto quasi due ore"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole tardi sulla parete",
+          "quote": "Il sole del tramonto sulla parete"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

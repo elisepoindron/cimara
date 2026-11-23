@@ -1,0 +1,56 @@
+{
+  "osm": "r7701230",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "sente-granin",
+    "activity": "escursionismo",
+    "place": "comune-001210",
+    "name": "Sentè Granin",
+    "lat": 45.55396,
+    "lon": 7.77954,
+    "aspect": "SE",
+    "altMax": 1143,
+    "facts": {
+      "difficolta": "E",
+      "partenza": 1143,
+      "localita_partenza": "Quincinetto"
+    },
+    "sections": {
+      "descrizione": "Sentiero da Ponte Manservera a Scalaro, con il tracciato che sale nel bosco di castagni e poi attraversa prati. Il percorso è segnato e il tracciato è chiaro, ma nel tratto centrale i gradini sono sconnessi.\n\nL'arrivo a Scalaro è in paese, da cui il ritorno si fa per la stessa strada."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2024-10-06",
+        "words": "Castagni a terra e sentiero bagnato nel bosco. Arrivati a Scalaro per il pranzo."
+      },
+      {
+        "observedAt": "2026-03-28",
+        "words": "Primavera, ancora fredda in alto. Sentiero pulito, qualche tratto ghiacciato all'ombra."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Castagni d'autunno",
+          "quote": "Castagni a terra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Ghiaccio all'ombra",
+          "quote": "qualche tratto ghiacciato all'ombra"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

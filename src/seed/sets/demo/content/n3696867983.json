@@ -1,0 +1,316 @@
+{
+  "osm": "n3696867983",
+  "invented": [
+    "grado_obbligatorio",
+    "sviluppo",
+    "avvicinamento",
+    "localita_partenza",
+    "come_arrivare",
+    "tiri",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "le-soleil-brille-pour-tout-le-monde",
+    "activity": "multipitch",
+    "place": "comune-004248",
+    "name": "Le soleil brille pour tout le monde",
+    "lat": 44.22485,
+    "lon": 7.10181,
+    "aspect": "E",
+    "altMax": 2440,
+    "facts": {
+      "grado_obbligatorio": "6a",
+      "sviluppo": 240,
+      "avvicinamento": 35,
+      "localita_partenza": "Vinadio",
+      "come_arrivare": "Da Vinadio si risale la valle fino a dove la strada diventa sterrata e si lascia l'auto al termine della carreggiata. Poi a piedi su sentiero e pietraia fino all'attacco, alla base di un pilastro rivolto a est.",
+      "quota_base": 2201,
+      "esposizione": "E",
+      "grado_max": "6b",
+      "tiri": 6,
+      "protezione": "spittata"
+    },
+    "sections": {
+      "descrizione": "Sei tiri su roccia chiara in un ambiente aperto, a oltre duemila metri. La via sale una serie di placche e risalti a est, ben protetta da spit inox e con soste comode. Il nome francese è una dichiarazione d'intenti: qui il sole arriva presto e se ne va a metà pomeriggio.\n\nLa via parte dalla stessa zona di altre linee più facili: l'attacco è riconoscibile perché il primo spit sta all'altezza del secondo spit del monotiro a sinistra. Il tiro duro è il quarto, un 6b su placca con un passo a movimenti lunghi.\n\nIdeale per una giornata d'alta quota senza troppe complicazioni, a patto di guardare il cielo nel primo pomeriggio.",
+      "discesa": "Dalla sosta finale si scende in doppia lungo la via con due corde da 60 metri, in sei calate. In alternativa una cengia a destra permette di raggiungere un canale di rientro, ma è lunga e instabile: meglio le doppie.",
+      "materiale": "Due corde da 60 metri, dieci rinvii, un paio di cordini lunghi per le soste e il casco. Vista la quota, giacca antivento nello zaino anche d'estate.",
+      "avvicinamento": "Dal termine della strada una traccia segue il fondo valle, poi una pietraia a sinistra sale fino all'attacco, sotto una placca grigia con una fascia di roccia più chiara."
+    },
+    "parts": [
+      {
+        "fields": {
+          "grado": "4c",
+          "lunghezza": 40,
+          "descrizione": "Placca appoggiata e rampa, spit ravvicinati."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5b",
+          "lunghezza": 40,
+          "descrizione": "Risalto verticale con buoni appigli, poi traverso a destra."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5c",
+          "lunghezza": 40,
+          "descrizione": "Placca grigia a tacche piccole, un po' delicata a metà."
+        }
+      },
+      {
+        "fields": {
+          "grado": "6b",
+          "lunghezza": 40,
+          "descrizione": "Il tiro duro: placca liscia con un passo lungo sopra il quarto spit."
+        }
+      },
+      {
+        "fields": {
+          "grado": "6a",
+          "lunghezza": 40,
+          "descrizione": "Muro con buchi e lame, ben protetto."
+        }
+      },
+      {
+        "fields": {
+          "grado": "5a",
+          "lunghezza": 40,
+          "descrizione": "Placche facili e rocce rotte fino alla sosta finale."
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-07-16",
+        "words": "Prima volta sopra i duemila nella stagione e il sole delle otto sulla parete ci ha scaldato subito. Via ben chiodata, ti senti sempre dentro il passaggio."
+      },
+      {
+        "observedAt": "2022-08-06",
+        "words": "Ritrovo con amici per fare qualcosa di diverso dalla solita falesia. Il quarto tiro richiede decisione ma gli spit sono vicini. Verso le due è arrivato un po' di vento da ovest e il sole era sparito."
+      },
+      {
+        "observedAt": "2022-09-04",
+        "words": "Scelta di fine estate, aria tersa e cielo azzurro. Siamo partiti dal parcheggio alle sette e alle nove eravamo all'attacco. Pochissima gente sul sentiero."
+      },
+      {
+        "observedAt": "2023-07-05",
+        "words": "Mercoledì di ferie: sentiero vuoto, parete vuota, solo marmotte. Nessuno ad aspettare alle soste."
+      },
+      {
+        "observedAt": "2023-07-29",
+        "words": "Giornata lunga ma bellissima. Il secondo tiro ha un passaggio con un appiglio che sembra incerto: l'ho tirato e non si è mosso, ma attenzione."
+      },
+      {
+        "observedAt": "2023-08-19",
+        "words": "Siamo arrivati tardi, dopo le dieci, e la parete era già mezza in ombra. Meglio partire presto: quando il sole gira c'è subito freddo."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Doppie in sei calate, nessun problema con le corde. Una sola cordata davanti a noi."
+      },
+      {
+        "observedAt": "2024-06-29",
+        "words": "Il sentiero era ancora coperto di neve in alcuni tratti e abbiamo dovuto girare intorno a un nevaio. La via invece asciutta già dal secondo tiro."
+      },
+      {
+        "observedAt": "2024-07-24",
+        "words": "Un mercoledì d'estate con una finestra di bel tempo stabile. Via piacevole, roccia chiara e liscia, e dall'alto si vedono le creste verso la Francia."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Il fix della sosta cinque è stato cambiato: ora c'è una catena nuova con anello grande. Si fa meglio la manovra per la doppia."
+      },
+      {
+        "observedAt": "2024-09-14",
+        "words": "Giornata corta, meteo incerto: nubi alte sul pilastro verso mezzogiorno. Siamo scesi con calma, fatti con le doppie nel giro di un'ora."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "Il primo tiro adesso ha le placchette nuove sugli spit e un ancoraggio addizionale, sistemato in primavera da chi cura la parete. Ottimo lavoro."
+      },
+      {
+        "observedAt": "2025-08-08",
+        "words": "Venerdì, dieci cordate in meno rispetto al weekend. Bellissima, la placca del quarto tiro è tutta da godersi."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Prima neve fresca sulle creste più alte, a est invece il sole picchiava ancora. Lontano si sente fischiare qualche marmotta."
+      },
+      {
+        "observedAt": "2025-09-27",
+        "words": "Tra i massi alla base c'era una lastra staccata e rimasta in bilico dopo un temporale: non toccarla, meglio passare dall'altro lato."
+      },
+      {
+        "observedAt": "2026-07-18",
+        "words": "Stagione ripartita. Il sentiero è stato riaperto in alcuni punti dopo i lavori di primavera, si cammina bene e si risparmia tempo. Via sempre uguale, come piace a me."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole del mattino",
+          "quote": "il sole delle otto sulla parete ci ha scaldato subito"
+        },
+        {
+          "label": "Spit ravvicinati",
+          "quote": "Via ben chiodata, ti senti sempre dentro il passaggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Spit ravvicinati",
+          "quote": "gli spit sono vicini"
+        },
+        {
+          "label": "Pomeriggio da tenere d'occhio",
+          "quote": "Verso le due è arrivato un po' di vento da ovest"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento medio",
+          "quote": "alle nove eravamo all'attacco"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "sentiero vuoto, parete vuota, solo marmotte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Appiglio dubbio al secondo tiro",
+          "quote": "l'ho tirato e non si è mosso, ma attenzione"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Pomeriggio da tenere d'occhio",
+          "quote": "quando il sole gira c'è subito freddo"
+        },
+        {
+          "label": "Sole del mattino",
+          "quote": "Meglio partire presto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Doppie lineari",
+          "quote": "Doppie in sei calate, nessun problema con le corde"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve all'inizio estate",
+          "quote": "Il sentiero era ancora coperto di neve in alcuni tratti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulle creste",
+          "quote": "dall'alto si vedono le creste verso la Francia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Catena nuova alla sosta cinque",
+          "kind": "novita",
+          "quote": "Il fix della sosta cinque è stato cambiato: ora c'è una catena nuova con anello grande."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pomeriggio da tenere d'occhio",
+          "quote": "nubi alte sul pilastro verso mezzogiorno"
+        },
+        {
+          "label": "Doppie lineari",
+          "quote": "fatti con le doppie nel giro di un'ora"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Spit primo tiro rinnovati",
+          "kind": "novita",
+          "quote": "Il primo tiro adesso ha le placchette nuove sugli spit e un ancoraggio addizionale, sistemato in primavera da chi cura la parete."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca gente",
+          "quote": "dieci cordate in meno rispetto al weekend"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole del mattino",
+          "quote": "a est invece il sole picchiava ancora"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Lastra instabile alla base",
+          "kind": "attenzione",
+          "quote": "Tra i massi alla base c'era una lastra staccata e rimasta in bilico dopo un temporale: non toccarla, meglio passare dall'altro lato."
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento medio",
+          "quote": "si cammina bene e si risparmia tempo"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

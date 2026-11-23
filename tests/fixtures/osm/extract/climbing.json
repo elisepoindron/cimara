@@ -1,0 +1,20 @@
+{"timestamp":"2026-11-19T17:28:18Z","query":"(fixture)","elements":[
+ {"type":"way","id":1,"center":{"lat":45.64385,"lon":7.75044},"tags":{"name":"Corno di Prova","natural":"cliff","sport":"climbing","climbing:orientation":"SW","climbing:grade:french:min":"5c","climbing:grade:french:max":"8a+","wikidata":"Q1"}},
+ {"type":"node","id":2,"lat":45.07,"lon":7.68,"tags":{"name":"Palestra di Prova","sport":"climbing","leisure":"sports_centre"}},
+ {"type":"node","id":3,"lat":45.6,"lon":7.7,"tags":{"name":"Cascata di Prova","sport":"climbing","climbing:ice":"yes"}},
+ {"type":"node","id":4,"lat":45.6,"lon":7.7,"tags":{"name":"Via del Sole","climbing":"route_bottom","sport":"climbing"}},
+ {"type":"node","id":5,"lat":45.6,"lon":7.7,"tags":{"sport":"climbing","climbing":"crag"}},
+ {"type":"node","id":6,"lat":45.61,"lon":7.72,"tags":{"name":"Placca Piatta","sport":"climbing","climbing":"crag"}},
+ {"type":"node","id":7,"lat":45.9,"lon":7.0,"tags":{"name":"Falesia Oltreconfine","sport":"climbing"}},
+ {"type":"node","id":8,"lat":45.62,"lon":7.73,"tags":{"name":"Muro \u0047\u0075\u006c\u006c\u0069\u0076\u0065\u0072","sport":"climbing"}},
+ {"type":"node","id":9,"lat":45.645,"lon":7.751,"tags":{"name":"Via Lunga di Prova","climbing":"route_bottom","sport":"climbing","climbing:multipitch":"yes","climbing:pitches":"6","climbing:length":"200","climbing:grade:french":"6a+","climbing:bolted":"yes","climbing:orientation":"S"}},
+ {"type":"node","id":10,"lat":45.646,"lon":7.752,"tags":{"name":"Via Incerta","climbing":"route_bottom","sport":"climbing","climbing:multipitch":"yes","climbing:pitches":"1"}},
+ {"type":"node","id":11,"lat":45.647,"lon":7.753,"tags":{"name":"Blocchi di Prova","climbing":"boulder","sport":"climbing","climbing:grade:font:max":"7a"}},
+ {"type":"node","id":12,"lat":45.648,"lon":7.754,"tags":{"name":"Sasso di Prova","natural":"stone","sport":"climbing","climbing:boulder":"yes"}},
+ {"type":"relation","id":13,"center":{"lat":45.647,"lon":7.753},"tags":{"name":"Area Blocchi di Prova","climbing":"area","climbing:boulder":"yes","sport":"climbing","type":"site"}},
+ {"type":"way","id":14,"center":{"lat":45.6505,"lon":7.7605},"tags":{"name":"Settore Blocchi","climbing":"area","climbing:boulder":"yes","sport":"climbing"}},
+ {"type":"node","id":15,"lat":45.6506,"lon":7.7606,"tags":{"name":"Masso nel Recinto","natural":"rock","sport":"climbing","climbing:boulder":"yes","climbing:grade:font:max":"6c","climbing:routes":"3"}},
+ {"type":"node","id":16,"lat":45.655,"lon":7.77,"tags":{"name":"Pietra di Prova","climbing":"boulder","natural":"stone","sport":"climbing","wikidata":"Q9"}},
+ {"type":"relation","id":17,"center":{"lat":45.66,"lon":7.78},"tags":{"climbing":"area","climbing:boulder":"yes","sport":"climbing","type":"site"}},
+ {"type":"node","id":18,"lat":45.6601,"lon":7.7801,"tags":{"name":"Masso Orfano","climbing":"boulder","sport":"climbing"}}
+]}

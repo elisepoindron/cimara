@@ -1,0 +1,279 @@
+{
+  "osm": "r22059927",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "strada-dei-cannoni",
+    "activity": "mountain_bike",
+    "place": "comune-004034",
+    "name": "Strada Dei Cannoni",
+    "lat": 44.50227,
+    "lon": 7.40843,
+    "facts": {},
+    "sections": {
+      "descrizione": "La Strada dei Cannoni è un lungo itinerario di crinale tra la Valle Maira e la Valle Varaita, che segue in gran parte vecchie mulattiere militari e carrarecce usate un tempo per portare i cannoni in quota. Si parte da Colletta di Rossana e si sale per quasi duemila metri di dislivello complessivo verso il Colle della Bicocca, con circa 43 chilometri di sviluppo.\n\nLa prima parte attraversa boschi di castagni e faggi, su fondo compatto; salendo si passa ai pascoli, dove la strada diventa più ripida e sassosa e il paesaggio si apre sull'intero arco alpino sud-occidentale. Nelle giornate limpide si vedono il Monviso, la pianura cuneese e le montagne lontane verso la Francia.\n\nIl percorso è lungo e molto impegnativo per fiato e gambe: si sale a lungo senza tregue, e il ritorno è quasi tutto in discesa su traccia più rovinata. Non è difficile tecnicamente ma servono allenamento, autonomia e una buona lettura del meteo, perché la quota espone a temporali e a freddo anche d'estate.",
+      "note": "Si fa da giugno a ottobre; prima, nei tratti più alti, può esserci neve sul percorso. Cibo e acqua vanno portati da casa: fontane e rifugi sono rari. Partire presto è quasi obbligatorio, anche per evitare i temporali del pomeriggio.",
+      "avvicinamento": "Si parte dalla Colletta di Rossana, raggiungibile dalla pianura con la strada provinciale: c'è spazio per parcheggiare l'auto prima di imboccare la salita."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2022-06-26",
+        "words": "Primo giro lungo della stagione sulla Strada dei Cannoni. Il fondo nel bosco è bellissimo, compatto e pedalabile, ma sopra i 1800 metri ancora un po' di neve vecchia sul tracciato che ci ha costretto a spingere per alcune centinaia di metri."
+      },
+      {
+        "observedAt": "2022-07-23",
+        "words": "Partiti all'alba per evitare il caldo. Dopo il bosco la salita si fa dura: carrareccia sassosa, pendenza costante, nessuna fontana. Portatevi almeno due litri d'acqua a testa perché sopra non c'è nulla."
+      },
+      {
+        "observedAt": "2022-08-17",
+        "words": "Mi sono preso un giorno di ferie per il giro intero. In cima al Colle della Bicocca c'è un silenzio incredibile e una vista che copre tutto: Monviso, pianura, creste verso la Francia. Valeva ogni metro di salita."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Il temporale ci ha preso a 2000 metri, quasi senza preavviso: in dieci minuti il cielo è passato da azzurro a nero. Ci siamo rifugiati in una baita aperta, bagnati fino al midollo. Meglio partire prima e controllare le previsioni."
+      },
+      {
+        "observedAt": "2022-10-02",
+        "words": "Aria fresca e cielo limpido di inizio ottobre. Larici gialli sui versanti, e un incontro con un gruppo di escursionisti con i muli. Giro lungo ma bellissimo, tutta la valle sembra dipinta."
+      },
+      {
+        "observedAt": "2023-06-18",
+        "words": "Sul Colle della Bicocca ancora un nevaio sulla traccia, fatto a piedi con la bici in spalla. Per chi cerca la solitudine: in sei ore di giro abbiamo visto soltanto tre persone."
+      },
+      {
+        "observedAt": "2023-07-12",
+        "words": "Un mercoledì d'estate, partenza alle 6. La salita finale, dopo le baite, è un tratto di muro di terra smossa dove mi ha fatto bene avere le gomme tassellate. Discesa veloce ma ci vuole attenzione per le pietre mobili."
+      },
+      {
+        "observedAt": "2023-08-06",
+        "words": "In e-bike si fa bene, ma la batteria da 500 non basta se si prova a fare tutto il giro: io sono arrivato al colle con il 5 percento. Meglio portare una seconda batteria."
+      },
+      {
+        "observedAt": "2023-09-23",
+        "words": "Tre amici, bici da enduro e voglia di discesa. La parte alta ha qualche sasso grosso ma si scende bene, mentre sul ritorno la mulattiera si rovina e bisogna stare attenti ai canaletti che raccolgono l'acqua."
+      },
+      {
+        "observedAt": "2024-06-30",
+        "words": "Sulla strada sale un camion con operai che stanno rifacendo un ponticello di legno. Nei prossimi mesi dovrebbe essere più sicuro, per ora si passa su una passerella provvisoria."
+      },
+      {
+        "observedAt": "2024-07-27",
+        "words": "Giornata torrida a valle ma freschissima sopra i 1900. Siamo saliti molto lentamente, con soste per bere: ho consumato tre borracce. La Strada dei Cannoni va presa sul serio, non è un giretto."
+      },
+      {
+        "observedAt": "2024-09-08",
+        "words": "Il ponticello è finito, in legno nuovo e solido, sembra costruito da poco. Ora il passaggio è comodo anche con le bici cariche. Il resto della strada è rimasta com'era, sassosa e panoramica."
+      },
+      {
+        "observedAt": "2024-10-16",
+        "words": "Una giornata di metà ottobre, di fresco e aria limpidissima. Rilassante, quasi nessuno sul percorso, solo un pastore con le capre che mi ha salutato."
+      },
+      {
+        "observedAt": "2025-06-22",
+        "words": "Una frana di sassi sul versante a monte ha invaso un tratto di mulattiera sopra la seconda baita. Si passa con la bici in spalla, per una cinquantina di metri, ma bisogna guardare dove si mettono i piedi."
+      },
+      {
+        "observedAt": "2025-07-19",
+        "words": "Il tratto della frana è stato sistemato parzialmente: con un po' di attenzione ora si passa pedalando. Giro lungo ma bello, il Monviso con le nuvole basse faceva un effetto particolare."
+      },
+      {
+        "observedAt": "2025-09-14",
+        "words": "Cielo bianco, vento da ovest e tanta gente a piedi verso il colle. Al ritorno qualche goccia e giù veloci fino alla Colletta: giro intero in sette ore con tutte le soste."
+      },
+      {
+        "observedAt": "2025-10-12",
+        "words": "Ultimo grande giro della stagione. Foglie ovunque sul tracciato, fresco pungente e luce bellissima nel pomeriggio. Ho riempito la borraccia a una fontana vicino alle baite, cosa che non avevo mai trovato attiva prima."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "ancora un po' di neve vecchia sul tracciato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua lungo il percorso",
+          "quote": "sopra non c'è nulla"
+        },
+        {
+          "label": "Salita lunga e impegnativa",
+          "quote": "la salita si fa dura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Monviso e sulle Alpi",
+          "quote": "Monviso, pianura, creste verso la Francia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Il temporale ci ha preso a 2000 metri"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Monviso e sulle Alpi",
+          "quote": "Larici gialli sui versanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve a inizio stagione",
+          "quote": "ancora un nevaio sulla traccia"
+        },
+        {
+          "label": "Pochi incontri",
+          "quote": "in sei ore di giro abbiamo visto soltanto tre persone"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e impegnativa",
+          "quote": "un tratto di muro di terra smossa"
+        },
+        {
+          "label": "Discesa con pietre mobili",
+          "quote": "ci vuole attenzione per le pietre mobili"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Autonomia della batteria",
+          "quote": "la batteria da 500 non basta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Discesa con pietre mobili",
+          "quote": "la mulattiera si rovina"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Ponticello in rifacimento sul percorso",
+          "kind": "novita",
+          "quote": "stanno rifacendo un ponticello di legno"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua lungo il percorso",
+          "quote": "ho consumato tre borracce"
+        },
+        {
+          "label": "Salita lunga e impegnativa",
+          "quote": "non è un giretto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Strada sassosa e panoramica",
+          "quote": "sassosa e panoramica"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Ponticello nuovo e solido",
+          "kind": "novita",
+          "quote": "Il ponticello è finito, in legno nuovo e solido"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Pochi incontri",
+          "quote": "quasi nessuno sul percorso"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana di sassi sulla mulattiera sopra la seconda baita",
+          "kind": "attenzione",
+          "quote": "Una frana di sassi sul versante a monte ha invaso un tratto di mulattiera"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sul Monviso e sulle Alpi",
+          "quote": "il Monviso con le nuvole basse"
+        },
+        {
+          "label": "Frana sistemata a metà",
+          "quote": "ora si passa pedalando"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Temporali nel pomeriggio",
+          "quote": "Al ritorno qualche goccia"
+        },
+        {
+          "label": "Giro lungo di una giornata",
+          "quote": "giro intero in sette ore con tutte le soste"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca acqua lungo il percorso",
+          "quote": "Ho riempito la borraccia a una fontana vicino alle baite"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

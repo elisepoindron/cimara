@@ -1,0 +1,786 @@
+{
+  "osm": "r162371",
+  "invented": [
+    "partenza",
+    "vetta",
+    "dislivello",
+    "localita_partenza",
+    "come_arrivare",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "alta-via-n-2-della-valle-d-aosta-tappa-10",
+    "activity": "escursionismo",
+    "place": "comune-007021",
+    "name": "Alta Via n. 2 della Valle d'Aosta - Tappa 10",
+    "lat": 45.60823,
+    "lon": 7.35608,
+    "altMax": 2530,
+    "facts": {
+      "difficolta": "E",
+      "partenza": 1540,
+      "vetta": 2530,
+      "dislivello": 1100,
+      "localita_partenza": "Cogne",
+      "come_arrivare": "Da Aosta si sale a Cogne per la strada della Valle di Cogne. Parcheggi in paese e a Lillaz. Il rifugio non è raggiungibile in auto: chi fa solo questa tappa torna per la stessa via oppure prosegue oltre la Finestra di Champorcher."
+    },
+    "sections": {
+      "descrizione": "Decima tappa dell'Alta Via n. 2 della Valle d'Aosta: da Cogne (1.540 m) al Rifugio Sogno di Berdzé (2.530 m), circa 14 km con 1.100 m di salita e poco più di cento metri di discesa. È una tappa lunga ma senza passaggi difficili, su sentiero sempre evidente, segnato con il triangolo giallo dell'Alta Via.\n\nDa Cogne si risale il fondovalle fino a Lillaz e si passa accanto alle cascate, poi si entra nel Vallone dell'Urtier, dentro il Parco Nazionale del Gran Paradiso. La salita è graduale: un primo tratto nel bosco, poi lunghi pascoli e alpeggi lungo il torrente, infine i pendii aperti dove sorge il rifugio, sotto la Finestra di Champorcher. Marmotte quasi ovunque; nella parte alta è facile incontrare stambecchi e camosci.\n\nSi percorre da fine giugno a inizio ottobre, nel periodo di apertura del rifugio, dove conviene prenotare. A inizio stagione la neve può resistere sugli ultimi pendii e intorno alla Finestra. Acqua ai fontanili degli alpeggi e ai ruscelli del vallone; sopra il bosco l'ombra finisce. La tappa seguente scavalca la Finestra di Champorcher e scende verso la valle di Champorcher."
+    },
+    "reports": [
+      {
+        "observedAt": "2022-06-25",
+        "words": "Partiti da Cogne alle 8 con la neve ancora ben presente sopra i 2.300: gli ultimi pendii prima del rifugio tutti da fare su nevai, con le scarpe basse è stata dura. Al rifugio ci hanno detto che la Finestra era ancora chiusa da una cornice."
+      },
+      {
+        "observedAt": "2022-07-02",
+        "words": "Decima tappa del nostro giro dell'Alta Via 2. Dopo le tappe dei giorni prima questa sembra quasi una passeggiata: tanta strada ma la pendenza è sempre gentile."
+      },
+      {
+        "observedAt": "2022-07-09",
+        "words": "Le cascate di Lillaz all'inizio valgono già la giornata, piene d'acqua dopo un inverno nevoso. Poi il vallone si apre e non finisce più."
+      },
+      {
+        "observedAt": "2022-07-20",
+        "words": "Attenzione: la passerella sul torrente nella parte media del vallone non c'è più, portata via dalla piena di inizio luglio. Si guada più a monte su sassi, con l'acqua alta la mattina si passa, nel pomeriggio meglio non provarci."
+      },
+      {
+        "observedAt": "2022-07-23",
+        "words": "Guado al posto del ponticello, fatto a piedi nudi perché l'acqua arrivava al polpaccio. Gelida. Per il resto sentiero perfetto, marmotte a ogni curva."
+      },
+      {
+        "observedAt": "2022-08-06",
+        "words": "Rifugio pienissimo ma gestito benissimo, cena abbondante e polenta che ricorderò a lungo. Prenotate per tempo, ad agosto è tutto esaurito."
+      },
+      {
+        "observedAt": "2022-08-10",
+        "words": "Fatta in giornata da Lillaz, andata e ritorno, perché il rifugio era pieno. Gambe finite ma soddisfatte. Sopra i 2.000 non c'è un albero, portate cappello e crema."
+      },
+      {
+        "observedAt": "2022-08-21",
+        "words": "Branco di stambecchi a pochi metri dal sentiero sotto il rifugio, per niente spaventati. I bambini non volevano più andare avanti."
+      },
+      {
+        "observedAt": "2022-09-03",
+        "words": "Giornata limpida, salita regolare, rifugio caldo. Niente da aggiungere."
+      },
+      {
+        "observedAt": "2022-09-14",
+        "words": "Fine stagione, pochissima gente. I fontanili degli alpeggi danno ancora acqua, ma il torrente in alto era molto basso. Due litri a testa dalla partenza bastano."
+      },
+      {
+        "observedAt": "2022-09-24",
+        "words": "Segni gialli dell'Alta Via sempre evidenti, impossibile sbagliare anche con la nebbia che ci ha preso negli ultimi chilometri."
+      },
+      {
+        "observedAt": "2023-06-17",
+        "words": "Ancora parecchia neve sopra gli ultimi alpeggi, a metà giugno. Con i bastoncini si sale bene, ma la traccia la mattina è dura e scivolosa."
+      },
+      {
+        "observedAt": "2023-06-28",
+        "words": "Al guado dell'anno scorso c'è ora una deviazione segnalata con nastri e una passerella provvisoria più in basso: si allunga di una decina di minuti."
+      },
+      {
+        "observedAt": "2023-07-08",
+        "words": "Tappa lunghissima se la fai con lo zaino da dieci giorni. Abbiamo contato le curve. Al rifugio ci hanno accolti con un tè caldo senza chiedere niente."
+      },
+      {
+        "observedAt": "2023-07-15",
+        "words": "La prima ora, tra Cogne e Lillaz, è quasi pianura. Il resto sale piano piano, mai uno strappo vero."
+      },
+      {
+        "observedAt": "2023-07-26",
+        "words": "Usciti presto per il caldo. Fino alle cascate si sta all'ombra, poi è sole pieno fino in cima. Un temporale ci ha raggiunti a mezz'ora dal rifugio, siamo arrivati fradici."
+      },
+      {
+        "observedAt": "2023-08-05",
+        "words": "Cani da pastore molto attivi vicino a un alpeggio con le mucche: abbiamo girato largo e sono rimasti al loro posto."
+      },
+      {
+        "observedAt": "2023-08-12",
+        "words": "Marmotte ovunque, una ha fischiato per tutto il tempo che abbiamo fatto la pausa pranzo. Stambecchi invece solo col binocolo sulle creste."
+      },
+      {
+        "observedAt": "2023-08-16",
+        "words": "Ferragosto e niente folla, curioso. Rifugio piccolo e caldo, le camere sono semplici ma pulite, docce contate."
+      },
+      {
+        "observedAt": "2023-08-27",
+        "words": "Bevuto a tutti i ruscelli che scendono dai fianchi del vallone, acqua ce n'è tanta fino in alto. Noi la filtravamo per via delle mucche."
+      },
+      {
+        "observedAt": "2023-09-09",
+        "words": "Finalmente la passerella nuova sul torrente: struttura in legno e acciaio, larga e solida, al posto di quella portata via nel 2022. Niente più deviazione."
+      },
+      {
+        "observedAt": "2023-09-20",
+        "words": "Settembre perfetto, i larici iniziavano a cambiare colore in basso. Pochissime persone, solo due coppie che facevano tutta l'Alta Via come noi."
+      },
+      {
+        "observedAt": "2023-10-01",
+        "words": "Ultimo giorno di apertura del rifugio. Salita lunga ma senza fretta, la luce di ottobre nel vallone è incredibile."
+      },
+      {
+        "observedAt": "2024-06-22",
+        "words": "A fine giugno ancora nevai sopra i 2.300, ma la traccia era battuta e non serviva altro che un po' di attenzione. La Finestra sopra il rifugio era tutta bianca."
+      },
+      {
+        "observedAt": "2024-07-03",
+        "words": "Cartelli nuovi agli incroci, gialli, con i tempi aggiornati fino al rifugio. Quelli vecchi erano scoloriti e qualcuno mancava."
+      },
+      {
+        "observedAt": "2024-07-13",
+        "words": "Siamo partiti da Cogne con calma alle 9 e alle 15 eravamo al rifugio, con tante soste. La pendenza non mette mai in crisi."
+      },
+      {
+        "observedAt": "2024-07-20",
+        "words": "Fatta con mio padre di settant'anni: ce l'ha fatta benissimo, la salita è lunga ma graduale. Al rifugio gli hanno trovato un posto in basso nella camerata."
+      },
+      {
+        "observedAt": "2024-08-02",
+        "words": "Dopo il secondo alpeggio una frana ha coperto il sentiero per una trentina di metri. Il percorso è stato spostato più in alto con picchetti e bolli nuovi, si passa senza problemi ma il fondo è smosso."
+      },
+      {
+        "observedAt": "2024-08-10",
+        "words": "Alle cascate di Lillaz c'era la folla dei turisti, ma basta salire mezz'ora e si resta soli col vallone."
+      },
+      {
+        "observedAt": "2024-08-17",
+        "words": "Deviazione sopra la frana ben segnata, il tratto smosso dura cinque minuti. Poi tutto come sempre: sole, marmotte e vento fresco all'arrivo."
+      },
+      {
+        "observedAt": "2024-08-22",
+        "words": "Tappa del nostro trekking: arrivati da Cogne dopo il giorno di riposo, domani si scavalca la Finestra. Rifugio con una vista sul vallone che da sola vale la fatica."
+      },
+      {
+        "observedAt": "2024-09-07",
+        "words": "Caldissimo anche a settembre, sopra le baite non c'è riparo. Il fontanile all'ultimo alpeggio salva la vita."
+      },
+      {
+        "observedAt": "2024-09-18",
+        "words": "Visti tre stambecchi maschi che si sfidavano a cornate sopra il sentiero. Rumore impressionante."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Nebbia fitta da metà vallone in su, ma i segni gialli e i cartelli nuovi non ti lasciano mai. Arrivati al rifugio senza vedere niente."
+      },
+      {
+        "observedAt": "2025-06-14",
+        "words": "Il rifugio quest'anno apre a metà giugno, prima del solito, e accetta solo prenotazioni online. Ancora neve molle sugli ultimi pendii, scarponi consigliati."
+      },
+      {
+        "observedAt": "2025-06-29",
+        "words": "Sole, cielo enorme, vallone verdissimo. Poche righe: andateci."
+      },
+      {
+        "observedAt": "2025-07-05",
+        "words": "Undicesimo giorno in cammino, gambe ormai abituate. La tappa non spaventa nessuno di quelli che fanno il giro completo."
+      },
+      {
+        "observedAt": "2025-07-12",
+        "words": "La frana dell'anno scorso è stata sistemata: il sentiero è tornato sul tracciato originale, con un muretto nuovo e il fondo ripulito."
+      },
+      {
+        "observedAt": "2025-07-23",
+        "words": "Ho perso il conto delle marmotte. In alto due camosci che correvano sul nevaio. Salita lunghissima ma il tempo vola."
+      },
+      {
+        "observedAt": "2025-08-02",
+        "words": "Rifugio pieno, gestori sorridenti nonostante tutto. Cena alle sette, colazione presto per chi va verso Champorcher."
+      },
+      {
+        "observedAt": "2025-08-09",
+        "words": "Siamo partiti tardi e il sole in alto picchiava. Il tratto finale senza ombra sembra infinito, ci siamo fermati ogni dieci minuti."
+      },
+      {
+        "observedAt": "2025-08-20",
+        "words": "Le borracce le abbiamo riempite ai ruscelli lungo il vallone, acqua fredda dappertutto anche a fine agosto."
+      },
+      {
+        "observedAt": "2025-09-06",
+        "words": "Settembre tranquillo. La passerella nuova sul torrente è comoda, ricordo il guado di tre anni fa con poca nostalgia."
+      },
+      {
+        "observedAt": "2025-09-17",
+        "words": "Fatta in giornata con discesa per la stessa via, oltre 28 km in tutto. Non lo consiglio a chi non è allenato, ma si fa."
+      },
+      {
+        "observedAt": "2025-10-04",
+        "words": "Rifugio già chiuso, siamo saliti solo fino a lì per il panorama. Prima neve leggera sulle creste, larici gialli in basso, cascate quasi asciutte."
+      },
+      {
+        "observedAt": "2026-06-20",
+        "words": "Nevai ancora presenti sotto il rifugio ma ridotti, si passa con attenzione. La Finestra invece era ancora carica."
+      },
+      {
+        "observedAt": "2026-07-01",
+        "words": "Accanto all'ultimo alpeggio hanno messo una fontana nuova con una vasca in legno, acqua buona e freschissima."
+      },
+      {
+        "observedAt": "2026-07-11",
+        "words": "Seconda volta sull'Alta Via 2. Il sentiero lo ricordavo più faticoso: è lungo, non duro."
+      },
+      {
+        "observedAt": "2026-07-18",
+        "words": "Segnaletica impeccabile, ogni bivio ha il suo cartello. Al rifugio dormito come un sasso."
+      },
+      {
+        "observedAt": "2026-07-29",
+        "words": "Mi è venuta una vescica enorme a metà vallone con le scarpe nuove. Errore mio. Il rifugio aveva cerotti e pazienza."
+      },
+      {
+        "observedAt": "2026-08-08",
+        "words": "Stambecchi sdraiati proprio sul sentiero sopra l'ultimo alpeggio, abbiamo aspettato che si spostassero. Rifugio come sempre accogliente."
+      },
+      {
+        "observedAt": "2026-08-19",
+        "words": "Gruppo di amici, quasi tutti alla prima tappa di montagna vera. Arrivati tutti, stanchi e contenti. Lillaz all'inizio con le cascate ha fatto colpo."
+      },
+      {
+        "observedAt": "2026-09-05",
+        "words": "Ultima settimana d'estate, vallone silenzioso, mucche già scese in parte. Acqua ai ruscelli ancora abbondante."
+      },
+      {
+        "observedAt": "2026-09-23",
+        "words": "Salita in giornata e notte al rifugio per vedere l'alba dalla Finestra il mattino dopo. Il sole che sorge sul Gran Paradiso vale tutto."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Neve alta a inizio estate",
+          "quote": "gli ultimi pendii prima del rifugio tutti da fare su nevai"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Trekking dell'Alta Via",
+          "quote": "Decima tappa del nostro giro dell'Alta Via 2"
+        },
+        {
+          "label": "Salita lunga e graduale",
+          "quote": "tanta strada ma la pendenza è sempre gentile"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cascate di Lillaz",
+          "quote": "Le cascate di Lillaz all'inizio valgono già la giornata"
+        },
+        {
+          "label": "Salita lunga e graduale",
+          "quote": "il vallone si apre e non finisce più"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Passerella sul torrente crollata",
+          "kind": "attenzione",
+          "quote": "la passerella sul torrente nella parte media del vallone non c'è più, portata via dalla piena di inizio luglio"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi e marmotte",
+          "quote": "marmotte a ogni curva"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio accogliente",
+          "quote": "cena abbondante e polenta che ricorderò a lungo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca ombra in alto",
+          "quote": "Sopra i 2.000 non c'è un albero, portate cappello e crema"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi e marmotte",
+          "quote": "Branco di stambecchi a pochi metri dal sentiero sotto il rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua lungo il percorso",
+          "quote": "I fontanili degli alpeggi danno ancora acqua"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica dell'Alta Via",
+          "quote": "Segni gialli dell'Alta Via sempre evidenti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve alta a inizio estate",
+          "quote": "Ancora parecchia neve sopra gli ultimi alpeggi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Deviazione per passerella provvisoria",
+          "kind": "attenzione",
+          "quote": "c'è ora una deviazione segnalata con nastri e una passerella provvisoria più in basso"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Trekking dell'Alta Via",
+          "quote": "con lo zaino da dieci giorni"
+        },
+        {
+          "label": "Rifugio accogliente",
+          "quote": "ci hanno accolti con un tè caldo senza chiedere niente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e graduale",
+          "quote": "Il resto sale piano piano, mai uno strappo vero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cascate di Lillaz",
+          "quote": "Fino alle cascate si sta all'ombra"
+        },
+        {
+          "label": "Poca ombra in alto",
+          "quote": "poi è sole pieno fino in cima"
+        },
+        {
+          "label": "Temporale pomeridiano",
+          "quote": "Un temporale ci ha raggiunti a mezz'ora dal rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cani da pastore",
+          "quote": "Cani da pastore molto attivi vicino a un alpeggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi e marmotte",
+          "quote": "Marmotte ovunque"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio accogliente",
+          "quote": "Rifugio piccolo e caldo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua lungo il percorso",
+          "quote": "acqua ce n'è tanta fino in alto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuova passerella sul torrente",
+          "kind": "novita",
+          "quote": "Finalmente la passerella nuova sul torrente"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Trekking dell'Alta Via",
+          "quote": "due coppie che facevano tutta l'Alta Via come noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e graduale",
+          "quote": "Salita lunga ma senza fretta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve alta a inizio estate",
+          "quote": "A fine giugno ancora nevai sopra i 2.300"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica dell'Alta Via",
+          "quote": "Cartelli nuovi agli incroci"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Nuovi cartelli con i tempi",
+          "kind": "novita",
+          "quote": "Cartelli nuovi agli incroci, gialli, con i tempi aggiornati fino al rifugio"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e graduale",
+          "quote": "La pendenza non mette mai in crisi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e graduale",
+          "quote": "la salita è lunga ma graduale"
+        },
+        {
+          "label": "Rifugio accogliente",
+          "quote": "gli hanno trovato un posto in basso nella camerata"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana sul sentiero dopo gli alpeggi",
+          "kind": "attenzione",
+          "quote": "una frana ha coperto il sentiero per una trentina di metri"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Cascate di Lillaz",
+          "quote": "Alle cascate di Lillaz c'era la folla dei turisti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi e marmotte",
+          "quote": "sole, marmotte e vento fresco all'arrivo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Trekking dell'Alta Via",
+          "quote": "domani si scavalca la Finestra"
+        },
+        {
+          "label": "Rifugio accogliente",
+          "quote": "Rifugio con una vista sul vallone"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca ombra in alto",
+          "quote": "sopra le baite non c'è riparo"
+        },
+        {
+          "label": "Acqua lungo il percorso",
+          "quote": "Il fontanile all'ultimo alpeggio salva la vita"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi e marmotte",
+          "quote": "tre stambecchi maschi che si sfidavano a cornate"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica dell'Alta Via",
+          "quote": "i segni gialli e i cartelli nuovi non ti lasciano mai"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve alta a inizio estate",
+          "quote": "Ancora neve molle sugli ultimi pendii"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Apertura anticipata e prenotazione",
+          "kind": "novita",
+          "quote": "Il rifugio quest'anno apre a metà giugno, prima del solito, e accetta solo prenotazioni online"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Trekking dell'Alta Via",
+          "quote": "La tappa non spaventa nessuno di quelli che fanno il giro completo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero riaperto sulla frana",
+          "kind": "novita",
+          "quote": "il sentiero è tornato sul tracciato originale, con un muretto nuovo"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi e marmotte",
+          "quote": "Ho perso il conto delle marmotte"
+        },
+        {
+          "label": "Salita lunga e graduale",
+          "quote": "Salita lunghissima ma il tempo vola"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Rifugio accogliente",
+          "quote": "gestori sorridenti nonostante tutto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Poca ombra in alto",
+          "quote": "Il tratto finale senza ombra sembra infinito"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua lungo il percorso",
+          "quote": "acqua fredda dappertutto anche a fine agosto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "In giornata andata e ritorno",
+          "quote": "Fatta in giornata con discesa per la stessa via"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cascate di Lillaz",
+          "quote": "cascate quasi asciutte"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve alta a inizio estate",
+          "quote": "Nevai ancora presenti sotto il rifugio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua lungo il percorso",
+          "quote": "acqua buona e freschissima"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Fontana nuova all'ultimo alpeggio",
+          "kind": "novita",
+          "quote": "Accanto all'ultimo alpeggio hanno messo una fontana nuova con una vasca in legno"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Salita lunga e graduale",
+          "quote": "è lungo, non duro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Segnaletica dell'Alta Via",
+          "quote": "Segnaletica impeccabile, ogni bivio ha il suo cartello"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vesciche e scarpe nuove",
+          "quote": "Mi è venuta una vescica enorme a metà vallone con le scarpe nuove"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Stambecchi e marmotte",
+          "quote": "Stambecchi sdraiati proprio sul sentiero"
+        },
+        {
+          "label": "Rifugio accogliente",
+          "quote": "Rifugio come sempre accogliente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Cascate di Lillaz",
+          "quote": "Lillaz all'inizio con le cascate ha fatto colpo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Acqua lungo il percorso",
+          "quote": "Acqua ai ruscelli ancora abbondante"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Alba dalla Finestra",
+          "quote": "vedere l'alba dalla Finestra il mattino dopo"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

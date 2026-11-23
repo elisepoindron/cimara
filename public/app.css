@@ -1,0 +1,2492 @@
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0}
+:root{
+  --pap:#FCFCFE;--ink:#1B2733;--dim:#46545F;--faint:#64727C;--frame:#22303C;--rule:#D6DCE1;
+  --ver:#267270;--red:#C6482B;--wat:#538F8E;--fill:#E6EEEF;--lab3:#AC5031;
+  --t1:#87B1B0;--t2:#367C7A;--t3:#DE998A;--t4:#D16C55;--t5:#C6482B;
+  --pan:rgba(252,252,254,.72);--pan2:rgba(252,252,254,.92);
+}
+body{background:var(--pap) url('assets/bg/ground.png') center/cover fixed;
+  color:var(--ink);font-family:"Archivo",system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+.lab{font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase}
+
+header{display:flex;align-items:baseline;justify-content:space-between;gap:2rem;
+  padding:1.05rem clamp(1rem,3vw,2.2rem) .95rem;border-bottom:1px solid var(--frame);background:var(--pan2)}
+.mark{font:700 1.12rem/1 "Archivo",sans-serif;letter-spacing:-.03em}
+nav{display:flex;gap:1.6rem}
+nav a{color:var(--dim);text-decoration:none;font:600 .64rem/1 "Archivo Narrow",sans-serif;
+  letter-spacing:.15em;text-transform:uppercase}
+nav a:hover{color:var(--ver)}
+
+.wrap{max-width:1240px;margin:0 auto;padding:0 clamp(1rem,3vw,2.2rem)}
+.phead{padding:clamp(1.9rem,4vw,3rem) 0 clamp(1.2rem,2vw,1.6rem);border-bottom:1.5px solid var(--frame)}
+.crumb{color:var(--faint)}
+.crumb a{color:var(--faint);text-decoration:none}
+.crumb a:hover{color:var(--ver)}
+h1{font:700 clamp(1.85rem,4vw,2.95rem)/1.04 "Archivo",sans-serif;letter-spacing:-.03em;margin:.85rem 0 0}
+.ptitle{display:flex;align-items:baseline;gap:.7rem;margin:.85rem 0 0}
+.ptitle h1{margin:0}
+.cls{display:flex;flex-wrap:wrap;gap:.3rem 2.2rem;margin:1.1rem 0 0}
+.cls div{display:flex;flex-direction:column;gap:.3rem}
+.cls dt{font:600 .6rem/1 "Archivo Narrow",sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+.cls dd{margin:0;font:600 1.02rem/1 "Archivo",sans-serif;font-variant-numeric:tabular-nums}
+
+.body{display:grid;grid-template-columns:minmax(0,14rem) minmax(0,1fr);
+  gap:clamp(1.6rem,4vw,3.6rem);padding:clamp(1.6rem,3vw,2.4rem) 0 6rem;align-items:start}
+
+
+/* wash: one sheet under the whole reading area. texture stays behind the
+   title and in the page margins, where there is nothing to read */
+.body{background:rgba(252,252,254,.84);padding-left:clamp(1.2rem,2.4vw,2.1rem);
+  padding-right:clamp(1.2rem,2.4vw,2.1rem);
+  margin-left:calc(clamp(1.2rem,2.4vw,2.1rem) * -1);
+  margin-right:calc(clamp(1.2rem,2.4vw,2.1rem) * -1)}
+.doc section{padding:0 0 clamp(1.8rem,3vw,2.6rem);scroll-margin-top:1.2rem}
+.doc section:last-child{padding-bottom:0}
+.doc h2{font:600 1.16rem/1.2 "Archivo",sans-serif;letter-spacing:-.018em;margin:0 0 .95rem;
+  padding-bottom:.55rem;border-bottom:1px solid var(--frame)}
+.doc p{margin:0 0 .95rem;font:400 1rem/1.68 "Archivo",sans-serif;color:var(--ink);max-width:66ch}
+.doc p.q{color:var(--dim)}
+.doc h3{font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--faint);margin:1.4rem 0 .55rem}
+
+.dl{display:grid;gap:.5rem;max-width:44rem}
+.dl div{display:grid;grid-template-columns:12rem minmax(0,1fr);gap:1rem;
+  border-top:1px solid var(--rule);padding-top:.5rem}
+.dl dt{font:600 .62rem/1.5 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--faint)}
+.dl dd{margin:0;font:400 .92rem/1.5 "Archivo",sans-serif;font-variant-numeric:tabular-nums}
+
+/* conditions: a section, not a banner */
+.cond{border:1px solid var(--rule);background:var(--pan);padding:clamp(1rem,2vw,1.4rem)}
+.cond__v{display:flex;align-items:baseline;gap:1rem;flex-wrap:wrap}
+.cond__v strong{font:700 1.5rem/1 "Archivo",sans-serif;letter-spacing:-.02em;color:var(--ver)}
+.cond__v span{font:400 .85rem/1.4 "Archivo",sans-serif;color:var(--dim)}
+.tints{display:grid;grid-template-columns:repeat(5,1fr);margin:.95rem 0 0;max-width:16rem;border:1px solid var(--frame)}
+.tints i{height:.68rem;display:block}
+.tints i:nth-child(1){background:var(--t1)}.tints i:nth-child(2){background:var(--t2)}
+.tints i:nth-child(3){background:var(--t3)}.tints i:nth-child(4){background:var(--t4)}
+.tints i:nth-child(5){background:var(--t5)}
+.tints i.on{outline:2px solid var(--frame);outline-offset:-2px;position:relative;z-index:1}
+.doc .leg{margin:.4rem 0 0;color:var(--faint);max-width:18rem;
+  font:600 .62rem/1.55 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase}
+.doc .leg b{color:var(--ver)}
+.cgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(10rem,1fr));gap:1px;
+  background:var(--rule);margin:1.2rem 0 0;border:1px solid var(--rule)}
+.cgrid div{background:var(--pan2);padding:.8rem .9rem .9rem}
+.cgrid dt{font:600 .6rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--faint)}
+.cgrid dd{margin:.5rem 0 0;font:600 1.24rem/1 "Archivo",sans-serif;font-variant-numeric:tabular-nums}
+.cgrid dd small{font-size:.7rem;font-weight:400;color:var(--dim);margin-left:.25rem}
+.alert{margin:1.2rem 0 0;padding-left:.9rem;border-left:3px solid var(--red);max-width:60ch}
+.alert b{display:block;font:600 .62rem/1 "Archivo Narrow",sans-serif;letter-spacing:.15em;
+  text-transform:uppercase;color:var(--lab3);margin-bottom:.4rem}
+.alert p{margin:0;font-size:.9rem;line-height:1.55}
+
+.prof svg{display:block;width:100%;height:auto;max-width:46rem}
+.pts{display:flex;justify-content:space-between;max-width:46rem;margin:.5rem 0 0;color:var(--faint)}
+
+.huts{display:grid;gap:.5rem;max-width:44rem}
+.huts div{display:grid;grid-template-columns:4.2rem minmax(0,1fr) auto;gap:1rem;
+  border-top:1px solid var(--rule);padding-top:.5rem;align-items:baseline}
+.huts b{font:400 .82rem/1.4 "Archivo",sans-serif;color:var(--faint);font-variant-numeric:tabular-nums}
+.huts span{font:500 .92rem/1.4 "Archivo",sans-serif}
+.huts em{font-style:normal;font:600 .6rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--faint)}
+
+.ph{display:grid;grid-template-columns:repeat(auto-fit,minmax(11rem,1fr));gap:.7rem;max-width:52rem}
+.ph figure{margin:0}
+.ph img{display:block;width:100%;height:9rem;object-fit:cover;filter:saturate(.9)}
+.ph figcaption{margin-top:.45rem;font:400 .72rem/1.45 "Archivo",sans-serif;color:var(--faint)}
+.more{display:inline-block;margin-top:.9rem;color:var(--ver);text-decoration:none;
+  font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase}
+.more:hover{border-bottom:1px solid var(--ver)}
+.doc .rev{margin:1.6rem 0 0;padding-top:1rem;border-top:1px solid var(--rule);
+  color:var(--faint);max-width:66ch;font:600 .62rem/1.5 "Archivo Narrow",sans-serif;
+  letter-spacing:.13em;text-transform:uppercase}
+@media (max-width:860px){
+  /* the sheet bleed made the page wider than the viewport */
+  /* 1fr has an implicit auto minimum, so the track refused to shrink */
+  .body{grid-template-columns:minmax(0,1fr);margin-left:0;margin-right:0;
+    padding-left:clamp(.8rem,3vw,1.2rem);padding-right:clamp(.8rem,3vw,1.2rem)}
+  .body>*{min-width:0}
+  .dl div{grid-template-columns:1fr}
+  .dl dt{padding-top:.15rem}
+  nav a.sec{display:none}
+}
+
+/* data mark. a declared role, distinct from the condition scale. */
+.chart-wrap{max-width:42rem;overflow-x:auto;margin:.2rem 0 0}
+.chart{display:block;width:100%;min-width:30rem;height:auto;overflow:visible}
+.chart .axis{stroke:var(--frame);stroke-width:1}
+.chart .bar path{fill:var(--ver);transition:fill .15s}
+.chart .bar:hover path{fill:var(--frame)}
+.chart .n{font:600 12px/1 "Archivo",sans-serif;fill:var(--ink);text-anchor:middle;
+  font-variant-numeric:tabular-nums}
+.chart .g{font:600 11px/1 "Archivo Narrow",sans-serif;fill:var(--faint);text-anchor:middle;
+  letter-spacing:.09em;text-transform:uppercase}
+
+.routes{display:grid;gap:0;max-width:44rem}
+.routes div{display:grid;grid-template-columns:minmax(0,1fr) 4.5rem 3.2rem;gap:1rem;
+  align-items:baseline;padding:.42rem 0;border-bottom:1px solid var(--rule)}
+.routes span{font:500 .93rem/1.4 "Archivo",sans-serif}
+.routes b{font:400 .8rem/1.4 "Archivo",sans-serif;color:var(--faint);font-variant-numeric:tabular-nums;
+  text-align:right}
+.routes em{font-style:normal;font:600 .85rem/1.4 "Archivo",sans-serif;color:var(--ver);
+  text-align:right;font-variant-numeric:tabular-nums}
+/* review synthesis */
+.sum{border:1px solid var(--rule);background:var(--pan2);padding:clamp(1rem,2vw,1.4rem)}
+.doc .sum>p.lead{margin:0;font:400 1rem/1.65 "Archivo",sans-serif;max-width:62ch}
+.sum__l{display:grid;gap:0;margin:1.2rem 0 0;max-width:40rem}
+.sum__l div{display:grid;grid-template-columns:2.6rem minmax(0,1fr);gap:1rem;align-items:baseline;
+  padding:.44rem 0;border-top:1px solid var(--rule)}
+.sum__l b{font:600 .98rem/1.3 "Archivo",sans-serif;font-variant-numeric:tabular-nums;text-align:right}
+.sum__l span{font:400 .9rem/1.45 "Archivo",sans-serif;color:var(--dim)}
+.doc .sum__f{margin:1.1rem 0 0;padding-top:.85rem;border-top:1px solid var(--rule);
+  font:600 .62rem/1.6 "Archivo Narrow",sans-serif;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--faint);max-width:58ch}
+/* the total, said once and large, beside the counts it is the total of */
+.sum__r{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:clamp(1rem,2.4vw,1.6rem);
+  margin:1.2rem 0 0;max-width:48rem}
+.sum__r .sum__l{margin:0}
+.sum__t{display:flex;flex-direction:column;justify-content:center;gap:.5rem;min-width:5.6rem;
+  border-left:1px solid var(--rule);padding:0 .2rem 0 clamp(.9rem,2vw,1.4rem)}
+.sum__t b{font:700 3.4rem/.9 "Archivo",sans-serif;letter-spacing:-.04em;font-variant-numeric:tabular-nums}
+.sum__t span{font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--faint);max-width:7em}
+
+
+/* L3, the same arrangement as the crag page: main column plus a sticky rail.
+   conditions and photos leave the reading flow and stay on screen instead. */
+.body{display:block}
+.tail{display:grid;grid-template-columns:repeat(auto-fit,minmax(20rem,1fr));
+  gap:0 clamp(1.6rem,3.2vw,3rem);border-top:1.5px solid var(--frame);
+  padding-top:clamp(1.4rem,2.4vw,2rem);margin-top:clamp(.6rem,1.4vw,1.2rem)}
+.tail section{break-inside:avoid}
+.tail{margin-bottom:clamp(1.2rem,2.4vw,2rem)}
+.doc>section#storico{border-top:1.5px solid var(--frame);padding-top:clamp(1.4rem,2.4vw,2rem)}
+.tail h2{font-size:1rem}
+.tail .dl div{grid-template-columns:1fr;gap:.15rem}
+.doc>section:last-child{padding-bottom:0}
+
+/* the wrapper stretches to the row height so the rail has somewhere to travel.
+   with align-items:start the item collapses and sticky never engages. */
+.l3{display:grid;grid-template-columns:minmax(0,1.85fr) minmax(0,1fr);
+  gap:clamp(1.6rem,3.4vw,3.2rem)}
+.railwrap{min-width:0}
+.rail{position:sticky;top:1.1rem;display:grid;gap:clamp(1.3rem,2.4vw,1.9rem)}
+.rail h2{font-size:1rem}
+.rail .cond{padding:.95rem 1rem 1.05rem}
+.rail .cond__v{display:block}
+.rail .cond__v strong{font-size:1.32rem}
+.rail .cond__v span{display:block;margin-top:.3rem;font-size:.8rem}
+.rail .cgrid{grid-template-columns:1fr 1fr}
+.rail .cgrid dd{font-size:1.06rem}
+.rail .alert{margin:1rem 0 0}
+.rail .alert p{font-size:.82rem;line-height:1.5}
+.rail .ph{grid-template-columns:1fr 1fr 1fr;gap:.4rem;max-width:none}
+.rail .ph img{height:4.6rem}
+.rail .ph figcaption{display:none}
+.rail .huts div{grid-template-columns:3.4rem minmax(0,1fr);gap:.6rem}
+.rail .huts em{grid-column:2;font-size:.57rem}
+.rail .huts span{font-size:.86rem}
+.chart-wrap{max-width:none}
+@media (max-width:960px){
+  .l3{grid-template-columns:1fr}
+  .rail{position:static}
+  .railwrap{min-width:auto}
+  .rail .ph img{height:7rem}
+}
+
+/* cross links, so the prototype is a graph rather than four islands */
+.near{display:grid;gap:0;max-width:44rem}
+.near a{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:1rem;align-items:baseline;
+  padding:.72rem 0;border-bottom:1px solid var(--rule);text-decoration:none;color:var(--ink)}
+.near a:hover .near__n{color:var(--ver)}
+.near__n{display:block;font:600 .95rem/1.3 "Archivo",sans-serif}
+.near__m{display:block;margin-top:.26rem;font:600 .6rem/1.4 "Archivo Narrow",sans-serif;
+  letter-spacing:.11em;text-transform:uppercase;color:var(--faint)}
+.near__d{font:400 .8rem/1.4 "Archivo",sans-serif;color:var(--faint);font-variant-numeric:tabular-nums}
+.mark a{color:inherit;text-decoration:none}
+.mark a:hover{color:var(--ver)}
+/* the sun mark, beside the wordmark: the header centres on it rather than on a baseline it has none of */
+header{align-items:center}
+.mark a{display:inline-flex;align-items:center;gap:.6rem}
+.mark img{display:block;width:1.75rem;height:1.75rem}
+
+/* ---- the conditions module, nessuna ---- */
+/* Ported from evidence.html's .ev--thin, .sc--none, .infer, .ev__q, .ev__note
+   and .cta rules, renamed to this page family's class names. Declarations are
+   verbatim; only the selectors changed. */
+.cond--none{border-style:dashed}
+.cond .cond__q{font:700 1.2rem/1.25 "Archivo",sans-serif;letter-spacing:-.015em;color:var(--ink);margin:0;max-width:26ch}
+.tints--none i:nth-child(n){background:none;box-shadow:inset 0 0 0 1px var(--rule);opacity:.7}
+.cond .cond__note{margin:1.05rem 0 0;padding-top:.85rem;border-top:1px solid var(--rule);
+  font:600 .6rem/1.6 "Archivo Narrow",sans-serif;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--faint);max-width:46ch}
+.infer{margin:1.05rem 0 0;display:grid;gap:.45rem}
+.infer div{display:grid;grid-template-columns:1.1rem minmax(0,1fr);gap:.7rem;align-items:baseline;
+  font:400 .89rem/1.5 "Archivo",sans-serif;color:var(--dim)}
+.infer i{width:.42rem;height:.42rem;border-radius:50%;background:var(--t1);align-self:center}
+.infer b{color:var(--ink);font-weight:600}
+.cta{display:inline-block;margin-top:1.1rem;color:var(--ver);text-decoration:none;
+  font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.14em;text-transform:uppercase;
+  border-bottom:1px solid var(--ver);padding-bottom:2px}
+
+/* ---- the conditions module, indicativa ---- */
+/* Ported from evidence.html's .ev--thin and .quote rules the same way: the
+   declarations are verbatim, only .ev--thin's selector changed. .cond__q and
+   .cond__note are already above, and carry this state too — one report is shown
+   in the same voice as none. There is no scale rule because there is no scale. */
+.cond--thin{border-style:dashed}
+.quote{margin:1.05rem 0 0;padding-left:.9rem;border-left:2px solid var(--t1)}
+.quote p{margin:0;font:400 .95rem/1.6 "Archivo",sans-serif;color:var(--ink);max-width:52ch}
+.quote cite{display:block;margin-top:.5rem;font:600 .6rem/1.4 "Archivo Narrow",sans-serif;
+  letter-spacing:.13em;text-transform:uppercase;color:var(--faint);font-style:normal}
+
+/* ---- who is signed in, and the way out ---- */
+/* Added for the served application: the mockups' nav is three links and never
+   had anyone signed in to show. /esci is a POST, so the way out is a form and
+   its button is dressed as the links beside it — the nav's own rule already
+   sets the type, and these two only have to stop a <button> looking like one. */
+.who{color:var(--faint);font:600 .64rem/1 "Archivo Narrow",sans-serif;
+  letter-spacing:.15em;text-transform:uppercase}
+nav form.out{display:inline}
+nav form.out button{background:none;border:0;padding:0;cursor:pointer;color:var(--dim);
+  font:600 .64rem/1 "Archivo Narrow",sans-serif;letter-spacing:.15em;text-transform:uppercase}
+nav form.out button:hover{color:var(--ver)}
+/* The mark is a 28px logo beside its name, and the header's baseline rule
+   lined the nav up against the logo's box: the links were stretched to its
+   height with their text at the top, a few pixels above the name. Centring
+   both axes puts every nav word on the mark's middle, links, name and button
+   alike. */
+header{align-items:center}
+nav{align-items:center}
+nav form.out{display:flex;margin:0}
+
+/* ---- taking a report back ---- */
+/* Added for the served application: the mockups' conditions module has no
+   control, because no mockup had a reader who had written the report in it.
+   Quiet by design — it sits under the note, and withdrawing is not an action
+   the page should be urging anyone towards. */
+.ritira{margin:.7rem 0 0}
+.ritira button{background:none;border:0;padding:0;cursor:pointer;color:var(--faint);
+  font:600 .6rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;
+  text-decoration:underline;text-underline-offset:.25em}
+.ritira button:hover{color:var(--red)}
+
+/* ---- the three states that grade a run of reports ---- */
+/* Added for the served application. Rilevata needs nothing new: route.html
+   already carries it, and .cond__v, .tints, .leg and .cgrid came across with
+   the rest of the module. These are the two scales the mockups never showed —
+   a range rather than a point, and a last known state visibly switched off —
+   and the two-group split, ported from evidence.html. */
+.tints--range i.on{outline-width:2px}
+.tints--faded i{opacity:.3}
+.tints--faded i.on{opacity:.55;outline-style:dashed}
+.split2{display:grid;gap:.5rem;margin:1.1rem 0 0}
+.split2 div{display:grid;grid-template-columns:.3rem 2.2rem minmax(0,1fr);gap:.75rem;
+  align-items:baseline;border-top:1px solid var(--rule);padding-top:.55rem}
+.split2 i{align-self:stretch;border-radius:2px}
+.split2 b{font:600 .95rem/1.3 "Archivo",sans-serif;font-variant-numeric:tabular-nums;
+  text-align:right}
+.split2 span{font:400 .87rem/1.5 "Archivo",sans-serif;color:var(--dim)}
+
+/* ---- Find: the sentence, the list, the map ---- */
+/* Ported from find-screen.html, which is this screen's acceptance criterion the
+   way route.html is the itinerary page's. Where that file defines a selector
+   twice only the later one — the one a browser would apply — is carried across.
+   `.r` is a `<div>` rather than the `<a>` the crag page's cross-links used:
+   favoriting puts a form inside the row and a form cannot nest inside an anchor,
+   so the row stretches a pseudo-element over itself and `a.r` is gone.
+
+   `.q__in` is the one rule with no mockup behind it: the design draws a sentence,
+   because a drawing is not typed into, and this is the field it is typed into. */
+.q{padding:clamp(1.5rem,3.4vw,2.4rem) clamp(1rem,3vw,2.2rem) clamp(2.4rem,4vw,3.4rem); border-bottom:1px solid var(--rule);background:var(--pan)}
+.q__s{font:400 clamp(1.28rem,2.5vw,1.85rem)/1.45 "Archivo",sans-serif;letter-spacing:-.012em; max-width:46ch;margin:0}
+.q__s .set,.q__s .inf{font-weight:600;cursor:pointer;white-space:nowrap}
+.q__s .set{color:var(--ver);box-shadow:0 -2px 0 -1px var(--ver) inset;text-decoration:none}
+.q__s .inf{color:var(--ink);border-bottom:2px dotted var(--faint)}
+.q__s .set:hover,.q__s .inf:hover{background:var(--fill)}
+.q__add{display:inline-block;margin-left:.5rem;color:var(--faint);font-weight:600;cursor:pointer}
+.q__add:hover{color:var(--ver)}
+.split{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr); align-items:start;min-height:calc(100vh - 1px)}
+.col{min-width:0;display:flex;flex-direction:column}
+.list{flex:1;padding:0 clamp(1rem,3vw,2.2rem) 4rem;background:var(--pan)}
+.list__h{display:flex;align-items:baseline;justify-content:space-between;gap:1.5rem; padding:1.1rem 0 .85rem;border-bottom:1px solid var(--frame);position:sticky;top:0; background:var(--pan2);backdrop-filter:blur(3px)}
+.list__h b{font:600 .95rem/1 "Archivo",sans-serif;font-variant-numeric:tabular-nums}
+.list__h span{color:var(--faint)}
+.sort{color:var(--dim);cursor:pointer}
+.sort:hover{color:var(--ver)}
+.r{position:relative;display:grid;grid-template-columns:.28rem minmax(0,1fr) auto auto;gap:0 1.05rem; padding:1.05rem 0 1.1rem;border-bottom:1px solid var(--rule);align-items:start;cursor:pointer}
+/* /preferiti reuses the row and grades nothing, so it has no verdict column and
+   no star column beside one: there the star is the third cell, not the fourth. */
+.r--plain{grid-template-columns:.28rem minmax(0,1fr) auto}
+/* the whole row navigates, but the name is what the link is called. the anchor
+   keeps the name and stretches a pseudo-element over the row, so the star — a
+   form, which cannot sit inside an anchor — stays a sibling above it. */
+.r__link{color:inherit;text-decoration:none}
+.r__link::after{content:"";position:absolute;inset:0}
+.r .fav{position:relative;z-index:1;align-self:center}
+/* signed in the star is wrapped in its form, and the grid places the form, not
+   the button `.fav`'s own `align-self` reaches. `margin:0` is load bearing: the
+   UA sheet's 1em bottom margin on a form makes its margin box taller than the
+   row, so centring it is a no-op and the star sits 7px high, and it padded every
+   signed-in row taller than the same row signed out. */
+.r>form{display:flex;align-self:center;margin:0}
+.r:hover{background:var(--pan2)}
+.r__bar{grid-row:1 / span 3;align-self:stretch;border-radius:2px}
+.r__n{margin:0;font:600 1rem/1.3 "Archivo",sans-serif;letter-spacing:-.008em}
+.r__m{margin:.34rem 0 0;display:flex;flex-wrap:wrap;gap:.15rem 1.15rem; font:600 .63rem/1.5 "Archivo Narrow",sans-serif;letter-spacing:.11em;text-transform:uppercase; color:var(--faint)}
+.r__m i{font-style:normal;color:var(--dim);font-variant-numeric:tabular-nums}
+.r__s{text-align:right;white-space:nowrap}
+.r__s b{display:block;font:600 .63rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em; text-transform:uppercase}
+.r__s span{display:block;margin-top:.3rem;font:400 .72rem/1.4 "Archivo",sans-serif;color:var(--faint); font-variant-numeric:tabular-nums}
+.r__why{grid-column:2 / span 3;margin:.6rem 0 0;padding-left:.7rem;border-left:2px solid var(--t1); font:400 .79rem/1.5 "Archivo",sans-serif;color:var(--dim);max-width:58ch}
+.r__why em{font-style:normal;color:var(--ver);font-weight:600}
+.map{position:sticky;top:0;height:100vh;background:var(--pap); border-left:1px solid var(--frame);overflow:hidden}
+.hint{position:absolute;left:1.1rem;top:1.1rem;z-index:2;background:var(--pan2); border:1px solid var(--rule);padding:.5rem .75rem;color:var(--wat)}
+.attrib{position:absolute;right:.6rem;top:1.15rem;z-index:2;color:var(--dim); background:rgba(255,255,255,.82);padding:.28rem .45rem;letter-spacing:.06em; text-transform:none;font-size:.56rem}
+.geo{position:absolute;inset:0;width:100%;height:100%;transform:none;aspect-ratio:auto}
+.geo .dot{stroke-width:2}
+.geo .dot:hover{stroke-width:2.4}
+.geo .you{fill:var(--frame)}
+.geo .ring{fill:rgba(38,114,112,.05);stroke:var(--ver);stroke-width:2; stroke-dasharray:5 4;vector-effect:non-scaling-stroke}
+.geo text{stroke-width:3.5px}
+@media (max-width:900px){
+  .split{grid-template-columns:1fr}
+  .map{height:56vh;position:relative;border-left:0;border-top:1px solid var(--frame)}
+}
+.q__in{display:block;width:100%;max-width:46ch;margin:0 0 .9rem;padding:.6rem .75rem;
+  font:400 1rem/1.4 "Archivo",sans-serif;color:var(--ink);background:var(--pap);
+  border:1px solid var(--rule);border-radius:2px}
+.q__in:focus{outline:2px solid var(--ver);outline-offset:-1px}
+
+/* ---- Home: the line before anything is inferred ---- */
+/* Ported from home.html. `.ph` there is the placeholder inside the line and
+   here it would collide with the photo grid the itinerary page already owns,
+   so only the rules that scope it under `.q__line` come across. */
+.q__lab{margin:0 0 1rem}
+.q__line{border-bottom:1.5px solid var(--frame);padding-bottom:.6rem;max-width:min(100%,38rem)}
+.q__line p{margin:0;font:400 clamp(1.35rem,3.1vw,2.2rem)/1.3 "Archivo",sans-serif; letter-spacing:-.022em;color:var(--ink);min-height:1.3em}
+.q__caret{display:inline-block;width:1.5px;height:1.05em;background:var(--ver); vertical-align:-.15em;margin-right:3px}
+.q__line .ph{color:var(--faint)}
+/* home-page.ts puts a real `<input class="q__in">` where `.ph` draws a
+   placeholder, so `.q__line p`'s type never reaches it — without this it falls
+   back to `.q__in`'s boxed field from the Find section above. Same line,
+   same size, just typeable. */
+.q__line .q__in{width:100%;max-width:none;margin:0;padding:0;border:0;
+  border-radius:0;background:none;appearance:none;-webkit-appearance:none;
+  font:400 clamp(1.35rem,3.1vw,2.2rem)/1.3 "Archivo",sans-serif;
+  letter-spacing:-.022em;color:var(--ink);overflow:hidden;text-overflow:ellipsis}
+.q__line .q__in::placeholder{color:var(--faint);opacity:.5}
+.q__line .q__in:focus{outline:0}
+.q__line:focus-within{border-bottom-color:var(--ver)}
+.q__go{display:flex;align-items:center;gap:1.5rem;margin:.7rem 0 0}
+/* "Cerco" opens the line the way it opens Find's sentence: the same type, and
+   the field drawn as one of its slots, typed text in green on a thin green
+   rule. The grey example after it turns, word by word (line-examples.js). */
+.q__row{display:flex;align-items:baseline;gap:.3em;max-width:min(100%,42rem);
+  font:400 clamp(1.28rem,2.5vw,1.85rem)/1.45 "Archivo",sans-serif;letter-spacing:-.012em;color:var(--ink)}
+.q__lead{flex:none;cursor:text}
+.q__row .q__line{position:relative;flex:1;min-width:0;border-bottom:0;padding-bottom:.08em;
+  box-shadow:0 -2px 0 -1px var(--ver) inset}
+.q__row .q__line .q__in{font:600 1em/1.45 "Archivo",sans-serif;letter-spacing:inherit;color:var(--ver)}
+.q__row .q__line .q__in::placeholder{font-weight:400}
+.q__row .q__line .q__in::-webkit-search-cancel-button{display:none}
+.q__ph{position:absolute;inset:0 0 auto 0;height:1.45em;overflow:hidden;pointer-events:none;
+  color:var(--faint);opacity:.5}
+.q__line.has-text .q__ph{display:none}
+.q__ph>span{position:absolute;left:0;top:0;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.q__ph i{font-style:normal;display:inline-block;transition:transform .5s cubic-bezier(.2,.7,.2,1),opacity .5s ease}
+.q__ph .q__ex-in i{transform:translateY(90%);opacity:0}
+.q__ph .q__ex-out{transform:translateY(-60%);opacity:0;transition:transform .45s ease,opacity .45s ease}
+.q__ph .q__ex-out i{transition:none}
+@media (prefers-reduced-motion:reduce){.q__ph i,.q__ph .q__ex-out{transition:none}}
+.btn{display:inline-block;border:1.5px solid var(--rule);background:none;color:var(--faint); padding:.62rem 1.1rem;text-decoration:none; font:600 .63rem/1 "Archivo Narrow",sans-serif;letter-spacing:.15em;text-transform:uppercase}
+.btn:hover{border-color:var(--ver);color:var(--ver)}
+.q__below{margin:clamp(1.5rem,3.2vw,2.3rem) 0 0;max-width:min(100%,40rem)}
+.q__ex{display:grid;gap:.5rem;margin:.55rem 0 0}
+.q__ex a{font:400 .95rem/1.4 "Archivo",sans-serif;color:var(--ver);text-decoration:none; justify-self:start}
+.q__ex a:hover{border-bottom:1px solid var(--ver)}
+.acts{list-style:none;margin:0;padding:0}
+.acts li a{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:1rem;align-items:baseline; padding:.72rem 0;border-bottom:1px solid var(--rule);text-decoration:none;color:var(--ink)}
+.acts li a:hover{background:var(--pan2)}
+.acts li a:hover .n{color:var(--ver)}
+.acts .n{font:600 1rem/1.3 "Archivo",sans-serif;letter-spacing:-.008em}
+.acts .c{font:400 .82rem/1.4 "Archivo",sans-serif;color:var(--faint);font-variant-numeric:tabular-nums}
+.acts__more{display:block;padding:.9rem 0 0;color:var(--ver);text-decoration:none; font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.14em;text-transform:uppercase}
+.acts__more:hover{border-bottom:1px solid var(--ver)}
+
+/* ---- the forms: signing up, signing in, writing a report ---- */
+/* No mockup draws these — the design settled the reading surfaces and the
+   contributor loop came later — so they are derived from the system rather than
+   invented beside it. Labels take the `.lab` register every other field label on
+   the site uses (`.cls dt`, `.cgrid dt`); fields take `.q__in`'s treatment; the
+   problem list takes `.alert`'s left rule in `--red`; and the verdict swatches
+   are the condition plates, at the size `.tints` sets. */
+
+.account,.compose{max-width:34rem;padding:clamp(1.4rem,3vw,2.2rem) 0 5rem}
+.compose{max-width:40rem}
+
+.account form,.gita{display:grid;gap:1.15rem}
+.account p,.gita__f,.gita__m{display:grid;gap:.4rem;margin:0}
+
+.account label,.gita label,.gita legend{font:600 .6rem/1.4 "Archivo Narrow",sans-serif;
+  letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+
+.account input,.gita input:not([type=radio]),.gita textarea{width:100%;
+  padding:.6rem .75rem;font:400 1rem/1.5 "Archivo",sans-serif;color:var(--ink);
+  background:var(--pap);border:1px solid var(--rule);border-radius:2px}
+.account input:focus,.gita input:focus,.gita textarea:focus{outline:2px solid var(--ver);
+  outline-offset:-1px}
+.gita textarea{resize:vertical;min-height:11rem;line-height:1.65}
+
+.account button,.gita button[type=submit]{justify-self:start;margin-top:.4rem;
+  border:1.5px solid var(--ver);background:none;color:var(--ver);cursor:pointer;
+  padding:.62rem 1.1rem;font:600 .63rem/1 "Archivo Narrow",sans-serif;
+  letter-spacing:.15em;text-transform:uppercase}
+.account button:hover,.gita button[type=submit]:hover{background:var(--fill)}
+
+/* the sign-in page's way to sign-up: text and `.btn` share one baseline
+   instead of stacking, so it reads as a secondary note rather than another
+   field in the form */
+.account .alt{display:flex;align-items:center;gap:.7rem;flex-wrap:wrap;margin:1.3rem 0 0}
+.account .alt span{font:400 .92rem/1.5 "Archivo",sans-serif;color:var(--dim)}
+
+/* what a failed attempt reported. the same left rule as .alert, which is the
+   design's one existing way of saying "read this before you go on" */
+.problems{margin:0;padding:.1rem 0 .1rem .9rem;list-style:none;
+  border-left:3px solid var(--red);max-width:60ch}
+.problems li{margin:.28rem 0;font:400 .9rem/1.55 "Archivo",sans-serif;color:var(--ink)}
+
+/* who the report is about, before the questions start */
+.gita__to{margin:0;font:400 1rem/1.5 "Archivo",sans-serif;color:var(--dim)}
+.gita__to b{color:var(--ink);font-weight:600}
+
+/* screen 1's plain way past the upload field — "Continua senza foto" reads
+   as a secondary link beside the form, the same de-emphasized voice
+   .account .alt already sets for a link that is not itself a field */
+.gita__skip{margin:.9rem 0 0;font:400 .92rem/1.5 "Archivo",sans-serif;color:var(--dim)}
+.gita__skip a{color:var(--ver);text-decoration:none}
+.gita__skip a:hover{text-decoration:underline}
+
+/* the five levels, as the scale rather than as a list of words. every swatch
+   appears with its written label, which is why the label is not optional here */
+.gita__v{margin:0;padding:0;border:0}
+.gita__v legend{padding:0;margin-bottom:.55rem}
+/* the verdict words are choices a climber reads, not field labels, so they take
+   the reading face rather than the label register. `.gita label` would otherwise
+   win on specificity and set them in small uppercase. */
+.gita .gita__r{display:flex;align-items:center;gap:.55rem;padding:.3rem 0;cursor:pointer;
+  font:400 .95rem/1.4 "Archivo",sans-serif;color:var(--ink);
+  letter-spacing:normal;text-transform:none}
+.gita .gita__r input{margin:0;accent-color:var(--ver)}
+.gita .gita__r .t{width:1.5rem;height:.68rem;display:block;border:1px solid var(--frame)}
+
+/* screen 2's photo figures: one per photo screen 1 actually handed off, never
+   a fixed grid of empty slots. `.incl` reuses `.gita__r`'s own reading-face
+   override — the include checkbox's words are something a climber reads,
+   not a field label, the same reason a verdict word is. */
+.gita__foto{border:1px solid var(--rule);background:var(--pan2);padding:.7rem .7rem .8rem;
+  display:grid;gap:.5rem;max-width:22rem}
+.gita__foto img{display:block;width:100%;height:9rem;object-fit:cover;border:1px solid var(--rule)}
+.gita .incl{display:flex;align-items:center;gap:.55rem;cursor:pointer;
+  font:400 .88rem/1.4 "Archivo",sans-serif;color:var(--ink);
+  letter-spacing:normal;text-transform:none}
+.gita .incl input{margin:0;accent-color:var(--ver)}
+.t--ottime{background:var(--t1)}
+.t--buone{background:var(--t2)}
+.t--variabili{background:var(--t3)}
+.t--difficili{background:var(--t4)}
+.t--fuori_condizione{background:var(--t5)}
+
+/* a measurement and its unit, set the way .cgrid sets a figure */
+.gita__m{grid-template-columns:minmax(0,1fr) auto;align-items:end;gap:.4rem .6rem}
+.gita__m label{grid-column:1 / -1}
+.gita__m small{padding-bottom:.62rem;color:var(--dim);
+  font:400 .75rem/1 "Archivo",sans-serif}
+
+/* the parcheggio rail button: a single pin, sized to stand out against the
+   small type beside it. Not from route.html/crag.html — those mock up a
+   richer row (elevation, name, note) that the served page has no data for
+   yet, the same gap "Foto" and "Webcam" already leave open. */
+.pk__go{display:inline-flex;align-items:center;gap:.55rem;color:var(--ver);text-decoration:none}
+.pk__go svg{display:block;flex:none;fill:currentColor}
+.pk__go span{font:600 .82rem/1 "Archivo",sans-serif;font-variant-numeric:tabular-nums}
+.pk__go:hover{color:var(--ink)}
+
+/* the parking map itself: the fixed 900/560 footprint route.html and
+   crag.html reserve for it (there it frames a static thumbnail behind a
+   lightbox link; here a live MapLibre map fills it directly, so none of
+   that pair's svg/expand/hover rules apply). Without an explicit height a
+   MapLibre canvas has nothing to fill and the container collapses to zero —
+   confirmed against a real render, not just the DOM. */
+.pk__map{position:relative;display:block;margin-top:.9rem;border:1px solid var(--frame);
+  aspect-ratio:900/560;overflow:hidden}
+
+/* ---- favoriting: a star, shared by the itinerary header and Find's rows ---- */
+.fav{border:0;background:none;padding:.15rem;cursor:pointer;color:var(--rule);
+  display:inline-flex}
+.fav svg{width:1.4rem;height:1.4rem;display:block;fill:none;stroke:currentColor;
+  stroke-width:1.6;stroke-linejoin:round}
+.fav:hover{color:var(--ver)}
+.fav--on{color:var(--ver)}
+.fav--on svg{fill:currentColor}
+
+/* ---- filing a report: a pencil, the same size as the star beside it ---- */
+.file{border:0;background:none;padding:.15rem;cursor:pointer;color:var(--ver);
+  display:inline-flex;text-decoration:none}
+.file svg{width:1.4rem;height:1.4rem;display:block;fill:currentColor}
+.file:hover{color:var(--ink)}
+
+/* a list with nothing in it yet. `.r__why` would have done the job visually and
+   said the wrong thing: its left rule is a condition tint, and /preferiti grades
+   nothing. Ported from favorites.html, which declares the same two rules. */
+.empty{padding:2.4rem 0;color:var(--dim);font:400 .95rem/1.6 "Archivo",sans-serif}
+.empty a{color:var(--ver)}
+
+/* ---- the photo gallery: grouped by relazione, not a bare grid ---- */
+/* Each group is one report — author, verdict swatch and word (never colour
+   alone), how long ago, a link to read it in full — with that report's own
+   photos underneath in the same `.ph` grid the rail already uses. */
+.gg{display:grid;gap:1.5rem;max-width:56rem}
+.gg__group+.gg__group{padding-top:1.4rem;border-top:1px solid var(--rule)}
+.gg__hd{display:flex;align-items:baseline;gap:.7rem;flex-wrap:wrap;margin-bottom:.75rem}
+.gg__hd .t{width:1.1rem;height:.55rem;display:inline-block;border:1px solid var(--frame);flex:none}
+.gg__hd b{font:600 .98rem/1.3 "Archivo",sans-serif}
+.gg__hd span{font:400 .82rem/1.4 "Archivo",sans-serif;color:var(--faint);font-variant-numeric:tabular-nums}
+.gg__hd a{margin-left:auto;color:var(--ver);text-decoration:none;font:600 .6rem/1.4 "Archivo Narrow",sans-serif;
+  letter-spacing:.12em;text-transform:uppercase}
+.gg__hd a:hover{border-bottom:1px solid var(--ver)}
+.gg .ph{max-width:none;grid-template-columns:repeat(auto-fit,minmax(9.5rem,1fr))}
+.gg .ph img{height:7.4rem}
+
+/* ---- click through to full size: a css-only viewer ---- */
+/* Each thumbnail links to an id; that id's overlay is styled to appear only
+   when it is the page's own `:target`. Next/previous are links to the
+   neighbouring photo's id, wrapping at the ends — a real carousel, built
+   from nothing but anchors and this one selector. Esc and the arrow keys
+   work too, but that much needs a script — public/gallery-lightbox.js —
+   since :target only ever reacts to a link being followed. Click-through
+   itself still needs none of it. */
+.trig{display:block;color:inherit;text-decoration:none}
+.trig img{cursor:zoom-in}
+.trig:hover img{filter:saturate(1)}
+.lb{display:none;position:fixed;inset:0;z-index:30;background:rgba(15,20,25,.94);
+  align-items:center;justify-content:center;padding:clamp(1.2rem,4vw,3rem)}
+.lb:target{display:flex}
+.lb__frame{position:relative;max-width:min(92vw,58rem);width:100%;display:grid;justify-items:center}
+.lb__frame img{display:block;max-width:100%;max-height:68vh;width:auto;object-fit:contain;background:#000}
+.lb__cap{margin:.9rem 0 0;color:#fff;text-align:center;max-width:52ch}
+.lb__cap b{display:block;font:400 .98rem/1.5 "Archivo",sans-serif}
+.lb__cap span{display:block;margin-top:.35rem;font:600 .6rem/1.4 "Archivo Narrow",sans-serif;
+  letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.6)}
+.lb__close{position:absolute;top:-2.3rem;right:0;color:#fff}
+.lb__close svg{width:1.3rem;height:1.3rem;display:block;fill:none;stroke:currentColor;
+  stroke-width:2;stroke-linecap:round}
+.lb__close:hover{color:var(--t1)}
+.lb__nav{position:fixed;top:50%;transform:translateY(-50%);color:#fff;text-decoration:none;
+  font:700 2.2rem/1 "Archivo",sans-serif;padding:.6rem 1rem;z-index:1}
+.lb__nav:hover{color:var(--t1)}
+.lb__prev{left:clamp(.4rem,2vw,1.6rem)}
+.lb__next{right:clamp(.4rem,2vw,1.6rem)}
+.lb__count{display:block;margin-top:1.1rem;color:rgba(255,255,255,.5);
+  font:600 .6rem/1 "Archivo Narrow",sans-serif;letter-spacing:.12em;text-transform:uppercase;
+  font-variant-numeric:tabular-nums}
+
+@media (max-width:860px){
+  .account,.compose{max-width:none}
+}
+
+/* The reported-vs-adjusted note (condition-engine-design.md §7). Dashed,
+   like .cond--none/.cond--thin already mark inference elsewhere in this
+   file — extending that same visual language rather than inventing a new
+   one. Provisional: needs a mockup pass per the spec's §10. */
+.adj{margin-top:.7rem;padding:.5rem .8rem;border:1px dashed var(--frame);font-size:.85rem;color:var(--dim)}
+.adj p{margin:0}
+.adj p+p{margin-top:.25rem}
+
+/* ---- the facts line: an icon and a value per fact ---- */
+/* Layout G of the Find row redesign. The row's meta line becomes two things:
+   the locality, moved beside the name, and a line of facts the activity
+   declares, each an icon and its value, one even gap apart. Every icon carries
+   its Italian name as <title> and aria-label: a picture never carries a
+   meaning alone, the same rule the condition swatches follow. */
+.icons{position:absolute;width:0;height:0;overflow:hidden}
+.r__n small{margin-left:.55rem;font:600 .63rem/1 "Archivo Narrow",sans-serif;letter-spacing:.11em;
+  text-transform:uppercase;color:var(--faint);white-space:nowrap}
+.r__f{display:flex;flex-wrap:wrap;gap:.3rem 1.3rem;align-items:center;margin:.55rem 0 0}
+.r__f div{display:flex;gap:.4rem;align-items:center;min-width:0}
+.r__f dt{margin:0;display:flex}
+.r__f dd{margin:0;font:600 .92rem/1.1 "Archivo",sans-serif;font-variant-numeric:tabular-nums;white-space:nowrap}
+.ic{display:block;width:16px;height:16px;flex:none;color:var(--faint);fill:none;stroke:currentColor;
+  stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+/* a list of one activity also lines its facts up down the list, where it has
+   the room. Every row is a subgrid of one grid on the list, so a fact column is
+   as wide as its widest value in this list and no wider, and every gap is the
+   same. Measured: the grid needs about 650px of list, which a laptop's split
+   view does not give it, and squeezed tracks paint the histogram under the next
+   fact. So it applies only when the list's column is wide enough, and below
+   that each row keeps the even line above, as Preferiti does at every width. */
+.col{container:facts/inline-size}
+@container facts (min-width:46rem){
+.list--facts{display:grid;grid-template-columns:.28rem repeat(4,auto) minmax(0,1fr) auto auto;column-gap:1.3rem}
+.list--facts>.list__h{grid-column:1/-1}
+.list--facts .r{grid-column:1/-1;grid-template-columns:subgrid}
+.list--facts .r>div:nth-child(2),.list--facts .r__f{display:contents}
+.list--facts .r__bar{grid-column:1;grid-row:1/3}
+.list--facts .r__n{grid-column:2/7;grid-row:1}
+.list--facts .r__f>div{grid-row:2;margin-top:.55rem;min-width:max-content}
+.list--facts .r__f>div:nth-child(1){grid-column:2}
+.list--facts .r__f>div:nth-child(2){grid-column:3}
+.list--facts .r__f>div:nth-child(3){grid-column:4}
+.list--facts .r__f>div:nth-child(4){grid-column:5}
+.list--facts .r__s{grid-column:7;grid-row:1/3}
+.list--facts .fav,.list--facts .r>form{grid-column:8;grid-row:1/3}
+}
+/* the grade histogram: always 134px wide, one axis for the whole list, so a row
+   is read by where its bars sit; heights are per row, since the Vie count
+   beside it gives the size */
+.gh{display:block;overflow:visible}
+.gh line{stroke:var(--rule)}
+.gh rect{fill:var(--ver)}
+.gh text{font:600 9px/1 "Archivo Narrow",sans-serif;fill:var(--faint);text-anchor:middle;letter-spacing:.04em}
+/* the weather strip, inside Condizioni: seven past days, today, two forecast.
+   A rain bar's full height is 20 mm on every page, so a wet week's biggest
+   drizzle never looks like a downpour; heavier days are capped and keep their
+   figure. The sky icons are the .ic icons' own terms, one sprite per strip. */
+.wxs{margin:1.05rem 0 0;padding-top:.85rem;border-top:1px solid var(--rule)}
+.wxs__h{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:.55rem}
+.wxs__h .lab{color:var(--faint)}
+.wxs__now{font:600 1.06rem/1 "Archivo",sans-serif;font-variant-numeric:tabular-nums}
+.wxs__now small{font-size:.7rem;font-weight:400;color:var(--dim);margin-left:.15rem}
+.wxs__days{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(10,minmax(0,1fr))}
+.wxs__days li{display:grid;justify-items:center;gap:.3rem;padding:.35rem 0}
+.wxs__days .ic{color:var(--dim)}
+.wxs__mm{font:600 .58rem/1 "Archivo",sans-serif;color:var(--wat);height:.6rem;font-variant-numeric:tabular-nums}
+.wxs__well{height:2.2rem;width:100%;display:flex;align-items:flex-end;justify-content:center;border-bottom:1px solid var(--frame)}
+.wxs__well i{display:block;width:.55rem;background:var(--wat);border-radius:1px 1px 0 0}
+.wxs__well b{font:400 .8rem/1 "Archivo",sans-serif;color:var(--faint);align-self:center}
+.wxs__d{font:600 .56rem/1 "Archivo Narrow",sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--faint)}
+.wxs__today{background:var(--fill)}
+.wxs__today .wxs__d{color:var(--ink)}
+.wxs__fc .wxs__well{border-bottom-style:dashed}
+.wxs__fc .wxs__well i{background:none;border:1.5px dashed var(--wat);border-bottom:0}
+.wxs .wxs__f{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;margin:.55rem 0 0;font:400 .8rem/1.4 "Archivo",sans-serif;color:var(--dim)}
+.wxs__f span+span{font-size:.66rem;color:var(--faint)}
+/* a fact whose value is a warning (rockfall: Sì): the word in red, after a
+   triangle. The word is always written; the colour is never alone */
+.cls dd.warn{display:inline-flex;align-items:center;gap:.3rem;color:var(--red)}
+.cls dd.warn svg{width:.95rem;height:.95rem;fill:none;stroke:currentColor;stroke-width:2;
+  stroke-linejoin:round;stroke-linecap:round}
+
+/* giudizi: the crag's star ratings in the rail, label left, stars right.
+   Ink on pale, never red — red is the warm end of the condition scale */
+.gz{display:grid;gap:0;margin:0}
+.gz div{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;
+  border-top:1px solid var(--rule);padding:.42rem 0}
+.gz div:last-child{border-bottom:1px solid var(--rule)}
+.gz dt{font:600 .62rem/1.5 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--faint)}
+.gz dd{margin:0;font:500 .9rem/1 "Archivo",sans-serif}
+.gz__st{letter-spacing:.08em;color:var(--rule)}
+.gz__st .on{color:var(--ink)}
+
+/* the crag's two points: rows that double as the map's legend. Shape first,
+   colour second — a P square and a triangle, never two pins told apart by tint */
+.pk__pts{display:grid;gap:0;margin:0 0 .2rem}
+.pk__pts div{display:grid;grid-template-columns:7.4rem minmax(0,1fr) auto;align-items:center;gap:.6rem;
+  border-top:1px solid var(--rule);padding:.5rem 0}
+.pk__pts div:last-child{border-bottom:1px solid var(--rule)}
+.pk__pts dt{display:flex;align-items:center;gap:.5rem;font:600 .62rem/1 "Archivo Narrow",sans-serif;
+  letter-spacing:.13em;text-transform:uppercase;color:var(--faint)}
+.pk__pts dd{display:contents}
+.pk__pts dd span{font:500 .8rem/1 "Archivo",sans-serif;font-variant-numeric:tabular-nums;color:var(--ink)}
+.pk__pts dd a{font:600 .6rem/1 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--ver);text-decoration:none;white-space:nowrap}
+.pk__pts dd a:hover{color:var(--ink)}
+.pk__ic{display:block;flex:none;width:1.25rem;height:1.25rem}
+.pk__sq{fill:var(--ver)}
+.pk__tri{fill:var(--ink)}
+.pk__mk .pk__ic{width:1.7rem;height:1.7rem}
+.pk__walk{font:600 .58rem/1 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--frame);background:var(--pan2);padding:.18rem .35rem}
+/* Under a crag's map, where a hiking router found the walk in: its figures,
+   set like the facts strip at the top of the page, then a dim line saying
+   the path is the best one on mapped trails, not a guidebook's, keyed by a
+   swatch of the line it describes. */
+.pk__walkin{margin-top:.75rem}
+.pk__fig{display:flex;margin:0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.pk__fig div{flex:1;padding:.55rem 0 .5rem}
+.pk__fig div+div{border-left:1px solid var(--rule);padding-left:.7rem}
+.pk__fig dt{font:600 .56rem/1 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--faint);margin-bottom:.32rem}
+.pk__fig dd{margin:0;font:600 .95rem/1 Archivo,sans-serif;color:var(--ink)}
+.pk__walkin p.pk__src{display:flex;align-items:center;gap:.4rem;margin:.45rem 0 0;
+  font:500 .68rem/1.3 "Archivo Narrow",sans-serif;color:var(--faint)}
+.pk__walkin .pk__src i{flex:none;width:14px;height:0;border-top:2.4px solid var(--ver);border-radius:2px}
+
+/* A crag's map, opened large: it grows out of the small one to fill the
+   window, over a dimmed page, and shrinks back into it on close. */
+.pk__map.pk__map--zoom .maplibregl-canvas-container{cursor:zoom-in}
+.pk__map.pk__map--zoom .maplibregl-canvas-container:active{cursor:grabbing}
+.mapveil{position:fixed;inset:0;z-index:80;background:rgba(14,22,30,.42);opacity:0;pointer-events:none;
+  transition:opacity .32s ease}
+.mapveil.on{opacity:1;pointer-events:auto}
+.mapbig{position:fixed;inset:16px;z-index:90;background:var(--pap);overflow:hidden;visibility:hidden;
+  border-radius:14px;box-shadow:0 18px 60px rgba(14,22,30,.32);transform-origin:0 0}
+.mapbig.on{visibility:visible}
+.mapbig .mapbig__map{position:absolute;inset:0}
+.mapbig__cap{position:absolute;left:14px;top:14px;z-index:3;max-width:calc(100% - 120px);background:var(--pan2);
+  backdrop-filter:blur(4px);border-radius:10px;padding:.6rem .8rem;box-shadow:0 1px 6px rgba(27,39,51,.16)}
+.mapbig__cap h3{margin:0 0 .3rem;font:600 1rem/1.2 Archivo,sans-serif;color:var(--ink)}
+.mapbig__cap p{margin:0;font:500 .78rem/1.3 Archivo,sans-serif;color:var(--dim)}
+.mapbig__x{position:absolute;right:56px;top:12px;z-index:3;width:34px;height:34px;border-radius:8px;border:0;
+  background:var(--pan2);box-shadow:0 1px 5px rgba(27,39,51,.2);font:400 20px/1 Archivo,sans-serif;
+  color:var(--ink);cursor:pointer}
+.mapbig__open{position:absolute;left:10px;bottom:10px;z-index:2;opacity:0;padding:.35rem .55rem;border:0;
+  border-radius:7px;background:var(--pan2);font:600 .7rem Archivo,sans-serif;color:var(--ink)}
+.mapbig__open:focus-visible{opacity:1}
+html.mapbig-open{overflow:hidden}
+@media (max-width:600px){.mapbig{inset:0;border-radius:0}}
+@media (prefers-reduced-motion:reduce){.mapveil{transition:none}}
+
+/* find: the query is the page's title, so the texture shows behind it
+   unwashed; the list keeps a lighter wash than --pan, enough for rows */
+.q{background:transparent}
+.list{background:rgba(252,252,254,.68)}
+
+/* ---- Find: what was changed about the question before it was answered ---- */
+/* Under the sentence, one line per change: a rewrite, or words set aside.
+   Dim and small, because the sentence is still the reading; this is
+   the footnote that says where it came from. */
+.q__n{margin:.7rem 0 0;font:400 .85rem/1.5 "Archivo",sans-serif;color:var(--dim);max-width:58ch}
+.q__n q{color:var(--ink);font-weight:600;quotes:"«" "»"}
+/* Find's sentence with slots (find-question.ts, a design study
+   section 05). Every slot is a real form field drawn as part of the sentence:
+   the sentence's type, in the .set green, underlined, a caret on the menus. */
+.q__f{margin:0}
+.q__f .q__s{line-height:1.75}
+.q__s .slot{font:inherit;font-weight:600;letter-spacing:inherit;color:var(--ver);background:none;
+  border:0;border-bottom:1.5px solid var(--ver);border-radius:0;margin:0;padding:0 .12em;
+  appearance:none;-webkit-appearance:none;field-sizing:content;cursor:pointer;vertical-align:baseline}
+.q__s select.slot{padding-right:.85em;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath d='M0 0h10L5 6z' fill='%23267270'/%3E%3C/svg%3E") no-repeat right .1em center/.42em auto}
+.q__s .slot--inf{border-bottom-style:dotted;color:var(--ink)}
+.q__s .slot--t{cursor:text;min-width:3ch}
+.q__s .slot:hover,.q__s .slot:focus,.q__s .slot:focus-within{background-color:var(--fill);outline:0}
+.q__s .slot--x{display:inline-flex;align-items:baseline;gap:.25em;white-space:nowrap}
+.q__s .slot--x input{position:absolute;opacity:0;width:1px;height:1px;margin:0}
+.q__s .slot--x .x{color:var(--faint);font-weight:400;font-size:.7em}
+.find-live .q__f .btn{display:none}
+/* A search on its way: the list it will replace fades a little, after a beat
+   so that a fast answer never flickers. */
+.col .list{transition:opacity .2s ease}
+.col.is-loading .list{opacity:.45;transition-delay:.15s}
+/* Home to Find and back, in place (find-live.js): the question changes form
+   where it stands, and the list goes and comes back up from a little below.
+   Only where the browser has view transitions and motion is welcome. */
+.find-live section.q{view-transition-name:find-q}
+.find-live .col .list{view-transition-name:find-list}
+::view-transition-group(find-q){animation-duration:.3s;animation-timing-function:cubic-bezier(.2,.7,.2,1)}
+::view-transition-old(find-list){animation:.15s ease-out both find-out}
+::view-transition-new(find-list){animation:.34s cubic-bezier(.2,.7,.2,1) .05s both find-in}
+@keyframes find-out{to{opacity:0}}
+@keyframes find-in{from{opacity:0;transform:translateY(14px)}}
+@media (prefers-reduced-motion:reduce){
+  ::view-transition-group(*),::view-transition-old(*),::view-transition-new(*){animation:none!important}
+}
+.q__more{display:flex;flex-wrap:wrap;align-items:center;gap:.6rem 1.2rem;margin:.55rem 0 0}
+.q__add{font:600 .8rem/1.3 "Archivo",sans-serif;color:var(--faint);background:none;border:0;
+  border-bottom:1px dashed var(--rule);border-radius:0;padding:0 0 .15rem;margin:0;
+  appearance:none;-webkit-appearance:none;field-sizing:content;cursor:pointer}
+.q__add:hover,.q__add:focus{color:var(--ver);border-bottom-color:var(--ver);outline:0}
+/* every clause but the activity, off at once: ink rather than the adders' grey,
+   first in the row, so it reads as the one way back and not one more thing to add */
+.q__clear{display:inline-flex;align-items:baseline;gap:.3em;font:600 .8rem/1.3 "Archivo",sans-serif;
+  color:var(--ink);text-decoration:none;border-bottom:1px solid var(--rule);padding:0 0 .15rem;white-space:nowrap}
+.q__clear span{color:var(--faint);font-weight:400}
+.q__clear:hover,.q__clear:focus-visible{color:var(--ver);border-bottom-color:var(--ver);outline:0}
+.q__n{display:flex;flex-wrap:wrap;align-items:baseline;gap:.2rem .6rem}
+.q__tag{font:600 .55rem/1 "Archivo Narrow",sans-serif;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--ver);border:1px solid var(--ver);padding:.24rem .38rem .22rem;border-radius:2px;align-self:center}
+.q__free,.q__back{color:var(--ver);text-decoration:none;border-bottom:1px solid currentColor}
+.q__back{font:400 .85rem/1.4 "Archivo",sans-serif}
+/* Between whole pages (page-motion.js). Every same-site step is animated. Into
+   a route's page, the map card slides out to the right, the list fades, and
+   the page's blocks rise one after another in its place; back out, the map
+   slides back in from the right as the list returns. Any other step is a
+   short cross-fade. The header holds still, and Find's own moving parts go
+   with the page. */
+@view-transition{navigation:auto}
+header{view-transition-name:site-header}
+.page-moving section.q,.page-moving .col .list{view-transition-name:none}
+.page-moving .map{view-transition-name:find-map}
+::view-transition-old(root),::view-transition-new(root){animation-duration:.22s}
+html:active-view-transition-type(deeper,shallower)::view-transition-old(root){animation:.2s ease-out both page-fade-out}
+html:active-view-transition-type(deeper)::view-transition-new(root){animation:.2s ease-out both page-fade-in}
+html:active-view-transition-type(shallower)::view-transition-new(root){animation:.3s ease-out .08s both page-fade-in}
+html:active-view-transition-type(deeper)::view-transition-old(find-map){animation:.42s cubic-bezier(.5,0,.2,1) both map-out}
+html:active-view-transition-type(shallower)::view-transition-new(find-map){animation:.46s cubic-bezier(.2,.7,.2,1) .06s both map-in}
+@keyframes page-fade-out{to{opacity:0}}
+@keyframes page-fade-in{from{opacity:0}}
+@keyframes map-out{to{transform:translateX(calc(100% + 2rem))}}
+@keyframes map-in{from{transform:translateX(calc(100% + 2rem))}}
+/* The cascade itself runs on the arriving page, not on its snapshot: the new
+   side of a view transition is live, so the blocks animate inside it. */
+.page-rising :is(.phead>*,.l3){
+  animation:.4s cubic-bezier(.2,.7,.2,1) both page-rise;animation-delay:calc(.14s + var(--rise,0) * .055s)}
+/* the title's own lines come one by one; the card then arrives whole, its
+   sections with it, never staggered inside it */
+.page-rising .phead>:nth-child(2){--rise:1}
+.page-rising .phead>:nth-child(n+3){--rise:2}
+.page-rising .l3{--rise:4}
+@keyframes page-rise{from{opacity:0;transform:translateY(16px)}}
+@media (prefers-reduced-motion:reduce){.page-rising :is(.phead>*,.l3){animation:none}}
+
+/* ---- Relief, the map as a framed card ----
+   The paper stays the ground and the map stops being half the page: it is a
+   rounded card set in from the edges, lifted off the paper by its shadow, so no
+   rule is needed between it and the column beside it. */
+:root{--lift:0 0 0 1px rgba(27,39,51,.07),0 2px 6px rgba(27,39,51,.08),0 18px 40px -14px rgba(27,39,51,.32)}
+header{position:relative;z-index:30;border-bottom:0;background:rgba(252,252,254,.8);
+  -webkit-backdrop-filter:blur(14px) saturate(1.3);backdrop-filter:blur(14px) saturate(1.3);
+  box-shadow:0 1px 0 rgba(27,39,51,.05),0 8px 22px -10px rgba(27,39,51,.22)}
+.q{border-bottom:0}
+.list__h{border-bottom-color:var(--rule)}
+.map{top:1rem;height:calc(100vh - 5.5rem);margin:1rem 1rem 1rem 0;border-left:0;
+  border-radius:18px;isolation:isolate;box-shadow:var(--lift)}
+@media (max-width:900px){
+  .map{height:56vh;margin:0 1rem 1rem;border-top:0}
+}
+/* A list is a framed block too: one card holding its rows, the map's twin,
+   lifted by the same shadow. Inside it the rows stay plain and separated by
+   a hairline, run edge to edge, and the last one has none. `overflow:clip`,
+   not `hidden`, so the sticky count line still sticks to the scrolling column. */
+.list{flex:none;margin:0 clamp(1rem,3vw,2.2rem) 2rem;padding:0 0 .3rem;
+  border-radius:8px;background:rgba(252,252,254,.95);box-shadow:var(--lift);overflow:clip}
+.wrap>.list{margin:1.25rem 0 3rem}
+.list>.list__h,.list>.r,.list>.r__why,.list>.empty,.list .acts li a{padding-left:1.25rem;padding-right:1.25rem}
+.list>.r__why{margin:1rem 0}
+/* The count line is the card's caption, not one more row: a tinted band and
+   the small uppercase label face, so it never reads as an activity or a route. */
+.list>.list__h{background:#EEF3F4;padding-top:.75rem;padding-bottom:.7rem;border-bottom:0}
+.list>.list__h b{font:600 .64rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--dim)}
+.list>.list__h b span{color:var(--faint)}
+.list>.r:last-child,.list .acts li:last-child a{border-bottom:0}
+.list .r:hover,.list .acts li a:hover{background:rgba(38,114,112,.05)}
+/* The crag's own map, the same card at a smaller scale. */
+.pk__map{border:0;border-radius:14px;box-shadow:var(--lift)}
+/* A route or crag page reads as one card on the paper, holding the reading
+   column and the rail side by side as the page always had them. It replaces
+   the wash that sat under the whole reading area, and the dark rules that cut
+   the page into bands soften to hairlines inside it. */
+.body{background:none}
+.phead{border-bottom:0}
+.l3{background:rgba(252,252,254,.95);border-radius:8px;box-shadow:var(--lift);
+  padding:clamp(1.4rem,2.8vw,2.2rem)}
+.l3 .doc h2,.l3 .tail,.l3 .doc>section#storico{border-color:var(--rule)}
+/* On a wide screen the page beside the card is exactly one screen tall: the
+   header, then the split filling what is left. Only the column scrolls, inside
+   itself, so the map never moves and a short page has nothing to scroll. Below
+   900px the map drops under the column and the window scrolls as before. */
+@media (min-width:901px){
+  body:has(>.split){height:100vh;height:100dvh;display:flex;flex-direction:column;overflow:hidden}
+  body>.split{flex:1;min-height:0;align-items:stretch}
+  .split>.col{overflow-y:auto;overscroll-behavior:contain}
+  .split>.map{position:relative;top:0;height:auto}
+}
+
+/* ---- Home, the first page of a visit ----
+   page-motion.js decides it before the first paint; ground-motion.js runs it.
+   The sheet starts blank but for the site's name (--brand, set by the page), the ground is surveyed in
+   around it, then the word leaves and, after a pause, the layout arrives,
+   block after block. The word is written in from the left and wiped out the
+   same way. */
+/* the still ground is covered, not removed: it loads and is painted as usual,
+   ready underneath when the survey's canvas (above this cover) fades */
+.intro body::before{content:"";position:fixed;inset:0;z-index:-1;background:var(--pap);pointer-events:none}
+.intro :is(header,.split){opacity:0}
+:is(.intro,.intro-out) body::after{content:var(--brand);position:fixed;left:50%;top:46%;z-index:50;
+  pointer-events:none;font:700 clamp(3.2rem,10vw,8rem)/1 "Archivo",sans-serif;letter-spacing:-.045em;
+  color:var(--ink);transform:translate(-50%,-50%);clip-path:inset(-10% 100% -10% 0)}
+/* the word waits for Archivo (ground-motion.js says so), so it never shifts,
+   and lets the survey begin before it is written in */
+.intro-ready.intro body::after{animation:1.1s cubic-bezier(.4,0,.2,1) .35s both intro-trace-in}
+.intro-ready.intro-out body::after{animation:.7s cubic-bezier(.5,0,.3,1) both intro-trace-out}
+@keyframes intro-trace-in{to{clip-path:inset(-10% 0 -10% 0)}}
+@keyframes intro-trace-out{from{clip-path:inset(-10% 0 -10% 0)}to{clip-path:inset(-10% 0 -10% 100%)}}
+/* how the layout arrives */
+.intro-reveal :is(header,.split>.col>*,.split>.map){
+  animation:.65s cubic-bezier(.2,.7,.2,1) both intro-rise;animation-delay:calc(var(--i,0) * .1s)}
+.intro-reveal header{animation-name:intro-fade}
+.intro-reveal .split>.col>:nth-child(2){--i:1}
+.intro-reveal .split>.col>:nth-child(n+3){--i:2}
+.intro-reveal .split>.map{--i:2;animation-name:intro-map;animation-duration:.8s}
+@keyframes intro-fade{from{opacity:0}}
+@keyframes intro-rise{from{opacity:0;transform:translateY(18px)}}
+@keyframes intro-map{from{opacity:0;transform:translateY(14px) scale(.985)}}
+/* Find's additions, one control per kind (find-question.ts). Search stays first
+   in the form, so that Enter without the live script never submits an addition,
+   and is drawn last. */
+.q__more .btn{order:1}
+button.q__add{font:600 .8rem/1.3 "Archivo",sans-serif}
+
+
+/* ===== The card over a clicked map pin =====
+   Placed by map-core.js (the outer link follows the pin as the map moves);
+   the inside rises out of the pin, so placing and arriving never fight. */
+.pc{position:absolute;left:0;top:0;z-index:3;display:block;color:var(--ink);text-decoration:none;will-change:transform}
+.pc__in{position:relative;width:15.5rem;padding:.75rem .85rem .7rem;background:var(--pap);border:1px solid var(--rule);
+  box-shadow:0 6px 18px -6px rgba(27,39,51,.35);transform-origin:50% 100%;
+  animation:.28s cubic-bezier(.2,.8,.25,1) both pc-rise}
+.pc__in::after{content:"";position:absolute;left:50%;bottom:-6px;width:10px;height:10px;background:var(--pap);
+  border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);transform:translateX(-50%) rotate(45deg)}
+.pc.is-leaving .pc__in{animation:.16s ease both pc-leave}
+@keyframes pc-rise{from{opacity:0;transform:translateY(10px) scale(.96)}}
+@keyframes pc-leave{to{opacity:0;transform:translateY(4px) scale(.97)}}
+.pc__k{margin:0;font:600 .6rem/1 "Archivo Narrow",sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+.pc__n{margin:.35rem 0 .15rem;font:700 1rem/1.2 "Archivo",sans-serif;letter-spacing:-.01em}
+.pc__w{margin:0;font-size:.78rem;color:var(--dim)}
+.pc__f{display:flex;flex-wrap:wrap;gap:.3rem .9rem;margin:.55rem 0 0;padding-top:.5rem;border-top:1px solid var(--rule);font-size:.78rem}
+.pc__f dt{font:600 .55rem/1 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--faint);margin-bottom:.2rem}
+.pc__f dd{margin:0;font-variant-numeric:tabular-nums}
+.pc__c{display:flex;align-items:center;gap:.4rem;margin:.55rem 0 0;font-size:.78rem}
+.pc__c i{flex:none;width:.7rem;height:.7rem}
+.pc__c span{color:var(--faint)}
+.pc__go{display:flex;justify-content:space-between;margin:.6rem 0 0;font:600 .78rem/1 "Archivo",sans-serif;color:var(--ver)}
+.pc:hover .pc__go span:first-child,.pc:focus-visible .pc__go span:first-child{text-decoration:underline}
+.pc:focus-visible{outline:none}
+.pc:focus-visible .pc__in{outline:2px solid var(--ver);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){.pc__in,.pc.is-leaving .pc__in{animation:none}}
+
+/* ===== Activity colours on the maps =====
+   A pin is coloured by its activity, never by its conditions: the condition
+   scale stays in the list and on the pin's card, so the two never compete.
+   Kept clear of the condition plates' teal and terracotta, and always shown
+   with the map's key (.map__leg), never alone. An activity with no line here
+   draws in --faint. */
+:root{--act-alpinismo:#5A1FB0;--act-falesia:#E87400}
+/* The other seventeen, by the archive's families: snow and ice in blues, rock in reds
+   beside the two above, land in greens, water in cyan, air in gold, the rest grey. */
+:root{--act-sci_alpinismo:#1F4FD0;--act-ciaspole:#4F86E8;--act-sci_ripido:#122E85;--act-freeride:#2D6FB5;
+  --act-fondo:#7FA6E0;--act-cascate_ghiaccio:#3A3FA8;--act-arrampicata:#C0143C;--act-bouldering:#A3157A;
+  --act-via_ferrata:#8C2A1C;--act-escursionismo:#2E8B2E;--act-trail_running:#6BA51F;--act-bicicletta:#1E6B4A;
+  --act-mountain_bike:#4F7A12;--act-canyoning:#0089B8;--act-canoa:#2BB0D6;--act-volo_libero:#C9A100;
+  --act-altro:#6E6E78}
+.map__leg{position:absolute;left:10px;bottom:28px;z-index:2;display:flex;flex-wrap:wrap;gap:.35rem .9rem;
+  max-width:calc(100% - 20px);padding:.45rem .65rem;background:var(--pan2);border:1px solid var(--rule);
+  font:500 .75rem/1 "Archivo",sans-serif;color:var(--ink)}
+.map__leg span{display:flex;align-items:center;gap:.35rem}
+.map__leg svg{display:block;flex:none}
+
+/* ---- conditions as testimony ---- */
+/* Added when the module stopped reading as a rating. A verdict is now said as
+   what people reported, in the past tense, and the five-cell scale is no longer
+   drawn: the colour lives on the written word instead, so it still never
+   appears without its label. These rules are additions; the scale's own rules
+   above stay, unused by the module, as part of the design's record. */
+.vw{font-weight:700}
+.cond .att{margin:0;font:400 1.08rem/1.45 "Archivo",sans-serif;color:var(--ink);max-width:32ch}
+.cond .att small{display:block;margin-top:.4rem;font:400 .8rem/1.4 "Archivo",sans-serif;color:var(--dim)}
+.cond .was{margin:.7rem 0 0;font:400 .95rem/1.5 "Archivo",sans-serif;color:var(--ink)}
+.saidby{margin:.9rem 0 0;display:grid;gap:.4rem}
+.saidby div{display:grid;grid-template-columns:5.4rem minmax(0,1fr);gap:.7rem;align-items:baseline;
+  border-top:1px solid var(--rule);padding-top:.45rem}
+.saidby dt{font:600 .6rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.11em;text-transform:uppercase;color:var(--faint)}
+.saidby dd{margin:0;font:400 .87rem/1.45 "Archivo",sans-serif;color:var(--dim)}
+.split2--words div{grid-template-columns:2.2rem minmax(0,1fr)}
+.split2 span.vw{font:700 .87rem/1.5 "Archivo",sans-serif}
+/* the Find row: the verdict word in the row's small capitals and its own
+   colour, then who said it in ordinary type */
+.r__s b.said{color:var(--ink);text-transform:none;letter-spacing:0;font:600 .78rem/1.4 "Archivo",sans-serif}
+.r__s span.vw{display:inline;margin:0;font:600 .63rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase}
+
+/* ---- the weather strip's credit, alone ---- */
+/* Added when the strip lost its "Non piove da 4 giorni" line, which repeated
+   the bars above it. The credit stays, because Open-Meteo's data is CC BY. */
+.wxs .wxs__f--credit{justify-content:flex-end}
+.wxs .wxs__f--credit span{font-size:.66rem;color:var(--faint)}
+
+/* ===== Fewer rules on the reading card =====
+   A line under each heading, plus a line between every row, stacked two
+   hairlines wherever a list opened with its own top rule. Now each section
+   keeps one rule, under its heading, and rows are told apart by space.
+   A route's name runs into a dotted leader toward its length and grade,
+   the way a map legend reads across. */
+.l3 .dl{gap:1rem}
+.l3 .dl div,.l3 .gz div,.l3 .pk__pts div,.l3 .sum__l div,.l3 .saidby div{border-top:0;border-bottom:0}
+.l3 .gz div{padding:.32rem 0}
+.l3 .routes div{border-bottom:0;padding:.28rem 0}
+.l3 .routes span{display:flex;align-items:baseline;gap:.5rem}
+.l3 .routes span::after{content:"";flex:1;min-width:1rem;border-bottom:1.5px dotted var(--rule);transform:translateY(-.25em)}
+.l3 .doc h3{margin-top:1.6rem}
+.l3 .cond{border:0;border-radius:8px;background:rgba(34,48,60,.035)}
+/* the dashed edge is the scale saying "thin evidence" or "none": it stays */
+.l3 .cond--none,.l3 .cond--thin{border:1px dashed var(--rule);background:none}
+.l3 .cond .cond__note,.l3 .wxs{border-top:0;padding-top:0;margin-top:1.3rem}
+
+/* ===== The account pages, as a route page's card =====
+   Signing up and signing in sat as bare fields on the ground, the one place
+   left that did. They now take a route page's arrangement: the title on the
+   paper, then one `.l3` card holding the form as the reading column and a
+   short tinted rail beside it, the same rail `.cond` draws. The form's own
+   rules (`.account …`, above) stay; these only lift the fields onto white,
+   give the one action a filled button, and keep the page inside one laptop
+   screen — compact, never clipped. */
+.acc{max-width:none;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,19rem);
+  gap:clamp(1.6rem,4vw,3.6rem);align-items:start;margin:0 0 1rem}
+.wrap:has(>.acc) .phead{padding:clamp(1.2rem,2.6vw,2rem) 0 clamp(1rem,1.6vw,1.3rem)}
+.acc .acc__form form{gap:.95rem}
+.acc h2{font:600 1.16rem/1.2 "Archivo",sans-serif;letter-spacing:-.018em;margin:0 0 1rem;
+  padding-bottom:.55rem;border-bottom:1px solid var(--rule)}
+.acc__form form{max-width:26rem}
+.acc input{background:#fff;border-radius:5px;padding:.68rem .8rem;transition:border-color .15s,box-shadow .15s}
+.acc input:hover{border-color:#BCC6CD}
+.acc input:focus{outline:0;border-color:var(--ver);box-shadow:0 0 0 3px rgba(38,114,112,.16)}
+.acc p small{font:400 .8rem/1.4 "Archivo",sans-serif;color:var(--faint)}
+.acc button[type=submit]{border:0;border-radius:5px;background:var(--ver);color:#fff;
+  padding:.85rem 1.3rem;font-size:.68rem;letter-spacing:.16em;transition:background .15s,transform .1s}
+.acc button[type=submit]:hover{background:#1E5E5C}
+.acc button[type=submit]:active{transform:translateY(1px)}
+/* password-peek.js adds the button; without it the field is plain */
+.pw{position:relative;display:block}
+.pw input{padding-right:5.2rem}
+.acc .pw button{position:absolute;right:.35rem;top:50%;transform:translateY(-50%);margin:0;
+  border:0;background:none;padding:.4rem .5rem;color:var(--ver);cursor:pointer;
+  font:600 .6rem/1 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase}
+.acc .pw button:hover{background:none;text-decoration:underline}
+.acc .problems li{margin:.12rem 0}
+.acc__rail{border-radius:8px;background:rgba(34,48,60,.035);padding:1.3rem 1.3rem 1.2rem}
+.acc__rail h2{font-size:1rem;border:0;padding:0;margin:0 0 1rem}
+.acc__why{margin:0;display:grid;gap:1rem}
+.acc__why dt{font:600 .6rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--ver)}
+.acc__why dd{margin:.25rem 0 0;font:400 .9rem/1.5 "Archivo",sans-serif;color:var(--dim)}
+.acc .acc__note{font:400 .9rem/1.5 "Archivo",sans-serif;color:var(--dim)}
+.acc__rail .alt{margin:1.2rem 0 0;padding-top:1rem;border-top:1px solid var(--rule)}
+/* a short laptop window: the same page, closer together, so even a failed
+   attempt with all its problems listed still needs no scroll */
+@media (max-height:780px){
+  .wrap:has(>.acc) .phead{padding:1rem 0 .9rem}
+  .acc .acc__form form{gap:.75rem}
+}
+@media (max-width:760px){.acc{grid-template-columns:1fr}}
+/* On a wide screen the account pages now take the phone's arrangement: no card,
+   one column on the contour ground — the form, then the grey rail under it —
+   with the fields and the button a size up, so the form reads as the page
+   rather than a corner of a wide card. */
+@media (min-width:761px){
+  .acc{display:block;max-width:29rem;padding:0;background:none;border-radius:0;box-shadow:none}
+  .acc__form form{max-width:none}
+  .acc h2{font-size:1.4rem;padding-bottom:.7rem;margin-bottom:1.3rem}
+  .acc .acc__form form{gap:1.15rem}
+  .acc label{font-size:.66rem}
+  .acc input{padding:.9rem 1rem;font-size:1.05rem}
+  .acc button[type=submit]{padding:1rem 1.6rem;font-size:.74rem}
+  .acc__rail{margin-top:2.6rem;padding:1.5rem 1.6rem 1.4rem;background:rgba(34,48,60,.045)}
+  .acc__rail h2{font-size:1.15rem;padding:0;margin-bottom:.8rem}
+}
+
+/* ===== Two sections that stand apart on the reading card =====
+   The card read as one even sheet, and the two sections a visitor comes for
+   sank into it. What the last gite found sits on a grey panel, its own card
+   left on paper so the verdict word keeps the contrast it was checked
+   against. What the relazioni say gets the green wash of the brand, its
+   heading and counts in green, the one tinted block in the reading column. */
+.l3 #condizioni{background:rgba(34,48,60,.055);border-radius:8px;padding:1rem 1rem 1.1rem}
+.l3 #condizioni h2{border-color:rgba(34,48,60,.14)}
+.l3 #condizioni .cond{background:var(--pap)}
+.l3 #relazioni{background:rgba(38,114,112,.075);border-radius:8px;
+  padding:1.3rem 1.4rem 1.4rem;margin-bottom:clamp(1.8rem,3vw,2.6rem)}
+.l3 #relazioni h2{color:var(--ver);border-color:rgba(38,114,112,.25)}
+.l3 #relazioni .sum{background:none;border:0;padding:0}
+.l3 #relazioni .sum__l b{color:var(--ver)}
+.l3 #relazioni .sum__f{border-color:rgba(38,114,112,.2)}
+.l3 #relazioni .sum__t{border-color:rgba(38,114,112,.25)}
+/* The reports box without a lead paragraph (reports-section-options.html, A):
+   the list and total start the box, and below the synthesis floor one sentence
+   holds the list's place, saying why there is none yet. */
+.sum>.sum__r:first-child{margin-top:0}
+.doc .sum__wait{align-self:center;margin:0;font:400 .92rem/1.5 "Archivo",sans-serif;color:var(--dim);max-width:30ch}
+
+/* The conditions column's figure cards (conditions without verdicts). A card
+   left alone on its row spans it, so the grid never shows an empty cell; and
+   with no strip above them yet, the cards start at the top of the card. */
+.rail .cgrid>div:last-child:nth-child(odd){grid-column:1 / -1}
+.cond>.cgrid:first-child{margin-top:0}
+
+/* ===== A long list of vie, folded =====
+   A crag with many vie opens with its first rows showing, fading into the
+   paper, and one link to read the rest — the potential is visible without a
+   wall of a hundred names between the visitor and what the relazioni say.
+   The fold exists only once script has marked the section (is-folded /
+   is-open); without it the list reads in full and the link stays hidden. */
+.vie-fold__body{position:relative;overflow:hidden;transition:height .45s cubic-bezier(.2,.7,.2,1)}
+.vie-fold.is-folded .vie-fold__body{height:16rem}
+.vie-fold__body::after{content:"";position:absolute;left:0;right:0;bottom:0;height:5rem;
+  background:linear-gradient(to bottom,rgba(252,252,254,0),var(--pap));
+  pointer-events:none;opacity:0;transition:opacity .35s}
+.vie-fold.is-folded .vie-fold__body::after{opacity:1}
+.vie-fold__toggle{display:none;margin-top:.7rem;padding:0;background:none;border:0;
+  border-bottom:1px solid transparent;color:var(--ver);cursor:pointer;
+  font:600 .88rem/1.4 "Archivo",sans-serif}
+.vie-fold.is-folded .vie-fold__toggle,.vie-fold.is-open .vie-fold__toggle{display:inline-block}
+.vie-fold__toggle:hover{border-bottom-color:var(--ver)}
+.vie-fold__toggle::after{content:"";display:inline-block;margin-left:.4rem;vertical-align:.15em;
+  border:.28rem solid transparent;border-top-color:currentColor;border-bottom:0;transition:transform .35s}
+.vie-fold.is-open .vie-fold__toggle::after{transform:rotate(180deg)}
+@media (prefers-reduced-motion:reduce){
+  .vie-fold__body,.vie-fold__body::after,.vie-fold__toggle::after{transition:none}
+}
+
+/* ===== The relazione, as a sheet to write on =====
+   Once the verdict and the measures went, the composer was a day and a box of
+   words left standing as bare fields on the ground. It now takes the route
+   page's card, centred, as one sheet: the day is a sentence in its head, the
+   words take the whole width with no box of their own, the photos sit under a
+   dashed fold, and a tinted foot says who signs it beside the one action.
+   Screen 1, the photo picker, is the same sheet. The `.gita` rules above stay;
+   these only re-lay them. */
+.compose--sheet{max-width:50rem;margin:0 auto;padding:0 0 4rem}
+.wrap:has(>.compose--sheet) .sheet-head{max-width:50rem;margin:0 auto;
+  padding:clamp(1.4rem,3vw,2.2rem) 0 clamp(1rem,1.6vw,1.3rem)}
+.sheet-head .crumb a{color:inherit;text-decoration:none}
+.sheet-head .crumb a:hover{color:var(--ver)}
+.gita.sheet{display:block;padding:0;overflow:clip;background:rgba(252,252,254,.95);
+  border-radius:8px;box-shadow:var(--lift)}
+.sheet{--sx:clamp(1.2rem,2.8vw,2.2rem)}
+.sheet__problems{padding:1rem var(--sx) 0}
+.sheet__hd{display:flex;align-items:center;flex-wrap:wrap;gap:.6rem;margin:0;
+  padding:1.1rem var(--sx);border-bottom:1px solid var(--rule);
+  font:400 1rem/1.4 "Archivo",sans-serif;color:var(--dim)}
+.sheet__hd b{color:var(--ink);font-weight:600}
+.gita .sheet__hd label{font:400 1rem/1.4 "Archivo",sans-serif;letter-spacing:normal;
+  text-transform:none;color:var(--dim)}
+.gita .sheet__hd input{width:auto;padding:.4rem .6rem;font-size:.95rem}
+.sheet input:not([type=checkbox]),.sheet textarea{background:#fff;border-radius:5px;
+  transition:border-color .15s,box-shadow .15s}
+.sheet input:not([type=checkbox]):hover{border-color:#BCC6CD}
+.sheet input:not([type=checkbox]):focus{outline:0;border-color:var(--ver);box-shadow:0 0 0 3px rgba(38,114,112,.16)}
+.sheet__page{margin:0;padding:clamp(1.1rem,2.2vw,1.6rem) var(--sx)}
+.gita .sheet__page textarea{display:block;min-height:16rem;padding:0;border:0;background:none;
+  font-size:1.08rem;line-height:1.7}
+.gita .sheet__page textarea:focus{outline:0}
+.sheet__page:focus-within{box-shadow:inset 3px 0 0 var(--ver)}
+.sheet__photos{padding:1rem var(--sx) 1.3rem;border-top:1px dashed var(--rule)}
+.sheet__photos>.lab{display:block;margin-bottom:.6rem}
+.sheet__grid{display:flex;flex-wrap:wrap;gap:.8rem}
+.sheet .gita__foto{margin:0;width:10.5rem;max-width:none;padding:0;border:0;background:none;gap:.4rem}
+.sheet .gita__foto img{height:7rem;border:0;border-radius:5px}
+.sheet .gita__foto input[type=text]{padding:.45rem .6rem;font-size:.85rem}
+.sheet .gita__foto .incl{font-size:.8rem;color:var(--dim)}
+/* `.gita input` sets every input full width, the include box included */
+.sheet .gita__foto .incl input{width:auto;flex:none}
+/* a photo left out reads as left out, and comes back when ticked again */
+.sheet .gita__foto img{transition:opacity .2s,filter .2s}
+.sheet .gita__foto:has(.incl input:not(:checked)) img{opacity:.35;filter:grayscale(1)}
+.sheet__pick{display:grid;gap:.5rem;margin:0;padding:clamp(1.1rem,2.2vw,1.6rem) var(--sx)}
+.sheet__pick input[type=file]{padding:1.4rem 1rem;border:1.5px dashed var(--rule);cursor:pointer;
+  font:400 .92rem/1.4 "Archivo",sans-serif;color:var(--dim)}
+.sheet__pick input[type=file]:hover{border-color:var(--ver);background:rgba(38,114,112,.04)}
+.sheet__pick small{font:400 .8rem/1.4 "Archivo",sans-serif;color:var(--faint)}
+.sheet__ft{position:sticky;bottom:0;display:flex;align-items:center;justify-content:space-between;
+  flex-wrap:wrap;gap:.8rem 1rem;padding:.9rem var(--sx);background:#EEF3F4}
+.sheet__ft p{margin:0;font:400 .88rem/1.4 "Archivo",sans-serif;color:var(--dim)}
+.sheet__ft p b{color:var(--ink);font-weight:600}
+.sheet__ft .gita__skip{margin:0}
+.sheet__n{margin-left:.7rem;color:var(--faint);font-variant-numeric:tabular-nums}
+.sheet__n.is-near{color:var(--red)}
+.gita.sheet button[type=submit]{margin:0;border:0;border-radius:5px;background:var(--ver);color:#fff;
+  padding:.85rem 1.3rem;font-size:.68rem;letter-spacing:.16em;transition:background .15s,transform .1s}
+.gita.sheet button[type=submit]:hover{background:#1E5E5C}
+.gita.sheet button[type=submit]:active{transform:translateY(1px)}
+/* a label a screen reader needs and the eye does not */
+.sr{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;
+  clip:rect(0 0 0 0);white-space:nowrap;border:0}
+@media (max-width:560px){
+  .sheet__ft{flex-direction:column;align-items:stretch}
+  .gita.sheet button[type=submit]{width:100%}
+}
+/* stacked, the one track kept 1fr's implicit auto minimum, so the grade chart's
+   min-width widened the whole column past a phone's screen; the chart scrolls
+   inside .chart-wrap instead */
+@media (max-width:960px){
+  .l3{grid-template-columns:minmax(0,1fr)}
+  .l3>*{min-width:0}
+}
+
+/* ===== The reports page, as slips =====
+   Added when the reports page stopped being a column of quotes. Each report is
+   a slip: a narrow stub with the day, the year and who wrote it, then the words
+   in full, then what the reading kept — a sentence flagging a lasting change,
+   quoted and marked where it stands, and the route page's themes the report
+   was counted in. How the day was is not pulled out: the sky says that. On a
+   phone the stub folds into a band across the top. */
+.slips{display:grid;gap:.75rem;max-width:58rem}
+/* the last report ends above the window's edge: flush with it, the page read
+   as if it stopped before the end. Padding, not a margin, which would collapse
+   out through .doc and .wrap and be lost below the body. */
+.doc:has(>.slips){padding-bottom:3rem}
+.slip{display:grid;grid-template-columns:8rem minmax(0,1fr);background:#fff;border:1px solid var(--rule);
+  scroll-margin-top:1.2rem}
+.slip--flag{border-color:#E3C2B4}
+.slip:target{box-shadow:0 0 0 3px rgba(38,114,112,.18)}
+.slip__side{padding:1rem .9rem 1.1rem;border-right:1px dashed var(--rule);background:rgba(230,238,239,.38)}
+.doc .slip__d{margin:0;font:700 1.4rem/1 "Archivo",sans-serif;letter-spacing:-.02em;color:var(--ink);
+  font-variant-numeric:tabular-nums}
+.slip__d small{display:block;margin-top:.4rem;font:600 .6rem/1.45 "Archivo Narrow",sans-serif;
+  letter-spacing:.13em;text-transform:uppercase;color:var(--faint);overflow-wrap:anywhere}
+.slip__d small+small{margin-top:.15rem}
+.slip__main{padding:1rem 1.25rem 1.1rem;min-width:0}
+.doc .slip__words{margin:0;font:400 .95rem/1.62 "Archivo",sans-serif;color:var(--ink);max-width:62ch;
+  white-space:pre-line}
+.slip__words mark{background:none;color:inherit;box-shadow:inset 0 -.38em 0 rgba(172,80,49,.18)}
+.slip__foot{margin:.9rem 0 0;padding:.7rem 0 0;border-top:1px solid var(--rule);display:grid;gap:.5rem}
+.slip__foot div{display:grid;grid-template-columns:7.2rem minmax(0,1fr);gap:.8rem;align-items:baseline}
+.slip__foot dt{font:600 .56rem/1.3 "Archivo Narrow",sans-serif;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--faint)}
+.slip__foot dd{margin:0;font:400 .84rem/1.45 "Archivo",sans-serif;color:var(--dim)}
+.slip__flag dt,.slip__flag dd{color:var(--lab3)}
+.slip__flag dd{font-weight:600}
+.slip__flag dd::before{content:'«'}
+.slip__flag dd::after{content:'»'}
+.slip__themes a{color:var(--dim);text-decoration:none;border-bottom:1px solid var(--rule);
+  transition:color .15s,border-color .15s}
+.slip__themes a:hover{color:var(--ver);border-color:var(--ver)}
+.slip__themes span{color:var(--rule);margin:0 .3rem}
+/* A theme is plain text: the route page it once linked to says nothing more about it. */
+.slip__themes .slip__theme{color:var(--dim);margin:0}
+/* The words a theme quoted to count the report in it: quieter than the flagged
+   sentence, a dotted rule under them rather than a wash of colour. */
+.slip__words mark.slip__q{box-shadow:none;border-bottom:1px dotted var(--dim)}
+/* A lasting change is a name now, like a theme, and the sentence that says it is
+   marked in the words above rather than quoted again. Two kinds: Attenzione keeps
+   the terracotta of a warning; Novità (routes added, new bolts, a path re-marked)
+   asks for no care, so it takes the ink of the text and a grey wash, not the red. */
+.slip__flag--attenzione dd::before,.slip__flag--attenzione dd::after,
+.slip__flag--novita dd::before,.slip__flag--novita dd::after{content:none}
+.slip__flag .slip__change{color:inherit;margin:0}
+.slip__flag span[aria-hidden]{color:var(--rule);margin:0 .3rem;font-weight:400}
+.slip__flag--novita dt{color:var(--faint)}
+.slip__flag--novita dd{color:var(--ink)}
+.slip__words mark.slip__n{box-shadow:inset 0 -.38em 0 rgba(70,84,95,.14)}
+/* Pointing at a name in the foot, or at the words it was read from, lights the
+   pair (option A, "Accendi", in a design study): the
+   words take a fuller wash, the name turns ink with a rule under it. A tap on
+   a name does it on a phone, since names take focus. Twelve keys: a slip holds
+   at most five themes and a few changes. */
+.slip [data-k]{transition:box-shadow .18s ease,border-color .18s ease,color .18s ease,text-decoration-color .18s ease}
+.slip__foot [data-k]{cursor:default;outline:none;text-decoration:underline;text-decoration-color:transparent;text-underline-offset:3px}
+.slip:has([data-k="1"]:hover,[data-k="1"]:focus) mark.slip__q[data-k="1"],
+.slip:has([data-k="2"]:hover,[data-k="2"]:focus) mark.slip__q[data-k="2"],
+.slip:has([data-k="3"]:hover,[data-k="3"]:focus) mark.slip__q[data-k="3"],
+.slip:has([data-k="4"]:hover,[data-k="4"]:focus) mark.slip__q[data-k="4"],
+.slip:has([data-k="5"]:hover,[data-k="5"]:focus) mark.slip__q[data-k="5"],
+.slip:has([data-k="6"]:hover,[data-k="6"]:focus) mark.slip__q[data-k="6"],
+.slip:has([data-k="7"]:hover,[data-k="7"]:focus) mark.slip__q[data-k="7"],
+.slip:has([data-k="8"]:hover,[data-k="8"]:focus) mark.slip__q[data-k="8"],
+.slip:has([data-k="9"]:hover,[data-k="9"]:focus) mark.slip__q[data-k="9"],
+.slip:has([data-k="10"]:hover,[data-k="10"]:focus) mark.slip__q[data-k="10"],
+.slip:has([data-k="11"]:hover,[data-k="11"]:focus) mark.slip__q[data-k="11"],
+.slip:has([data-k="12"]:hover,[data-k="12"]:focus) mark.slip__q[data-k="12"]{border-bottom-color:transparent;box-shadow:inset 0 -.9em 0 rgba(38,114,112,.16)}
+.slip:has([data-k="1"]:hover,[data-k="1"]:focus) mark.slip__n[data-k="1"],
+.slip:has([data-k="2"]:hover,[data-k="2"]:focus) mark.slip__n[data-k="2"],
+.slip:has([data-k="3"]:hover,[data-k="3"]:focus) mark.slip__n[data-k="3"],
+.slip:has([data-k="4"]:hover,[data-k="4"]:focus) mark.slip__n[data-k="4"],
+.slip:has([data-k="5"]:hover,[data-k="5"]:focus) mark.slip__n[data-k="5"],
+.slip:has([data-k="6"]:hover,[data-k="6"]:focus) mark.slip__n[data-k="6"],
+.slip:has([data-k="7"]:hover,[data-k="7"]:focus) mark.slip__n[data-k="7"],
+.slip:has([data-k="8"]:hover,[data-k="8"]:focus) mark.slip__n[data-k="8"],
+.slip:has([data-k="9"]:hover,[data-k="9"]:focus) mark.slip__n[data-k="9"],
+.slip:has([data-k="10"]:hover,[data-k="10"]:focus) mark.slip__n[data-k="10"],
+.slip:has([data-k="11"]:hover,[data-k="11"]:focus) mark.slip__n[data-k="11"],
+.slip:has([data-k="12"]:hover,[data-k="12"]:focus) mark.slip__n[data-k="12"]{box-shadow:inset 0 -.9em 0 rgba(70,84,95,.24)}
+.slip:has([data-k="1"]:hover,[data-k="1"]:focus) mark:not([class])[data-k="1"],
+.slip:has([data-k="2"]:hover,[data-k="2"]:focus) mark:not([class])[data-k="2"],
+.slip:has([data-k="3"]:hover,[data-k="3"]:focus) mark:not([class])[data-k="3"],
+.slip:has([data-k="4"]:hover,[data-k="4"]:focus) mark:not([class])[data-k="4"],
+.slip:has([data-k="5"]:hover,[data-k="5"]:focus) mark:not([class])[data-k="5"],
+.slip:has([data-k="6"]:hover,[data-k="6"]:focus) mark:not([class])[data-k="6"],
+.slip:has([data-k="7"]:hover,[data-k="7"]:focus) mark:not([class])[data-k="7"],
+.slip:has([data-k="8"]:hover,[data-k="8"]:focus) mark:not([class])[data-k="8"],
+.slip:has([data-k="9"]:hover,[data-k="9"]:focus) mark:not([class])[data-k="9"],
+.slip:has([data-k="10"]:hover,[data-k="10"]:focus) mark:not([class])[data-k="10"],
+.slip:has([data-k="11"]:hover,[data-k="11"]:focus) mark:not([class])[data-k="11"],
+.slip:has([data-k="12"]:hover,[data-k="12"]:focus) mark:not([class])[data-k="12"]{box-shadow:inset 0 -.9em 0 rgba(172,80,49,.26)}
+.slip:has([data-k="1"]:hover,[data-k="1"]:focus) .slip__theme[data-k="1"],
+.slip:has([data-k="2"]:hover,[data-k="2"]:focus) .slip__theme[data-k="2"],
+.slip:has([data-k="3"]:hover,[data-k="3"]:focus) .slip__theme[data-k="3"],
+.slip:has([data-k="4"]:hover,[data-k="4"]:focus) .slip__theme[data-k="4"],
+.slip:has([data-k="5"]:hover,[data-k="5"]:focus) .slip__theme[data-k="5"],
+.slip:has([data-k="6"]:hover,[data-k="6"]:focus) .slip__theme[data-k="6"],
+.slip:has([data-k="7"]:hover,[data-k="7"]:focus) .slip__theme[data-k="7"],
+.slip:has([data-k="8"]:hover,[data-k="8"]:focus) .slip__theme[data-k="8"],
+.slip:has([data-k="9"]:hover,[data-k="9"]:focus) .slip__theme[data-k="9"],
+.slip:has([data-k="10"]:hover,[data-k="10"]:focus) .slip__theme[data-k="10"],
+.slip:has([data-k="11"]:hover,[data-k="11"]:focus) .slip__theme[data-k="11"],
+.slip:has([data-k="12"]:hover,[data-k="12"]:focus) .slip__theme[data-k="12"],
+.slip:has([data-k="1"]:hover,[data-k="1"]:focus) .slip__flag--novita .slip__change[data-k="1"],
+.slip:has([data-k="2"]:hover,[data-k="2"]:focus) .slip__flag--novita .slip__change[data-k="2"],
+.slip:has([data-k="3"]:hover,[data-k="3"]:focus) .slip__flag--novita .slip__change[data-k="3"],
+.slip:has([data-k="4"]:hover,[data-k="4"]:focus) .slip__flag--novita .slip__change[data-k="4"],
+.slip:has([data-k="5"]:hover,[data-k="5"]:focus) .slip__flag--novita .slip__change[data-k="5"],
+.slip:has([data-k="6"]:hover,[data-k="6"]:focus) .slip__flag--novita .slip__change[data-k="6"],
+.slip:has([data-k="7"]:hover,[data-k="7"]:focus) .slip__flag--novita .slip__change[data-k="7"],
+.slip:has([data-k="8"]:hover,[data-k="8"]:focus) .slip__flag--novita .slip__change[data-k="8"],
+.slip:has([data-k="9"]:hover,[data-k="9"]:focus) .slip__flag--novita .slip__change[data-k="9"],
+.slip:has([data-k="10"]:hover,[data-k="10"]:focus) .slip__flag--novita .slip__change[data-k="10"],
+.slip:has([data-k="11"]:hover,[data-k="11"]:focus) .slip__flag--novita .slip__change[data-k="11"],
+.slip:has([data-k="12"]:hover,[data-k="12"]:focus) .slip__flag--novita .slip__change[data-k="12"]{color:var(--ink);text-decoration-color:var(--ver)}
+.slip:has([data-k="1"]:hover,[data-k="1"]:focus) .slip__flag--attenzione .slip__change[data-k="1"],
+.slip:has([data-k="2"]:hover,[data-k="2"]:focus) .slip__flag--attenzione .slip__change[data-k="2"],
+.slip:has([data-k="3"]:hover,[data-k="3"]:focus) .slip__flag--attenzione .slip__change[data-k="3"],
+.slip:has([data-k="4"]:hover,[data-k="4"]:focus) .slip__flag--attenzione .slip__change[data-k="4"],
+.slip:has([data-k="5"]:hover,[data-k="5"]:focus) .slip__flag--attenzione .slip__change[data-k="5"],
+.slip:has([data-k="6"]:hover,[data-k="6"]:focus) .slip__flag--attenzione .slip__change[data-k="6"],
+.slip:has([data-k="7"]:hover,[data-k="7"]:focus) .slip__flag--attenzione .slip__change[data-k="7"],
+.slip:has([data-k="8"]:hover,[data-k="8"]:focus) .slip__flag--attenzione .slip__change[data-k="8"],
+.slip:has([data-k="9"]:hover,[data-k="9"]:focus) .slip__flag--attenzione .slip__change[data-k="9"],
+.slip:has([data-k="10"]:hover,[data-k="10"]:focus) .slip__flag--attenzione .slip__change[data-k="10"],
+.slip:has([data-k="11"]:hover,[data-k="11"]:focus) .slip__flag--attenzione .slip__change[data-k="11"],
+.slip:has([data-k="12"]:hover,[data-k="12"]:focus) .slip__flag--attenzione .slip__change[data-k="12"]{text-decoration-color:var(--lab3)}
+@media (prefers-reduced-motion:reduce){.slip [data-k]{transition:none}}
+@media (max-width:760px){
+  .slip{grid-template-columns:1fr}
+  .slip__side{border-right:0;border-bottom:1px dashed var(--rule);padding:.7rem 1rem}
+  .doc .slip__d{display:flex;align-items:baseline;gap:.6rem;font-size:1.15rem}
+  .slip__d small,.slip__d small+small{margin:0}
+  .slip__foot div{grid-template-columns:1fr;gap:.2rem}
+}
+
+/* The difficulty scale. A sport grade's number alone picks its colour, as on a climbing gym's
+   circuits: 3 lilac, 4 green, 5 orange, 6 blue, 7 red, 8 black, 9 pearl; 6a and 6c+ are the same blue.
+   The renderer writes data-grade="3" to "9" on each grade mark (a chart bar, a Find histogram
+   bar, a grade label); an alpine grade, with no band, keeps the teal above. Pastel fills, 5 a mango rather
+   than a tan, with no outline; a bar's count, its hover and a written grade take a vivid step of
+   the same hue, which holds 3:1 against the paper, so the colour reads without a mark added. */
+:root{
+  --g3:#E6D9F7;--g3-edge:#9B6FD6;--g3-ink:#9B6FD6;
+  --g4:#BFE8CF;--g4-edge:#2F9A5C;--g4-ink:#2F9A5C;
+  --g5:#FFD79A;--g5-edge:#D47A00;--g5-ink:#D47A00;
+  --g6:#BFDDFB;--g6-edge:#3B7FD0;--g6-ink:#3B7FD0;
+  --g7:#FFC2C7;--g7-edge:#E0505E;--g7-ink:#E0505E;
+  --g8:#4A535D;--g8-edge:#4A535D;--g8-ink:#2C3137;
+}
+[data-grade="3"]{--gf:var(--g3);--gs:var(--g3-edge);--gc:var(--g3-ink)}
+[data-grade="4"]{--gf:var(--g4);--gs:var(--g4-edge);--gc:var(--g4-ink)}
+[data-grade="5"]{--gf:var(--g5);--gs:var(--g5-edge);--gc:var(--g5-ink)}
+[data-grade="6"]{--gf:var(--g6);--gs:var(--g6-edge);--gc:var(--g6-ink)}
+[data-grade="7"]{--gf:var(--g7);--gs:var(--g7-edge);--gc:var(--g7-ink)}
+[data-grade="8"]{--gf:var(--g8);--gs:var(--g8-edge);--gc:var(--g8-ink)}
+[data-grade="9"]{--gf:#D9D4F5;--gs:#B7C3CB;--gc:#7A6AD8}
+.chart .bar[data-grade] path{fill:var(--gf)}
+.chart .bar[data-grade]:hover path{fill:var(--gs)}
+.chart .bar[data-grade] .n{fill:var(--gc)}
+.gh rect[data-grade]{fill:var(--gf)}
+/* in the route list the grade is written a step lighter than a chart count, so the column of
+   grades reads as colour rather than as a second line of type */
+.routes em[data-grade="3"]{color:#B394E3}
+.routes em[data-grade="4"]{color:#5DBB86}
+.routes em[data-grade="5"]{color:#F5A623}
+.routes em[data-grade="6"]{color:#5C9FE6}
+.routes em[data-grade="7"]{color:#F0707D}
+.routes em[data-grade="8"]{color:#6B747D}
+/* 9 is the one grade that moves. Its bars are a dark slate on which the site's own contour lines
+   are surveyed in and away, in colour, for ever (grade-nine.js lays a canvas over each); without
+   it they keep the plain slate. Its count and its written grade carry the same rainbow, sliding. */
+[data-grade="9"]{--gf:#262C33;--gs:#262C33}
+.chart .bar[data-grade="9"] path,.gh rect[data-grade="9"]{fill:#262C33}
+.chart .bar[data-grade="9"] .n{fill:url(#grade-nine-ink)}
+.routes em[data-grade="9"]{background:linear-gradient(100deg,#E0117F,#E07000,#C9A800,#13B86A,#0098D6,#6A3DF0,#E0117F) 0 0/200% 100%;
+  -webkit-background-clip:text;background-clip:text;color:transparent;animation:grade-nine-slide 7s linear infinite}
+@keyframes grade-nine-slide{to{background-position:-200% 50%}}
+.grade-nine{position:absolute;display:block;pointer-events:none}
+@media (prefers-reduced-motion:reduce){.routes em[data-grade="9"]{animation:none}}
+/* The grade column reads left-aligned, so 6a and 6a+ start on the same line
+   and the plus hangs off the end instead of pushing the number left. */
+.routes em{text-align:left}
+
+
+/* The reports box without a footer (reports-footer-options.html, B): how many
+   and when stand in one column, the count on top, the last report's date under
+   a rule; and the list's numbers carry a column head instead of a sentence. */
+.sum__r>.sum__t:has(.sum__d){justify-content:flex-start;gap:0}
+.sum__r>.sum__t:has(.sum__d)>b{margin-bottom:.5rem}
+.sum__d{display:flex;flex-direction:column;gap:.25rem;margin-top:.9rem;padding-top:.75rem;
+  border-top:1px solid var(--rule)}
+.sum__d em{font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--faint);font-style:normal}
+.sum__d strong{font:600 1.02rem/1.15 "Archivo",sans-serif;color:var(--ink);font-variant-numeric:tabular-nums;white-space:nowrap}
+.sum__d small{font:400 .82rem/1.3 "Archivo",sans-serif;color:var(--dim)}
+.sum__c{min-width:0}
+.sum__h{display:grid;grid-template-columns:2.6rem minmax(0,1fr);gap:1rem;margin:0 0 .2rem;
+  font:600 .58rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--faint)}
+.sum__h span:first-child{text-align:right}
+.l3 #relazioni .sum__d{border-color:rgba(38,114,112,.25)}
+
+/* ===== Adesso, one wash =====
+   The grey panel held a white card so the verdict word kept its contrast.
+   There is no verdict any more, so the card was only a second frame: the
+   strip now sits on the panel's grey, and the figures keep their own cells. */
+.l3 #condizioni{background:rgba(34,48,60,.04);padding:1rem 1.1rem 1.2rem}
+.l3 #condizioni .cond{background:none;padding:0}
+
+/* Home's Cerca is the sentence's last word: a lens at the size of the type,
+   on the row itself, where the eye already is when the sentence is finished.
+   The name stays for screen readers in aria-label; drawn like the other line icons. */
+.q__end{flex:none;align-self:center;display:grid;place-items:center;margin:0 0 0 .35em;padding:.1em;
+  border:0;background:none;color:var(--ver);cursor:pointer;font-size:1em}
+.q__end svg{width:.95em;height:.95em;display:block;fill:none;stroke:currentColor;stroke-width:1.8;
+  stroke-linecap:round;stroke-linejoin:round}
+.q__end:hover{color:var(--ink)}
+.q__end:focus-visible{outline:2px solid var(--ver);outline-offset:2px;border-radius:2px}
+
+/* ===== A cluster of pins on the maps =====
+   Drawn by map-core.js (clusterRings) over the map, under the pin card: a disc
+   of frosted glass with its count, ringed by the activities inside it, the
+   four largest in their colours and the rest in grey. The map's own circle
+   underneath takes the clicks, so the drawing never does. Chosen in
+   a design study (option H, four then the rest). */
+.mk-layer{position:absolute;inset:0;pointer-events:none;overflow:hidden}
+.mk{position:absolute;left:0;top:0;width:0;height:0;will-change:transform}
+.mk__in{position:absolute;display:grid;place-items:center;transform:translate(-50%,-50%);border-radius:50%;
+  background:rgba(252,252,254,.5);-webkit-backdrop-filter:blur(6px) saturate(1.4);backdrop-filter:blur(6px) saturate(1.4);
+  box-shadow:0 4px 12px rgba(27,39,51,.2);color:var(--ink);
+  transition:transform .18s cubic-bezier(.2,.8,.3,1.2),box-shadow .18s ease;
+  animation:.32s cubic-bezier(.2,.8,.3,1.2) both mk-in}
+.mk__in svg{position:absolute;inset:0}
+.mk__in b{position:relative;font:700 .8rem/1 "Archivo",sans-serif;font-variant-numeric:tabular-nums}
+.mk.is-hover .mk__in{transform:translate(-50%,-50%) scale(1.12);box-shadow:0 6px 16px rgba(27,39,51,.26)}
+@keyframes mk-in{from{opacity:0;transform:translate(-50%,-50%) scale(.6)}}
+@media (prefers-reduced-motion:reduce){.mk__in{animation:none;transition:none}}
+
+/* What changed at the place, under the themes in the reports box
+   (box-changes-options.html, A): care, then news, each a short name with how
+   many reports say it and when it was last said. The same grid as the theme
+   list, with the date where a theme has nothing. */
+.sum__g{margin-top:1rem;padding-top:.6rem;border-top:1px solid var(--rule);max-width:40rem}
+.sum__gh,.sum__g>div:not(.sum__gh){display:grid;grid-template-columns:2.6rem minmax(0,1fr) auto;gap:1rem;align-items:baseline}
+.sum__gh{margin:0 0 .2rem;font:600 .58rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--faint)}
+.sum__gh span:last-child{text-align:right}
+.sum__g>div:not(.sum__gh){padding:.3rem 0}
+.sum__g b{font:600 .98rem/1.3 "Archivo",sans-serif;font-variant-numeric:tabular-nums;text-align:right}
+.sum__g>div:not(.sum__gh) span{font:400 .9rem/1.45 "Archivo",sans-serif;color:var(--ink);min-width:0}
+.sum__g small{font:400 .78rem/1.3 "Archivo",sans-serif;color:var(--faint);
+  font-variant-numeric:tabular-nums;white-space:nowrap;text-align:right}
+.sum__g a{color:inherit;text-decoration:none;border-bottom:1px solid transparent;transition:border-color .18s ease}
+.sum__g a:hover,.sum__g a:focus-visible{border-color:currentColor}
+.sum__g--attenzione .sum__gh span:nth-child(2),.sum__g--attenzione b,.sum__g--attenzione>div:not(.sum__gh) span{color:var(--lab3)}
+.sum__g--attenzione>div:not(.sum__gh) span{font-weight:600}
+.doc .sum__more{margin:.2rem 0 0 3.6rem;font:400 .78rem/1.4 "Archivo",sans-serif;color:var(--faint)}
+.l3 #relazioni .sum__g{border-color:rgba(38,114,112,.2)}
+@media (prefers-reduced-motion:reduce){.sum__g a{transition:none}}
+/* On a phone the box keeps the total beside the list, so the column is narrow:
+   the date goes under the name rather than beside it. */
+@media (max-width:560px){
+  .sum__gh,.sum__g>div:not(.sum__gh){grid-template-columns:1.6rem minmax(0,1fr);gap:.1rem .6rem}
+  .sum__gh span:last-child{display:none}
+  .sum__g small{grid-column:2;text-align:left}
+  .doc .sum__more{margin-left:2.2rem}
+}
+/* ===== The map's key and credits, as glass =====
+   Added when the key stopped reading as a white box stacked on the credits'
+   grey bar. The key takes the clusters' frosted glass (.mk__in) and drops to
+   the map's foot, since the credits now fold into their ⓘ button on every map
+   (createMap in map-core.js) and open, on a tap, as the same glass. */
+.map__leg{bottom:10px;max-width:calc(100% - 56px);gap:.3rem .85rem;padding:.5rem .8rem;border:0;border-radius:12px;
+  background:rgba(252,252,254,.62);-webkit-backdrop-filter:blur(8px) saturate(1.4);backdrop-filter:blur(8px) saturate(1.4);
+  box-shadow:0 2px 10px rgba(27,39,51,.14);font:500 .72rem/1.1 "Archivo",sans-serif;letter-spacing:.01em}
+.maplibregl-ctrl.maplibregl-ctrl-attrib.maplibregl-compact{background:rgba(252,252,254,.62);
+  -webkit-backdrop-filter:blur(8px) saturate(1.4);backdrop-filter:blur(8px) saturate(1.4);
+  box-shadow:0 2px 10px rgba(27,39,51,.14);color:var(--dim);font:500 .66rem/20px "Archivo",sans-serif}
+.maplibregl-ctrl-attrib.maplibregl-compact .maplibregl-ctrl-attrib-button,
+.maplibregl-ctrl-attrib.maplibregl-compact-show .maplibregl-ctrl-attrib-button{background-color:transparent;opacity:.6}
+.maplibregl-ctrl-attrib.maplibregl-compact .maplibregl-ctrl-attrib-button:hover{opacity:1}
+.maplibregl-ctrl-attrib.maplibregl-compact a{color:var(--dim)}
+.maplibregl-ctrl-attrib.maplibregl-compact a:hover{color:var(--ink)}
+/* Open, the credits take the map's foot, and the key steps up out of their way. */
+.map__leg{transition:transform .22s cubic-bezier(.2,.8,.3,1)}
+.maplibregl-map:has(.maplibregl-ctrl-attrib.maplibregl-compact-show) .map__leg{transform:translateY(-34px)}
+@media (prefers-reduced-motion:reduce){.map__leg{transition:none}}
+/* A key that runs past three lines folds into a pill (fitLegend in map-core.js),
+   which opens the whole key above it as a glass panel of its own. Unfolded, the
+   list is the box's content, as before. */
+.map__leg-list{display:contents}
+.map__leg-btn{display:none}
+.map__leg.is-folded{padding:0;background:none;box-shadow:none;-webkit-backdrop-filter:none;backdrop-filter:none;
+  flex-direction:column;align-items:flex-start;max-width:calc(100% - 56px)}
+.map__leg.is-folded .map__leg-btn{display:flex;align-items:center;gap:.5rem;padding:.45rem .8rem .45rem .65rem;
+  border:0;border-radius:999px;cursor:pointer;font:600 .72rem/1.1 "Archivo",sans-serif;color:var(--ink);
+  background:rgba(252,252,254,.62);-webkit-backdrop-filter:blur(8px) saturate(1.4);backdrop-filter:blur(8px) saturate(1.4);
+  box-shadow:0 2px 10px rgba(27,39,51,.14);transition:box-shadow .18s ease}
+.map__leg.is-folded .map__leg-btn:hover{box-shadow:0 4px 14px rgba(27,39,51,.22)}
+.map__leg-drops{display:flex}
+.map__leg-drops svg{display:block;margin-right:-3px}
+.map__leg.is-folded .map__leg-list{display:none}
+.map__leg.is-folded.is-open .map__leg-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(8.2rem,1fr));
+  gap:.45rem .9rem;width:min(28rem,100%);box-sizing:border-box;margin-bottom:.4rem;padding:.7rem .85rem;border-radius:12px;
+  background:rgba(252,252,254,.78);-webkit-backdrop-filter:blur(10px) saturate(1.4);backdrop-filter:blur(10px) saturate(1.4);
+  box-shadow:0 4px 18px rgba(27,39,51,.18);transform-origin:0 100%}
+.map__leg.is-folded.is-open .map__leg-list > span{display:flex;align-items:center;gap:.35rem}
+/* The panel rises out of the pill (Sale, as the pin's card does), chosen over
+   growing from the pill's corner and the entries dropping in one by one. */
+.map__leg.is-open .map__leg-list{animation:leg-sale .26s cubic-bezier(.2,.8,.3,1) both}
+@keyframes leg-sale{from{opacity:0;transform:translateY(10px) scale(.97)}}
+@media (prefers-reduced-motion:reduce){.map__leg .map__leg-list{animation:none}}
+.map__leg.is-folded.is-open{width:min(28rem,calc(100% - 56px))}
+.map__leg.is-folded.is-open .map__leg-list{width:100%;max-height:var(--leg-room,60vh);overflow:auto}
+.map__leg.is-folded.is-open .map__leg-list{grid-template-columns:repeat(auto-fill,minmax(7.2rem,1fr));gap:.45rem .7rem}
+
+/* The reports box as a stack (reports-box-layout-options.html, A): how many and
+   when on one line at the top, then the themes, then the changes, each at the
+   full width of the box. The total column beside the list is no longer drawn. */
+.sum__top{display:flex;align-items:baseline;flex-wrap:wrap;gap:.3rem 1.1rem;margin:0 0 1.1rem;
+  padding-bottom:.9rem;border-bottom:1px solid var(--rule);max-width:40rem}
+.sum__top b{font:700 2.6rem/.9 "Archivo",sans-serif;letter-spacing:-.04em;font-variant-numeric:tabular-nums;color:var(--ink)}
+.sum__top>span:not(.sum__last){font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--faint)}
+.sum__last{font:400 .9rem/1.4 "Archivo",sans-serif;color:var(--dim)}
+.sum__last em{font-style:normal}
+.sum__last strong{font-weight:600;color:var(--ink);font-variant-numeric:tabular-nums;white-space:nowrap}
+.sum__last small{font:inherit}
+.sum--stack>.sum__wait{margin:0;max-width:40ch}
+.sum--stack .sum__l{margin:0}
+.l3 #relazioni .sum__top{border-color:rgba(38,114,112,.25)}
+
+/* Every theme above the reports (reports-themes-recap-options.html, A): the
+   route page's list, all of it, in two columns, then the themes one person
+   has raised, uncounted. Each is a link that shows only its reports. */
+.tidx{max-width:58rem;margin:0 0 1.6rem;padding:1.1rem 1.2rem 1.2rem;border-radius:8px;background:rgba(38,114,112,.075)}
+.tidx__h{display:grid;grid-template-columns:2.2rem minmax(0,1fr);gap:.8rem;margin:0 0 .2rem;
+  font:600 .58rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--faint)}
+.tidx__h span:first-child{text-align:right}
+.tidx__l{columns:2 18rem;column-gap:2rem}
+.tidx__l a{display:grid;grid-template-columns:2.2rem minmax(0,1fr);gap:.8rem;align-items:baseline;break-inside:avoid;
+  padding:.32rem .4rem .32rem 0;border-radius:4px;text-decoration:none;transition:background-color .18s ease}
+.tidx__l a:hover,.tidx__l a:focus-visible{background:rgba(255,255,255,.7)}
+.tidx__l b{font:600 .95rem/1.3 "Archivo",sans-serif;color:var(--ver);text-align:right;font-variant-numeric:tabular-nums}
+.tidx__l span{font:400 .9rem/1.45 "Archivo",sans-serif;color:var(--dim)}
+.tidx__l a.on{background:#fff}
+.tidx__l a.on span{color:var(--ink);font-weight:600}
+.tidx__lone{display:grid;grid-template-columns:auto minmax(0,1fr);gap:.2rem .9rem;align-items:baseline;
+  margin:.9rem 0 0;padding-top:.7rem;border-top:1px solid rgba(38,114,112,.2)}
+.tidx__l:empty+.tidx__lone,.tidx>.tidx__lone:first-child{margin-top:0;padding-top:0;border-top:0}
+.tidx__cap{font:600 .58rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--faint)}
+.doc .tidx__lone p{margin:0;font:400 .86rem/1.55 "Archivo",sans-serif;color:var(--dim)}
+.tidx__lone a{color:inherit;text-decoration:none;border-bottom:1px solid transparent;transition:border-color .18s ease,color .18s ease}
+.tidx__lone a:hover,.tidx__lone a:focus-visible{color:var(--ink);border-color:var(--ver)}
+.tidx__lone a.on{color:var(--ink);font-weight:600;border-color:var(--ver)}
+.tidx__lone span[aria-hidden]{color:var(--rule);margin:0 .3rem}
+.tidx__filter{display:flex;align-items:baseline;flex-wrap:wrap;gap:.3rem .9rem;max-width:58rem;margin:0 0 .9rem;
+  font:400 .88rem/1.4 "Archivo",sans-serif;color:var(--dim)}
+.tidx__filter b{color:var(--ink);font-weight:600}
+.tidx__filter a{color:var(--ver);font:600 .6rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;text-decoration:none}
+.tidx__filter a:hover{border-bottom:1px solid var(--ver)}
+.slip__foot .slip__theme--on{color:var(--ink);text-decoration:underline;text-decoration-color:var(--ver);text-underline-offset:3px}
+/* Nothing shared yet: the box says so, as the route page's does. */
+.doc .tidx__wait{margin:0;font:400 .92rem/1.5 "Archivo",sans-serif;color:var(--dim);max-width:40ch}
+@media (max-width:640px){.tidx{padding:.9rem 1rem 1rem}.tidx__lone{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:reduce){.tidx__l a,.tidx__lone a{transition:none}}
+/* Attenzione and Novità in the same index, drawn as in the reports box, every
+   change rather than three; each name picks its reports, as a theme does. */
+.tidx .sum__g{border-color:rgba(38,114,112,.2)}
+.tidx>.sum__g:first-child{margin-top:0;padding-top:0;border-top:0}
+.tidx .sum__g a.on{border-color:currentColor;font-weight:700}
+.tidx .sum__g--novita a.on{font-weight:600}
+.slip__foot .slip__change--on{text-decoration:underline;text-decoration-color:currentColor;text-underline-offset:3px}
+.tidx .sum__gh,.tidx .sum__g>div:not(.sum__gh){grid-template-columns:2.2rem minmax(0,1fr) auto;gap:.8rem}
+.tidx .sum__g{max-width:none}
+@media (max-width:560px){.tidx .sum__gh,.tidx .sum__g>div:not(.sum__gh){grid-template-columns:1.6rem minmax(0,1fr);gap:.1rem .6rem}}
+
+/* A long index (theme-index-length-options.html, A): ten shared themes in view,
+   the rest a fold away, the one-voice ones folded whole. The folds are
+   <details>, so they open with no script, and smoothly where the browser can
+   animate a height to auto; elsewhere they open at once. */
+.tidx{interpolate-size:allow-keywords}
+.tidx details>summary{list-style:none;cursor:pointer;display:inline-flex;align-items:baseline;gap:.45rem;margin-top:.35rem;
+  font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--ver)}
+.tidx details>summary::-webkit-details-marker{display:none}
+.tidx details>summary::after{content:'';width:.42rem;height:.42rem;border-right:1.5px solid currentColor;
+  border-bottom:1.5px solid currentColor;transform:translateY(-.12rem) rotate(45deg);transition:transform .22s ease}
+.tidx details[open]>summary::after{transform:translateY(.05rem) rotate(-135deg)}
+.tidx details>summary:hover{text-decoration:underline;text-underline-offset:3px}
+.tidx details::details-content{height:0;overflow:clip;transition:height .28s ease,content-visibility .28s allow-discrete}
+.tidx details[open]::details-content{height:auto}
+.tidx details[open]>summary .tidx__closed,.tidx details:not([open])>summary .tidx__open{display:none}
+.tidx__more .tidx__l{margin-top:.3rem}
+.tidx__lone--fold{display:block}
+.doc .tidx__lone--fold p{margin:.45rem 0 0}
+.tidx__lone--fold details>summary{margin-top:0}
+@media (prefers-reduced-motion:reduce){.tidx details::details-content,.tidx details>summary::after{transition:none}}
+
+/* The index, tightened: the picked name carries a cross and undoes the filter
+   when pressed again; care and news sit side by side, three of each in view. */
+.tidx__l a.on{grid-template-columns:2.2rem minmax(0,1fr) auto}
+.tidx__x{font-style:normal;font:400 1rem/1 "Archivo",sans-serif;color:var(--faint);margin-left:.35rem;transition:color .18s ease}
+.tidx a.on:hover .tidx__x,.tidx a.on:focus-visible .tidx__x{color:var(--ink)}
+.tidx__filter a i{font-style:normal;font-size:.9rem;margin-right:.15rem}
+.tidx__chg{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 2rem;margin-top:1rem;padding-top:.6rem;
+  border-top:1px solid rgba(38,114,112,.2)}
+.tidx>.tidx__chg:first-child{margin-top:0;padding-top:0;border-top:0}
+.tidx__chg>.sum__g{margin-top:0;padding-top:0;border-top:0}
+.tidx__chg>.sum__g:only-child{grid-column:1/-1}
+.tidx__chg details.tidx__more>summary{margin:.15rem 0 0 3rem}
+.tidx__chg details.tidx__more>div{display:grid;grid-template-columns:2.2rem minmax(0,1fr) auto;gap:.8rem;align-items:baseline;padding:.3rem 0}
+@media (max-width:760px){.tidx__chg{grid-template-columns:1fr}.tidx__chg>.sum__g+.sum__g{margin-top:1rem;padding-top:.6rem;border-top:1px solid rgba(38,114,112,.2)}}
+@media (max-width:560px){.tidx__chg details.tidx__more>div{grid-template-columns:1.6rem minmax(0,1fr);gap:.1rem .6rem}.tidx__chg details.tidx__more>summary{margin-left:2.2rem}}
+
+/* The one way in to every report, at the end of the count line
+   (reports-link-options.html, F3): the count and the date wrap on the left,
+   the button keeps a column of its own and never breaks. A deeper wash of the
+   box's own tint, ink words, no line. The change names under the themes are
+   no longer links, so this is the box's only one. */
+.sum__top--go{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:.8rem}
+.sum__now{display:flex;align-items:baseline;flex-wrap:wrap;gap:.3rem 1.1rem;min-width:0}
+.sum__now>span:not(.sum__last){font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--faint)}
+.sum__go{display:inline-flex;align-items:center;gap:.4rem;white-space:nowrap;text-decoration:none;color:var(--ink);
+  background:rgba(38,114,112,.13);border-radius:6px;padding:.42rem .8rem;
+  font:600 .82rem/1.3 "Archivo",sans-serif;transition:background .18s ease}
+.sum__go::after{content:"→"/"";transition:transform .18s ease}
+.sum__go:hover,.sum__go:focus-visible{background:rgba(38,114,112,.2)}
+.sum__go:hover::after{transform:translateX(3px)}
+@media (prefers-reduced-motion:reduce){.sum__go,.sum__go::after{transition:none}}
+
+/* ===== Giudizi, a window in the card =====
+   The page card is 95% paper, so no section inside it can be "less opaque"
+   than it. Instead Giudizi paints the body's own ground again — same image,
+   same fixed attachment, so it lines up with what is around the card — under
+   a 35% veil of paper, and a soft shadow inside its top edge says the card has
+   depth and this is a hole in it (giudizi-window-options.html, 35% + C). */
+.l3 #giudizi{--gz-veil:.35;border-radius:8px;padding:.85rem 1rem .95rem;
+  border:1px solid rgba(27,39,51,.1);
+  box-shadow:inset 0 1px 4px rgba(27,39,51,.16),inset 0 0 0 1px rgba(27,39,51,.04);
+  background:linear-gradient(rgba(252,252,254,var(--gz-veil)),rgba(252,252,254,var(--gz-veil))),
+    var(--pap) url('assets/bg/ground.png') center/cover fixed}
+.l3 #giudizi h2{border-bottom-color:rgba(34,48,60,.16)}
+
+/* ===== The map card's edge =====
+   The tiles are as pale as the paper, so the lift shadow alone left the top
+   and left edges of the map with nothing to see. A 1px hairline in the text's
+   ink closes the outline everywhere, drawn over the tiles and under the
+   controls, the key and the pin card (home-map-edge-options.html, B). */
+.map::after{content:"";position:absolute;inset:0;z-index:1;border-radius:inherit;pointer-events:none;
+  box-shadow:inset 0 0 0 1px rgba(27,39,51,.42)}
+
+/* Find's list follows the map (list-in-view.js, and
+   its design spec): the
+   routes off the map are one number beside the count, never rows, and the list
+   is paged with numbered links (find-paging-options.html, C). */
+.list__out{font-size:.84rem;color:var(--faint);font-variant-numeric:tabular-nums}
+.list__all{color:var(--dim);text-decoration:underline;text-decoration-color:var(--frame);text-underline-offset:3px}
+.list__all:hover{color:var(--ver);text-decoration-color:currentColor}
+.list__h{flex-wrap:wrap;row-gap:.3rem}
+.pages{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:.25rem;margin:1.4rem 0 0;
+  font:600 .86rem/1 "Archivo",sans-serif;font-variant-numeric:tabular-nums}
+.col .list--facts>.pages{grid-column:1/-1}
+.pages a,.pages span{min-width:2.1rem;padding:.5rem .55rem;border-radius:3px;text-align:center;color:var(--dim)}
+.pages a{transition:background-color .25s ease,color .25s ease}
+.pages a:hover{background:var(--fill)}
+.pages a[aria-current="page"]{background:var(--ink);color:var(--pap)}
+.pages .pages__step:not(a){opacity:.35}
+.pages .pages__gap{min-width:0;padding:.5rem .1rem;color:var(--faint)}
+
+/* ===== The grade scale, Alpine; the chart as slim columns =====
+   Chosen in grade-chart-options.html and tried on the real pages: one hue per family, as on a
+   climbing gym's circuits, in natural tones that sit on the sheet: 3 lavender, 4 larch green,
+   5 gold, 6 glacier blue, 7 vermilion, 8 near-black. The fill is the colour itself, solid, and so is a
+   grade written in the route list; the ink (--gN-ink) is the same hue darkened until it holds
+   3.6:1 on white, kept for any count written in colour. These override the pastel scale above, which stays as the design's record. The 9 keeps
+   its own rules. */
+:root{
+  --g3:#B1A2D4;--g3-edge:#B1A2D4;--g3-ink:#8A7EA5;
+  --g4:#5A9A4A;--g4-edge:#5A9A4A;--g4-ink:#569347;
+  --g5:#E8B83A;--g5-edge:#E8B83A;--g5-ink:#A28028;
+  --g6:#2F7FB0;--g6-edge:#2F7FB0;--g6-ink:#2F7FB0;
+  --g7:#D0573B;--g7-edge:#D0573B;--g7-ink:#D0573B;
+  --g8:#2B2B2B;--g8-edge:#2B2B2B;--g8-ink:#2B2B2B}
+/* the grade beside each via is written in the chart's own colour, not the darker ink: in ink the
+   gold and the green read as other colours than the bars above them */
+.routes em[data-grade]:not([data-grade="9"]){color:var(--gf)}
+/* The chart, form B: slim solid columns, no axis; the tallest step alone says its count, the
+   others say theirs under the pointer, while the rest of the chart steps back. */
+.chart .axis{display:none}
+.chart .bar{transition:opacity .15s}
+.chart:hover .bar{opacity:.35}
+.chart:hover .bar:hover{opacity:1}
+.chart .bar .n{opacity:0;transition:opacity .15s}
+.chart .bar .n,.chart .bar[data-grade]:not([data-grade="9"]) .n{fill:var(--ink)}
+.chart .bar.peak .n,.chart .bar:hover .n{opacity:1}
+.chart .bar[data-grade] path,.chart .bar[data-grade]:hover path{fill:var(--gs)}
+.chart .bar path{transform-box:fill-box;transform-origin:center bottom;transform:scaleX(.72)}
+
+/* ===== Activity colours on the maps, spread on the wheel =====
+   Chosen in legend-colour-options.html (D): the old set put six snow activities in close blues
+   with Alpinismo's violet among them, and Alpinismo and Sci alpinismo read as one colour at pin
+   size. Each family keeps its hue (snow blue, rock warm, land green, water cyan, air gold, the
+   rest slate) at light, middle and dark steps, and the five activities the archive holds today
+   are given the hues furthest apart: violet, amber, rose, jade, sky. These override the set
+   above, which stays as the record; map-core.js reads every --act-* it finds, so the old values
+   only add cluster counts that stay at zero. */
+:root{--act-alpinismo:#7C3AED;--act-falesia:#F59E0B;--act-arrampicata:#E11D48;--act-escursionismo:#059669;
+  --act-sci_alpinismo:#0EA5E9;--act-ciaspole:#93C5FD;--act-sci_ripido:#1E40AF;--act-freeride:#2563EB;
+  --act-fondo:#CBD5E1;--act-cascate_ghiaccio:#A78BFA;--act-bouldering:#EC4899;--act-via_ferrata:#991B1B;
+  --act-trail_running:#84CC16;--act-bicicletta:#115E59;--act-mountain_bike:#4D7C0F;--act-canyoning:#0E7490;
+  --act-canoa:#67E8F9;--act-volo_libero:#FACC15;--act-altro:#64748B}
+
+/* ===== Giudizi, a line of the header =====
+   The ratings are fixed data about the crag, not something the reports say, so
+   they leave the rail (and its window onto the ground, above) for a second line
+   of the facts strip, in its form, under a hairline and with no title of its
+   own (giudizi-placement-options.html, D). */
+.cls--gz{margin-top:.8rem;padding-top:.75rem;border-top:1px solid var(--rule)}
+.cls--gz .gz__st{letter-spacing:.05em}
+
+/* ===== Reports as lifted cards, and their photos =====
+   Chosen in report-photos-options.html (C2, P1, R1). The slips were the last flat
+   thing in the app: no border now, the app's own --lift and 14px corners, the card
+   rising a little under the pointer. A report's photos sit under its words as one
+   rounded block, the first large, the last counting any more, captions on the
+   photos (photo-mosaic.ts); the rail shows the route's three newest the same way.
+   The rail's .ph strip above is no longer drawn and stays as the record. */
+.slips{gap:1.15rem}
+.slip{border:0;border-radius:14px;overflow:hidden;box-shadow:var(--lift);
+  transition:transform .3s cubic-bezier(.2,.8,.2,1),box-shadow .3s}
+.slip__side{background:rgba(230,238,239,.6)}
+.slip--flag{box-shadow:0 0 0 1px #E3C2B4,0 2px 6px rgba(27,39,51,.08),0 18px 40px -14px rgba(27,39,51,.32)}
+.slip:target{box-shadow:0 0 0 3px rgba(38,114,112,.28),var(--lift)}
+@media (hover:hover){
+  .slip:hover{transform:translateY(-2px);
+    box-shadow:0 0 0 1px rgba(27,39,51,.07),0 4px 10px rgba(27,39,51,.08),0 28px 50px -18px rgba(27,39,51,.38)}
+  .slip--flag:hover{box-shadow:0 0 0 1px #E3C2B4,0 4px 10px rgba(27,39,51,.08),0 28px 50px -18px rgba(27,39,51,.38)}
+}
+
+.mo{display:grid;gap:4px;margin:1rem 0 0;max-width:36rem;border-radius:12px;overflow:hidden}
+.mo__t{position:relative;display:block;min-height:0;overflow:hidden;background:var(--fill);cursor:zoom-in}
+.mo__t[hidden]{display:none}
+.mo__t img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .6s cubic-bezier(.2,.8,.2,1)}
+.mo__t:hover img{transform:scale(1.045)}
+.mo__t:focus-visible{outline:3px solid var(--ver);outline-offset:-3px}
+.mo--1{grid-template-rows:14rem;max-width:24rem}
+.mo--2{grid-template-columns:1fr 1fr;grid-template-rows:11rem;max-width:28rem}
+.mo--3{grid-template-columns:2fr 1fr;grid-template-rows:6.2rem 6.2rem}
+.mo--4,.mo--5{grid-template-columns:2fr 1fr 1fr;grid-template-rows:6.2rem 6.2rem}
+.mo--3>:first-child,.mo--4>:first-child,.mo--5>:first-child{grid-row:span 2}
+.mo--4>:nth-child(4){grid-column:span 2}
+.mo__chip{position:absolute;left:.4rem;bottom:.4rem;max-width:calc(100% - .8rem);padding:.22rem .5rem;border-radius:7px;
+  background:rgba(252,252,254,.8);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);
+  font:600 .66rem/1.3 "Archivo",sans-serif;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mo__more{position:absolute;inset:0;display:grid;place-items:center;background:rgba(27,39,51,.42);
+  -webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);color:#fff;font:600 1.25rem/1 "Archivo",sans-serif}
+@media (max-width:640px){
+  .mo--3,.mo--4,.mo--5{grid-template-rows:4.8rem 4.8rem}
+  .mo--1{grid-template-rows:11rem}.mo--2{grid-template-rows:8.5rem}
+}
+.mo--rail{margin:0;max-width:none;border-radius:14px;box-shadow:var(--lift);grid-template-columns:1fr 1fr}
+.mo--rail1{grid-template-rows:10rem}.mo--rail1>:first-child{grid-column:span 2}
+.mo--rail2{grid-template-rows:7rem}
+.mo--rail3{grid-template-rows:10rem 5.4rem}.mo--rail3>:first-child{grid-column:span 2}
+.mo__foot{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;margin:.75rem .1rem 0;
+  font:400 .8rem/1.4 "Archivo",sans-serif;color:var(--faint)}
+.mo__foot b{color:var(--ink);font-weight:600}
+.mo__foot .more{margin:0}
+/* The rail no longer draws .mo__foot (photos-footer-options.html): its +N tile
+   is the way to the photos page instead, so it points, rather than zooming. */
+.mo__t[data-all]{cursor:pointer}
+
+/* The viewer photo-zoom.js opens: the photo grows out of its tile and goes back
+   into it on closing; the arrows, Esc and a swipe step through its block. */
+.pz{position:fixed;inset:0;z-index:60;background:rgba(10,13,15,0);pointer-events:none;transition:background .35s}
+.pz.on{background:rgba(10,13,15,.9);pointer-events:auto;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
+.pz[hidden]{display:none}
+.pz__img{position:fixed;left:0;top:0;opacity:0;object-fit:cover;will-change:transform,clip-path}
+.pz__cap,.pz button{opacity:0;transition:opacity .25s}
+.pz.on .pz__cap,.pz.on button{opacity:1;transition-delay:.15s}
+.doc .pz__cap,.pz__cap{position:fixed;left:1rem;right:1rem;bottom:5vh;margin:0;text-align:center;color:#fff}
+.pz__cap b{display:block;font:500 1rem/1.4 "Archivo",sans-serif}
+.pz__cap span{display:block;margin-top:.3rem;font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;color:#B9C3CA}
+.pz button{position:fixed;width:2.8rem;height:2.8rem;border-radius:50%;border:0;background:rgba(255,255,255,.14);color:#fff;
+  font:400 1.5rem/1 "Archivo",sans-serif;cursor:pointer;-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
+.pz button:hover{background:rgba(255,255,255,.26)}
+.pz__prev,.pz__next{top:50%;margin-top:-1.4rem}
+.pz__prev{left:1.2rem}.pz__next{right:1.2rem}
+.pz__close{top:1.2rem;right:1.2rem}
+.pz--one .pz__prev,.pz--one .pz__next{display:none}
+@media (prefers-reduced-motion:reduce){.slip,.mo__t img{transition:none}.slip:hover{transform:none}}
+
+/* A licensed photo's credit — who took it, the licence, where the original is
+   — which its licence asks to be on screen wherever the photo is. Under the
+   byline, smaller, never louder than the report it illustrates. */
+.credit{display:block;margin-top:.2rem;font:400 .68rem/1.4 "Archivo",sans-serif;color:var(--faint)}
+.credit a{color:inherit;text-decoration:underline;text-decoration-color:var(--rule);text-underline-offset:2px}
+.lb__cap .credit{color:rgba(255,255,255,.72)}
+.lb__cap .credit a{text-decoration-color:rgba(255,255,255,.4)}
+
+/* ===== Tutte le foto: one wall =====
+   Chosen in photos-page-options.html (B). Every photo on the route at its own
+   shape (--r, read from its bytes), the rows filled edge to edge, newest report
+   first, the day on the first photo of each report. The wall is a .mo so the
+   viewer (photo-zoom.js) steps through all of it. The grouped .gg page above
+   is no longer drawn and stays as the record. */
+.fcount{margin:.55rem 0 0;font:400 .92rem/1.4 "Archivo",sans-serif;color:var(--faint)}
+.fcount b{color:var(--ink);font-weight:600}
+.doc:has(>.wall){padding-bottom:3rem}
+.mo.wall{display:flex;flex-wrap:wrap;gap:6px;max-width:none;margin:1.4rem 0 0;border-radius:0;overflow:visible}
+.mo.wall::after{content:"";flex-grow:999}
+.wall .mo__t{flex:var(--r) 1 calc(var(--r) * 11.5rem);aspect-ratio:var(--r);max-height:16rem;border-radius:10px;box-shadow:var(--lift)}
+@media (max-width:700px){.wall .mo__t{flex-basis:calc(var(--r) * 7rem)}}
+
+/* ===== The viewer's line, labelled =====
+   Chosen in viewer-caption-options.html (R4). One spaced-capitals line ran five
+   things together; now the caption, then two labelled fields: Foto di — one
+   name, the person who took it, with the licence under it only where there is
+   one — and Relazione del, the report's day with a way to read it. The count
+   moves to the top, between the arrows. The .pz__cap span rule above is no
+   longer reached: the line holds no span now. */
+.pz__count{position:fixed;top:1.55rem;left:50%;transform:translateX(-50%);font:600 .74rem/1 "Archivo",sans-serif;
+  color:#B9C3CA;font-variant-numeric:tabular-nums;opacity:0;transition:opacity .25s}
+.pz.on .pz__count{opacity:1;transition-delay:.15s}
+.pz--one .pz__count{display:none}
+.pz__cap .pz__t{margin:0 auto .5rem;max-width:46ch;font:500 1.05rem/1.35 "Archivo",sans-serif;color:#fff}
+.pz__cap .pz__t:empty{display:none}
+.pz__f{display:flex;justify-content:center;gap:.6rem 2rem;flex-wrap:wrap;margin:0}
+.pz__f>div{display:grid;gap:.15rem;align-content:start;text-align:left}
+.pz__f dt{font:600 .58rem/1.3 "Archivo Narrow",sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#8C969C}
+.pz__f dd{margin:0;font:400 .9rem/1.35 "Archivo",sans-serif;color:#fff}
+.pz__cap .pz__f b{display:inline;font:inherit}
+.pz__f i{font-style:normal}
+.pz__f a{color:inherit;text-decoration:underline;text-decoration-color:rgba(255,255,255,.4);text-underline-offset:3px}
+.pz__f a:not([href]){display:none}
+.pz__f .pz__lic{display:block;margin-top:.1rem;font-size:.72rem;color:#97A3AA;text-decoration-color:rgba(255,255,255,.25)}
+.pz__f .pz__lic:not([href]){display:none}
+
+/* the crag's presentation: the words of whoever opened the page, quoted with an
+   ink rule at the left, never a tint, so they never read as the site's own
+   voice */
+.doc .voice{margin:0;padding:.1rem 0 .1rem 1rem;border-left:2px solid var(--ink)}
+.doc .voice p:last-child{margin-bottom:0}
+/* A run-in after a section's own words — a crag's history after its
+   presentation: the same paragraph, opened by a small faint label rather
+   than a title */
+.doc .runin{margin-top:.75rem}
+.doc .runin .lab{color:var(--faint);margin-right:.5rem}
+
+/* ===== Multipitch, the activity once called arrampicata =====
+   The registry's key changed (migration 026), and a pin's colour is --act-<id>,
+   so the new key takes the old one's rose. The --act-arrampicata lines above
+   stay as the record; map-core.js only adds a cluster count that stays at zero. */
+:root{--act-multipitch:#E11D48}
+
+/* ===== Find's menus, drawn by the page =====
+   Chosen in find-menus-options.html: A · Tendina, a paper card under the slot, and the grade's
+   two ends as one ruler, R3 · Fascia, opened under `dal` whichever end is clicked. find-menus.js
+   puts a button before each <select> and hides the select, which stays in the form; without the
+   script the selects are drawn as before. */
+.q select[hidden]{display:none!important}
+.q__s button.slot--menu{padding-right:.85em;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath d='M0 0h10L5 6z' fill='%23267270'/%3E%3C/svg%3E") no-repeat right .1em center/.42em auto;white-space:nowrap}
+.q__s button.slot--menu[aria-expanded="true"]{background-color:var(--fill)}
+.q__add--menu[aria-expanded="true"]{color:var(--ver);border-bottom-color:var(--ver)}
+.fm,.fr{position:absolute;z-index:60;background:var(--pap);border:1px solid var(--rule);border-radius:4px;
+  box-shadow:0 1px 2px rgba(27,39,51,.08),0 10px 28px -8px rgba(27,39,51,.28);color:var(--ink);font-family:"Archivo",sans-serif;
+  transform-origin:top left;animation:fm-in .18s cubic-bezier(.2,.7,.2,1) both}
+.fm.is-out,.fr.is-out{animation:fm-out .12s ease-in both;pointer-events:none}
+@keyframes fm-in{from{opacity:0;transform:translateY(-4px) scaleY(.96)}}
+@keyframes fm-out{to{opacity:0;transform:translateY(-3px)}}
+@media (prefers-reduced-motion:reduce){.fm,.fr,.fm.is-out,.fr.is-out{animation:none}}
+.fm{min-width:12rem;max-width:min(36rem,calc(100vw - 2rem));max-height:min(34rem,75vh);overflow:auto;padding:.35rem 0}
+.fm--cols{display:grid;grid-template-columns:repeat(2,minmax(12rem,1fr))}
+@media (max-width:599px){.fm--cols{grid-template-columns:1fr}}
+.fm__h{margin:.55rem .9rem .2rem;font:600 .6rem/1.3 "Archivo Narrow",sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+.fm__it{display:flex;align-items:center;gap:.6rem;width:100%;padding:.42rem .9rem;border:0;background:none;text-align:left;
+  font:500 .95rem/1.3 "Archivo",sans-serif;color:var(--ink);cursor:pointer}
+.fm__it:hover,.fm__it:focus-visible{background:var(--fill);outline:0}
+.fm__it[aria-selected="true"]{color:var(--ver);font-weight:600}
+.fm__it[aria-selected="true"]::after{content:"";margin-left:auto;width:.45rem;height:.8rem;border:solid var(--ver);border-width:0 2px 2px 0;transform:rotate(45deg) translateY(-2px)}
+.fm__dot{width:.55rem;height:.55rem;border-radius:50%;flex:none}
+.fm--grades{padding:.6rem}
+.fm--grades .fm__h{margin:.2rem .3rem .4rem}
+.fm__row{display:grid;grid-template-columns:repeat(6,minmax(2.6rem,1fr));gap:.15rem;margin:0 0 .15rem}
+.fm--grades .fm__it{justify-content:center;padding:.4rem .5rem;border-radius:3px;font-variant-numeric:tabular-nums;box-shadow:inset 0 -2px 0 var(--gf,var(--rule))}
+.fm--grades .fm__it::after{display:none}
+.fr{width:min(34rem,calc(100vw - 2rem));padding:.9rem 1.1rem 1rem}
+.fr__top{display:flex;justify-content:space-between;align-items:baseline;margin:0 0 .9rem}
+.fr__top span{font:600 .6rem/1.3 "Archivo Narrow",sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+.fr__top b{font:600 1rem/1 "Archivo",sans-serif;color:var(--ver)}
+.fr__trk{position:relative;height:4.3rem;touch-action:none;user-select:none;-webkit-user-select:none;cursor:pointer}
+.fr__c{position:absolute;top:1.85rem;height:.8rem;background:var(--gf,var(--ver));opacity:.2;transition:opacity .15s}
+.fr__c:first-child{border-radius:3px 0 0 3px}
+.fr__c.is-in{opacity:1}
+.fr__f{position:absolute;bottom:0;transform:translateX(-50%);font:600 .7rem/1 "Archivo Narrow",sans-serif;color:var(--faint);white-space:nowrap}
+.fr__h{position:absolute;top:.25rem;height:2.6rem;width:2px;margin-left:-1px;background:var(--ink);transition:left .12s cubic-bezier(.2,.7,.2,1)}
+.fr__h:focus-visible{outline:2px solid var(--ver);outline-offset:3px}
+.fr__h em{position:absolute;top:0;font:600 .74rem/1 "Archivo",sans-serif;font-style:normal;white-space:nowrap;background:var(--ink);color:var(--pap);
+  padding:.26rem .42rem;transition:transform .15s}
+.fr__h[data-end="lo"] em{right:0;border-radius:3px 0 0 3px}
+.fr__h[data-end="hi"] em{left:0;border-radius:0 3px 3px 0}
+.fr__h.is-drag em{transform:scale(1.08)}
+.fr__h.is-drag{transition:none}
+
+/* ===== The page's colophon (route-footer-options.html, B) =====
+   One line under both columns, about the description only: a light 1px
+   hairline above it, the page's faint grey, the edit link in the accent. */
+.pfoot{display:flex;flex-wrap:wrap;justify-content:space-between;gap:.4rem 2rem;
+  margin:2.6rem 0 1.6rem;padding:.9rem 0 0;border-top:1px solid var(--rule);
+  color:var(--faint);font:400 .78rem/1.55 "Archivo",sans-serif}
+.pfoot__edit{display:inline-flex;align-items:center;gap:.35rem;margin-left:auto}
+.pfoot__edit svg{width:13px;height:13px;color:var(--dim)}
+.pfoot a{color:var(--ver);text-decoration:none}
+.pfoot a:hover{text-decoration:underline}
+.pfoot__by{margin:0}
+.pfoot__by b{font-weight:500;color:var(--dim)}
+
+/* ===== Info (site-footer-options.html, round 4) =====
+   The hub at /info is every subject as rows, in groups, in the list Find and
+   Preferiti use. A subject page has the same groups as a list at its side, the
+   open one marked in the archive's green, and its own words beside it; a scale
+   is a card of levels in words (S2), one card per axis. On a phone there is no
+   side: the hub is the list, and a subject page has a way back to it. */
+.info__hub{max-width:44rem;padding:1.4rem 0 4rem}
+.info__hub section{margin-top:1.6rem}
+.info__hub .lab,.info__main .lab{display:block;margin:0 0 .55rem;color:var(--dim)}
+.info__intro{margin:0 0 1.2rem;max-width:58ch;font:400 1.02rem/1.6 "Archivo",sans-serif;color:var(--dim)}
+.info__rows{border-radius:10px;background:var(--pan2);box-shadow:var(--lift);overflow:hidden}
+.info__rows>a,.info__rows>span{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:1rem;align-items:center;
+  padding:.8rem 1.1rem;border-top:1px solid var(--rule);color:var(--ink);text-decoration:none}
+.info__rows>:first-child{border-top:0}
+.info__rows b{grid-column:1;font:600 .98rem/1.3 "Archivo",sans-serif}
+.info__rows small{grid-column:1;margin-top:.15rem;font:400 .84rem/1.4 "Archivo",sans-serif;color:var(--faint)}
+.info__rows>a::after{content:"›";grid-column:2;grid-row:1/3;font:400 1.3rem/1 "Archivo",sans-serif;color:var(--faint);transition:transform .18s ease}
+.info__rows>a{transition:background-color .18s ease}
+.info__rows>a:hover{background:rgba(38,114,112,.06)}
+.info__rows>a:hover::after{transform:translateX(3px);color:var(--ver)}
+.info__rows>span b{color:var(--faint)}
+.info__rows>span small{font:600 .58rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase}
+
+.info{display:grid;grid-template-columns:14rem minmax(0,44rem);gap:clamp(1.6rem,4vw,3.6rem);padding:2.2rem 0 4rem}
+.info__side{position:sticky;top:1.4rem;align-self:start;display:grid;gap:1.3rem}
+.info__side .lab{display:block;margin:0 0 .35rem;color:var(--faint)}
+.info__side a,.info__side .info__soon{display:block;margin-left:-.65rem;padding:.38rem .65rem;border-radius:7px;
+  font:500 .92rem/1.3 "Archivo",sans-serif;color:var(--dim);text-decoration:none;transition:background-color .18s ease,color .18s ease}
+.info__side a:hover{background:rgba(27,39,51,.05);color:var(--ink)}
+.info__side a[aria-current="page"]{background:rgba(38,114,112,.11);color:var(--ink);font-weight:600}
+.info__side .info__soon{color:#A9B4BB}
+.info__side .info__soon::after{content:" · presto";font:600 .56rem/1 "Archivo Narrow",sans-serif;letter-spacing:.12em;text-transform:uppercase}
+.info__sub{margin:.1rem 0 .25rem .75rem;padding-left:.65rem;border-left:1px solid var(--rule)}
+.info__sub a{font-size:.86rem;padding:.3rem .6rem}
+.info__main h1{margin:.2rem 0 .7rem;font:700 clamp(1.9rem,4vw,2.5rem)/1.05 "Archivo",sans-serif;letter-spacing:-.03em}
+.info__crumb{margin:0;font:400 .84rem/1.4 "Archivo",sans-serif;color:var(--faint)}
+.info__crumb a{color:inherit;text-decoration:none}
+.info__crumb a:hover{color:var(--ver)}
+.info__back{display:none}
+.info__main>p:not(.info__crumb):not(.info__intro):not(.info__users){margin:0 0 .9rem;max-width:62ch;font:400 1rem/1.65 "Archivo",sans-serif}
+.info__main p a{color:var(--ver);text-decoration:none}
+.info__main p a:hover{text-decoration:underline}
+.info__users{margin:-.6rem 0 1.3rem;font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--faint)}
+.info__main h2.lab{margin-top:1.8rem}
+.info__levels{border-radius:12px;background:var(--pan2);box-shadow:var(--lift);overflow:hidden}
+.info__levels>div{display:grid;grid-template-columns:4rem minmax(0,1fr);gap:1.1rem;align-items:baseline;padding:.8rem 1.2rem;border-top:1px solid var(--rule)}
+.info__levels>div:first-child{border-top:0}
+.info__levels b{font:700 1.15rem/1.1 "Archivo",sans-serif;letter-spacing:-.01em}
+.info__levels span{font:600 .95rem/1.35 "Archivo",sans-serif}
+.info__levels em{display:block;margin-top:.15rem;font-style:normal;font:600 .8rem/1.3 "Archivo",sans-serif;color:var(--ver);font-variant-numeric:tabular-nums}
+.info__levels small{display:block;margin-top:.15rem;font:400 .86rem/1.45 "Archivo",sans-serif;color:var(--faint)}
+@media (prefers-reduced-motion:reduce){.info__rows>a,.info__rows>a::after,.info__side a{transition:none}}
+/* Info is the nav's fourth word, and four words and the mark do not fit a phone
+   at the desktop's spacing: the gaps and the letter spacing close up there. */
+@media (max-width:560px){
+  header{gap:1rem}
+  nav{gap:.9rem}
+  nav a,nav .who,nav form.out button{letter-spacing:.09em}
+}
+@media (max-width:820px){
+  .info{grid-template-columns:1fr;padding-top:1.2rem}
+  .info__side{display:none}
+  .info__back{display:inline-block;margin-bottom:.4rem;font:600 .9rem/1.3 "Archivo",sans-serif;color:var(--ver);text-decoration:none}
+  .info__crumb{display:none}
+  .info__levels>div{grid-template-columns:3rem minmax(0,1fr);gap:.8rem;padding:.75rem 1rem}
+}
+
+/* Weather stations near the route, folded under Adesso's figures: one line
+   that opens in place onto the stations as the nearby section draws its rows,
+   each linked to the station's own page. station-fold.js moves the height. */
+.stz{margin-top:1rem;border-top:1px solid var(--rule)}
+.stz summary{list-style:none;cursor:pointer;display:flex;align-items:baseline;gap:.5rem;padding:.8rem 0 .3rem;
+  font:600 .6rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--faint)}
+.stz summary::-webkit-details-marker{display:none}
+.stz summary:hover{color:var(--ver)}
+.stz summary:focus-visible{outline:2px solid var(--ver);outline-offset:2px}
+.stz__n{font-variant-numeric:tabular-nums}
+.stz summary::after{content:"+";margin-left:auto;font:400 1rem/1 "Archivo",sans-serif;transition:transform .3s ease}
+.stz[open] summary::after{transform:rotate(45deg)}
+.stz__body{overflow:hidden;transition:height .32s cubic-bezier(.2,.7,.2,1)}
+/* .doc p would set it as body text; it is a credit line */
+.doc .stz__src,.stz__src{margin:.55rem 0 0;font:400 .72rem/1.4 "Archivo",sans-serif;color:var(--faint)}
+@media (prefers-reduced-motion:reduce){
+  .stz__body,.stz summary::after{transition:none}
+}
+
+/* ===== On a phone: the tab bar =====
+   a design study, A2 and T1. Below 760px the header keeps
+   only the sun and the name, and its four places move to a bar at the bottom of
+   the screen, under the thumb: an icon and a word each, the current one in
+   verde. The bar sits clear of the home indicator. Above 760px it is not drawn. */
+.tabbar{display:none}
+@media (max-width:760px){
+  :root{--tabbar:calc(3.6rem + env(safe-area-inset-bottom,0px))}
+  header nav{display:none}
+  header{padding-top:.8rem;padding-bottom:.8rem}
+  body{padding-bottom:var(--tabbar)}
+  .tabbar{position:fixed;left:0;right:0;bottom:0;z-index:40;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));
+    height:var(--tabbar);padding:0 .25rem env(safe-area-inset-bottom,0px);
+    background:rgba(252,252,254,.88);-webkit-backdrop-filter:blur(14px) saturate(1.3);backdrop-filter:blur(14px) saturate(1.3);
+    box-shadow:0 -1px 0 rgba(27,39,51,.08)}
+  .tabbar>a,.tabbar summary{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.22rem;
+    min-height:44px;color:var(--faint);text-decoration:none;font:600 .66rem/1 "Archivo",sans-serif;cursor:pointer;
+    letter-spacing:0;text-transform:none;
+    -webkit-tap-highlight-color:transparent}
+  .tabbar svg{width:1.5rem;height:1.5rem;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+  .tabbar span{max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding:0 .2rem}
+  .tabbar [aria-current="page"]{color:var(--ver)}
+  .tabbar>a:focus-visible,.tabbar summary:focus-visible{outline:2px solid var(--ver);outline-offset:-4px;border-radius:10px}
+  /* signed in, the fourth place is the reader, and opens the way out above it */
+  .tabbar__me{position:relative;display:flex;flex-direction:column}
+  .tabbar__me summary{list-style:none;flex:1;color:var(--ink)}
+  .tabbar__me summary::-webkit-details-marker{display:none}
+  .tabbar__out{position:absolute;right:.4rem;bottom:calc(100% + .5rem);margin:0}
+  .tabbar__out button{padding:.8rem 1.4rem;border:0;border-radius:12px;background:var(--pap);box-shadow:var(--lift);
+    font:600 .95rem/1 "Archivo",sans-serif;color:var(--ink);cursor:pointer}
+}
+
+/* ===== On a phone: a route or crag page =====
+   mobile-options.html, B2 with P1, S2 and N1. The header stays at the top and,
+   once the title has gone under it, says the page's name with its star
+   (page-phone.js marks it). Under the title: three facts large, the others in a
+   line, nothing recorded left out; then three actions; then a strip of tabs that
+   sticks under the header. The card goes: sections run the width of the screen,
+   in the phone's own order — the sky first, then the grades, the words, what the
+   reports say, the routes, the photos, the way there. */
+.hname,.hstar,.pgo,.ptabs{display:none}
+@media (max-width:760px){
+  :root{--hh:3.35rem}
+  header{position:sticky;top:0;height:var(--hh);padding-top:0;padding-bottom:0}
+  header.has-name{overflow:hidden}
+  .mark__w{display:inline-block;transition:transform .3s cubic-bezier(.2,.8,.2,1),opacity .3s linear}
+  .hname{position:absolute;left:3.9rem;right:3.6rem;top:0;bottom:0;display:flex;align-items:center;pointer-events:none}
+  .hname span{display:block;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;
+    font:700 1.04rem/1.3 "Archivo",sans-serif;letter-spacing:-.015em;color:var(--ink);
+    transform:translateY(110%);opacity:0;transition:transform .3s cubic-bezier(.2,.8,.2,1),opacity .3s linear}
+  .hstar{display:block;position:absolute;right:.6rem;top:50%;width:44px;height:44px;margin-top:-22px;padding:10px;
+    border:0;background:none;color:var(--rule);cursor:pointer;opacity:0;pointer-events:none;transform:translateY(60%);
+    transition:transform .3s cubic-bezier(.2,.8,.2,1),opacity .3s linear}
+  .hstar svg{display:block;width:100%;height:100%;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linejoin:round}
+  .hstar.on{color:var(--ver)}
+  .hstar.on svg{fill:currentColor}
+  .is-titled .mark__w{transform:translateY(-180%);opacity:0}
+  .is-titled .hname span{transform:none;opacity:1}
+  .is-titled .hstar{transform:none;opacity:1;pointer-events:auto}
+
+  /* the head: the title alone, then the three actions (H4, P5). The facts open
+     the Generale panel instead, as a card (D3, G2). */
+  .phead{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:.5rem;padding:1.3rem 0 0}
+  .phead>*{grid-column:1/-1}
+  .phead .ptitle{display:contents}
+  .phead .ptitle h1{grid-column:1/-1;order:1;margin-top:.55rem;font-size:2rem}
+  .phead>.cls{display:none}
+  .pgo,.phead .ptitle>form,.phead .ptitle>.fav,.phead .ptitle>.file{order:4;grid-column:auto;margin-top:1.1rem}
+  .phead .ptitle>form,.phead .ptitle>.fav{order:5}
+  .phead .ptitle>.file{order:6}
+  .pgo,.phead .ptitle>form .fav,.phead .ptitle>.fav,.phead .ptitle>.file{display:flex;flex-direction:column;align-items:center;
+    justify-content:center;gap:.4rem;min-height:3.6rem;padding:.65rem 0 .55rem;border:0;border-radius:12px;background:rgba(34,48,60,.055);
+    color:var(--ink);text-decoration:none;font:600 .76rem/1 "Archivo",sans-serif;cursor:pointer;-webkit-tap-highlight-color:transparent}
+  /* signed in, the star sits in its form; the form's own bottom margin would
+     stretch the row and leave the star's tile shorter than the other two */
+  .phead .ptitle>form{display:flex;margin:1.1rem 0 0}
+  .phead .ptitle>form .fav{flex:1;margin:0}
+  .pgo svg,.phead .ptitle .fav svg,.phead .ptitle>.file svg{width:1.35rem;height:1.35rem}
+  .pgo svg{fill:none;stroke:var(--act-go);stroke-width:1.9;stroke-linejoin:round}
+  .phead .ptitle .fav svg{stroke:var(--act-fav-line);fill:rgba(255,193,7,.16)}
+  .phead .ptitle .fav--on svg{fill:var(--act-fav)}
+  .phead .ptitle>.file svg{color:var(--act-say)}
+  .phead .ptitle .fav::after{content:"Salva";color:var(--ink)}
+  .phead .ptitle .fav--on::after{content:"Salvato"}
+  .phead .ptitle>.file::after{content:"Scrivi"}
+
+  /* the tabs (K1, S8): large words, the others dim, an ink rule sliding under
+     the current one. Drawn only once page-phone.js has taken the panels over. */
+  .ptabs{position:sticky;top:var(--hh);z-index:25;display:none;gap:1.5rem;margin:1.2rem -1rem 0;padding:0 1rem;
+    overflow-x:auto;scrollbar-width:none;background:rgba(252,252,254,.94);
+    -webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);box-shadow:inset 0 -1px 0 var(--rule)}
+  .has-tabs .ptabs{display:flex}
+  .ptabs::-webkit-scrollbar{display:none}
+  .ptabs button{flex:none;padding:.95rem 0 .85rem;border:0;background:none;color:var(--faint);white-space:nowrap;cursor:pointer;
+    font:600 1.06rem/1 "Archivo",sans-serif;letter-spacing:-.01em;transition:color .2s;-webkit-tap-highlight-color:transparent}
+  .ptabs button small{font:500 .8rem/1 "Archivo",sans-serif;color:inherit;opacity:.7}
+  .ptabs button[aria-selected="true"]{color:var(--ink)}
+  .ptabs__ul{position:absolute;left:0;bottom:0;height:2.5px;width:0;border-radius:1px;background:var(--ink);
+    transition:left .3s cubic-bezier(.2,.8,.2,1),width .3s cubic-bezier(.2,.8,.2,1)}
+
+  /* the panels: every part a card (I2) on the contour ground, in the phone's order */
+  .wrap>.body{display:block;padding:.9rem 0 2.5rem;margin:0}
+  .l3{display:flex;flex-direction:column;gap:.75rem;padding:0;background:none;border-radius:0;box-shadow:none}
+  .l3 .doc,.l3 .railwrap,.l3 .tail{display:contents}
+  .l3 .doc>*,.l3 .tail>*{order:10}
+  .l3 section{scroll-margin-top:calc(var(--hh) + 3.4rem)}
+  .l3 #dati{order:0}
+  .l3 #condizioni{order:1}
+  .l3 #gradi,.l3 #profilo{order:2}
+  .l3 #note,.l3 #descrizione{order:3}
+  .l3 #discesa{order:4}
+  .l3 #relazioni{order:4}
+  .l3 #settori{order:5}
+  .l3 #materiale{order:6}
+  .l3 #foto{order:6}
+  .l3 #parcheggio{order:7}
+  .l3 #accesso{order:8}
+  .l3 #avvicinamento{order:9}
+  .l3 #appoggio{order:10}
+  .l3 section,.l3 .doc>section,.l3 .rail section{margin:0;padding:1rem 1rem 1.05rem;border-radius:14px;
+    background:rgba(252,252,254,.97);box-shadow:var(--lift)}
+  .l3 section[hidden]{display:none}
+  .l3 .doc h2,.l3 .rail h2{margin:0 0 .75rem;padding:0;border:0;font:600 1.06rem/1.25 "Archivo",sans-serif;letter-spacing:-.01em}
+  /* a card never repeats its tab's name: Vie, Foto, Accesso start on what they hold */
+  .l3 #gradi>h2,.l3 #settori>h2,.l3 #foto>h2,.l3 #parcheggio>h2,.l3 #accesso>h2{display:none}
+  .l3 #gradi+#settori,.l3 #settori{margin-top:0}
+  .l3 #condizioni,.l3 #relazioni{background:rgba(252,252,254,.97);border-radius:14px}
+  .l3 #condizioni .cond{background:none;padding:0;border:0}
+  .l3 #relazioni h2{color:var(--ver);border:0}
+  /* the way there: the map with the parking and the road as one card, the walk another (AC) */
+  .l3 #parcheggio .pk__pts{display:none}
+  .l3:has(#accesso:not([hidden])) #parcheggio{border-radius:14px 14px 0 0;padding-bottom:.4rem}
+  .l3:has(#parcheggio:not([hidden])) #accesso{margin-top:-.75rem;border-radius:0 0 14px 14px;padding-top:.6rem}
+  .l3 #accesso .dl div{grid-template-columns:1fr}
+  /* the routes: the chart and the list as one card; a row is the name and the
+     grade, no leaders, no column of lengths nobody recorded */
+  .l3:has(#settori:not([hidden])) #gradi{border-radius:14px 14px 0 0;padding-bottom:.4rem}
+  .l3:has(#gradi:not([hidden])) #settori{margin-top:-.75rem;border-radius:0 0 14px 14px;padding-top:.4rem}
+  .l3 .routes div{grid-template-columns:minmax(0,1fr) auto auto;gap:.8rem;padding:.5rem 0;border-top:1px solid var(--rule)}
+  .l3 .routes span::after{display:none}
+  .l3 .routes span{display:block;text-transform:lowercase}
+  .l3 .routes span::first-letter{text-transform:uppercase}
+  .l3 .routes b.nil{display:none}
+  /* the photos: one wall of every photo at its own shape, the day on each report's first (FB) */
+  .l3 #foto .mo--rail{display:block;columns:2;column-gap:4px;border-radius:0;box-shadow:none;overflow:visible}
+  .l3 #foto .mo__t,.l3 #foto .mo__t[hidden]{display:block;margin:0 0 4px;break-inside:avoid;border-radius:8px}
+  .l3 #foto .mo__t img{display:block;width:100%;height:auto}
+  .l3 #foto .mo__more{display:none}
+  .l3 #foto .mo__chip--phone{display:block}
+  /* the facts, two columns of rows: label left, value right (G2) */
+  .pdati{display:block}
+  .pdati dl{columns:2;column-gap:1.1rem;margin:0}
+  .pdati dl div{display:flex;justify-content:space-between;align-items:baseline;gap:.4rem;padding:.45rem 0;border-bottom:1px solid var(--rule);break-inside:avoid}
+  .pdati dt{font:400 .8rem/1.2 "Archivo",sans-serif;color:var(--faint)}
+  .pdati dd{margin:0;font:500 .88rem/1.2 "Archivo",sans-serif;text-align:right}
+  .pdati .warn dd{color:var(--red)}
+  .pdati__gz{margin-top:.6rem!important}
+  .pdati__st{white-space:nowrap;letter-spacing:1px;color:#D3DADF}
+  .pdati__st span{color:var(--ink)}
+  /* a tab is one card to read down, so nothing in it folds: the whole list of
+     vie shows at once, never behind "Mostra tutte" */
+  .vie-fold.is-folded .vie-fold__body{height:auto}
+  .vie-fold.is-folded .vie-fold__body::after{opacity:0}
+  .vie-fold.is-folded .vie-fold__toggle,.vie-fold.is-open .vie-fold__toggle{display:none}
+  /* the grade chart fits the card's width rather than scrolling sideways; its
+     type is set larger in the drawing's own units so it still reads once shrunk */
+  .chart-wrap{overflow:visible}
+  .chart{min-width:0}
+  .chart .g{font-size:22px}
+  .chart .n{font-size:24px}
+  /* a panel's cards slide in from the side its tab lies on (M2's easing) */
+  .l3 section.tab-in{animation:tab-in .32s cubic-bezier(.2,.8,.2,1)}
+}
+@keyframes tab-in{from{opacity:0;transform:translateX(var(--from,0))}}
+@media (min-width:761px){.pdati,.mo__chip--phone,#feed{display:none}}
+/* The page's colophon on a phone, under Generale only (page-phone.js), since it
+   is about the description: no card, no rule — two small faint lines centred
+   at the foot of the panel, when and who, then the way to propose a change. */
+@media (max-width:760px){
+  .pfoot{display:block;margin:1.4rem 0 1.8rem;padding:0;border:0;text-align:center;
+    color:var(--faint);font:400 .74rem/1.6 "Archivo",sans-serif}
+  .pfoot[hidden]{display:none}
+  .pfoot__by b{font-weight:500;color:var(--dim)}
+  .pfoot__edit{display:inline-flex;margin:.15rem 0 0;font-size:.74rem}
+  .pfoot__edit svg{width:11px;height:11px}
+  /* the header and the tabs under it are solid: nothing scrolls through them */
+  header{background:var(--pap);-webkit-backdrop-filter:none;backdrop-filter:none}
+  .ptabs{background:var(--pap);-webkit-backdrop-filter:none;backdrop-filter:none}
+  .tabbar{background:var(--pap);-webkit-backdrop-filter:none;backdrop-filter:none}
+}
+@media (max-width:760px) and (prefers-reduced-motion:reduce){
+  .mark__w,.hname span,.hstar,.ptabs__ul{transition:none}
+  .l3 section.tab-in{animation:none}
+}
+
+/* ===== The three actions' own colours, on every screen =====
+   mobile-options.html, rounds 9–10 (P5): green to go, a favourite's yellow to
+   keep, violet to write. Nothing moves on the desktop; only the colours of
+   what is already there change — the star beside the title and in Find's rows,
+   the bubble that opens the report form, the parking panel's Indicazioni. */
+:root{--act-go:#2F9E44;--act-fav:#FFC107;--act-fav-line:#F5B400;--act-say:#7048E8}
+.fav{color:var(--act-fav-line)}
+.fav:hover{color:#D99A00}
+.fav--on{color:var(--act-fav-line)}
+.fav--on svg{fill:var(--act-fav)}
+.file{color:var(--act-say)}
+.file:hover{color:#5532C4}
+.pk__p dd a{color:var(--act-go)}
+.pk__p dd a:hover{color:#23793A}
+.hstar{color:var(--act-fav-line)}
+.hstar.on{color:var(--act-fav-line)}
+.hstar.on svg{fill:var(--act-fav)}
+/* the star in a finer line, everywhere it is drawn */
+.fav svg,.hstar svg{stroke-width:1.2}
+
+/* ===== A report, on every screen =====
+   mobile-options.html, V1 and T2 (rounds 16–18), replacing the slip's stub: the
+   writer first — an initial, the name, the day — then the words, the photos, and
+   one row of tags at the foot. A change the reading kept is the first tag, in its
+   colour, named by the change itself, its sentence underlined in the same colour;
+   then the themes, outlined; a theme only this report has raised, dashed. */
+.slip--v1{display:grid;grid-template-columns:2.4rem minmax(0,1fr);gap:.9rem;padding:1.1rem 1.25rem 1.15rem;
+  border:0;border-radius:12px;background:rgba(252,252,254,.97);box-shadow:var(--lift)}
+.slip--v1.slip--flag{border:0}
+.slip--v1 .slip__main{padding:0}
+.slip__av{display:grid;place-items:center;width:2.4rem;height:2.4rem;border-radius:50%;background:#E3E9EC;
+  font:700 1rem/1 "Archivo",sans-serif;color:var(--dim)}
+.slip__av--none{background:repeating-linear-gradient(45deg,#EDF1F3 0 4px,#E3E9EC 4px 8px)}
+.doc .slip__h{display:flex;justify-content:space-between;align-items:baseline;gap:.8rem;margin:0 0 .35rem;max-width:none}
+.slip__who{font:600 .98rem/1.2 "Archivo",sans-serif;color:var(--ink)}
+.doc .slip--v1 .slip__d{display:inline;font:400 .82rem/1 "Archivo",sans-serif;letter-spacing:0;color:var(--faint);white-space:nowrap}
+.slip--v1 .slip__d small{display:inline;margin:0;font:inherit;letter-spacing:0;text-transform:none;color:inherit}
+.slip--v1 .slip__words mark:not([class]){box-shadow:none;border-bottom:2px solid rgba(198,72,43,.55)}
+.slip--v1 .slip__words mark.slip__n{box-shadow:none;border-bottom:2px solid rgba(38,114,112,.5)}
+.slip__tags{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.8rem}
+.slip__tag{display:inline-flex;align-items:center;gap:.3rem;padding:.3rem .55rem;border-radius:6px;
+  box-shadow:inset 0 0 0 1px var(--rule);font:500 .78rem/1 "Archivo",sans-serif;color:var(--dim);cursor:default;outline:none}
+.slip__tag:focus-visible{box-shadow:inset 0 0 0 2px var(--ver)}
+.slip__tag svg{width:.8rem;height:.8rem;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.slip__tag--attenzione{box-shadow:none;background:rgba(198,72,43,.1);color:#AC5031;font-weight:600}
+.slip__tag--novita{box-shadow:none;background:rgba(38,114,112,.1);color:var(--ver);font-weight:600}
+.slip__tag--lone{box-shadow:none;border:1px dashed var(--rule)}
+.slip__tag.slip__theme--on,.slip__tag.slip__change--on{box-shadow:inset 0 0 0 1.5px currentColor}
+@media (max-width:760px){
+  .slip--v1{grid-template-columns:2.1rem minmax(0,1fr);gap:.7rem;padding:.95rem 1rem 1rem;border-radius:14px}
+  .slip__av{width:2.1rem;height:2.1rem;font-size:.9rem}
+
+  /* Cosa dicono le relazioni, made for a phone (S1, KD): one line of how many and
+     how recent, the themes as chips in the theme's pale verde, Attenzione and
+     Novità as two lines that open in place (page-phone.js folds them). No
+     Leggile tutte: the reports follow underneath, loading as the page scrolls. */
+  .l3 #relazioni .sum{margin:0;padding:0;background:none;border:0}
+  .l3 #relazioni .sum__top{display:block;margin:0;padding:0;border:0}
+  .l3 #relazioni .sum__go,.l3 #relazioni .sum__h{display:none}
+  .l3 #relazioni .sum__now{display:block;font:400 .92rem/1.4 "Archivo",sans-serif;color:var(--dim)}
+  .l3 #relazioni .sum__now>b{font:700 1.35rem/1 "Archivo",sans-serif;color:var(--ink);margin-right:.3rem}
+  .l3 #relazioni .sum__now>span{display:inline;margin:0;font:inherit;letter-spacing:0;text-transform:none;color:inherit}
+  .l3 #relazioni .sum__last::before{content:" · "}
+  .l3 #relazioni .sum__c{margin:0;padding:0;border:0}
+  .l3 #relazioni .sum__l{display:flex;flex-wrap:wrap;gap:.4rem;margin:.75rem 0 0;max-width:none}
+  .l3 #relazioni .sum__l div{display:inline-flex;flex-direction:row-reverse;align-items:baseline;gap:.3rem;padding:.4rem .65rem;
+    border:0;border-radius:99px;background:rgba(38,114,112,.08)}
+  .l3 #relazioni .sum__l span{font:500 .85rem/1 "Archivo",sans-serif;color:var(--ver)}
+  .l3 #relazioni .sum__l b{font:600 .82rem/1 "Archivo",sans-serif;color:#1D5654;text-align:left}
+  .l3 #relazioni .sum__g{margin-top:.7rem;padding-top:0;border-top:1px solid var(--rule);max-width:none}
+  .l3 #relazioni .sum__g.is-folded>:not(.sum__gh){display:none}
+  .l3 #relazioni .sum__gh{display:flex;justify-content:space-between;align-items:center;margin:0;padding:.7rem 0 .35rem;cursor:pointer;
+    font:600 .9rem/1 "Archivo",sans-serif;letter-spacing:0;text-transform:none;color:var(--ink)}
+  .l3 #relazioni .sum__g--attenzione .sum__gh{color:#AC5031}
+  .l3 #relazioni .sum__gh span:first-child{display:none}
+  .l3 #relazioni .sum__gh span:last-child{display:inline;font:500 .82rem/1 "Archivo",sans-serif;color:var(--faint)}
+  .l3 #relazioni .sum__gh span:last-child::after{content:"⌃";margin-left:.4rem}
+  .l3 #relazioni .sum__g.is-folded .sum__gh span:last-child::after{content:"⌄"}
+  .l3 #relazioni .sum__g>div:not(.sum__gh){grid-template-columns:1.6rem minmax(0,1fr) auto;gap:.6rem}
+  /* a theme or a change is a filter on the reports below (page-phone.js) */
+  .l3 #relazioni [data-pick]{cursor:pointer;-webkit-tap-highlight-color:transparent;transition:background .15s,color .15s}
+  .l3 #relazioni .sum__l div[aria-pressed="true"]{background:var(--ver)}
+  .l3 #relazioni .sum__l div[aria-pressed="true"] span,.l3 #relazioni .sum__l div[aria-pressed="true"] b{color:#fff}
+  .l3 #relazioni .sum__g>div[aria-pressed="true"]{margin:0 -.5rem;padding-left:.5rem;padding-right:.5rem;border-radius:8px;background:rgba(38,114,112,.1)}
+  .feed__more[hidden]{display:none}
+  .feed__pick{display:flex;align-items:center;gap:.35rem;margin:0;padding:.15rem .1rem 0;font:400 .88rem/1.4 "Archivo",sans-serif;color:var(--dim)}
+  .feed__pick[hidden]{display:none}
+  .feed__pick q{quotes:"«" "»";color:var(--ink);font-weight:600}
+  .feed__x{margin-left:auto;width:2rem;height:2rem;border:0;border-radius:50%;background:rgba(34,48,60,.07);
+    color:var(--ink);font:400 1.2rem/1 "Archivo",sans-serif;cursor:pointer}
+
+  /* the reports, under the summary, three at a time as the page scrolls */
+  .l3 #feed{padding:0;background:none;box-shadow:none;display:grid;gap:.75rem}
+  .l3 #feed .slips{display:contents}
+  /* a section another tab holds stays hidden, whatever display its own rule gives it */
+  .l3 section[hidden]{display:none!important}
+  .feed__more{display:flex;justify-content:center;gap:.35rem;padding:1rem 0}
+  .feed__more i{width:.4rem;height:.4rem;border-radius:50%;background:var(--faint);animation:feed-dot .9s infinite ease-in-out}
+  .feed__more i:nth-child(2){animation-delay:.15s}.feed__more i:nth-child(3){animation-delay:.3s}
+  .feed__end{padding:.6rem 0 1rem;text-align:center;font:400 .85rem/1 "Archivo",sans-serif;color:var(--faint)}
+}
+@keyframes feed-dot{0%,80%,100%{opacity:.25}40%{opacity:1}}
+
+/* ===== On a phone: Find and the home =====
+   mobile-options.html, C3, H2, Q1, D2, K1, M2 and R1. The map fills the screen
+   between the header and the tab bar; the question floats over it as a card; the
+   list is a sheet at the foot, at one of three heights, moved by find-sheet.js
+   through two properties on .split (so a swapped list keeps its place). On the
+   home the sheet holds the activities, as chips in their map colours. */
+.sheet__map{display:none}
+@media (max-width:760px){
+  body:has(>.split){height:100vh;height:100dvh;overflow:hidden}
+  body>.split{position:fixed;left:0;right:0;top:var(--hh);bottom:var(--tabbar);display:block;min-height:0}
+  .split>.map{position:absolute;inset:0;margin:0;height:auto;border:0;border-radius:0;box-shadow:none}
+  .split>.col{position:absolute;inset:0;display:block;overflow:visible;pointer-events:none;z-index:3}
+  .split>.col>*{pointer-events:auto}
+
+  /* the question, a card over the map (Q1); its ways to narrow on one sideways line */
+  .split>.col>.q{position:absolute;left:.6rem;right:.6rem;top:.6rem;z-index:4;max-height:45%;overflow:auto;
+    padding:.75rem .9rem .7rem;border:0;border-radius:14px;background:rgba(252,252,254,.96);box-shadow:var(--lift);
+    -webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px)}
+  .split>.col>.q .q__s{font-size:1.2rem;line-height:1.4}
+  .split>.col>.q .q__more{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;gap:.5rem;margin-top:.45rem;padding-bottom:.1rem}
+  .split>.col>.q .q__more::-webkit-scrollbar{display:none}
+  .split>.col>.q .q__add{flex:none;padding:.35rem .6rem;border:0;border-radius:99px;box-shadow:0 0 0 1px var(--rule);
+    background:#fff;font-size:.8rem;white-space:nowrap}
+  .split>.col>.q .q__clear{flex:none;padding:.35rem .65rem;border:0;border-radius:99px;background:var(--ink);color:#fff}
+  .split>.col>.q .q__clear span{color:rgba(255,255,255,.7)}
+  /* Cerco, the typed words and the turning example at one size, so they share a
+     line; the page has no doctype, so a form keeps its 1em foot — taken off */
+  .split>.col>.q form{margin:0}
+  .split>.col>.q .q__row{margin:0;font-size:1.15rem}
+
+  /* the sheet */
+  .split>.col>.list{position:absolute;left:0;right:0;bottom:0;z-index:5;margin:0;padding:0 0 .6rem;
+    height:var(--sheet-h,55%);transform:translateY(var(--sheet-y,0));overflow:hidden;touch-action:none;
+    border-radius:18px 18px 0 0;background:var(--pap);box-shadow:0 -8px 30px rgba(27,39,51,.18);
+    transition:transform .32s cubic-bezier(.2,.8,.2,1)}
+  .split.is-moving>.col>.list{transition:none}
+  .split[data-sheet="full"]>.col>.list{overflow-y:auto;touch-action:pan-y}
+  /* at half the list scrolls too; the sheet runs below the screen by --sheet-y,
+     so that much room at its foot lets the last row come up into view */
+  .split[data-sheet="half"]>.col>.list{overflow-y:auto;touch-action:pan-y;overscroll-behavior:contain;
+    padding-bottom:calc(var(--sheet-y,0px) + .6rem)}
+  .split[data-sheet="full"]>.col>.list{overscroll-behavior:contain}
+  .split>.col>.list::before{content:"";display:block;width:2.6rem;height:5px;margin:.55rem auto .25rem;border-radius:3px;background:#C5CDD3}
+  .split>.col>.list>.list__h{position:sticky;top:0;z-index:1;padding:.35rem 1rem .5rem;background:var(--pap)}
+  .split>.col>.list>.list__h b{font:600 .62rem/1.4 "Archivo Narrow",sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
+  .sheet__map{position:absolute;left:50%;bottom:1rem;z-index:6;display:flex;align-items:center;gap:.45rem;
+    padding:.7rem 1.1rem;border:0;border-radius:99px;background:var(--ink);color:#fff;transform:translateX(-50%);
+    font:600 .9rem/1 "Archivo",sans-serif;box-shadow:0 8px 20px rgba(0,0,0,.25);cursor:pointer;
+    opacity:0;pointer-events:none;transition:opacity .2s}
+  .sheet__map svg{width:1.1rem;height:1.1rem;fill:none;stroke:#fff;stroke-width:1.8;stroke-linejoin:round}
+  .split[data-sheet="full"]>.sheet__map{opacity:1;pointer-events:auto}
+  .split .maplibregl-ctrl-top-right{display:none}
+  .split .map__leg{display:none}
+
+  /* a row (R1): name and place, the star at the end; then the grade chart and
+     the facts on one line; no reports line, no bar */
+  .split .list .r,.split .list--facts .r{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:0 .6rem;
+    padding:.85rem 1rem .9rem;grid-column:auto}
+  .split .list .r__bar,.split .list .r__s{display:none}
+  .split .list .r>div:nth-child(2){display:block;grid-column:1}
+  .split .list .r__n{display:flex;align-items:baseline;gap:.5rem;font-size:1rem}
+  .split .list .r__n small{margin-left:0;white-space:nowrap}
+  .split .list .r__f{display:flex;flex-wrap:nowrap;align-items:center;gap:.9rem;margin-top:.45rem}
+  .split .list .r__f>div{grid-row:auto;grid-column:auto;margin:0;min-width:0}
+  .split .list .r__f dd{font-size:.85rem}
+  .split .list .r .fav,.split .list .r>form{grid-column:2;grid-row:1;align-self:center}
+  .split .list .gh{width:108px;height:auto}
+  .split .list .pages{padding:.5rem 1rem}
+
+  /* the home's sheet: the activities as chips in their map colours (K1) */
+  .split .list .acts{display:flex;flex-wrap:wrap;gap:.45rem;padding:.3rem 1rem .4rem}
+  .split .list .acts li a{display:inline-flex;align-items:center;gap:.45rem;padding:.55rem .8rem;border:0;border-radius:99px;
+    background:#fff;box-shadow:0 0 0 1px var(--rule)}
+  .split .list .acts li a::before{content:"";width:.6rem;height:.6rem;border-radius:50%;background:var(--dot,var(--faint))}
+  .split .list .acts .n{font-size:.92rem}
+  .split .list .acts .c{font-size:.8rem}
+  .split .list .acts li:last-child a{border:0}
+  .split .list .acts a[href="/trova?q=falesia"]{--dot:var(--act-falesia)}
+  .split .list .acts a[href="/trova?q=alpinismo"]{--dot:var(--act-alpinismo)}
+  .split .list .acts a[href="/trova?q=multipitch"]{--dot:var(--act-arrampicata)}
+  .split .list .acts a[href="/trova?q=escursionismo"]{--dot:var(--act-escursionismo)}
+  .split .list .acts a[href="/trova?q=sci_alpinismo"]{--dot:var(--act-sci_alpinismo)}
+}
+@media (max-width:760px) and (prefers-reduced-motion:reduce){
+  .split>.col>.list{transition:none}
+}
+
+/* The day's wind under its name on the strip: an arrow pointing downwind and
+   the strongest wind in km/h; gust and compass point in the title. Never
+   coloured by strength, which would be a rating. */
+.wxs__w{display:grid;justify-items:center;gap:.15rem;font:600 .56rem/1 "Archivo",sans-serif;color:var(--dim);font-variant-numeric:tabular-nums;cursor:default}
+.wxs__wa{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+/* ---- The way there: the road under the map ----
+   a design study, A with U1. The panel the rail
+   calls Come arrivare ends on the road in words, always the same three rows,
+   a label over its words as in a narrow column, a faint dash where nothing is
+   recorded. With no points to name, the rows follow the title directly. */
+.pk__road{margin-top:1.1rem;max-width:none}
+.pk__road div{grid-template-columns:1fr;gap:.15rem}
+.pk__road dd{font-size:.86rem}
+.pk__road dd.nil{color:var(--faint)}
+h2+.pk__road{margin-top:0}
+
+/* The photo viewer on a touch screen: no arrows, the photo follows the finger
+   (public/photo-zoom.js). The browser keeps pinch-zoom; sideways drags are the
+   viewer's. */
+.pz{touch-action:pinch-zoom}
+@media (hover:none) and (pointer:coarse){.pz__prev,.pz__next{display:none}}
+
+/* A multi-pitch's pitches (a design study, A with D's
+   left columns): the pitch, its grade and its length down the left, then its
+   words in full. Grades in the route list's colours. */
+.tiri{list-style:none;margin:0;padding:0;max-width:44rem}
+.tiri li{display:grid;grid-template-columns:1.9rem 3.9rem 3rem minmax(0,1fr);gap:.8rem;align-items:baseline;
+  padding:.55rem 0;border-bottom:1px solid var(--rule)}
+.tiri li:last-child{border-bottom:0}
+.tiri__n{font:600 .78rem/1.5 "Archivo Narrow",sans-serif;letter-spacing:.04em;color:var(--faint)}
+.tiri em{font-style:normal;font:600 .88rem/1.4 "Archivo",sans-serif;font-variant-numeric:tabular-nums;color:var(--ver)}
+.tiri b{font:400 .8rem/1.4 "Archivo",sans-serif;color:var(--faint);font-variant-numeric:tabular-nums;white-space:nowrap}
+.tiri .nil{color:var(--faint)}
+.tiri p{margin:0;font:400 .93rem/1.5 "Archivo",sans-serif}
+.tiri em[data-grade="3"]{color:#B394E3}
+.tiri em[data-grade="4"]{color:#5DBB86}
+.tiri em[data-grade="5"]{color:#F5A623}
+.tiri em[data-grade="6"]{color:#5C9FE6}
+.tiri em[data-grade="7"]{color:#F0707D}
+.tiri em[data-grade="8"]{color:#6B747D}
+.tiri em[data-grade="9"]{color:#7A6AD8}
+@media (max-width:560px){
+  .tiri li{grid-template-columns:1.7rem 3.6rem minmax(0,1fr);row-gap:.15rem}
+  .tiri p{grid-column:2 / -1}
+}
+
+/* A Find row's two grades in one cell behind one difficulty icon, each named
+   (find-row-multipitch-options.html, R1 with I2): obbligatoria 6a  max 6c. */
+.r__f .r__g{display:flex;gap:.7rem;align-items:baseline}
+.r__f .r__g small{font:600 .62rem/1 "Archivo Narrow",sans-serif;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--faint);margin-right:.15rem}
+.r__f .r__g em{display:inline;font-style:normal;color:var(--ink)}
+.r__f .r__g em[data-grade]:not([data-grade="9"]){color:var(--gf)}
+.tiri em[data-grade]:not([data-grade="9"]){color:var(--gf)}
+
+/* ---- The public demonstration ----
+   Under the header on every page: what is invented, and whose places these are. */
+.demo-note{margin:0;padding:.45rem clamp(1rem,3vw,2.2rem);text-align:center;
+  font:500 .78rem/1.4 "Archivo",sans-serif;color:var(--dim);
+  background:var(--pan2);border-bottom:1px solid var(--rule)}
+.demo-note span{color:var(--faint)}
+.demo-note a{color:inherit}
+/* on a phone, Find and the home pin the map under the header: the notice is a
+   band of fixed height there, and the map starts below it */
+@media (max-width:760px){
+  :root{--note:2.6rem}
+  .demo-note{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;column-gap:.3em;
+    height:var(--note);overflow:hidden;padding:.25rem 1rem;font-size:.66rem;line-height:1.3}
+  body:has(>.demo-note)>.split{top:calc(var(--hh) + var(--note))}
+}
+.ro p a{color:var(--ver);text-decoration:none}
+.ro p a:hover{text-decoration:underline}
+
+/* On a phone, the description opens the second tab as it opens the page on a
+   wide screen, before what is drawn from the route's data, so a crag's chart
+   and list of routes stay one card. */
+@media (max-width:760px){
+  .l3 #descrizione{order:2}
+  .l3 #gradi,.l3 #profilo{order:3}
+}

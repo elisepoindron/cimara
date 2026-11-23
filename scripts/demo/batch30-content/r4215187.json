@@ -1,0 +1,55 @@
+{
+  "osm": "r4215187",
+  "invented": [
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "sentiero-ronc-colle-di-san-pantaleone",
+    "activity": "escursionismo",
+    "place": "comune-007067",
+    "name": "Sentiero Ronc Colle di San Pantaleone",
+    "lat": 45.79271,
+    "lon": 7.55939,
+    "aspect": "E",
+    "altMax": 1656,
+    "facts": {
+      "partenza": 1656,
+      "localita_partenza": "Torgnon"
+    },
+    "sections": {
+      "descrizione": "Sentiero che sale da Torgnon verso il colle di San Pantaleone, con tracciato su strada sterrata nel primo tratto e poi su sentiero tra prati e larici. Il percorso è lungo ma regolare.\n\nDal colle si vede la valle con il versante opposto; il ritorno si fa per il sentiero dei prati."
+    },
+    "parts": [],
+    "reports": [
+      {
+        "observedAt": "2023-07-29",
+        "words": "Prati molto alti, abbiamo camminato nell'erba fino alla cima del colle. Vista fantastica, poco vento."
+      },
+      {
+        "observedAt": "2025-09-29",
+        "words": "Autunno, larici gialli lungo il sentiero. Ci siamo fermati al colle per il pranzo."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Prati alti",
+          "quote": "Prati molto alti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Larici d'autunno",
+          "quote": "larici gialli lungo il sentiero"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

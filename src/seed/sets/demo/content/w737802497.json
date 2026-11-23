@@ -1,0 +1,426 @@
+{
+  "osm": "w737802497",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "parcheggio_nota",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "pilastro-lomasti",
+    "activity": "falesia",
+    "place": "comune-007004",
+    "name": "Pilastro Lomasti",
+    "lat": 45.62841,
+    "lon": 7.74634,
+    "aspect": "SO",
+    "altMax": 1012,
+    "facts": {
+      "esposizione": "SO",
+      "quota_base": 1012,
+      "avvicinamento": 25,
+      "localita_partenza": "Arnad",
+      "parcheggio_nota": "Pochi posti a bordo strada, a un tornante dalla partenza del sentiero: si sale in fila indiana e non si ostruisce il passaggio dei trattori."
+    },
+    "sections": {
+      "note": "Pilastro di gneiss chiaro a circa 1000 metri, esposto a sud-ovest, alto fino a 200 metri. Le vie partono dal 6b e salgono fino all'8a: non è una falesia per chi inizia. Ci sono monotiri alla base, lunghi 30 o 35 metri, e vie a più tiri che salgono lungo il pilastro vero e proprio, con tiri da 25 a 45 metri.\n\nLo gneiss è a grana fine, compatto, con grandi placche appoggiate che si fanno tecniche, qualche muro verticale e un diedro centrale con una fessura. La chiodatura è a fix e resinati, regolare sulle placche, un po' più lunga sulle vie lunghe nei punti facili.\n\nIl sole arriva a metà mattina e dura fino a sera: è una parete d'inverno e di mezze stagioni, mentre d'estate si scala solo la mattina presto. Per le vie lunghe servono due mezze da 60 metri e un'ora di tempo per la discesa in doppia lungo la via.",
+      "avvicinamento": "Dal parcheggio si prende un sentiero ripido nel bosco di castagni che sale con tornanti e gradini di roccia fino a un ripiano. Dopo venticinque minuti scarsi si arriva ai piedi del pilastro; per le vie di destra si traversa su una cengia con una corda fissa messa da qualcuno."
+    },
+    "parts": [
+      {
+        "group": "Basamento",
+        "fields": {
+          "nome": "Zoccolo Duro",
+          "grado": "6b",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Basamento",
+        "fields": {
+          "nome": "Ballerina",
+          "grado": "6b+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Basamento",
+        "fields": {
+          "nome": "Gengiva",
+          "grado": "6c",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Basamento",
+        "fields": {
+          "nome": "Pelle di Gneiss",
+          "grado": "6c+",
+          "lunghezza": 32
+        }
+      },
+      {
+        "group": "Basamento",
+        "fields": {
+          "nome": "Rete Fitta",
+          "grado": "7a",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Basamento",
+        "fields": {
+          "nome": "Lenti Passi",
+          "grado": "7a+",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Basamento",
+        "fields": {
+          "nome": "Tutto Liscio",
+          "grado": "7b",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Basamento",
+        "fields": {
+          "nome": "Gran Finale",
+          "grado": "7b+",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Placca Centrale",
+        "fields": {
+          "nome": "L'Ala",
+          "grado": "6b+",
+          "lunghezza": 40
+        }
+      },
+      {
+        "group": "Placca Centrale",
+        "fields": {
+          "nome": "Marmellata",
+          "grado": "6c",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Placca Centrale",
+        "fields": {
+          "nome": "Il Respiro di Pietra",
+          "grado": "6c+",
+          "lunghezza": 40
+        }
+      },
+      {
+        "group": "Placca Centrale",
+        "fields": {
+          "grado": "7c",
+          "lunghezza": 35
+        }
+      },
+      {
+        "group": "Pilastro (vie lunghe)",
+        "fields": {
+          "nome": "Cuore Lungo",
+          "grado": "7b",
+          "lunghezza": 170
+        }
+      },
+      {
+        "group": "Muro di Destra",
+        "fields": {
+          "nome": "Fuoco Amico",
+          "grado": "7c+",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Muro di Destra",
+        "fields": {
+          "nome": "Estate Lunga",
+          "grado": "8a",
+          "lunghezza": 30
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-12",
+        "words": "Una giornata d'inverno ma di sole pieno: alle dieci già in maglietta sul basamento. Gneiss fresco e secco, ottime le placche. Le vie sono toste, il grado è severo per chi viene dal calcare."
+      },
+      {
+        "observedAt": "2022-04-20",
+        "words": "Mercoledì pasquale. Siamo saliti per le vie lunghe, Lomasti Classica, in cinque tiri con due mezze da 60. Soste solide, la discesa in doppia è semplice. Tutto il sole del pomeriggio sul diedro."
+      },
+      {
+        "observedAt": "2022-05-28",
+        "words": "Sabato di maggio, tanta gente sulle vie lunghe. La parete scalda a mezzogiorno e a metà via si faceva fatica a bere abbastanza. Meglio partire alle sette per essere in discesa all'una."
+      },
+      {
+        "observedAt": "2022-09-17",
+        "words": "Fine estate, dopo un'afa terribile in pianura. Alle otto in parete era già caldo. Il sentiero di accesso ripido ci ha fatto sudare prima di cominciare. Un 6c sulla Placca Centrale nitido e sottile."
+      },
+      {
+        "observedAt": "2022-10-22",
+        "words": "Sabato d'autunno. Giornata limpida. Il basamento è perfetto per scaldarsi, poi si prova una via più alta. Caduti due sassi dalla cengia alta: una cordata sopra di noi ha urlato appena in tempo."
+      },
+      {
+        "observedAt": "2022-11-26",
+        "words": "Con la neve a quota 1500 e il sole che scalda questa parete anche a novembre. Sulle placche asciutte si arrampica in guanti sottili. Non c'era nessuno, nemmeno un passante sul sentiero."
+      },
+      {
+        "observedAt": "2023-01-27",
+        "words": "Venerdì in pieno inverno, con tre gradi all'ombra ma pieno sole sul pilastro. Abbiamo fatto Ballerina e Gengiva senza fatica. Una buona giornata di arrampicata tecnica ma nessuna vena di freddo."
+      },
+      {
+        "observedAt": "2023-03-18",
+        "words": "Primi tepori. Sul Muro di Destra la cengia ha una corda fissa nuova: ci sono dei bei nodi e un moschettone di sicurezza. Da usare con attenzione, la roccia sotto è un po' sbriciolata."
+      },
+      {
+        "observedAt": "2023-04-15",
+        "words": "Sabato con amici. Il Diedro di Mezzogiorno, 180 metri, bellissimo: fessura verticale e placche. Con due mezze da 60 la discesa in doppia fila liscia. Siamo tornati al parcheggio alle sei."
+      },
+      {
+        "observedAt": "2023-06-09",
+        "words": "Venerdì di giugno, caldo. Il sole picchia dal pomeriggio: la parete diventa un forno. Abbiamo fatto una via lunga all'alba e poi giù a mezzogiorno, in trattoria."
+      },
+      {
+        "observedAt": "2023-09-30",
+        "words": "Giornata tersa. Gneiss freddo e aderente. Ho provato Via della Vedova, 7a: la placca ti fa credere che sia possibile e poi non lo è. Chiodatura corretta ma non regalata."
+      },
+      {
+        "observedAt": "2023-10-28",
+        "words": "Pioggia nella notte, roccia umida sul basamento e asciutta in alto. Abbiamo aspettato le undici. La zona sotto la cengia ha un vespaio abbandonato: attenzione se si mette la mano in una fessura."
+      },
+      {
+        "observedAt": "2024-03-09",
+        "words": "Primavera in anticipo. Sul pilastro, un blocco si è staccato dal bordo della placca centrale e ha lasciato un segno chiaro sulla via Marmellata: il primo tiro è un po' diverso. Attenzione agli appigli nuovi, taglienti."
+      },
+      {
+        "observedAt": "2024-04-12",
+        "words": "Venerdì. La via Marmellata è di nuovo libera: hanno ripulito il bordo e messo due fix nuovi. Salita lunga ma bella, in solitaria con la piccola folla mattutina a metà giornata."
+      },
+      {
+        "observedAt": "2024-05-25",
+        "words": "Sabato di sole forte. Nelle vie lunghe c'erano tre cordate in sequenza; per fortuna ognuno è stato rapido. Un tiro di placca spettacolare a 40 metri da terra, con vista sulla bassa valle."
+      },
+      {
+        "observedAt": "2024-09-22",
+        "words": "Fine di un'estate calda. Le vie del basamento sono ottime per chi ha poco tempo: venticinque minuti di salita e mezz'ora di scalata. Il sentiero ripido toglie il fiato."
+      },
+      {
+        "observedAt": "2024-11-09",
+        "words": "Giornata d'autunno inoltrato, bel sole al pomeriggio. Sulla placca il vento era freddo ma al pilastro stavamo bene. Estate Lunga, 8a, non riesco nemmeno a toccarla ma resta una vista da sogno."
+      },
+      {
+        "observedAt": "2025-03-22",
+        "words": "Primavera, sentiero fangoso dopo la pioggia. La corda fissa sulla cengia ha tenuto bene, ma un nodo stava scivolando: ho ricontrollato. Poi tutto liscio, sole e roccia fresca."
+      },
+      {
+        "observedAt": "2025-06-27",
+        "words": "Venerdì di giugno, ci siamo svegliati alle quattro. Cielo limpido e sole a mezzogiorno già pesante. Abbiamo fatto la Lomasti Classica fino alla cima e ci siamo calati con calma, a parte il caldo."
+      },
+      {
+        "observedAt": "2025-10-18",
+        "words": "Giornata dorata d'autunno. Poca gente sul sentiero ripido, qualcuno con lo zaino pesante per le vie lunghe. Il basamento è perfetto: gradi alti, roccia pulita, sosta comoda."
+      },
+      {
+        "observedAt": "2026-02-14",
+        "words": "Un sabato di febbraio con il sole, nonostante tutto. Gneiss freddo ma presine ottime. Dalla cengia ho visto la valle ancora coperta di neve. Roba da sognatori d'inverno."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "alle dieci già in maglietta"
+        },
+        {
+          "label": "Gradi severi",
+          "quote": "il grado è severo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie lunghe in doppia",
+          "quote": "la discesa in doppia è semplice"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'estate pesante",
+          "quote": "a metà via si faceva fatica a bere"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento ripido",
+          "quote": "Il sentiero di accesso ripido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "il sole che scalda questa parete anche a novembre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "pieno sole sul pilastro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Corda fissa nuova sulla cengia",
+          "kind": "novita",
+          "quote": "la cengia ha una corda fissa nuova"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Vie lunghe in doppia",
+          "quote": "la discesa in doppia fila liscia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'estate pesante",
+          "quote": "la parete diventa un forno"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Roccia lenta ad asciugare",
+          "quote": "roccia umida sul basamento"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Blocco staccato sulla Placca Centrale",
+          "kind": "attenzione",
+          "quote": "un blocco si è staccato dal bordo della placca centrale"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Marmellata ripulita e riattrezzata",
+          "kind": "novita",
+          "quote": "hanno ripulito il bordo e messo due fix nuovi"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "tre cordate in sequenza"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento ripido",
+          "quote": "Il sentiero ripido toglie il fiato"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "bel sole al pomeriggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'estate pesante",
+          "quote": "sole a mezzogiorno già pesante"
+        },
+        {
+          "label": "Vie lunghe in doppia",
+          "quote": "ci siamo calati con calma"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento ripido",
+          "quote": "sentiero ripido"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Un sabato di febbraio con il sole"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

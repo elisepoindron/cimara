@@ -1,0 +1,44 @@
+{
+  "osm": "r14737150",
+  "invented": ["esposizione", "descrizione", "note", "reports", "readings"],
+  "itinerary": {
+    "key": "percorso-dei-barmet",
+    "activity": "escursionismo",
+    "place": "comune-007023",
+    "name": "Percorso dei Barmet",
+    "lat": 45.60439,
+    "lon": 7.77568,
+    "aspect": "SO",
+    "altMax": 323,
+    "facts": {
+      "difficolta": "E",
+      "partenza": 323,
+      "localita_partenza": "Rovarey",
+      "esposizione": "SO"
+    },
+    "sections": {
+      "descrizione": "Sentiero segnato con bollini gialli, da Rovarey fino alla Croce della Missione. Si sale nel bosco di castagni con un fondo di terra e radici, poi il tracciato costeggia i prati.\n\nNel primo tratto ci sono due passaggi con il fondo sconnesso e bagnato dopo la pioggia: non servono le mani, ma serve attenzione.\n\nIl panorama si apre quasi solo alla fine, verso la croce, dove si vede tutta la bassa valle.\n\nLa scala E indica un'escursione per chi ha un po' di esperienza di sentiero: non serve attrezzatura da via ferrata né corda.",
+      "note": "In due punti del bosco i bollini si perdono: seguite le tracce del sentiero, che sono ben battute."
+    },
+    "reports": [
+      { "observedAt": "2023-03-26", "words": "Sentiero pulito, qualche tratto ancora bagnato sotto i castagni. Bollini gialli ben visibili ma uno è da ripassare, quello vicino alla fontana. Croce bella, siamo tornati per il sentiero di sotto." },
+      { "observedAt": "2025-11-02", "words": "Giornata limpida e fredda, terra asciutta e sentiero comodo. Si incontra poca gente, qualche cane al seguito. Partiti da Rovarey alle nove, a mezzogiorno eravamo alla croce." }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        { "label": "Segnavia da ripassare", "quote": "uno è da ripassare" },
+        { "label": "Sentiero bagnato", "quote": "qualche tratto ancora bagnato" }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        { "label": "Poca gente", "quote": "Si incontra poca gente" },
+        { "label": "Cani sul sentiero", "quote": "qualche cane al seguito" }
+      ],
+      "flags": []
+    }
+  ]
+}

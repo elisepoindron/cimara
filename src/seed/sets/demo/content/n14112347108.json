@@ -1,0 +1,1181 @@
+{
+  "osm": "n14112347108",
+  "invented": [
+    "avvicinamento",
+    "localita_partenza",
+    "parcheggio_nota",
+    "vie",
+    "description",
+    "reports"
+  ],
+  "itinerary": {
+    "key": "el-coup-de-roure",
+    "activity": "falesia",
+    "place": "comune-004205",
+    "name": "El Coup de Roure",
+    "lat": 44.57523,
+    "lon": 7.24562,
+    "aspect": "SO",
+    "altMax": 1012,
+    "facts": {
+      "esposizione": "SO",
+      "quota_base": 1012,
+      "avvicinamento": 10,
+      "localita_partenza": "Sampeyre",
+      "parcheggio_nota": "Una piazzola a bordo strada con una decina di posti: nei weekend di sole si riempie presto, non lasciare l'auto davanti agli accessi dei prati."
+    },
+    "sections": {
+      "note": "Falesia compatta di gneiss grigio sopra Sampeyre, esposta a sud-ovest, con 38 monotiri dal 4a all'8a+ e il grosso delle vie tra il 6a e il 6c. Le lunghezze vanno da 8 a 30 metri: corte e facili alle Placchette, lunghe e continue al Muro Centrale, verticali al Pilier dal Roure, fisiche e brevi allo Strapiombo.\n\nLa chiodatura è a spit e resinati, ravvicinata sulle vie facili delle Placchette e più distanziata su alcune vie del Muro Centrale, dove tra uno spit e l'altro bisogna saper stare sui piedi. Le soste sono attrezzate con catena per la moulinette. Basta una corda da 60 metri e una dozzina di rinvii.\n\nIl sole arriva a metà mattina e resta fino al pomeriggio: è una falesia da primavera, autunno e giornate limpide d'inverno. D'estate si scala solo al mattino presto o dopo che il sole è passato dietro la montagna. Alla base un grande rovere fa ombra e tiene gli zaini all'asciutto.",
+      "avvicinamento": "Da Sampeyre si sale in auto fino alla piazzola a bordo strada sotto la parete. Un sentiero breve nel bosco, che attraversa un piccolo ruscello, porta in una decina di minuti alla base delle Placchette, sotto il rovere; a destra si raggiungono il Muro Centrale e il Pilier dal Roure, più in fondo lo Strapiombo.",
+      "storia": "Le prime vie delle Placchette e del Muro Centrale sono state aperte dai chiodatori locali, che hanno preso il nome della falesia dal grande rovere alla base. Lo Strapiombo è il settore più recente."
+    },
+    "parts": [
+      {
+        "group": "Placchette",
+        "fields": {
+          "nome": "Lo Pichòt",
+          "grado": "4a",
+          "lunghezza": 8
+        }
+      },
+      {
+        "group": "Placchette",
+        "fields": {
+          "nome": "Prima Volta",
+          "grado": "4b",
+          "lunghezza": 10
+        }
+      },
+      {
+        "group": "Placchette",
+        "fields": {
+          "nome": "Babaci",
+          "grado": "4c",
+          "lunghezza": 12
+        }
+      },
+      {
+        "group": "Placchette",
+        "fields": {
+          "nome": "Erba Matta",
+          "grado": "5a",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Placchette",
+        "fields": {
+          "nome": "Margaritas",
+          "grado": "5a+",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Placchette",
+        "fields": {
+          "nome": "La Lèbre",
+          "grado": "5b",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Placchette",
+        "fields": {
+          "nome": "Pas de Font",
+          "grado": "5b+",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Placchette",
+        "fields": {
+          "nome": "Gusto Cassis",
+          "grado": "5c",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Placchette",
+        "fields": {
+          "grado": "5c+",
+          "lunghezza": 14
+        }
+      },
+      {
+        "group": "Placchette",
+        "fields": {
+          "nome": "Fai Piano",
+          "grado": "6a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Lo Roure",
+          "grado": "6a+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Barba Lucio",
+          "grado": "6a",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Courenta",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Mesa Luna",
+          "grado": "6b",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Fil de Fer",
+          "grado": "6a+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Lavanda",
+          "grado": "6b+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Tacca e Tacca",
+          "grado": "6b",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Sentiero dei Nidi",
+          "grado": "6c",
+          "lunghezza": 30
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Viòla",
+          "grado": "6b+",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "grado": "6a",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "La Draia",
+          "grado": "6c+",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Muro Centrale",
+        "fields": {
+          "nome": "Fumèla",
+          "grado": "6b",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Pilier dal Roure",
+        "fields": {
+          "nome": "Pilastro Grigio",
+          "grado": "6c",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Pilier dal Roure",
+        "fields": {
+          "nome": "Sbrindola",
+          "grado": "7a",
+          "lunghezza": 28
+        }
+      },
+      {
+        "group": "Pilier dal Roure",
+        "fields": {
+          "nome": "Avalanca",
+          "grado": "6c+",
+          "lunghezza": 25
+        }
+      },
+      {
+        "group": "Pilier dal Roure",
+        "fields": {
+          "nome": "Sole Basso",
+          "grado": "6b",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Pilier dal Roure",
+        "fields": {
+          "nome": "La Fiera",
+          "grado": "7a+",
+          "lunghezza": 24
+        }
+      },
+      {
+        "group": "Pilier dal Roure",
+        "fields": {
+          "nome": "Bric",
+          "grado": "6c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Pilier dal Roure",
+        "fields": {
+          "nome": "Rampicante",
+          "grado": "6b+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Pilier dal Roure",
+        "fields": {
+          "nome": "Siamo Pronti",
+          "grado": "7b",
+          "lunghezza": 26
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Il Tetto",
+          "grado": "7a",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Fourmiga",
+          "grado": "7b",
+          "lunghezza": 16
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Chiaroscuro",
+          "grado": "7a+",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Barbabietola",
+          "grado": "7b+",
+          "lunghezza": 18
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Masca",
+          "grado": "7c",
+          "lunghezza": 20
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Notte di Lupi",
+          "grado": "7c+",
+          "lunghezza": 22
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "grado": "7a",
+          "lunghezza": 15
+        }
+      },
+      {
+        "group": "Strapiombo",
+        "fields": {
+          "nome": "Coup de Roure",
+          "grado": "8a+",
+          "lunghezza": 22
+        }
+      }
+    ],
+    "reports": [
+      {
+        "observedAt": "2022-03-06",
+        "words": "Prima giornata fuori dopo l'inverno. Dal parcheggio sono dieci minuti scarsi, si arriva ancora freddi. Alle undici il sole era già sulla parete e si scalava in maglia leggera."
+      },
+      {
+        "observedAt": "2022-03-16",
+        "words": "Giornata di ferie, in falesia eravamo in quattro. Fatte Courenta e Mesa Luna al Muro Centrale: belle, continue, ma tra il terzo e il quarto spit su Mesa Luna c'è da stringere i denti."
+      },
+      {
+        "observedAt": "2022-04-02",
+        "words": "Sabato di sole, parcheggio pieno già alle nove e mezza. Abbiamo lasciato l'auto più in basso sulla strada. Alla base una ventina di persone, alle Placchette due corsi di arrampicata."
+      },
+      {
+        "observedAt": "2022-04-18",
+        "words": "Pasquetta con i bambini. Le Placchette sono perfette per chi comincia: vie corte, spit vicini, base comoda sotto il grande rovere. Mio figlio ha chiuso la sua prima via da primo."
+      },
+      {
+        "observedAt": "2022-05-08",
+        "words": "Arrivati alle due del pomeriggio: errore. La parete prende il sole pieno e a maggio scotta già. Ci siamo rifugiati sotto la quercia ad aspettare le cinque."
+      },
+      {
+        "observedAt": "2022-05-21",
+        "words": "Bella giornata ventilata. Pilastro Grigio e Sole Basso al Pilier: roccia ruvida, tacche nette, si tiene bene."
+      },
+      {
+        "observedAt": "2022-06-25",
+        "words": "In estate si viene solo presto: alle sette eravamo già legati e alle dieci e mezza siamo scesi, il sole cominciava a picchiare. Tre tiri al Muro, roccia asciutta."
+      },
+      {
+        "observedAt": "2022-07-20",
+        "words": "Dopo il lavoro. Verso le sei e mezza il sole se ne va dietro la montagna e si sta benissimo. Due vie alle Placchette e a casa."
+      },
+      {
+        "observedAt": "2022-09-11",
+        "words": "Rientro dopo l'estate. Le classiche delle Placchette cominciano a essere lucide: su Gusto Cassis i piedi scappano. Ma la falesia resta bella."
+      },
+      {
+        "observedAt": "2022-10-01",
+        "words": "Novità allo Strapiombo: hanno chiodato tre vie nuove a destra del Tetto, sul tratto più strapiombante. Provata Masca, durissima per me, spit nuovi e soste con catena."
+      },
+      {
+        "observedAt": "2022-10-19",
+        "words": "Mercoledì di ferie, nessuno in giro. Autunno pieno, roccia fresca e asciutta. Fatte cinque vie al Muro Centrale, Lavanda la più bella."
+      },
+      {
+        "observedAt": "2022-11-06",
+        "words": "Sole fino alle quattro, poi freddo di colpo. Il sentiero è corto, si fa in un attimo anche con lo zaino pesante. Gente ma non troppa."
+      },
+      {
+        "observedAt": "2022-12-27",
+        "words": "Tra Natale e Capodanno, giornata limpida e senza vento: al sole sulla parete si stava benissimo, con il paese ancora all'ombra sotto di noi. Fatti i primi tiri del Pilier."
+      },
+      {
+        "observedAt": "2023-01-15",
+        "words": "Domenica di gennaio con dieci gradi alla base. Parcheggio pieno lo stesso, la voce gira. Le Placchette prese d'assalto."
+      },
+      {
+        "observedAt": "2023-02-19",
+        "words": "Ancora neve sul sentiero all'ombra degli alberi, ma alla base era tutto asciutto. Provato Il Tetto: corto e fisico, da riscaldarsi bene prima."
+      },
+      {
+        "observedAt": "2023-03-11",
+        "words": "Uscita del corso con sei allievi. Placchette ideali per imparare: spit ogni due metri, soste comode, niente di esposto."
+      },
+      {
+        "observedAt": "2023-03-29",
+        "words": "In settimana è un'altra falesia: due cordate in tutto. Chiusa Courenta al secondo giro, il passo in alto è più di piedi che di braccia."
+      },
+      {
+        "observedAt": "2023-04-23",
+        "words": "Gente, tanta gente. Cani liberi alla base, corde stese ovunque. Si scala lo stesso ma serve pazienza."
+      },
+      {
+        "observedAt": "2023-05-13",
+        "words": "Attenzione al Pilier: è venuto giù un blocco sopra Sbrindola e Avalanca, alla base ci sono sassi grossi e qualcuno ha messo un nastro. Le due vie sono da evitare."
+      },
+      {
+        "observedAt": "2023-05-28",
+        "words": "Il nastro al Pilier c'è ancora, girate al largo. Noi siamo stati al Muro Centrale: Viòla è stupenda ma lo spit dopo la fessura è lontano, chi non è sicuro sul 6b si porta un friend."
+      },
+      {
+        "observedAt": "2023-06-14",
+        "words": "Mattina presto, fresco fino alle dieci. Poi il sole gira e diventa un forno. Visto una vipera sul sentiero, attenti a dove mettete i piedi."
+      },
+      {
+        "observedAt": "2023-08-26",
+        "words": "Agosto, solo l'ultima ora di luce. Dopo le sette il sole se ne va dietro la cresta e si scala al fresco con un po' d'aria. Due tiri e poi pizza in paese."
+      },
+      {
+        "observedAt": "2023-09-17",
+        "words": "Primo giro autunnale. Lo Roure e Fil de Fer sono ormai lucidi come vetro sui primi metri. Alla base, sotto la quercia, si sta all'ombra mentre il compagno scala."
+      },
+      {
+        "observedAt": "2023-10-08",
+        "words": "Pilier ancora chiuso col nastro, le altre vie del settore si scalano normalmente. Bella giornata, tanta gente."
+      },
+      {
+        "observedAt": "2023-10-25",
+        "words": "Giornata di recupero dal turno di notte. Parcheggio vuoto, falesia tutta per noi. Fatte Lavanda e Tacca e Tacca, roccia asciutta e fredda."
+      },
+      {
+        "observedAt": "2023-11-19",
+        "words": "Freddo al mattino, poi il sole è arrivato verso le undici e da lì si stava in maniche corte. Dieci minuti di sentiero e sei sotto la parete."
+      },
+      {
+        "observedAt": "2024-01-06",
+        "words": "Epifania al sole. Neve sulle cime intorno e parete asciutta: sembra impossibile a gennaio. Strapiombo pieno di gente a provare le vie nuove."
+      },
+      {
+        "observedAt": "2024-02-14",
+        "words": "Uscita di metà settimana: la falesia era deserta, solo un paio di locali. Sole tutto il pomeriggio. Ho provato Masca, ci vorrà qualche giro."
+      },
+      {
+        "observedAt": "2024-03-24",
+        "words": "Alle Placchette con mia nipote di dieci anni, si è divertita da matti. Vie corte e facili, si cade senza rischi."
+      },
+      {
+        "observedAt": "2024-04-13",
+        "words": "Il Pilier è stato pulito e richiodato: tolto il nastro, spit nuovi su Sbrindola e Avalanca e soste rifatte. Si torna a scalare su tutto il settore."
+      },
+      {
+        "observedAt": "2024-04-28",
+        "words": "Sbrindola dopo la richiodatura: hanno messo uno spit in più nel tratto lungo, ora si sale senza patemi. Coda al Muro Centrale."
+      },
+      {
+        "observedAt": "2024-05-15",
+        "words": "Giornata grigia ma asciutta, giusta per le vie lunghe del Muro. La Draia fino in catena: trenta metri continui, gli ultimi spit un po' distanti."
+      },
+      {
+        "observedAt": "2024-06-09",
+        "words": "Pieno giugno, arrivati alle otto e via alle undici: dopo diventa impossibile. Tante zecche nell'erba alta vicino al sentiero, controllatevi a casa."
+      },
+      {
+        "observedAt": "2024-09-08",
+        "words": "Ripresa dopo l'estate. Fai Piano e Gusto Cassis unte come sempre, Erba Matta un po' meno. Al Muro si sta bene."
+      },
+      {
+        "observedAt": "2024-09-28",
+        "words": "Parcheggio strapieno, macchine fino alla curva. Meglio arrivare presto o venire in settimana."
+      },
+      {
+        "observedAt": "2024-10-20",
+        "words": "Aria limpida, roccia fredda e aderente, i boschi già gialli sopra la parete. Dalla catena di Courenta si vedeva tutta la valle."
+      },
+      {
+        "observedAt": "2024-11-12",
+        "words": "Martedì di sole pieno, falesia vuota. Fumèla è una piccola perla, poco ripetuta e quindi non unta."
+      },
+      {
+        "observedAt": "2024-12-08",
+        "words": "Immacolata al sole. Partiti alle undici, sole fino alle tre e mezza, poi freddo vero. Il sentiero corto è un regalo quando hai le dita gelate."
+      },
+      {
+        "observedAt": "2025-02-22",
+        "words": "Una parte del sentiero è franata dopo le piogge di febbraio, all'altezza del ruscello: si passa ma con attenzione, il fondo è smosso."
+      },
+      {
+        "observedAt": "2025-03-16",
+        "words": "Sentiero ancora rovinato nel punto del ruscello, con le scarpe da avvicinamento si passa. Alle Placchette c'era un gruppo di scout alle prime armi."
+      },
+      {
+        "observedAt": "2025-04-05",
+        "words": "Il tratto franato del sentiero è stato sistemato: ci sono dei gradini in legno e una corda fissa. Ora si arriva comodi in dieci minuti."
+      },
+      {
+        "observedAt": "2025-04-24",
+        "words": "Vigilia del 25 aprile, già parecchia gente. Fatte quattro vie alle Placchette con mia moglie che ha iniziato da poco: spit vicini, si sente sicura."
+      },
+      {
+        "observedAt": "2025-05-18",
+        "words": "Caldo già a metà maggio dalle due in poi. Ci siamo spostati allo Strapiombo che va in ombra prima. Il Tetto e Chiaroscuro, fisici e corti."
+      },
+      {
+        "observedAt": "2025-07-09",
+        "words": "Luglio: solo dalle sette di sera. Due tiri al fresco e poi buio. Base deserta."
+      },
+      {
+        "observedAt": "2025-09-21",
+        "words": "Domenica affollata come al solito, ma ci si sta tutti. Viòla resta la mia preferita, con quello spit lontano che fa sempre un po' paura."
+      },
+      {
+        "observedAt": "2025-10-12",
+        "words": "Le soste del Muro Centrale sono state cambiate: ora ci sono catene nuove con moschettone su tutte le vie, si fa moulinette senza consumare le corde."
+      },
+      {
+        "observedAt": "2025-10-29",
+        "words": "Mercoledì tranquillo, tre cordate. Catene nuove al Muro, finalmente. Lo Roure sempre più liscio sul primo passo."
+      },
+      {
+        "observedAt": "2025-12-28",
+        "words": "Sole caldo e niente vento, a fine dicembre. Sotto la parete si mangiava in maglietta."
+      },
+      {
+        "observedAt": "2026-01-31",
+        "words": "Parcheggio pieno a fine gennaio, incredibile. Ghiaccio sulla strada all'ombra prima di arrivare, occhio con le gomme."
+      },
+      {
+        "observedAt": "2026-03-18",
+        "words": "Su Lavanda manca la placchetta del quinto spit, è rimasto solo il bullone. Si passa ma diventa lungo, meglio avvisare chi si occupa della falesia."
+      },
+      {
+        "observedAt": "2026-04-11",
+        "words": "Lavanda di nuovo a posto, placchetta rimessa. Giornata di primavera piena, dieci minuti di sentiero e si comincia."
+      },
+      {
+        "observedAt": "2026-05-02",
+        "words": "Affollatissima: due gruppi di corsi, famiglie, cani. Abbiamo ripiegato sullo Strapiombo dove c'era più spazio."
+      },
+      {
+        "observedAt": "2026-06-03",
+        "words": "Le prime ore del mattino sono fresche, poi niente da fare. Tre tiri e alle dieci già scesi."
+      },
+      {
+        "observedAt": "2026-09-13",
+        "words": "Riaperta la stagione: tutto asciutto, roccia ruvida dopo i temporali d'agosto. Notte di Lupi resta un progetto."
+      },
+      {
+        "observedAt": "2026-10-24",
+        "words": "Ottobre caldo, maglietta fino alle quattro. Base piena, ma sotto il rovere un posto per lo zaino si trova sempre."
+      },
+      {
+        "observedAt": "2026-11-04",
+        "words": "Ultima uscita prima del freddo. In settimana pochissima gente. Fatte le classiche del Muro, con le soste nuove la moulinette scorre."
+      }
+    ]
+  },
+  "readings": [
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Dal parcheggio sono dieci minuti scarsi"
+        },
+        {
+          "label": "Sole d'inverno",
+          "quote": "Alle undici il sole era già sulla parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "in falesia eravamo in quattro"
+        },
+        {
+          "label": "Chiodatura lunga sul Muro",
+          "quote": "tra il terzo e il quarto spit su Mesa Luna c'è da stringere i denti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio stretto",
+          "quote": "parcheggio pieno già alle nove e mezza"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Alla base una ventina di persone"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Buona per principianti",
+          "quote": "Le Placchette sono perfette per chi comincia"
+        },
+        {
+          "label": "Ombra alla base",
+          "quote": "base comoda sotto il grande rovere"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "La parete prende il sole pieno e a maggio scotta già"
+        },
+        {
+          "label": "Ombra alla base",
+          "quote": "Ci siamo rifugiati sotto la quercia"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "alle dieci e mezza siamo scesi, il sole cominciava a picchiare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Verso le sei e mezza il sole se ne va dietro la montagna"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Classiche unte",
+          "quote": "su Gusto Cassis i piedi scappano"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuove vie allo Strapiombo",
+          "kind": "novita",
+          "quote": "hanno chiodato tre vie nuove a destra del Tetto"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "Mercoledì di ferie, nessuno in giro"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Il sentiero è corto, si fa in un attimo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "al sole sulla parete si stava benissimo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Domenica di gennaio con dieci gradi alla base"
+        },
+        {
+          "label": "Parcheggio stretto",
+          "quote": "Parcheggio pieno lo stesso"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Le Placchette prese d'assalto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Neve sul sentiero",
+          "quote": "Ancora neve sul sentiero all'ombra degli alberi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Buona per principianti",
+          "quote": "Placchette ideali per imparare"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "In settimana è un'altra falesia: due cordate in tutto"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Gente, tanta gente"
+        },
+        {
+          "label": "Cani alla base",
+          "quote": "Cani liberi alla base"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Frana al Pilier",
+          "kind": "attenzione",
+          "quote": "è venuto giù un blocco sopra Sbrindola e Avalanca"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura lunga sul Muro",
+          "quote": "lo spit dopo la fessura è lontano"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Frana al Pilier",
+          "kind": "attenzione",
+          "quote": "Il nastro al Pilier c'è ancora"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Poi il sole gira e diventa un forno"
+        },
+        {
+          "label": "Vipera sul sentiero",
+          "quote": "Visto una vipera sul sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Dopo le sette il sole se ne va dietro la cresta"
+        },
+        {
+          "label": "Cena in paese",
+          "quote": "poi pizza in paese"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Classiche unte",
+          "quote": "sono ormai lucidi come vetro sui primi metri"
+        },
+        {
+          "label": "Ombra alla base",
+          "quote": "sotto la quercia, si sta all'ombra"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Bella giornata, tanta gente"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Frana al Pilier",
+          "kind": "attenzione",
+          "quote": "Pilier ancora chiuso col nastro"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "Parcheggio vuoto, falesia tutta per noi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "da lì si stava in maniche corte"
+        },
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Dieci minuti di sentiero e sei sotto la parete"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "parete asciutta: sembra impossibile a gennaio"
+        },
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Strapiombo pieno di gente"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "la falesia era deserta"
+        },
+        {
+          "label": "Sole d'inverno",
+          "quote": "Sole tutto il pomeriggio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Buona per principianti",
+          "quote": "Vie corte e facili, si cade senza rischi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Pilier richiodato",
+          "kind": "novita",
+          "quote": "Il Pilier è stato pulito e richiodato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Coda al Muro Centrale"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Pilier richiodato",
+          "kind": "novita",
+          "quote": "hanno messo uno spit in più nel tratto lungo"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Chiodatura lunga sul Muro",
+          "quote": "gli ultimi spit un po' distanti"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "dopo diventa impossibile"
+        },
+        {
+          "label": "Zecche nell'erba",
+          "quote": "Tante zecche nell'erba alta vicino al sentiero"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Classiche unte",
+          "quote": "Fai Piano e Gusto Cassis unte come sempre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio stretto",
+          "quote": "Parcheggio strapieno, macchine fino alla curva"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Vista sulla valle",
+          "quote": "Dalla catena di Courenta si vedeva tutta la valle"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "Martedì di sole pieno, falesia vuota"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "sole fino alle tre e mezza"
+        },
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Il sentiero corto è un regalo"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero franato",
+          "kind": "attenzione",
+          "quote": "Una parte del sentiero è franata dopo le piogge di febbraio"
+        }
+      ]
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Sentiero franato",
+          "kind": "attenzione",
+          "quote": "Sentiero ancora rovinato nel punto del ruscello"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "Ora si arriva comodi in dieci minuti"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Sentiero sistemato",
+          "kind": "novita",
+          "quote": "Il tratto franato del sentiero è stato sistemato"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Buona per principianti",
+          "quote": "spit vicini, si sente sicura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Caldo già a metà maggio dalle due in poi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "solo dalle sette di sera"
+        },
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "Base deserta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Domenica affollata come al solito"
+        },
+        {
+          "label": "Chiodatura lunga sul Muro",
+          "quote": "quello spit lontano che fa sempre un po' paura"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Nuove soste al Muro Centrale",
+          "kind": "novita",
+          "quote": "Le soste del Muro Centrale sono state cambiate"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "Mercoledì tranquillo, tre cordate"
+        },
+        {
+          "label": "Classiche unte",
+          "quote": "Lo Roure sempre più liscio sul primo passo"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Nuove soste al Muro Centrale",
+          "kind": "novita",
+          "quote": "Catene nuove al Muro, finalmente"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Sole d'inverno",
+          "quote": "Sotto la parete si mangiava in maglietta"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Parcheggio stretto",
+          "quote": "Parcheggio pieno a fine gennaio"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": [
+        {
+          "label": "Placchetta mancante su Lavanda",
+          "kind": "attenzione",
+          "quote": "Su Lavanda manca la placchetta del quinto spit"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Avvicinamento breve",
+          "quote": "dieci minuti di sentiero e si comincia"
+        }
+      ],
+      "flags": [
+        {
+          "label": "Placchetta rimessa su Lavanda",
+          "kind": "novita",
+          "quote": "Lavanda di nuovo a posto, placchetta rimessa"
+        }
+      ]
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Affollatissima: due gruppi di corsi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Caldo d'estate",
+          "quote": "Tre tiri e alle dieci già scesi"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Affollata nel weekend",
+          "quote": "Base piena"
+        },
+        {
+          "label": "Ombra alla base",
+          "quote": "sotto il rovere un posto per lo zaino si trova sempre"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "themes": [
+        {
+          "label": "Tranquilla in settimana",
+          "quote": "In settimana pochissima gente"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}
