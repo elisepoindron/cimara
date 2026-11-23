@@ -2,6 +2,7 @@ import { readFileSync } from 'node:fs'
 import { dirname, join, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import type { Brand } from '../render/site.ts'
+import { PRIVATE_NAME } from '../import/osm/never-named.ts'
 
 const HERE = dirname(fileURLToPath(import.meta.url))
 const ROOT = resolve(HERE, '..', '..')
@@ -14,6 +15,19 @@ type Env = Readonly<Record<string, string | undefined>>
 /** The data set this process presents: the one `SEED_SET` names, or the default. */
 export function currentSet(env: Env = process.env): string {
   return env.SEED_SET || DEFAULT_SET
+}
+
+/**
+ * The set a public demonstration (`PUBLIC_DEMO=1`) presents: any but the
+ * private archive's, which holds real people's accounts and reports and must
+ * never be opened to all. Refuses it by name, before anything listens.
+ */
+export function publicDemoSet(env: Env = process.env): string {
+  const set = currentSet(env)
+  if (set.toLowerCase() === PRIVATE_NAME) {
+    throw new Error('PUBLIC_DEMO=1 never presents the private archive: SEED_SET must name the public data set')
+  }
+  return set
 }
 
 /**
