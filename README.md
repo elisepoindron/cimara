@@ -7,7 +7,7 @@ taken from OpenStreetMap; the descriptions, the crags' routes and every report a
 for the demo, and say nothing about the real conditions of any place. The interface is in
 Italian, because the archive is written for Italian climbers.
 
-**Live demo:** _(link to come)_
+**Live demo:** [cimara-production.up.railway.app](https://cimara-production.up.railway.app/)
 
 ## The idea
 
@@ -37,18 +37,19 @@ A climber reads the rest better than any formula.
 
 ## The stars
 
-Ten places carry the most content, one or more per activity. Start with them:
+Ten places carry the most content, one or more per activity. Start with them (each link
+asks Find for the place by name, since a page's own address changes when the demo is rebuilt):
 
-- [Corno di Machaby](#) — falesia, Arnad
-- [Palestra di roccia di Traversella](#) — falesia, Traversella
-- [El Coup de Roure](#) — falesia, Sampeyre
-- [Via Yoghi](#) — multipitch, Ceresole Reale
-- [Pietra Alta](#) — bouldering, Caselette
-- [Via Ferrata Carlo Giorda](#) — via ferrata, Sant'Ambrogio di Torino
-- [Rifugio Deffeyes – Tête du Rutor](#) — sci alpinismo, La Thuile
-- [Alta Via n. 2 della Valle d'Aosta – Tappa 10](#) — escursionismo, Cogne
-- [Via Francigena – 01 Valle d'Aosta](#) — escursionismo, Saint-Oyen
-- [Jafferau](#) — mountain bike, Bardonecchia
+- [Corno di Machaby](https://cimara-production.up.railway.app/trova?q=Corno%20di%20Machaby) — falesia, Arnad
+- [Palestra di roccia di Traversella](https://cimara-production.up.railway.app/trova?q=Palestra%20di%20roccia%20di%20Traversella) — falesia, Traversella
+- [El Coup de Roure](https://cimara-production.up.railway.app/trova?q=El%20Coup%20de%20Roure) — falesia, Sampeyre
+- [Via Yoghi](https://cimara-production.up.railway.app/trova?q=Via%20Yoghi) — multipitch, Ceresole Reale
+- [Pietra Alta](https://cimara-production.up.railway.app/trova?q=Pietra%20Alta) — bouldering, Caselette
+- [Via Ferrata Carlo Giorda](https://cimara-production.up.railway.app/trova?q=Via%20Ferrata%20Carlo%20Giorda) — via ferrata, Sant'Ambrogio di Torino
+- [Rifugio Deffeyes – Tête du Rutor](https://cimara-production.up.railway.app/trova?q=Rifugio%20Deffeyes%20-%20Tete%20du%20Rutor) — sci alpinismo, La Thuile
+- [Alta Via n. 2 della Valle d'Aosta – Tappa 10](https://cimara-production.up.railway.app/trova?q=Alta%20Via%20n.%202%20della%20Valle%20d%27Aosta%20-%20Tappa%2010) — escursionismo, Cogne
+- [Via Francigena – 01 Valle d'Aosta](https://cimara-production.up.railway.app/trova?q=Via%20Francigena%20-%2001%20Valle%20d%27Aosta) — escursionismo, Saint-Oyen
+- [Jafferau](https://cimara-production.up.railway.app/trova?q=Jafferau) — mountain bike, Bardonecchia
 
 ## How it is built
 
