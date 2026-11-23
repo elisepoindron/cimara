@@ -44,7 +44,7 @@ async function start(env: Record<string, string>): Promise<{ listened: boolean; 
 test('the server starts as the public image starts it: the demo set, PUBLIC_DEMO=1', async () => {
   const r = await start({ SEED_SET: 'demo', PUBLIC_DEMO: '1' })
   assert.ok(r.listened, r.out)
-  assert.match(r.out, /public demonstration: read-only, as Cimara/)
+  assert.match(r.out, /public demonstration, as Cimara: one shared visitor account/)
 })
 
 test('the server refuses to open the private archive as a public demonstration', async () => {

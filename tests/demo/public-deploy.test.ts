@@ -71,7 +71,8 @@ async function mainPages(): Promise<string[]> {
     `/itinerario/${crag.id}`, `/itinerario/${crag.id}/relazioni`, `/itinerario/${crag.id}/foto`,
     `/itinerario/${route.id}`, `/itinerario/${route.id}/relazioni`,
     '/info', ...subjects, ...scales,
-    '/accedi', '/registrati', '/preferiti', `/gita/nuova?itinerario=${route.id}`,
+    // Signed out, sign-up, favourites and the report form lead to this door (tested below).
+    '/accedi',
   ]
 }
 
@@ -144,18 +145,18 @@ test('every page says the places are real and the reports invented, with the Ope
   }
 })
 
-test('every way to write answers that the demo is only for reading, and nothing is written', async () => {
+test('every way to write leads to the visitor’s door, and nothing is written from outside it', async () => {
   const its = await allItineraries(db)
   const id = its[0]!.id
-  for (const path of ['/accedi', '/registrati', '/preferiti', `/gita/nuova?itinerario=${id}`]) {
-    const page = await get(path)
-    assert.equal(page.status, 200, `${path}: a page, not an error`)
-    assert.match(page.body, /<h1>Solo lettura<\/h1>/, path)
+  const door = await get('/accedi')
+  assert.equal(door.status, 200)
+  assert.match(door.body, /Entra come visitatore/)
+  assert.equal((await get('/registrati')).status, 303, 'nobody signs up')
+  for (const path of ['/preferiti', `/gita/nuova?itinerario=${id}`]) {
+    assert.equal((await get(path)).status, 303, `${path}: signed out, sent to the door`)
   }
-  for (const path of ['/accedi', '/registrati', '/esci', '/gita', '/gita/foto', `/preferiti/${id}`, `/preferiti/${id}/rimuovi`, '/gita/x/ritira']) {
-    const page = await get(path, 'POST')
-    assert.equal(page.status, 403, `${path}: nothing was done`)
-    assert.match(page.body, /Solo lettura/, path)
+  for (const path of ['/accedi', '/esci', '/gita', `/preferiti/${id}`, `/preferiti/${id}/rimuovi`, '/gita/x/ritira']) {
+    assert.equal((await get(path, 'POST')).status, 403, `${path}: no token, nothing done`)
   }
   const accounts = await db.get<{ n: number }>('SELECT count(*) AS n FROM account')
   assert.equal(accounts?.n, 0)
