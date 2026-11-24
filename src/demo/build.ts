@@ -210,7 +210,7 @@ export async function buildDemo(db: Db, input: DemoBuildInput): Promise<DemoBuil
     if (!held) throw new Error(`${w.file}: ${w.itinerary.name} was not seeded`)
     ids.set(w.content.osm, held.id)
     if (w.row.track && !CLIMBING.has(w.itinerary.activity)) {
-      await saveTrack(db, held.id, w.row.track.map(([lat, lon]) => [lat, lon, null] as const), `osm:${w.content.osm}`)
+      await saveTrack(db, held.id, w.row.track.map(([lat, lon]) => [lon, lat, null] as const), `osm:${w.content.osm}`)
       seeded.tracks = (seeded.tracks ?? 0) + 1
     }
   }

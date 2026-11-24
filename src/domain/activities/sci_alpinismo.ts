@@ -38,8 +38,9 @@ export const sciAlpinismo = defineActivity({
     furniture('condizioni', 'Condizioni', 'condizioni'),
     furniture('vicine',     'Itinerari vicini', 'vicine'),
     furniture('foto',       'Foto', 'foto'),
-    // no parking point recorded for this activity: the road in words alone
-    furniture('parcheggio', 'Come arrivare', 'strada'),
+    // Where the tour has a track, the panel draws it as a hike's, from the
+    // parking where one is recorded; without one, the road in words alone.
+    furniture('parcheggio', 'Come arrivare', 'traccia'),
   ],
   current: { days: 7 },
   skyFigures: ['zero_termico', 'neve_fresca'],

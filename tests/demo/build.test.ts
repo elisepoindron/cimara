@@ -73,7 +73,10 @@ test('a place with content is the measured place with the written content laid o
   assert.equal(await trackFor(db, crag.id), null)
   const hike = (await allItineraries(db)).find(i => i.name === 'Anello di Prova')!
   assert.equal(hike.sections.descrizione, 'Un giro tra i castagni sopra il paese.')
-  assert.equal((await trackFor(db, hike.id))?.points.length, 3)
+  const hikeTrack = await trackFor(db, hike.id)
+  assert.equal(hikeTrack?.points.length, 3)
+  const [lon, lat] = hikeTrack!.points[0]!
+  assert.ok(lon < lat, `a point is [lon, lat], found [${lon}, ${lat}]`)
 })
 
 test('the places without content are written by the importer, and not written twice', async () => {

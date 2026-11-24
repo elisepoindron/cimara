@@ -10,7 +10,8 @@
     "localita_partenza",
     "come_arrivare",
     "description",
-    "reports"
+    "reports",
+    "parcheggio"
   ],
   "itinerary": {
     "key": "rifugio-deffeyes-tete-du-rutor",
@@ -19,6 +20,8 @@
     "name": "Rifugio Deffeyes - Tete du Rutor",
     "lat": 45.67523,
     "lon": 6.98611,
+    "parkingLat": 45.68996,
+    "parkingLon": 6.96035,
     "aspect": "N",
     "altMax": 3486,
     "facts": {

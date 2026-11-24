@@ -6,7 +6,22 @@
     "parcheggio_nota",
     "vie",
     "description",
-    "reports"
+    "reports",
+    "ombra_dalle",
+    "riparato_dal_vento",
+    "parete",
+    "roccia",
+    "stagione",
+    "con_la_pioggia",
+    "per_famiglie",
+    "bellezza",
+    "chiodatura",
+    "tranquillita",
+    "comodita",
+    "voto_parcheggio",
+    "come_arrivare",
+    "da_torino",
+    "parcheggio"
   ],
   "itinerary": {
     "key": "el-coup-de-roure",
@@ -15,6 +30,8 @@
     "name": "El Coup de Roure",
     "lat": 44.57523,
     "lon": 7.24562,
+    "parkingLat": 44.57606,
+    "parkingLon": 7.25007,
     "aspect": "SO",
     "altMax": 1012,
     "facts": {
@@ -22,7 +39,32 @@
       "quota_base": 1012,
       "avvicinamento": 10,
       "localita_partenza": "Sampeyre",
-      "parcheggio_nota": "Una piazzola a bordo strada con una decina di posti: nei weekend di sole si riempie presto, non lasciare l'auto davanti agli accessi dei prati."
+      "parcheggio_nota": "Una piazzola a bordo strada con una decina di posti: nei weekend di sole si riempie presto, non lasciare l'auto davanti agli accessi dei prati.",
+      "ombra_dalle": [
+        "14:30",
+        "16:30"
+      ],
+      "riparato_dal_vento": true,
+      "parete": [
+        "placca",
+        "verticale",
+        "strapiombante"
+      ],
+      "roccia": "gneiss",
+      "stagione": [
+        "primavera",
+        "autunno",
+        "inverno"
+      ],
+      "con_la_pioggia": false,
+      "per_famiglie": true,
+      "bellezza": 4,
+      "chiodatura": 4,
+      "tranquillita": 4,
+      "comodita": 4,
+      "voto_parcheggio": 3,
+      "come_arrivare": "Da Sampeyre si sale in auto per la strada sopra il paese fino alla piazzola sotto la parete.",
+      "da_torino": "Per Saluzzo e la Valle Varaita fino a Sampeyre: circa un'ora e mezza."
     },
     "sections": {
       "note": "Falesia compatta di gneiss grigio sopra Sampeyre, esposta a sud-ovest, con 38 monotiri dal 4a all'8a+ e il grosso delle vie tra il 6a e il 6c. Le lunghezze vanno da 8 a 30 metri: corte e facili alle Placchette, lunghe e continue al Muro Centrale, verticali al Pilier dal Roure, fisiche e brevi allo Strapiombo.\n\nLa chiodatura è a spit e resinati, ravvicinata sulle vie facili delle Placchette e più distanziata su alcune vie del Muro Centrale, dove tra uno spit e l'altro bisogna saper stare sui piedi. Le soste sono attrezzate con catena per la moulinette. Basta una corda da 60 metri e una dozzina di rinvii.\n\nIl sole arriva a metà mattina e resta fino al pomeriggio: è una falesia da primavera, autunno e giornate limpide d'inverno. D'estate si scala solo al mattino presto o dopo che il sole è passato dietro la montagna. Alla base un grande rovere fa ombra e tiene gli zaini all'asciutto.",

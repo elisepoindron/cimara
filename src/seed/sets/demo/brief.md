@@ -84,6 +84,10 @@ One JSON file per place, `src/seed/sets/demo/content/<osm>.json`, exactly this s
 - `aspect`, and `facts.esposizione` where the activity has it: one of `N NE E SE S SO O NO`
   (Italian: O is west). `altMax`: the highest point of the place where you know it (the crag's
   `quota_base`, a route's top); leave it out otherwise.
+- `parkingLat`, `parkingLon`: on every star, where the car is left — a real OpenStreetMap car
+  park (`amenity=parking`) the page's own words agree with, never a point picked on the map. It
+  draws the parking on the page's map and, on a crag, the walk from it to the wall. List
+  `parcheggio` as invented: the car park is real, choosing it for this place is ours.
 - `invented`: every fact, section and list you made up rather than took from what you were given:
   the fact ids (`avvicinamento`, `localita_partenza`…), `vie` or `tiri` for parts, `description`
   for the prose sections, `reports`.
@@ -97,9 +101,13 @@ reads it, so a fact or a section it does not declare is refused. Every fact is o
 **falesia** (a crag):
 - `facts`: `esposizione` (required), `quota_base` (required, metres), `avvicinamento` (minutes on
   foot from the car, a number), optionally `localita_partenza` (only the comune's name or a place
-  you are sure of), `come_arrivare`, `parcheggio_nota`. Never `vie` or `gradi` (counted from the
-  routes) and never the ratings (`bellezza`, `chiodatura`, `tranquillita`, `comodita`,
-  `voto_parcheggio`).
+  you are sure of), `come_arrivare`, `da_torino`, `parcheggio_nota`, and the guidebook column:
+  `ombra_dalle` (`["16:30", "20:30"]`, earliest to latest), `parete` (any of `placca`,
+  `verticale`, `strapiombante`, `tetto`), `roccia`, `stagione` (any of `primavera`, `estate`,
+  `autunno`, `inverno`), `riparato_dal_vento`, `con_la_pioggia`, `per_famiglie` (true or false).
+  On a star, the five ratings too (`bellezza`, `chiodatura`, `tranquillita`, `comodita`,
+  `voto_parcheggio`, 1 to 5), always listed as invented. Never `vie` or `gradi` (counted from the
+  routes).
 - `sections`: `note` (the description: rock, style, bolting, sun and shade, what to bring, 2–5
   short paragraphs), `avvicinamento` (the walk in, 1 paragraph), optionally `storia` (who bolted
   it is a person: say "i chiodatori locali", never a name).
@@ -128,7 +136,13 @@ reads it, so a fact or a section it does not declare is refused. Every fact is o
   pitches; their lengths add up to about `sviluppo`. No pitch harder than `grado_max`.
 
 **bouldering** (a boulder or a boulder area), **mountain_bike**, **via_ferrata**:
-- No facts: `facts` is `{}`. No `parts`: the problems of a boulder are told in words.
+- `facts`, all optional: bouldering `quota_base`, `esposizione`, `avvicinamento`, `roccia`,
+  `localita_partenza`, `come_arrivare`, `parcheggio_nota`; mountain_bike `difficolta` (CAI scale,
+  climb then descent: `MC/BC`), `dislivello`, `partenza`, `vetta`, `localita_partenza`,
+  `come_arrivare`; via_ferrata `difficolta` (`F`, `PD`, `D`, `TD`, `ED`, with `+`/`-`),
+  `dislivello`, `partenza` (metres at the first cable), `vetta`, `esposizione`, `avvicinamento`,
+  `localita_partenza`, `come_arrivare`, `parcheggio_nota`. No `parts`: the problems of a boulder
+  are told in words.
 - `sections`: `descrizione` (2–5 paragraphs), optionally `note`, `avvicinamento`.
 - bouldering: say what the boulder is (an erratic, a field of blocks), its rock, how high, the
   landings, which faces hold the problems and on what grades (Fontainebleau grades in words:

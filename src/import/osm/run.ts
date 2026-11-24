@@ -93,7 +93,7 @@ async function write(db: Db, t: Extract<OsmTranslated, { ok: true }>): Promise<v
     // A climbing feature's line is its wall or its pitches, not a way to walk;
     // a route's is the way.
     if (t.place.track && !CLIMBING.has(it.activity)) {
-      await saveTrack(db, id, t.place.track.map(([lat, lon]) => [lat, lon, null] as const), `osm:${t.place.osm}`)
+      await saveTrack(db, id, t.place.track.map(([lat, lon]) => [lon, lat, null] as const), `osm:${t.place.osm}`)
     }
   })
 }

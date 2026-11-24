@@ -6,7 +6,22 @@
     "parcheggio_nota",
     "vie",
     "description",
-    "reports"
+    "reports",
+    "ombra_dalle",
+    "riparato_dal_vento",
+    "parete",
+    "roccia",
+    "stagione",
+    "con_la_pioggia",
+    "per_famiglie",
+    "bellezza",
+    "chiodatura",
+    "tranquillita",
+    "comodita",
+    "voto_parcheggio",
+    "come_arrivare",
+    "da_torino",
+    "parcheggio"
   ],
   "itinerary": {
     "key": "corno-di-machaby",
@@ -15,6 +30,8 @@
     "name": "Corno di Machaby",
     "lat": 45.64385,
     "lon": 7.75044,
+    "parkingLat": 45.64509,
+    "parkingLon": 7.74185,
     "aspect": "SO",
     "altMax": 1189,
     "facts": {
@@ -22,7 +39,32 @@
       "quota_base": 1189,
       "avvicinamento": 20,
       "localita_partenza": "Arnad",
-      "parcheggio_nota": "Pochi posti, nei weekend di bel tempo si riempie presto: lasciare l'auto a bordo strada senza bloccare il passaggio."
+      "parcheggio_nota": "Pochi posti, nei weekend di bel tempo si riempie presto: lasciare l'auto a bordo strada senza bloccare il passaggio.",
+      "ombra_dalle": [
+        "16:30",
+        "20:30"
+      ],
+      "riparato_dal_vento": false,
+      "parete": [
+        "placca",
+        "verticale",
+        "strapiombante"
+      ],
+      "roccia": "gneiss",
+      "stagione": [
+        "primavera",
+        "autunno",
+        "inverno"
+      ],
+      "con_la_pioggia": false,
+      "per_famiglie": false,
+      "bellezza": 5,
+      "chiodatura": 4,
+      "tranquillita": 2,
+      "comodita": 3,
+      "voto_parcheggio": 2,
+      "come_arrivare": "Da Arnad si segue la strada per Machaby fino al piccolo parcheggio sotto la parete.",
+      "da_torino": "Autostrada A5 verso Aosta, uscita Pont-Saint-Martin, poi la statale fino ad Arnad: circa un'ora e un quarto."
     },
     "sections": {
       "note": "Grande parete di gneiss compatto esposta a sud-ovest, con placche tecniche, un pilastro più verticale e un settore strapiombante sulla destra. Le vie vanno dal 5c all'8a+, da 18 a 35 metri i monotiri, fino a 90 metri le vie a più tiri.\n\nLa scalata è soprattutto di piedi: aderenza, tacche piccole, pochi appigli netti. Chi arriva dal calcare trova i gradi severi. La chiodatura è a fix e resinati, più ravvicinata agli Strapiombi, un po' più lunga sulle placche e sulle vie lunghe.\n\nIl sole arriva a fine mattinata e resta fino a sera: è una parete da autunno, inverno e primavera. D'estate si scala solo la mattina presto, nel pomeriggio la roccia scotta.\n\nPer le vie lunghe servono una corda da 70 o due mezze da 60: si scende in doppia sulle vie. Moulinette possibile su quasi tutti i monotiri con una corda da 70.",

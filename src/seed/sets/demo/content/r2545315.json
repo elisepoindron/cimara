@@ -2,7 +2,14 @@
   "osm": "r2545315",
   "invented": [
     "description",
-    "reports"
+    "reports",
+    "difficolta",
+    "dislivello",
+    "partenza",
+    "vetta",
+    "localita_partenza",
+    "come_arrivare",
+    "parcheggio"
   ],
   "itinerary": {
     "key": "jafferau",
@@ -11,12 +18,21 @@
     "name": "Jafferau",
     "lat": 45.08646,
     "lon": 6.76919,
+    "parkingLat": 45.07265,
+    "parkingLon": 6.88365,
     "altMax": 2805,
-    "facts": {},
+    "facts": {
+      "difficolta": "MC/BC",
+      "dislivello": 1780,
+      "partenza": 1032,
+      "vetta": 2805,
+      "localita_partenza": "Salbertrand",
+      "come_arrivare": "Da Torino per l'autostrada del Frejus fino all'uscita di Salbertrand; si lascia l'auto in paese."
+    },
     "sections": {
-      "descrizione": "Il grande giro di Bardonecchia: dal paese si sale per la vecchia strada militare fino al Forte Jafferau, sul crinale a quasi 2.800 metri. Quasi duemila metri di dislivello, quasi tutti su sterrato largo e a pendenza regolare, senza strappi ma lunghissimi: in sella dall'inizio alla fine si fa, ma va messa in conto una mattina intera.\n\nIn basso la strada sale nel bosco di larici con il fondo compatto; oltre il limite degli alberi si fa più sassosa e i tornanti si stringono. In alto si passa la galleria scavata nella montagna, lunga e umida, che sbuca sul versante opposto a poca distanza dal forte. Dai ruderi lo sguardo corre su tutta la conca di Bardonecchia e sulle cime di confine.\n\nLa discesa più semplice è per la stessa strada: veloce, ma con molto pietrame mobile nei tornanti alti. Chi ha una bici da enduro può prendere il sentiero che si stacca sotto la galleria, ripido, sassoso e tecnico, con qualche tratto da fare a piedi.\n\nLa strada è aperta anche a fuoristrada e moto, che nei weekend d'estate sollevano parecchia polvere. Chi non vuole pedalare tutto il dislivello può usare la seggiovia estiva con il porta bici o una navetta, e pedalare solo la parte alta.",
+      "descrizione": "Il grande giro da Salbertrand: dal paese si sale per la vecchia strada militare fino al Forte Jafferau, sul crinale a quasi 2.800 metri. Quasi duemila metri di dislivello, quasi tutti su sterrato largo e a pendenza regolare, senza strappi ma lunghissimi: in sella dall'inizio alla fine si fa, ma va messa in conto una mattina intera.\n\nIn basso la strada sale nel bosco di larici con il fondo compatto; oltre il limite degli alberi si fa più sassosa e i tornanti si stringono. In alto si passa la galleria scavata nella montagna, lunga e umida, che sbuca sul versante opposto a poca distanza dal forte. Dai ruderi lo sguardo corre su tutta la conca di Bardonecchia e sulle cime di confine.\n\nLa discesa più semplice è per la stessa strada: veloce, ma con molto pietrame mobile nei tornanti alti. Chi ha una bici da enduro può prendere il sentiero che si stacca sotto la galleria, ripido, sassoso e tecnico, con qualche tratto da fare a piedi.\n\nLa strada è aperta anche a fuoristrada e moto, che nei weekend d'estate sollevano parecchia polvere. Chi non vuole pedalare tutto il dislivello può usare la seggiovia estiva con il porta bici o una navetta, e pedalare solo la parte alta.",
       "note": "Si va da giugno a ottobre: prima e dopo, sopra i 2.000 metri c'è neve e l'imbocco della galleria resta chiuso a lungo. Acqua solo in paese e in basso, sopra niente: due borracce almeno. In cima fa freddo anche d'estate, una giacca e i guanti lunghi per la discesa servono sempre; nei pomeriggi d'estate i temporali arrivano in fretta.",
-      "avvicinamento": "Si parte direttamente da Bardonecchia, dove si lascia l'auto: i primi chilometri sono asfaltati, poi si imbocca la strada militare sterrata che sale verso lo Jafferau."
+      "avvicinamento": "Si parte direttamente da Salbertrand, dove si lascia l'auto: i primi chilometri sono asfaltati, poi si imbocca la strada militare sterrata che sale verso lo Jafferau."
     },
     "parts": [],
     "reports": [

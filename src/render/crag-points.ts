@@ -82,25 +82,27 @@ export function alpinePoints(
 
 /**
  * A hike's Come arrivare panel where the route has a track: drawn as a crag's,
- * the two rows and the map, then the road in words. The square is where the
- * track starts, the triangle where it goes highest — the goal, whether the
- * track ends there or comes down another way — and the line is the track
- * itself, solid, with its length and climb under the map.
+ * the two rows and the map, then the road in words. The square is the parking
+ * where one is recorded, otherwise where the track starts; the triangle where
+ * it goes highest — the goal, whether the track ends there or comes down
+ * another way — and the line is the track itself, solid, with its length and
+ * climb under the map.
  */
 export function trackPoints(
   points: readonly TrackPoint[], name: string, opts: { sectionId: string; label: string },
   around: readonly Pin[] = [],
   road: Html = html``,
+  parking: { lat: number; lon: number } | null = null,
 ): Html {
   const [startLon, startLat] = points[0]!
-  const [goalLon, goalLat] = trackGoal(points)
-  const start = { lat: startLat, lon: startLon }
+  const start = parking ?? { lat: startLat, lon: startLon }
+  const [goalLon, goalLat] = trackGoal(points, start)
   const goal = { lat: goalLat, lon: goalLon }
   const map = pointsMap(start, goal, name, null, trackTrail(points), around, HIKE_TRACK)
 
   return html`<section id="${opts.sectionId}">
         <h2>${opts.label}</h2>
-        <dl class="pk__pts">${row('p', SQUARE, 'Partenza', start.lat, start.lon, directions, 'Indicazioni →')}
+        <dl class="pk__pts">${row('p', SQUARE, parking ? 'Parcheggio' : 'Partenza', start.lat, start.lon, directions, 'Indicazioni →')}
           ${row('v', TRIANGLE, 'Meta', goal.lat, goal.lon, search, 'Mappa →')}</dl>
         ${map ?? html``}
         ${road}

@@ -7,7 +7,9 @@
     "localita_partenza",
     "come_arrivare",
     "description",
-    "reports"
+    "reports",
+    "esposizione",
+    "parcheggio"
   ],
   "itinerary": {
     "key": "alta-via-n-2-della-valle-d-aosta-tappa-10",
@@ -16,6 +18,8 @@
     "name": "Alta Via n. 2 della Valle d'Aosta - Tappa 10",
     "lat": 45.60823,
     "lon": 7.35608,
+    "parkingLat": 45.60922,
+    "parkingLon": 7.35698,
     "altMax": 2530,
     "facts": {
       "difficolta": "E",
@@ -23,7 +27,8 @@
       "vetta": 2530,
       "dislivello": 1100,
       "localita_partenza": "Cogne",
-      "come_arrivare": "Da Aosta si sale a Cogne per la strada della Valle di Cogne. Parcheggi in paese e a Lillaz. Il rifugio non è raggiungibile in auto: chi fa solo questa tappa torna per la stessa via oppure prosegue oltre la Finestra di Champorcher."
+      "come_arrivare": "Da Aosta si sale a Cogne per la strada della Valle di Cogne. Parcheggi in paese e a Lillaz. Il rifugio non è raggiungibile in auto: chi fa solo questa tappa torna per la stessa via oppure prosegue oltre la Finestra di Champorcher.",
+      "esposizione": "E"
     },
     "sections": {
       "descrizione": "Decima tappa dell'Alta Via n. 2 della Valle d'Aosta: da Cogne (1.540 m) al Rifugio Sogno di Berdzé (2.530 m), circa 14 km con 1.100 m di salita e poco più di cento metri di discesa. È una tappa lunga ma senza passaggi difficili, su sentiero sempre evidente, segnato con il triangolo giallo dell'Alta Via.\n\nDa Cogne si risale il fondovalle fino a Lillaz e si passa accanto alle cascate, poi si entra nel Vallone dell'Urtier, dentro il Parco Nazionale del Gran Paradiso. La salita è graduale: un primo tratto nel bosco, poi lunghi pascoli e alpeggi lungo il torrente, infine i pendii aperti dove sorge il rifugio, sotto la Finestra di Champorcher. Marmotte quasi ovunque; nella parte alta è facile incontrare stambecchi e camosci.\n\nSi percorre da fine giugno a inizio ottobre, nel periodo di apertura del rifugio, dove conviene prenotare. A inizio stagione la neve può resistere sugli ultimi pendii e intorno alla Finestra. Acqua ai fontanili degli alpeggi e ai ruscelli del vallone; sopra il bosco l'ombra finisce. La tappa seguente scavalca la Finestra di Champorcher e scende verso la valle di Champorcher."
