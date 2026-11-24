@@ -1,6 +1,6 @@
 import { metres, text } from '../quantity.ts'
 import {
-  defineActivity, description, distance, fact, furniture, prose, rowFact,
+  defineActivity, description, distance, fact, furniture, generated, prose, rowFact,
 } from '../registry.ts'
 
 /**
@@ -29,6 +29,7 @@ export const mountainBike = defineActivity({
   ],
   document: [
     description(),
+    generated('profilo',       'Profilo', 'profilo'),
     furniture('relazioni',     'Cosa dicono le relazioni', 'relazioni'),
     prose    ('avvicinamento', 'Avvicinamento', 'tail'),
     furniture('storico',       'Storico e fonti'),

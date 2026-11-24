@@ -55,6 +55,8 @@ import { stationsNear } from '../db/weather-station.ts'
 import { trailFor, type FetchTrail } from './trail.ts'
 import { accessPoints } from '../domain/geo.ts'
 import { trackFor } from '../db/track.ts'
+import { profileFor, type FetchTile } from './terrain.ts'
+import { fetchTerrainTile } from './terrain-client.ts'
 import { synthesisFor } from '../db/synthesis.ts'
 import { accessTokenOf, type AccessGate } from './access.ts'
 import { brand, configureSite, site } from '../render/site.ts'
@@ -72,7 +74,7 @@ const TYPES: Record<string, string> = {
  * — one place states exactly what is servable, the same reason `db/migrate.ts`
  * is the one place that executes opaque files it never inspects.
  */
-const PUBLIC_SCRIPTS = ['/home-map.js', '/find-map.js', '/list-in-view.js', '/find-live.js', '/find-menus.js', '/page-motion.js', '/ground-motion.js', '/parking-map.js', '/crag-map.js', '/map-core.js', '/gallery-lightbox.js', '/photo-zoom.js', '/password-peek.js', '/line-examples.js', '/vie-fold.js', '/station-fold.js', '/words-count.js', '/grade-nine.js', '/page-phone.js', '/find-sheet.js']
+const PUBLIC_SCRIPTS = ['/home-map.js', '/find-map.js', '/list-in-view.js', '/find-live.js', '/find-menus.js', '/page-motion.js', '/ground-motion.js', '/parking-map.js', '/crag-map.js', '/map-core.js', '/gallery-lightbox.js', '/photo-zoom.js', '/password-peek.js', '/line-examples.js', '/vie-fold.js', '/station-fold.js', '/words-count.js', '/grade-nine.js', '/page-phone.js', '/find-sheet.js', '/profile.js']
 
 /**
  * Every stylesheet and script the pages load, with a hash of its bytes, read
@@ -111,7 +113,7 @@ export function createServer(
         return send(res, 403, HTML, render(html`<html lang="it"><title>Accesso riservato</title>
           <p>Questa versione di ${brand().name} è riservata a chi è stato invitato.</p>`))
       }
-      await route(db, photos, pendingPhotos, callModel, fetchWeather, rewriteLine, fetchTrail, req, res, demo)
+      await route(db, photos, pendingPhotos, callModel, fetchWeather, rewriteLine, fetchTrail, options.fetchTile ?? null, req, res, demo)
     } catch (err) {
       console.error(err)
       // A throw after headers are already on the wire (a partial send, then an
@@ -131,6 +133,8 @@ export interface ServerOptions {
   readonly publicDemo?: boolean
   /** The demonstration's ceilings on reports filed and photos sent; tests set their own. */
   readonly demoLimits?: { readonly reports?: Limits; readonly photos?: Limits }
+  /** Reads the terrain under a route's track, for its elevation profile. Absent: no profile is read. */
+  readonly fetchTile?: FetchTile | null
 }
 
 /**
@@ -163,6 +167,8 @@ interface Ctx {
   readonly rewriteLine: RewriteLine | null
   /** Asks a hiking router for a crag's walk in. Null where none is configured. */
   readonly fetchTrail: FetchTrail | null
+  /** Reads terrain tiles for a route's profile. Null where none is configured. */
+  readonly fetchTile: FetchTile | null
   readonly req: http.IncomingMessage
   readonly res: http.ServerResponse
   readonly url: URL
@@ -189,7 +195,7 @@ const ROUTES: Record<string, RouteDef> = {
 async function route(
   db: Db, photos: PhotoStore, pendingPhotos: PhotoStore, callModel: CallModel | null,
   fetchWeather: FetchWeather | null, rewriteLine: RewriteLine | null, fetchTrail: FetchTrail | null,
-  req: http.IncomingMessage, res: http.ServerResponse, demo: DemoState | null = null,
+  fetchTile: FetchTile | null, req: http.IncomingMessage, res: http.ServerResponse, demo: DemoState | null = null,
 ) {
   const url = new URL(req.url ?? '/', 'http://localhost')
   const path = url.pathname
@@ -204,7 +210,7 @@ async function route(
   const { token: csrf, setCookie: csrfSetCookie } = csrfTokenFor(req)
   if (csrfSetCookie) res.setHeader('Set-Cookie', csrfSetCookie)
 
-  const ctx: Ctx = { db, photos, pendingPhotos, callModel, fetchWeather, rewriteLine, fetchTrail, req, res, url, account, csrf }
+  const ctx: Ctx = { db, photos, pendingPhotos, callModel, fetchWeather, rewriteLine, fetchTrail, fetchTile, req, res, url, account, csrf }
 
   if (demo) {
     // Nobody signs up on the demonstration: there is one account, entered here.
@@ -803,14 +809,20 @@ async function itineraryFor(ctx: Ctx, id: string): Promise<string | null> {
     ? await trailFor(ctx.db, ends.parking, ends.own, now, ctx.fetchTrail)
     : null
 
-  // Only an activity whose panel draws a track reads one.
-  const track = schema.rail.some(s => s.render === 'traccia') ? await trackFor(ctx.db, it.id) : null
+  // Only an activity whose panel draws a track, or whose page draws a profile, reads one.
+  const drawsProfile = schema.document.some(s => s.render === 'profilo')
+  const track = schema.rail.some(s => s.render === 'traccia') || drawsProfile ? await trackFor(ctx.db, it.id) : null
+  // The profile is read from the terrain along the track, once; a first visit
+  // waits for it as long as for the weather, then it lands in the background.
+  const profile = drawsProfile && track && ctx.fetchTile
+    ? await profileFor(ctx.db, it.id, track.points, now, ctx.fetchTile, { waitMs: FIRST_FETCH_WAIT_MS })
+    : null
 
   const places = await ancestorsOf(ctx.db, it.placeId)
   const since = new Date(now.getTime() - schema.current.days * 86_400_000).toISOString().slice(0, 10)
 
   return itineraryPage({
-    itinerary: it, schema, parts, trail, track: track?.points ?? null, places,
+    itinerary: it, schema, parts, trail, track: track?.points ?? null, profile, places,
     crumbLines: await crumbLines(ctx.db, { id: schema.id, label: schema.label.it }, places),
     facts: resolveFacts(schema, it.facts, parts),
     access: resolveAccessFacts(schema, it.facts, parts),
@@ -990,7 +1002,7 @@ if (import.meta.filename === process.argv[1]) {
   }
 
   const port = Number(process.env.PORT ?? 3000)
-  createServer(db, photoStore, pendingPhotoStore, callModel, realFetchWeather, rewriteLine, realFetchTrail, access, { publicDemo })
+  createServer(db, photoStore, pendingPhotoStore, callModel, realFetchWeather, rewriteLine, realFetchTrail, access, { publicDemo, fetchTile: fetchTerrainTile })
     .listen(port, () => console.log(`listening on :${port}`))
 
   // Routes whose reports arrived through the seed or an import, which no

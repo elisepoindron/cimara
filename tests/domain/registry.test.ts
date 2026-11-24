@@ -79,7 +79,8 @@ test('the tail group matches route.html and crag.html exactly — through avvici
 
 test('a hike opens on its Descrizione, the note inside it, as every activity does', () => {
   const doc = activityOf('escursionismo').document
-  assert.deepEqual(doc.slice(0, 2).map(s => s.id), ['descrizione', 'relazioni'])
+  // Then what is drawn from its data, its profile where it has a track, then what people say.
+  assert.deepEqual(doc.slice(0, 3).map(s => s.id), ['descrizione', 'profilo', 'relazioni'])
   assert.equal(doc[0]?.label.it, 'Descrizione')
   assert.deepEqual(doc[0]?.runIns?.map(r => r.id), ['note'])
 })

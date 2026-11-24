@@ -1,4 +1,4 @@
-import { defineActivity, description, furniture, prose } from '../registry.ts'
+import { defineActivity, description, furniture, generated, prose } from '../registry.ts'
 
 /**
  * A snowshoe walk. Prose only for now: no header facts, no parts. It exists so the
@@ -13,6 +13,7 @@ export const ciaspole = defineActivity({
   facts: [],
   document: [
     description(),
+    generated('profilo',       'Profilo', 'profilo'),
     furniture('relazioni',     'Cosa dicono le relazioni', 'relazioni'),
     prose    ('avvicinamento', 'Avvicinamento', 'tail'),
     furniture('storico',       'Storico e fonti'),
