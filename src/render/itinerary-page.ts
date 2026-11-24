@@ -4,6 +4,8 @@ import { weatherAltitudeM, type Weather } from '../domain/weather.ts'
 import type { NearbyStation } from '../domain/stations.ts'
 import type { Trail } from '../domain/trail.ts'
 import type { TrackPoint } from '../domain/track.ts'
+import type { ProfileSample } from '../domain/profile.ts'
+import { profileSection } from './profile-section.ts'
 import type { ItineraryRow } from '../db/itinerary.ts'
 import type { PlaceRow } from '../db/place.ts'
 import type { Part, FactValue } from '../domain/facts.ts'
@@ -101,6 +103,8 @@ export interface PageInput {
   readonly trail?: Trail | null
   /** The route's own recorded track, where somebody gave it one. */
   readonly track?: readonly TrackPoint[] | null
+  /** The elevation profile read from the terrain along that track, once it has been. */
+  readonly profile?: readonly ProfileSample[] | null
 }
 
 function sectionFor(def: SectionDef, input: PageInput): Html | null {
@@ -127,7 +131,6 @@ function sectionFor(def: SectionDef, input: PageInput): Html | null {
       </section>`
         return foldedSettori(def, list, input.parts.length)
       }
-      // An elevation profile needs a track. Project 1 stores one point.
       case 'tiri': {
         const list = pitchList(input.schema, input.parts)
         return list && html`<section id="${def.id}">
@@ -135,7 +138,24 @@ function sectionFor(def: SectionDef, input: PageInput): Html | null {
         ${list}
       </section>`
       }
-      case 'profilo': return null
+      // Drawn only where the route has a track and the terrain has been read along it.
+      case 'profilo': {
+        if (!input.profile) return null
+        const metres = (list: readonly FactValue[] | undefined, id: string) => {
+          const v = list?.find(f => f.def.id === id)?.value
+          return typeof v === 'number' ? v : null
+        }
+        const startName = input.access?.find(f => f.def.id === 'localita_partenza')
+        return profileSection({
+          sectionId: def.id, label: def.label.it, samples: input.profile,
+          climbM: metres(input.facts, 'dislivello'),
+          start: {
+            name: startName && startName.value !== null && startName.text !== '' ? startName.text : null,
+            heightM: metres(input.facts, 'partenza'),
+          },
+          topM: metres(input.facts, 'vetta'),
+        })
+      }
       default: return null
     }
   }

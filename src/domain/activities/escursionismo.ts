@@ -1,6 +1,6 @@
 import { aspect, metres, text } from '../quantity.ts'
 import {
-  defineActivity, description, distance, fact, findAspect, furniture, rowFact,
+  defineActivity, description, distance, fact, findAspect, furniture, generated, rowFact,
 } from '../registry.ts'
 
 /**
@@ -29,6 +29,7 @@ export const escursionismo = defineActivity({
   ],
   document: [
     description(),
+    generated('profilo',       'Profilo', 'profilo'),
     furniture('relazioni',     'Cosa dicono le relazioni', 'relazioni'),
     furniture('storico',       'Storico e fonti'),
     furniture('altri',         'Altri itinerari'),

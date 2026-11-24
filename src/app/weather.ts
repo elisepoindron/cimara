@@ -69,7 +69,7 @@ export async function weatherFor(
 }
 
 /** The promise's value if it settles within `ms`, null otherwise. The timer never holds the process open. */
-async function within<T>(p: Promise<T | null>, ms: number): Promise<T | null> {
+export async function within<T>(p: Promise<T | null>, ms: number): Promise<T | null> {
   let timer: ReturnType<typeof setTimeout> | undefined
   const timeout = new Promise<null>(resolve => {
     timer = setTimeout(() => resolve(null), ms)

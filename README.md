@@ -79,7 +79,9 @@ A server-rendered Node app over SQLite, with no build step and one runtime depen
   sentence instead of being silently dropped.
 
 The weather is fetched server-side from Open-Meteo and cached; walking paths come from BRouter;
-the map's tiles from OpenFreeMap, Mapterhorn and OpenTopoMap. All are free and keyless.
+the map's tiles from OpenFreeMap, Mapterhorn and OpenTopoMap; a route's elevation profile is read
+along its track from the Terrain Tiles on AWS's open data registry, once, and kept. All are free
+and keyless.
 
 ## Running it
 
@@ -129,4 +131,5 @@ third-party data and the map library keep their own licences, listed there.
 ## Credits
 
 Places © OpenStreetMap contributors (ODbL). Weather by Open-Meteo. Map tiles by OpenFreeMap,
-Mapterhorn and OpenTopoMap. Routing by BRouter.
+Mapterhorn and OpenTopoMap. Routing by BRouter. Elevation profiles from Terrain Tiles
+([attribution](https://github.com/tilezen/joerd/blob/master/docs/attribution.md)).
