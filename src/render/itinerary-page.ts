@@ -20,6 +20,7 @@ import { proseSection } from './prose.ts'
 import { roadPanel, roadRows } from './access-section.ts'
 import { giudiziLine } from './giudizi.ts'
 import { alpinePoints, cragPoints, trackPoints } from './crag-points.ts'
+import { accessPoints } from '../domain/geo.ts'
 import { conditionsSlot } from './conditions-slot.ts'
 import { aroundPins, nearbySection } from './nearby-section.ts'
 import { photosSlot } from './photos-slot.ts'
@@ -187,12 +188,18 @@ function sectionFor(def: SectionDef, input: PageInput): Html | null {
         })
       case 'strada':
         return roadPanel({ sectionId: def.id, label: def.label.it }, roadRows(input.access ?? []))
-      case 'traccia':
-        return input.track
-          ? trackPoints(input.track, input.itinerary.name, { sectionId: def.id, label: def.label.it },
-            aroundPins(input.around ?? [], input.itinerary.activity, input.now ?? new Date()),
-            roadRows(input.access ?? []))
-          : roadPanel({ sectionId: def.id, label: def.label.it }, roadRows(input.access ?? []))
+      case 'traccia': {
+        const around = aroundPins(input.around ?? [], input.itinerary.activity, input.now ?? new Date())
+        const { parking } = accessPoints(input.itinerary)
+        if (input.track) {
+          return trackPoints(input.track, input.itinerary.name, { sectionId: def.id, label: def.label.it },
+            around, roadRows(input.access ?? []), parking)
+        }
+        // No track: the parking and the top, as an alpine route's, where a
+        // parking is recorded; the road in words alone where it is not.
+        return alpinePoints(input.itinerary, { sectionId: def.id, label: def.label.it }, around,
+          roadRows(input.access ?? []))
+      }
       default:
         return null
     }

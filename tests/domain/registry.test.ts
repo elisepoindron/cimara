@@ -30,10 +30,15 @@ test('every activity with access facts draws the road in its rail, in one panel 
   assert.equal(panel('multipitch')?.render, 'punti')
   assert.equal(panel('multipitch')?.point?.it, 'Attacco', 'a multi-pitch names where the climbing starts')
   assert.equal(panel('alpinismo')?.render, 'parcheggio')
-  // A hike draws its track where it has one, and the road alone otherwise.
-  assert.equal(panel('escursionismo')?.render, 'traccia')
-  assert.equal(panel('sci_alpinismo')?.render, 'strada')
-  for (const a of ['falesia', 'alpinismo', 'escursionismo', 'sci_alpinismo', 'multipitch']) {
+  // A hike, a ski tour, a ferrata and a ride draw their track where they have
+  // one; a boulder area its parking and its blocks, as a crag.
+  for (const a of ['escursionismo', 'sci_alpinismo', 'via_ferrata', 'mountain_bike']) {
+    assert.equal(panel(a)?.render, 'traccia', a)
+  }
+  assert.equal(panel('bouldering')?.render, 'punti')
+  assert.equal(panel('bouldering')?.point?.it, 'Blocchi')
+  for (const a of ['falesia', 'alpinismo', 'escursionismo', 'sci_alpinismo', 'multipitch',
+                   'via_ferrata', 'mountain_bike', 'bouldering']) {
     assert.equal(panel(a)?.label.it, 'Come arrivare', a)
     assert.equal(activityOf(a).document.some(s => s.id === 'accesso'), false, a)
     const rail = activityOf(a).rail.map(s => s.id)

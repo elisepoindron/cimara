@@ -2,7 +2,17 @@
   "osm": "w83688184",
   "invented": [
     "description",
-    "reports"
+    "reports",
+    "difficolta",
+    "dislivello",
+    "partenza",
+    "vetta",
+    "esposizione",
+    "avvicinamento",
+    "localita_partenza",
+    "come_arrivare",
+    "parcheggio_nota",
+    "parcheggio"
   ],
   "itinerary": {
     "key": "via-ferrata-carlo-giorda",
@@ -11,9 +21,21 @@
     "name": "Via Ferrata Carlo Giorda",
     "lat": 45.104,
     "lon": 7.34704,
+    "parkingLat": 45.10434,
+    "parkingLon": 7.3468,
     "aspect": "E",
     "altMax": 960,
-    "facts": {},
+    "facts": {
+      "difficolta": "PD+",
+      "dislivello": 600,
+      "partenza": 360,
+      "vetta": 960,
+      "esposizione": "E",
+      "avvicinamento": 10,
+      "localita_partenza": "Sant'Ambrogio di Torino",
+      "come_arrivare": "Da Torino per la statale della Valle di Susa fino a Sant'Ambrogio; dal centro del paese si seguono le indicazioni per la ferrata.",
+      "parcheggio_nota": "Si parcheggia in paese, senza occupare i posti dei residenti: nei giorni di festa conviene arrivare presto."
+    },
     "sections": {
       "descrizione": "Una via ferrata lunga e mai davvero difficile che sale il fianco del Monte Pirchiriano dal fondovalle, poco sopra le case di Sant'Ambrogio, fino ai piedi della Sacra di San Michele. Sono circa seicento metri di dislivello, quasi tutti su cavo, con un andamento continuo: brevi muri verticali attrezzati con staffe si alternano a cenge erbose e tratti di roccia appoggiata.\n\nIl primo tratto è il più ripido, un muro di una ventina di metri dove nei giorni di festa si forma spesso la coda. Poi la linea si distende su placche e spigoli, con qualche passo esposto ma sempre ben protetto. A metà percorso una via di fuga segnalata permette di uscire sul sentiero. Il tratto alto, più aereo, sbuca sotto le mura dell'abbazia.\n\nLa parete guarda la valle e prende il sole del mattino: si sale quasi tutto l'anno, anche in pieno inverno quando non c'è ghiaccio, mentre d'estate va fatta all'alba perché roccia e cavo scaldano presto e l'ombra manca. La roccia più frequentata, soprattutto in basso, è levigata dai passaggi.\n\nServe il kit completo da ferrata omologato (imbrago, set con dissipatore, casco) e i guanti; acqua in abbondanza, non ce n'è lungo il percorso. Il rientro è a piedi, per la mulattiera che dalla Sacra scende al paese: circa un'ora e un quarto, ripida, da non sottovalutare con le gambe stanche.",
       "avvicinamento": "Dal centro di Sant'Ambrogio si seguono le indicazioni per la ferrata: pochi minuti a piedi tra le ultime case e un breve sentiero nel bosco portano all'attacco, a circa 360 metri. Si parcheggia in paese, senza occupare i posti dei residenti."

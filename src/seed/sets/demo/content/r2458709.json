@@ -6,7 +6,11 @@
     "localita_partenza",
     "come_arrivare",
     "description",
-    "reports"
+    "reports",
+    "partenza",
+    "dislivello",
+    "esposizione",
+    "parcheggio"
   ],
   "itinerary": {
     "key": "via-francigena-01-valle-d-aosta",
@@ -15,12 +19,17 @@
     "name": "Via Francigena - 01 Valle d'Aosta",
     "lat": 45.82247,
     "lon": 7.20595,
+    "parkingLat": 45.82121,
+    "parkingLon": 7.20712,
     "altMax": 2469,
     "facts": {
       "difficolta": "E",
       "vetta": 2469,
       "localita_partenza": "Colle del Gran San Bernardo",
-      "come_arrivare": "D'estate al Colle si sale in auto o in bus da Aosta per la strada del Gran San Bernardo, aperta più o meno da giugno a ottobre. I paesi della bassa valle sono sulla linea ferroviaria Aosta - Ivrea: ogni tappa ha una stazione vicina all'arrivo o alla partenza."
+      "come_arrivare": "D'estate al Colle si sale in auto o in bus da Aosta per la strada del Gran San Bernardo, aperta più o meno da giugno a ottobre. I paesi della bassa valle sono sulla linea ferroviaria Aosta - Ivrea: ogni tappa ha una stazione vicina all'arrivo o alla partenza.",
+      "partenza": 2469,
+      "dislivello": 1400,
+      "esposizione": "S"
     },
     "sections": {
       "descrizione": "Il tratto valdostano della Via Francigena, il cammino dei pellegrini verso Roma. Entra in Italia al Colle del Gran San Bernardo, accanto all'ospizio e al lago, e scende per il vallone del Gran San Bernardo toccando Saint-Rhémy, Saint-Oyen ed Étroubles, poi Gignod e Aosta. Da Aosta segue la valle centrale, quasi sempre sul versante e raramente sul fondovalle, passando per Nus, Châtillon, Saint-Vincent, Montjovet, Verrès, Arnad, Bard e Donnas, fino a Pont-Saint-Martin, dove si entra in Piemonte.\n\nNon è una gita: è un cammino di più giorni, e quasi tutti lo percorrono a tappe, intere o a pezzi. Ogni paese è un buon punto di partenza o di arrivo, e la ferrovia lungo la valle permette di tornare alla macchina. La segnaletica è quella della Via, con il pellegrino stilizzato e le frecce, accanto ai segnavia dei sentieri locali.\n\nL'alta valle è di montagna: dal Colle la discesa verso Saint-Rhémy è ripida e sassosa, poi pascoli e boschi lungo il torrente. Il Colle resta innevato fino a giugno, e il primo tratto si percorre di solito da fine giugno a settembre. Tra Gignod e Aosta il cammino segue a lungo i ru, i vecchi canali d'irrigazione, quasi in piano.\n\nLa bassa valle si cammina da marzo a novembre: saliscendi tra vigne, castagneti e borghi in pietra, sotto i castelli di Fénis, Verrès e il forte di Bard, con un tratto di strada romana a Donnas. Ci sono parecchi tratti su asfalto tra le frazioni, e d'estate il fondovalle è molto caldo: meglio partire presto e riempire la borraccia alle fontane dei paesi.",

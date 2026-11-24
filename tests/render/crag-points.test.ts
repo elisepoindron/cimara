@@ -162,6 +162,23 @@ test('a hike with a track names where it starts and where it goes highest, squar
   assert.equal(doc.querySelectorAll('.pk__v .pk__tri').length, 1)
 })
 
+test('a track with a recorded parking puts the square at the parking, and still draws the track', () => {
+  const doc = parseHTML(`<!doctype html><body>${render(trackPoints(hike, 'Sella (Rocca)',
+    { sectionId: 'parcheggio', label: 'Come arrivare' }, [], html``, { lat: 45.119, lon: 7.3525 }))}</body>`).document
+  assert.deepEqual([...doc.querySelectorAll('.pk__pts dt')].map(n => n.textContent!.trim()), ['Parcheggio', 'Meta'])
+  const data = JSON.parse(doc.querySelector('#map-data')!.textContent!)
+  assert.deepEqual(data.parking, { lat: 45.119, lon: 7.3525 })
+  assert.equal(data.trail.coords.length, 4)
+})
+
+test('a track with no heights takes as its goal the point farthest from the parking, not its last', () => {
+  // A line walked from its far end, as OpenStreetMap draws it: the last point is by the car.
+  const line: TrackPoint[] = [[7.0, 45.2, null], [7.05, 45.15, null], [7.1, 45.1, null]]
+  const doc = parseHTML(`<!doctype html><body>${render(trackPoints(line, 'Giro',
+    { sectionId: 'parcheggio', label: 'Come arrivare' }, [], html``, { lat: 45.101, lon: 7.101 }))}</body>`).document
+  assert.deepEqual([...doc.querySelectorAll('.pk__pts dd span')].map(n => n.textContent), ['45.101, 7.101', '45.2, 7'])
+})
+
 test("a hike's map draws the track whole, solid, with no dotted ends and no time guessed", () => {
   const doc = trackDom()
   const data = JSON.parse(doc.querySelector('#map-data')!.textContent!)

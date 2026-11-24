@@ -8,7 +8,8 @@
     "come_arrivare",
     "tiri",
     "description",
-    "reports"
+    "reports",
+    "parcheggio"
   ],
   "itinerary": {
     "key": "via-yoghi",
@@ -17,6 +18,8 @@
     "name": "Via Yoghi",
     "lat": 45.44104,
     "lon": 7.27094,
+    "parkingLat": 45.43605,
+    "parkingLon": 7.26149,
     "aspect": "SE",
     "altMax": 2000,
     "facts": {

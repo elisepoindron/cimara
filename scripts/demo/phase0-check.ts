@@ -108,7 +108,9 @@ for (const path of process.argv.slice(2)) {
     const def = defs.get(k)
     if (!def) { problem(file, `facts.${k}`, `${it.activity} has no such fact`); continue }
     if (def.derived) { problem(file, `facts.${k}`, 'derived from the parts, never written'); continue }
-    if ((def as { placement?: string }).placement === 'giudizi') { problem(file, `facts.${k}`, 'a rating: the demo never invents one'); continue }
+    if ((def as { placement?: string }).placement === 'giudizi' && !invented.has(k)) {
+      problem(file, `facts.${k}`, 'a rating is never measured: list it as invented'); continue
+    }
     const why = unreadable(def, v)
     if (why) problem(file, `facts.${k}`, why)
   }

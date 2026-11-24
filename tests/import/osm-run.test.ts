@@ -77,6 +77,10 @@ test('complete places are written, crags wait for their vie, the rest is refused
   const track = await trackFor(db, anello.id)
   assert.equal(track?.points.length, 3)
   assert.equal(track?.source, 'osm:r30')
+  // Stored as the app reads a track, GeoJSON's [lon, lat]: in these Alps the
+  // longitude is the smaller number.
+  const [lon, lat] = track!.points[0]!
+  assert.ok(lon < lat, `a point is [lon, lat], found [${lon}, ${lat}]`)
 
   const via = held.find(i => i.name === 'Via Lunga di Prova')!
   assert.deepEqual(via.facts, { quota_base: 1210, esposizione: 'S', grado_max: '6a+', sviluppo: 200, tiri: 6, protezione: 'spittata' })

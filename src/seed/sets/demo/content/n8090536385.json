@@ -6,7 +6,22 @@
     "parcheggio_nota",
     "vie",
     "description",
-    "reports"
+    "reports",
+    "ombra_dalle",
+    "riparato_dal_vento",
+    "parete",
+    "roccia",
+    "stagione",
+    "con_la_pioggia",
+    "per_famiglie",
+    "bellezza",
+    "chiodatura",
+    "tranquillita",
+    "comodita",
+    "voto_parcheggio",
+    "come_arrivare",
+    "da_torino",
+    "parcheggio"
   ],
   "itinerary": {
     "key": "palestra-di-roccia-di-traversella",
@@ -15,6 +30,8 @@
     "name": "Palestra di roccia di Traversella",
     "lat": 45.5165,
     "lon": 7.73602,
+    "parkingLat": 45.50961,
+    "parkingLon": 7.74868,
     "aspect": "SO",
     "altMax": 1183,
     "facts": {
@@ -22,7 +39,31 @@
       "quota_base": 1183,
       "avvicinamento": 10,
       "localita_partenza": "Traversella",
-      "parcheggio_nota": "Si lascia l'auto in paese: la stradina che sale verso la falesia è stretta e senza posti. Nei weekend di primavera e d'autunno il parcheggio si riempie presto."
+      "parcheggio_nota": "Si lascia l'auto in paese: la stradina che sale verso la falesia è stretta e senza posti. Nei weekend di primavera e d'autunno il parcheggio si riempie presto.",
+      "ombra_dalle": [
+        "16:30",
+        "20:30"
+      ],
+      "riparato_dal_vento": true,
+      "parete": [
+        "placca",
+        "verticale"
+      ],
+      "roccia": "gneiss",
+      "stagione": [
+        "primavera",
+        "autunno",
+        "inverno"
+      ],
+      "con_la_pioggia": false,
+      "per_famiglie": true,
+      "bellezza": 4,
+      "chiodatura": 4,
+      "tranquillita": 2,
+      "comodita": 4,
+      "voto_parcheggio": 2,
+      "come_arrivare": "Da Ivrea si risale la Valchiusella per Vico Canavese fino a Traversella; si lascia l'auto in paese.",
+      "da_torino": "Autostrada A5 fino a Ivrea, poi la Valchiusella fino a Traversella: circa un'ora e un quarto."
     },
     "sections": {
       "note": "Grande palestra di roccia sopra il paese, su gneiss a grana fine esposto a sud-ovest. Le vie sono tantissime, oltre trecento: qui ne sono elencate una sessantina, sparse nei sei settori principali. Si va dal 3 dei settori scuola all'8a del Pilastro del Castagno, da pochi metri fino ai 110 metri delle vie a più tiri del Muro Alto.\n\nLa scalata è quasi tutta di placca e di piedi: aderenza, granelli, piccole tacche. Le vie più facili sono molto frequentate e sulle classiche la roccia comincia a lucidarsi. Il Settore Scuola e il Settore Speranze sono adatti a chi inizia e ai corsi; Le Felci e la Placconata Centrale offrono placche tecniche dal 5 al 6c; il Pilastro del Castagno è più verticale e ospita i gradi più duri.\n\nA quota bassa e con il sole dalla tarda mattinata fino a sera, è una falesia da primavera, autunno e belle giornate d'inverno. D'estate si scala solo al mattino presto.\n\nMonotiri attrezzati a fix con soste a catena, moulinette possibile quasi ovunque con una corda da 60. Per le vie lunghe del Muro Alto servono una corda da 70 o due mezze: si scende in doppia sulla via.",

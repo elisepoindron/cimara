@@ -37,9 +37,10 @@ export const escursionismo = defineActivity({
     furniture('condizioni', 'Condizioni', 'condizioni'),
     furniture('vicine',     'Itinerari vicini', 'vicine'),
     furniture('foto',       'Foto', 'foto'),
-    // No parking point recorded for this activity. Where the route has a
-    // track, the panel draws it as a crag's map draws its walk, from where it
-    // starts to where it goes highest; without one, the road in words alone.
+    // Where the route has a track, the panel draws it as a crag's map draws
+    // its walk, from the parking where one is recorded (else where the track
+    // starts) to where it goes highest; without one, the parking and the top
+    // where there is a parking, the road in words alone where there is not.
     furniture('parcheggio', 'Come arrivare', 'traccia'),
   ],
   current: { days: 14 },

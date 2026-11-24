@@ -86,10 +86,24 @@ export function trackTrail(points: readonly TrackPoint[]): Trail {
 
 /**
  * Where the track goes highest — a hike's goal, whether it ends there or comes
- * back down another way. The last point where the file gave no heights at all.
+ * back down another way. Where the file gave no heights at all (OpenStreetMap's
+ * lines carry none), the point farthest from `from` — the parking, else where
+ * the track starts: on a loop the last point is the first, and on a line
+ * walked from its far end the last point is the car.
  */
-export function trackGoal(points: readonly TrackPoint[]): TrackPoint {
-  let best = points[points.length - 1]!
-  for (const p of points) if (p[2] !== null && (best[2] === null || p[2] > best[2])) best = p
+export function trackGoal(
+  points: readonly TrackPoint[], from: { lat: number; lon: number } | null = null,
+): TrackPoint {
+  if (points.some(p => p[2] !== null)) {
+    let best = points[points.length - 1]!
+    for (const p of points) if (p[2] !== null && (best[2] === null || p[2] > best[2])) best = p
+    return best
+  }
+  const origin = from ?? { lat: points[0]![1], lon: points[0]![0] }
+  let best = points[points.length - 1]!, far = -1
+  for (const p of points) {
+    const d = distanceM(origin, { lat: p[1], lon: p[0] })
+    if (d > far) { far = d; best = p }
+  }
   return best
 }
