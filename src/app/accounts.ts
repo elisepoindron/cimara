@@ -119,17 +119,25 @@ export const VISITOR_NAME = 'Visitatore'
  * so this is the only way in: nobody can sign in to it by address.
  */
 export async function visitorSignIn(db: Db, now: Date): Promise<{ readonly accountId: string; readonly session: NewSession }> {
-  let account = await findAccountByEmail(db, VISITOR_EMAIL)
-  if (!account) {
-    await insertAccount(db, {
-      id: crypto.randomUUID(), email: VISITOR_EMAIL,
-      passwordHash: await hashPassword(randomBytes(32).toString('hex')), displayName: VISITOR_NAME,
-    })
-    account = (await findAccountByEmail(db, VISITOR_EMAIL))!
-  }
-  const session = newSession(account.id, now)
+  const accountId = await visitorAccount(db)
+  const session = newSession(accountId, now)
   await insertSession(db, session)
-  return { accountId: account.id, session }
+  return { accountId, session }
+}
+
+/**
+ * The public demonstration's one shared account, by id: made the first time
+ * it is asked for — by the first visitor, or by the demo's build, which stars
+ * the showcase routes for it.
+ */
+export async function visitorAccount(db: Db): Promise<string> {
+  const held = await findAccountByEmail(db, VISITOR_EMAIL)
+  if (held) return held.id
+  await insertAccount(db, {
+    id: crypto.randomUUID(), email: VISITOR_EMAIL,
+    passwordHash: await hashPassword(randomBytes(32).toString('hex')), displayName: VISITOR_NAME,
+  })
+  return (await findAccountByEmail(db, VISITOR_EMAIL))!.id
 }
 
 export async function signOut(db: Db, sessionId: string): Promise<void> {
