@@ -148,6 +148,8 @@ test('every page says the places are real and the reports invented, with the Ope
 test('every way to write leads to the visitor’s door, and nothing is written from outside it', async () => {
   const its = await allItineraries(db)
   const id = its[0]!.id
+  const count = async (sql: string) => (await db.get<{ n: number }>(sql))!.n
+  const before = { accounts: await count('SELECT count(*) AS n FROM account'), stars: await count('SELECT count(*) AS n FROM favorite') }
   const door = await get('/accedi')
   assert.equal(door.status, 200)
   assert.match(door.body, /Entra come visitatore/)
@@ -158,8 +160,10 @@ test('every way to write leads to the visitor’s door, and nothing is written f
   for (const path of ['/accedi', '/esci', '/gita', `/preferiti/${id}`, `/preferiti/${id}/rimuovi`, '/gita/x/ritira']) {
     assert.equal((await get(path, 'POST')).status, 403, `${path}: no token, nothing done`)
   }
-  const accounts = await db.get<{ n: number }>('SELECT count(*) AS n FROM account')
-  assert.equal(accounts?.n, 0)
+  // The build made the visitor's account, and starred the showcase for it; nothing more.
+  assert.equal(await count('SELECT count(*) AS n FROM account'), before.accounts)
+  assert.equal(await count('SELECT count(*) AS n FROM favorite'), before.stars)
+  assert.ok(before.accounts <= 1)
 })
 
 test('a crag nobody rated draws no line of dashes on the demo', async () => {

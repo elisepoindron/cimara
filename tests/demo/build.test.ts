@@ -12,7 +12,10 @@ import { giteFor } from '../../src/db/gita.ts'
 import { synthesisFor } from '../../src/db/synthesis.ts'
 import { trackFor } from '../../src/db/track.ts'
 import { READING } from '../../src/app/synthesis.ts'
-import { buildDemo, demoReportOf, DemoContentError, selectionFromTiers } from '../../src/demo/build.ts'
+import { buildDemo, demoReportOf, DemoContentError, selectionFromTiers, starsFromTiers } from '../../src/demo/build.ts'
+import { favoriteRowsOf } from '../../src/db/favorite.ts'
+import { visitorAccount, visitorSignIn } from '../../src/app/accounts.ts'
+import { holdsPeople } from '../../src/db/account.ts'
 import { compose, readContent, type ContentFile } from '../../src/demo/content.ts'
 import type { DemoPlace } from '../../src/import/osm/translate.ts'
 import { osmItineraryId } from '../../src/import/osm/stable-id.ts'
@@ -292,4 +295,25 @@ test('every page keeps its address from one build to the next', async () => {
   const places = [...first.result.withContent, ...first.result.measured.written]
   assert.ok(first.result.withContent.length > 0 && first.result.measured.written.length > 0)
   for (const p of places) assert.equal(byName.get(p.name), osmItineraryId(p.osm), p.name)
+})
+
+test('the showcase routes are starred for the visitor account, in order, and a route not built is skipped', async () => {
+  const db = await freshDb()
+  const result = await buildDemo(db, {
+    extractDir: OSM + 'extract', gazetteer: OSM + 'gazetteer/places.json', sharedDir: OSM + 'gazetteer',
+    contentDir: CONTENT, now: NOW, starred: ['r30', 'n999999', 'w1', 'n9'],
+  })
+  assert.deepEqual(result.starred, ['r30', 'w1', 'n9'])
+  assert.match(demoReportOf(result), /Starred for the visitor account: 3 showcase routes\./)
+  // The first visitor signs in to the account the build made, and finds them.
+  const { accountId } = await visitorSignIn(db, NOW)
+  assert.equal(accountId, await visitorAccount(db))
+  const names = (await favoriteRowsOf(db, accountId)).map(r => r.name)
+  assert.deepEqual(names, ['Anello di Prova', 'Corno di Prova', (await allItineraries(db)).find(i => i.id === osmItineraryId('n9'))!.name])
+  assert.equal(await holdsPeople(db), false, 'a demo with its visitor\'s stars is still nobody\'s')
+})
+
+test("the tiers file's stars are its showcase routes, in its order", () => {
+  assert.deepEqual(starsFromTiers({ tiers: { star: [{ osm: 'w2' }, { osm: 'n1' }], classic: [{ osm: 'r3' }] } }), ['w2', 'n1'])
+  assert.throws(() => starsFromTiers({ tiers: {} }), /no "star" list/)
 })

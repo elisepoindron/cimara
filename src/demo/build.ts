@@ -38,6 +38,8 @@ import { translateOsm, type DemoPlace } from '../import/osm/translate.ts'
 import { osmItineraryId } from '../import/osm/stable-id.ts'
 import { compose, readContent, type ContentFile, type DemoItinerary } from './content.ts'
 import { replayedModel } from './replayed-model.ts'
+import { visitorAccount } from '../app/accounts.ts'
+import { addFavorite } from '../db/favorite.ts'
 
 export interface DemoBuildInput {
   /** The extract scripts/osm/extract.ts wrote: data/osm/extract/. */
@@ -57,6 +59,12 @@ export interface DemoBuildInput {
    * by OpenStreetMap id: the selection. Absent, every place the importer takes.
    */
   readonly only?: ReadonlySet<string>
+  /**
+   * The showcase routes, by OpenStreetMap id, in the order they are shown:
+   * starred for the visitor account, so every visitor finds them in Preferiti.
+   * One the build did not write is skipped.
+   */
+  readonly starred?: readonly string[]
   readonly now?: Date
 }
 
@@ -80,6 +88,8 @@ export interface DemoBuildResult {
   readonly seeded: Record<string, number>
   /** The selection, where there was one: how many places it chose, and those the extract does not hold. */
   readonly selection: { readonly chosen: number; readonly notInExtract: readonly string[] } | null
+  /** The showcase routes starred for the visitor account, by OpenStreetMap id, in order. */
+  readonly starred: readonly string[]
 }
 
 /**
@@ -100,6 +110,16 @@ export function selectionFromTiers(doc: unknown): Set<string> {
     }
   }
   return ids
+}
+
+/** The tiers file's stars, by OpenStreetMap id, in its order: the showcase routes. */
+export function starsFromTiers(doc: unknown): string[] {
+  const list = (doc as { tiers?: { star?: unknown } } | null)?.tiers?.star
+  if (!Array.isArray(list)) throw new Error('the tiers file holds no "star" list')
+  return list.map((p, i) => {
+    if (typeof p?.osm !== 'string') throw new Error(`the tiers file's star[${i}] has no osm id`)
+    return p.osm as string
+  })
 }
 
 /** A content file that cannot be built, with every problem named. Nothing past the shared files is written. */
@@ -238,7 +258,22 @@ export async function buildDemo(db: Db, input: DemoBuildInput): Promise<DemoBuil
     themes.flags += saved?.flags.length ?? 0
   }
 
+  // 5. The showcase routes, starred for the one account every visitor shares.
+  // Each a second apart, newest first, so Preferiti lists them in the tiers' order.
+  const starred: string[] = []
+  const builtIds = new Map([...ids, ...measured.written.map(p => [p.osm, osmItineraryId(p.osm)] as const)])
+  if (input.starred && input.starred.length > 0) {
+    const visitor = await visitorAccount(db)
+    for (const osm of input.starred) {
+      const id = builtIds.get(osm)
+      if (id === undefined) continue
+      await addFavorite(db, visitor, id, new Date(now.getTime() - starred.length * 1000).toISOString())
+      starred.push(osm)
+    }
+  }
+
   return {
+    starred,
     withContent: toWrite.map(w => ({ osm: w.content.osm, name: w.itinerary.name, activity: w.itinerary.activity, reports: w.itinerary.reports.length })),
     measured, leftOut, themes, seeded,
     selection: input.only === undefined ? null
@@ -297,6 +332,7 @@ export function demoReportOf(r: DemoBuildResult): string {
   }
 
   const t = r.themes
+  lines.push('', `Starred for the visitor account: ${r.starred.length} showcase route${r.starred.length === 1 ? '' : 's'}.`)
   lines.push('', `Themes read for ${t.itineraries} itineraries from ${t.reports} reports: ${t.themes} themes, ${t.flags} changes.`)
   lines.push(`Seeded: ${Object.entries(r.seeded).filter(([, n]) => n > 0).map(([k, n]) => `${n} ${k}`).join(', ')}.`)
   return lines.join('\n')

@@ -56,7 +56,7 @@ if (uploadsDir === resolve(ROOT, 'uploads')) {
 const { openDb } = await import('../../src/db/open.ts')
 const { migrate } = await import('../../db/migrate.ts')
 const { filesystemPhotoStore } = await import('../../src/app/photo-store.ts')
-const { buildDemo, demoReportOf, DemoContentError, selectionFromTiers } = await import('../../src/demo/build.ts')
+const { buildDemo, demoReportOf, DemoContentError, selectionFromTiers, starsFromTiers } = await import('../../src/demo/build.ts')
 
 const removeDb = async () => {
   for (const suffix of ['', '-wal', '-shm']) await rm(file + suffix, { force: true })
@@ -82,6 +82,7 @@ const only = everything ? undefined
   : onlyFile ? new Set(JSON.parse(await readFile(onlyFile, 'utf8')) as string[])
   : existsSync(tiersFile) ? selectionFromTiers(JSON.parse(await readFile(tiersFile, 'utf8')))
   : undefined
+const starred = existsSync(tiersFile) ? starsFromTiers(JSON.parse(await readFile(tiersFile, 'utf8'))) : []
 const db = openDb(file)
 let ok = false
 try {
@@ -93,6 +94,7 @@ try {
     photosDir: join(dirname(contentDir), 'photos'),
     photos: filesystemPhotoStore(uploadsDir),
     ...(only ? { only } : {}),
+    starred,
   })
   console.log(demoReportOf(result))
   console.log(`\nDatabase: ${file}${result.seeded.photos ? `\nPhotos: ${uploadsDir}` : ''}`)
