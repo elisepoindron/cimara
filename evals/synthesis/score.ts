@@ -9,7 +9,11 @@ import type { Citation, Expected, SynthesisCase } from './cases.ts'
  * cites, never by its name: the reading names "Spit lontani" what the case
  * calls "Chiodatura lunga", and both are right. Two citations agree when they
  * name the same report and their quotes overlap in its words, so two themes
- * drawn from one report ("tiri corti, roccia buona") stay apart.
+ * drawn from one report ("tiri corti, roccia buona") stay apart — or when they
+ * sit in the same sentence and the case expects nothing else from that
+ * sentence. The model and the case's writer often quote two halves of one
+ * sentence that says one thing ("Il sentiero alto è stato riaperto: hanno
+ * sistemato il pezzo franato"), and that is the same point.
  *
  * Counts, not rates, so cases and runs add up before anything is divided.
  */
@@ -19,6 +23,9 @@ export const MATCH_JACCARD = 0.5
 
 /** A found group is "mostly" an expected one when this share of it is that one. */
 export const MOSTLY = 0.5
+
+/** Where a sentence ends, for matching two quotes of one sentence. */
+const SENTENCE_END = /[.!?\n]+/g
 
 /** What one step found: the groups as `readReports` hands them to `observe`. */
 export interface Found {
@@ -99,10 +106,36 @@ export function scoreStep(c: SynthesisCase, found: Found): { counts: Counts; det
     return at < 0 ? null : [at, at + quote.trim().length]
   }
   const overlaps = (a: Span | null, b: Span | null) => a !== null && b !== null && a[0] < b[1] && b[0] < a[1]
-  /** How many of `e`'s citations `g` cites too, in overlapping words. */
+  /** The sentences of a report a span touches, by their number in it. */
+  const sentencesOf = (reportId: string, span: Span | null): Span | null => {
+    const text = words.get(reportId)
+    if (text === undefined || span === null) return null
+    const before = (at: number) => (text.slice(0, at).match(SENTENCE_END) ?? []).length
+    return [before(span[0]), before(Math.max(span[0], span[1] - 1)) + 1]
+  }
+  /** Every quote the case expects of a report, whatever it backs. */
+  const expectedIn = new Map<string, Span[]>()
+  for (const e of [...c.themes, ...c.flags]) {
+    for (const ci of e.citations) {
+      const span = spanOf(ci.reportId, ci.quote)
+      if (span) expectedIn.set(ci.reportId, [...(expectedIn.get(ci.reportId) ?? []), span])
+    }
+  }
+  /** Whether a found quote says the same point as an expected citation. */
+  const agrees = (ci: Citation, quote: string) => {
+    const want = spanOf(ci.reportId, ci.quote)
+    const got = spanOf(ci.reportId, quote)
+    if (overlaps(want, got)) return true
+    const sentence = sentencesOf(ci.reportId, want)
+    if (!overlaps(sentence, sentencesOf(ci.reportId, got))) return false
+    // Only where the sentence holds this one expected point: two points of
+    // one sentence are told apart by their words, as before.
+    return (expectedIn.get(ci.reportId) ?? []).filter(s => overlaps(sentencesOf(ci.reportId, s), sentence)).length === 1
+  }
+  /** How many of `e`'s citations `g` cites too, saying the same point. */
   const shared = (e: Expected, g: Group) => e.citations.filter(ci => {
     const q = g.quotes[ci.reportId]
-    return q !== undefined && overlaps(spanOf(ci.reportId, ci.quote), spanOf(ci.reportId, q))
+    return q !== undefined && agrees(ci, q)
   }).length
   const size = (g: Group) => Object.keys(g.quotes).length
 

@@ -92,6 +92,22 @@ test('two themes of one report are told apart by their words, and one holding bo
   assert.deepEqual(both.details.bundles, [{ found: 'Falesia bella', of: ['Chiodatura lunga', 'Roccia buona'] }])
 })
 
+test('the other half of a sentence that makes one point agrees; a sentence making two does not', () => {
+  const c = buildCase('frase', 'trap', 'Frase', 'falesia', [
+    { observedAt: '2026-02-01', words: 'Il sentiero alto è stato riaperto: hanno messo una corda fissa. Bel posto.',
+      flags: [{ label: 'Sentiero riaperto', kind: 'novita', quote: 'hanno messo una corda fissa' }] },
+    { observedAt: '2026-01-01', words: 'Roccia bella ma spit lontani.', themes: [
+      { label: 'Roccia buona', quote: 'Roccia bella' }, { label: 'Chiodatura lunga', quote: 'spit lontani' }] },
+  ])
+  const half = scoreStep(c, { themes: [], flags: [flag('Sentiero alto riaperto', 'novita', { r1: 'Il sentiero alto è stato riaperto' })] })
+  assert.equal(half.counts.flagFound, 1)
+  const other = scoreStep(c, { themes: [theme('Roccia ottima', { r2: 'Roccia bella ma spit lontani' })], flags: [] })
+  assert.equal(other.counts.outputMatched, 1, 'its words overlap one point')
+  const neither = scoreStep(c, { themes: [theme('Bella giornata', { r2: 'ma' })], flags: [flag('Bel posto', 'novita', { r1: 'Bel posto' })] })
+  assert.equal(neither.counts.outputMatched, 0, 'a sentence with two points needs the words')
+  assert.equal(neither.counts.flagOutputMatched, 0, 'another sentence is another point')
+})
+
 test('a theme quoting the weather is a leak, and a change quoting none is a false change', () => {
   const { counts, details } = scoreStep(
     { ...CASE, notFlags: [{ reportId: 'r3', quote: 'Faceva freddo.' }] },
