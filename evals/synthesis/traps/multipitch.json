@@ -1,0 +1,84 @@
+{
+  "name": "Spigolo del Gias Vecchio",
+  "activity": "multipitch",
+  "reports": [
+    {
+      "observedAt": "2026-10-04",
+      "words": "Via stupenda, roccia da favola su tutto lo spigolo. Soste attrezzate con catena e anello, calata in doppia comoda. Scesi alle 16 col sole.",
+      "themes": [
+        { "label": "Roccia buona", "quote": "roccia da favola su tutto lo spigolo" },
+        { "label": "Soste attrezzate", "quote": "Soste attrezzate con catena e anello" },
+        { "label": "Discesa in doppia comoda", "quote": "calata in doppia comoda" }
+      ],
+      "notThemes": ["Scesi alle 16 col sole."]
+    },
+    {
+      "observedAt": "2026-09-13",
+      "words": "L4 è il tiro chiave, un traverso esposto su protezioni lunghe: portare friend medi. Soste buone, roccia bella.",
+      "themes": [
+        { "label": "L4 tiro chiave", "quote": "L4 è il tiro chiave, un traverso esposto" },
+        { "label": "Da integrare con friend", "quote": "portare friend medi" },
+        { "label": "Soste attrezzate", "quote": "Soste buone" },
+        { "label": "Roccia buona", "quote": "roccia bella" }
+      ]
+    },
+    {
+      "observedAt": "2026-08-24",
+      "words": "Ciapà 'na bela sgnacà sul L4, ël travers a l'é pì dur che 'l grad. Friend indispensabili.",
+      "themes": [
+        { "label": "L4 tiro chiave", "quote": "sul L4, ël travers a l'é pì dur che 'l grad" },
+        { "label": "Da integrare con friend", "quote": "Friend indispensabili" }
+      ]
+    },
+    {
+      "observedAt": "2026-08-02",
+      "words": "Attaccato alle 7 per evitare la coda, c'erano già tre cordate. Roccia ok ma il primo tiro è un po' marcio.",
+      "themes": [
+        { "label": "Primo tiro friabile", "quote": "il primo tiro è un po' marcio" }
+      ],
+      "notThemes": ["Attaccato alle 7 per evitare la coda, c'erano già tre cordate."]
+    },
+    {
+      "observedAt": "2026-07-12",
+      "words": "Hanno sostituito la sosta del terzo tiro, adesso è con due fix nuovi. Il resto come sempre.",
+      "flags": [
+        { "label": "Sosta del terzo tiro rifatta", "kind": "novita", "quote": "Hanno sostituito la sosta del terzo tiro" }
+      ],
+      "notFlags": ["Il resto come sempre."]
+    },
+    {
+      "observedAt": "2026-06-21",
+      "words": "Discesa: le doppie da 30 m vanno bene, ma la terza corda si incastra facilmente nel diedro. Occhio!",
+      "themes": [
+        { "label": "Doppie da 30 metri", "quote": "le doppie da 30 m vanno bene" },
+        { "label": "Corda che si incastra in calata", "quote": "la terza corda si incastra facilmente nel diedro" }
+      ],
+      "notFlags": ["la terza corda si incastra facilmente nel diedro"]
+    },
+    {
+      "observedAt": "2026-05-30",
+      "words": "Avvicinamento lungo, quasi un'ora e mezza di pietraia. Ne vale la pena.",
+      "themes": [
+        { "label": "Avvicinamento lungo", "quote": "Avvicinamento lungo, quasi un'ora e mezza di pietraia" }
+      ]
+    },
+    {
+      "observedAt": "2026-05-02",
+      "words": "attenzione blocco instabile all'uscita del L5, si muove se lo tiri. Segnalato ai chiodatori.",
+      "flags": [
+        { "label": "Blocco instabile su L5", "kind": "attenzione", "quote": "blocco instabile all'uscita del L5" }
+      ]
+    },
+    {
+      "observedAt": "2026-04-11",
+      "words": "L'avvicinamento è lunghetto ma il sentiero è segnato. Via bella e logica, roccia compatta, protezioni da integrare sul L4.",
+      "themes": [
+        { "label": "Avvicinamento lungo", "quote": "L'avvicinamento è lunghetto" },
+        { "label": "Sentiero segnato", "quote": "il sentiero è segnato" },
+        { "label": "Via logica", "quote": "Via bella e logica" },
+        { "label": "Roccia buona", "quote": "roccia compatta" },
+        { "label": "Da integrare con friend", "quote": "protezioni da integrare sul L4" }
+      ]
+    }
+  ]
+}

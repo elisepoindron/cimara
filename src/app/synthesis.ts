@@ -252,13 +252,18 @@ export async function regenerateSynthesis(
  * The model's reading of `reports`, grounded and checked: their themes and
  * flags, named after the ones in `known` wherever they say the same thing.
  * `null` when a call failed — the caller saves nothing new.
+ *
+ * Exported for the evals (`evals/synthesis/`), which read fixed reports through
+ * it and score each step: `observe` is handed what stands after the first
+ * reading is grounded, after the merge, and after the check.
  */
-async function readReports(
+export async function readReports(
   itineraryName: string, reports: readonly GitaRow[], callModel: CallModel,
   known: {
     themes: readonly ThemeCount[]; flags: readonly Flag[]
     previousLabels?: readonly string[]; previousFlags?: readonly { label: string; kind: FlagKind }[]
   },
+  observe?: (step: ReadingStep, found: { themes: readonly ThemeCount[]; flags: readonly Flag[] }) => void,
 ): Promise<{ themes: ThemeCount[]; flags: Flag[] } | null> {
   let result: CallModelResult
   try {
@@ -287,6 +292,7 @@ async function readReports(
     const kind = kindOf(f.kind)
     return kind ? [flagOf(labelOf(f.label), kind, groundCitations(f.citations, reports))] : []
   }).filter(flagSupported)
+  observe?.('read', { themes, flags })
 
   // Themes this reading named twice become one before the check, so the check
   // reads the merged theme's quotes against the name kept. A merge that fails
@@ -302,6 +308,7 @@ async function readReports(
       console.error('synthesis merge failed, reading on without it:', err)
     }
   }
+  observe?.('merge', { themes, flags })
 
   // Only what this reading found is checked; themes already there were checked
   // when their reports were read. A check that fails saves nothing.
@@ -323,8 +330,12 @@ async function readReports(
       return null
     }
   }
+  observe?.('check', { themes, flags })
   return { themes, flags }
 }
+
+/** The steps of one reading, in order, as `readReports` hands them to `observe`. */
+export type ReadingStep = 'read' | 'merge' | 'check'
 
 /**
  * The merge step's groups applied to the themes it was shown: each group's

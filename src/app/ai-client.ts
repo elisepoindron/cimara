@@ -1,4 +1,4 @@
-import Anthropic from '@anthropic-ai/sdk'
+import type Anthropic from '@anthropic-ai/sdk'
 import type {
   CallModel, CallModelInput, CallModelResult, CheckGroups, CheckInput, CheckResult, MergeInput, MergeResult, MergeThemes,
 } from './synthesis.ts'
@@ -156,9 +156,15 @@ const GROUP_PROMPT =
   + 'Return only the themes and flags this list of points fills: an existing theme no point here '
   + 'says is left out, not returned empty.'
 
-/** Wired once at server startup from `ANTHROPIC_API_KEY`. Never constructed in a test. */
-export function realCallModel(apiKey: string): CallModel {
-  const client = new Anthropic({ apiKey })
+/**
+ * What these calls need of the SDK's client. The SDK is only named here as a
+ * type, so importing this file loads nothing: the real client is made in
+ * `anthropic.ts`, and the evals hand in one that replays recorded answers.
+ */
+export type ModelClient = Pick<Anthropic, 'messages' | 'beta'>
+
+/** The report reading over a client: `realCallModel` in `anthropic.ts` wires the real one. */
+export function callModelWith(client: ModelClient): CallModel {
   return Object.assign(readThemes(client), { merge: mergeThemes(client), check: checkGroups(client) })
 }
 
@@ -170,7 +176,7 @@ interface Extracted {
   readonly kind?: string
 }
 
-function readThemes(client: Anthropic): (input: CallModelInput) => Promise<CallModelResult> {
+function readThemes(client: ModelClient): (input: CallModelInput) => Promise<CallModelResult> {
   return async (input: CallModelInput): Promise<CallModelResult> => {
     const batches: (typeof input.reports)[] = []
     for (let i = 0; i < input.reports.length; i += REPORTS_PER_CALL) {
@@ -186,7 +192,7 @@ function readThemes(client: Anthropic): (input: CallModelInput) => Promise<CallM
 
 /** One batch of reports, point by point. The quotes are grounded by the caller. */
 async function extract(
-  client: Anthropic, itineraryName: string, reports: CallModelInput['reports'],
+  client: ModelClient, itineraryName: string, reports: CallModelInput['reports'],
 ): Promise<{ points: Extracted[]; changes: Extracted[] }> {
   const block = reports.map((r, i) => `[${i + 1}] ${r.words}`).join('\n\n')
   const parsed = await ask(client, EXTRACT_PROMPT, `Route or crag: ${itineraryName}\n\nReports:\n${block}`,
@@ -211,7 +217,7 @@ async function extract(
 
 /** Every point and change of the route, grouped into themes and flags. */
 async function group(
-  client: Anthropic, input: CallModelInput, points: readonly Extracted[], changes: readonly Extracted[],
+  client: ModelClient, input: CallModelInput, points: readonly Extracted[], changes: readonly Extracted[],
 ): Promise<CallModelResult> {
   // Numbered "r.p" by the report's place in the whole list, so the model sees
   // which points share a report; the map takes a number back to its point.
@@ -278,7 +284,7 @@ async function group(
  * is JSON that stops mid-array; saying so here is the difference between a
  * one-line fix and a day spent wondering why `JSON.parse` throws.
  */
-async function ask(client: Anthropic, system: string, content: string, schema: object): Promise<unknown> {
+async function ask(client: ModelClient, system: string, content: string, schema: object): Promise<unknown> {
   const response = await client.messages.stream({
     model: MODEL,
     max_tokens: MAX_TOKENS,
@@ -399,7 +405,7 @@ const CHECK_MODEL = 'claude-sonnet-5-5'
  * point one report makes is a theme too, that can be a hundred groups. */
 const CHECK_MAX_TOKENS = 32000
 
-function checkGroups(client: Anthropic): CheckGroups {
+function checkGroups(client: ModelClient): CheckGroups {
   return async (input: CheckInput): Promise<CheckResult> => {
     const show = (title: string, groups: CheckInput['themes'], kinds?: readonly string[]) =>
       groups.map((g, i) => [
@@ -522,7 +528,7 @@ const MERGE_SYSTEM_PROMPT =
  */
 const MERGE_MAX_TOKENS = 16000
 
-function mergeThemes(client: Anthropic): MergeThemes {
+function mergeThemes(client: ModelClient): MergeThemes {
   return async (input: MergeInput): Promise<MergeResult> => {
     const content = [
       `Route or crag: ${input.itineraryName}`,
@@ -610,9 +616,8 @@ function rewritePrompt(activities: readonly string[], phrases: readonly string[]
     + 'already in this phrasing, return it unchanged.'
 }
 
-/** Wired once at server startup from `ANTHROPIC_API_KEY`. Never constructed in a test. */
-export function realRewriteLine(apiKey: string): RewriteLine {
-  const client = new Anthropic({ apiKey })
+/** Find's rewrite over a client: `realRewriteLine` in `anthropic.ts` wires the real one. */
+export function rewriteLineWith(client: ModelClient): RewriteLine {
   const cache = new Map<string, string | null>()
 
   return async (input: RewriteInput): Promise<string | null> => {

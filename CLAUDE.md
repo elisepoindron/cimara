@@ -38,6 +38,7 @@ are switched on by `npm install` (the `prepare` script). Never bypass them with 
 npm test
 npm run typecheck
 npm run guard
+npm run eval        # the report reading scored on fixed cases, replayed; --live after a prompt change
 DATABASE_FILE=build/demo.db npm run demo:build && DATABASE_FILE=build/demo.db npm start
 ```
 

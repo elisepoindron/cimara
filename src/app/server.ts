@@ -959,7 +959,7 @@ if (import.meta.filename === process.argv[1]) {
   const { openDb } = await import('../db/open.ts')
   const { migrate } = await import('../../db/migrate.ts')
   const { checkRegistryAgainstStore } = await import('./startup-check.ts')
-  const { realCallModel, realRewriteLine } = await import('./ai-client.ts')
+  const { realCallModel, realRewriteLine } = await import('./anthropic.ts')
   const { realFetchWeather } = await import('./weather-client.ts')
   const { realFetchTrail } = await import('./trail-client.ts')
   const { databaseFile, publicDemoSet } = await import('../seed/brand.ts')
