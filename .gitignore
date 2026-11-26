@@ -12,3 +12,6 @@ data/osm/extract/.cache/
 
 # The demo's build: npm run demo:build writes build/demo.db and its photos beside it.
 build/
+
+# What npm run eval last wrote; the baseline it compares with is evals/synthesis/baseline.json.
+evals/out/

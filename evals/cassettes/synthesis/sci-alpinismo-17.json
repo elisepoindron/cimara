@@ -1,0 +1,300 @@
+{
+ "case": "sci-alpinismo-17",
+ "recordedAt": "2026-11-26T14:36:38.319Z",
+ "runs": [
+  {
+   "calls": [
+    {
+     "key": "b2702642958eedf98d9de12593e7c6aa",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 17583,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"reports\":[{\"report\":1,\"points\":[{\"label\":\"Ultimo tratto a piedi\",\"quote\":\"L'ultimo pezzo l'abbiamo fatto con gli sci in spalla\"},{\"label\":\"Discesa che vale la pena\",\"quote\":\"in fondo valeva comunque la pena\"}],\"changes\":[]},{\"report\":2,\"points\":[{\"label\":\"Vista sul Monte Rosa\",\"quote\":\"il Monte Rosa era lì a due passi, enorme\"}],\"changes\":[]},{\"report\":3,\"points\":[{\"label\":\"Lastroni dal vento\",\"quote\":\"il vento accumula spesso lastroni\"},{\"label\":\"Parte laterale come alternativa\",\"quote\":\"Noi abbiamo scelto la parte laterale\"}],\"changes\":[]},{\"report\":4,\"points\":[{\"label\":\"Lastre dure nei tratti esposti\",\"quote\":\"Nei tratti esposti il vento aveva lasciato lastre dure\"}],\"changes\":[]},{\"report\":5,\"points\":[],\"changes\":[]},{\"report\":6,\"points\":[{\"label\":\"Passaggio tra le rocce migliorato\",\"quote\":\"Il passaggio tra le rocce si fa meglio che l'anno scorso\"}],\"changes\":[{\"label\":\"Passaggio più largo tra le rocce\",\"kind\":\"novita\",\"quote\":\"qualcuno ha aperto un passaggio più largo tra le rocce\"}]},{\"report\":7,\"points\":[{\"label\":\"Pannello bollettino valanghe\",\"quote\":\"hanno messo un pannello con il bollettino valanghe del giorno\"}],\"changes\":[{\"label\":\"Pannello bollettino valanghe\",\"kind\":\"novita\",\"quote\":\"hanno messo un pannello con il bollettino valanghe del giorno\"}]},{\"report\":8,\"points\":[{\"label\":\"Catino alto da scendere\",\"quote\":\"Il catino alto con neve assestata, il tratto centrale morbido\"}],\"changes\":[]},{\"report\":9,\"points\":[{\"label\":\"Bordo del pendio invisibile con nebbia\",\"quote\":\"Con la nebbia non si vede il bordo del pendio\"}],\"changes\":[]},{\"report\":10,\"points\":[{\"label\":\"Salita breve e facile\",\"quote\":\"La salita è breve e poco faticosa\"}],\"changes\":[]},{\"report\":11,\"points\":[{\"label\":\"Ultimo tratto a piedi\",\"quote\":\"negli ultimi duecento metri ci siamo dovuti togliere gli sci\"}],\"changes\":[]},{\"report\":12,\"points\":[],\"changes\":[]},{\"report\":13,\"points\":[{\"label\":\"Discesa lunga, tre chilometri\",\"quote\":\"Tre chilometri di curve\"},{\"label\":\"Rocce affioranti al restringimento\",\"quote\":\"ci sono delle rocce affioranti che richiedono di stare attenti\"}],\"changes\":[]},{\"report\":14,\"points\":[],\"changes\":[]},{\"report\":15,\"points\":[],\"changes\":[]},{\"report\":16,\"points\":[],\"changes\":[]},{\"report\":17,\"points\":[{\"label\":\"Salita breve dagli impianti\",\"quote\":\"Dopo gli impianti breve salita con le pelli\"}],\"changes\":[]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2379,
+       "output_tokens": 4477,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "6a67bffd7fb5656fad3de8282076ac59",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 5612,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"label\":\"Ultimo tratto a piedi\",\"points\":[\"1.1\",\"11.1\"]},{\"label\":\"Discesa che vale la pena\",\"points\":[\"1.2\"]},{\"label\":\"Vista sul Monte Rosa\",\"points\":[\"2.1\"]},{\"label\":\"Lastroni dal vento\",\"points\":[\"3.1\",\"4.1\"]},{\"label\":\"Parte laterale come alternativa\",\"points\":[\"3.2\"]},{\"label\":\"Passaggio tra le rocce migliorato\",\"points\":[\"6.1\"]},{\"label\":\"Pannello bollettino valanghe\",\"points\":[\"7.1\"]},{\"label\":\"Catino alto da scendere\",\"points\":[\"8.1\"]},{\"label\":\"Bordo del pendio invisibile con nebbia\",\"points\":[\"9.1\"]},{\"label\":\"Salita breve e facile\",\"points\":[\"10.1\",\"17.1\"]},{\"label\":\"Discesa lunga, tre chilometri\",\"points\":[\"13.1\"]},{\"label\":\"Rocce affioranti al restringimento\",\"points\":[\"13.2\"]}],\"flags\":[{\"label\":\"Passaggio più largo tra le rocce\",\"kind\":\"novita\",\"changes\":[\"6.1\"]},{\"label\":\"Pannello bollettino valanghe\",\"kind\":\"novita\",\"changes\":[\"7.1\"]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 1706,
+       "output_tokens": 1242,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "bfcb82d534c4c9eb025eb72426933ff7",
+     "step": "merge",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 1435,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"groups\":[]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 1631,
+       "output_tokens": 10,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "7e22219e4376f446b82ddc083b39a494",
+     "step": "check",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 10136,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"from\":1,\"label\":\"Ultimo tratto a piedi\",\"quotes\":[1,2]},{\"from\":2,\"label\":\"Discesa che vale la pena\",\"quotes\":[1]},{\"from\":3,\"label\":\"Vista sul Monte Rosa\",\"quotes\":[1]},{\"from\":4,\"label\":\"Lastroni dal vento\",\"quotes\":[1,2]},{\"from\":5,\"label\":\"Parte laterale come alternativa\",\"quotes\":[1]},{\"from\":6,\"label\":\"Passaggio tra le rocce migliorato\",\"quotes\":[1]},{\"from\":7,\"label\":\"Pannello bollettino valanghe\",\"quotes\":[1]},{\"from\":8,\"label\":\"Catino alto da scendere\",\"quotes\":[1]},{\"from\":9,\"label\":\"Bordo del pendio invisibile con nebbia\",\"quotes\":[1]},{\"from\":10,\"label\":\"Salita breve\",\"quotes\":[1,2]},{\"from\":10,\"label\":\"Salita facile\",\"quotes\":[1]},{\"from\":11,\"label\":\"Discesa lunga, tre chilometri\",\"quotes\":[1]},{\"from\":12,\"label\":\"Rocce affioranti\",\"quotes\":[1]}],\"flags\":[{\"from\":1,\"label\":\"Passaggio più largo tra le rocce\",\"kind\":\"novita\",\"quotes\":[1]},{\"from\":2,\"label\":\"Pannello bollettino valanghe\",\"kind\":\"novita\",\"quotes\":[1]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 1929,
+       "output_tokens": 1385,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    }
+   ],
+   "stepMs": {
+    "read": 23196,
+    "merge": 1435,
+    "check": 10136
+   },
+   "wallMs": 34767
+  },
+  {
+   "calls": [
+    {
+     "key": "b2702642958eedf98d9de12593e7c6aa",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 17600,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"reports\":[{\"report\":1,\"points\":[{\"label\":\"Ultimo tratto a piedi\",\"quote\":\"L'ultimo pezzo l'abbiamo fatto con gli sci in spalla\"},{\"label\":\"Discesa che vale la pena\",\"quote\":\"in fondo valeva comunque la pena\"}],\"changes\":[]},{\"report\":2,\"points\":[{\"label\":\"Vista sul Monte Rosa\",\"quote\":\"il Monte Rosa era lì a due passi, enorme\"}],\"changes\":[]},{\"report\":3,\"points\":[{\"label\":\"Lastroni da vento\",\"quote\":\"il vento accumula spesso lastroni\"},{\"label\":\"Parte laterale come alternativa\",\"quote\":\"Noi abbiamo scelto la parte laterale.\"}],\"changes\":[]},{\"report\":4,\"points\":[{\"label\":\"Lastroni da vento\",\"quote\":\"Nei tratti esposti il vento aveva lasciato lastre dure\"}],\"changes\":[]},{\"report\":5,\"points\":[],\"changes\":[]},{\"report\":6,\"points\":[{\"label\":\"Restringimento tra le rocce\",\"quote\":\"Lungo il restringimento\"}],\"changes\":[{\"label\":\"Passaggio più largo tra le rocce\",\"kind\":\"novita\",\"quote\":\"qualcuno ha aperto un passaggio più largo tra le rocce\"}]},{\"report\":7,\"points\":[{\"label\":\"Pannello bollettino valanghe\",\"quote\":\"hanno messo un pannello con il bollettino valanghe del giorno\"}],\"changes\":[{\"label\":\"Pannello bollettino valanghe\",\"kind\":\"novita\",\"quote\":\"hanno messo un pannello con il bollettino valanghe del giorno\"}]},{\"report\":8,\"points\":[],\"changes\":[]},{\"report\":9,\"points\":[{\"label\":\"Bordo del pendio poco visibile\",\"quote\":\"Con la nebbia non si vede il bordo del pendio\"}],\"changes\":[]},{\"report\":10,\"points\":[{\"label\":\"Salita breve\",\"quote\":\"La salita è breve e poco faticosa\"}],\"changes\":[]},{\"report\":11,\"points\":[{\"label\":\"Ultimi duecento metri a piedi\",\"quote\":\"negli ultimi duecento metri ci siamo dovuti togliere gli sci\"}],\"changes\":[]},{\"report\":12,\"points\":[],\"changes\":[]},{\"report\":13,\"points\":[{\"label\":\"Tre chilometri di discesa\",\"quote\":\"Tre chilometri di curve\"},{\"label\":\"Rocce affioranti nel restringimento\",\"quote\":\"All'altezza del restringimento ci sono delle rocce affioranti\"}],\"changes\":[]},{\"report\":14,\"points\":[],\"changes\":[]},{\"report\":15,\"points\":[],\"changes\":[]},{\"report\":16,\"points\":[],\"changes\":[]},{\"report\":17,\"points\":[{\"label\":\"Accesso dagli impianti\",\"quote\":\"Dopo gli impianti\"},{\"label\":\"Salita breve con le pelli\",\"quote\":\"breve salita con le pelli\"}],\"changes\":[]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2379,
+       "output_tokens": 4137,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "ed7ac607ad47fc34c837ad1052474f56",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 5732,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"label\":\"Ultimo tratto a piedi\",\"points\":[\"1.1\",\"11.1\"]},{\"label\":\"Discesa che vale la pena\",\"points\":[\"1.2\"]},{\"label\":\"Vista sul Monte Rosa\",\"points\":[\"2.1\"]},{\"label\":\"Lastroni da vento\",\"points\":[\"3.1\",\"4.1\"]},{\"label\":\"Parte laterale come alternativa\",\"points\":[\"3.2\"]},{\"label\":\"Restringimento tra le rocce\",\"points\":[\"6.1\",\"13.2\"]},{\"label\":\"Pannello bollettino valanghe\",\"points\":[\"7.1\"]},{\"label\":\"Bordo del pendio poco visibile\",\"points\":[\"9.1\"]},{\"label\":\"Salita breve\",\"points\":[\"10.1\",\"17.2\"]},{\"label\":\"Tre chilometri di discesa\",\"points\":[\"13.1\"]},{\"label\":\"Accesso dagli impianti\",\"points\":[\"17.1\"]}],\"flags\":[{\"label\":\"Passaggio più largo tra le rocce\",\"kind\":\"novita\",\"changes\":[\"6.1\"]},{\"label\":\"Pannello bollettino valanghe\",\"kind\":\"novita\",\"changes\":[\"7.1\"]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 1648,
+       "output_tokens": 1212,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "650e4291ff003202c639b1619dc1995f",
+     "step": "merge",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 1679,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"groups\":[]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 1560,
+       "output_tokens": 10,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "6393d0b201cdc06d4db4b97ba747dda7",
+     "step": "check",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 8023,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"from\":1,\"label\":\"Ultimo tratto a piedi\",\"quotes\":[1,2]},{\"from\":2,\"label\":\"Discesa che vale la pena\",\"quotes\":[1]},{\"from\":3,\"label\":\"Vista sul Monte Rosa\",\"quotes\":[1]},{\"from\":4,\"label\":\"Lastroni da vento\",\"quotes\":[1,2]},{\"from\":5,\"label\":\"Parte laterale come alternativa\",\"quotes\":[1]},{\"from\":6,\"label\":\"Restringimento\",\"quotes\":[1,2]},{\"from\":6,\"label\":\"Rocce affioranti\",\"quotes\":[2]},{\"from\":7,\"label\":\"Pannello bollettino valanghe\",\"quotes\":[1]},{\"from\":8,\"label\":\"Bordo del pendio poco visibile\",\"quotes\":[1]},{\"from\":9,\"label\":\"Salita breve\",\"quotes\":[1,2]},{\"from\":10,\"label\":\"Tre chilometri di discesa\",\"quotes\":[1]},{\"from\":11,\"label\":\"Accesso dagli impianti\",\"quotes\":[1]}],\"flags\":[{\"from\":1,\"label\":\"Passaggio più largo tra le rocce\",\"kind\":\"novita\",\"quotes\":[1]},{\"from\":2,\"label\":\"Pannello bollettino valanghe\",\"kind\":\"novita\",\"quotes\":[1]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 1855,
+       "output_tokens": 1163,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    }
+   ],
+   "stepMs": {
+    "read": 23333,
+    "merge": 1679,
+    "check": 8023
+   },
+   "wallMs": 33035
+  },
+  {
+   "calls": [
+    {
+     "key": "b2702642958eedf98d9de12593e7c6aa",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 17470,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"reports\":[{\"report\":1,\"points\":[{\"label\":\"Ultimo tratto con sci in spalla\",\"quote\":\"L'ultimo pezzo l'abbiamo fatto con gli sci in spalla\"}],\"changes\":[]},{\"report\":2,\"points\":[{\"label\":\"Vista sul Monte Rosa\",\"quote\":\"il Monte Rosa era lì a due passi, enorme\"}],\"changes\":[]},{\"report\":3,\"points\":[{\"label\":\"Lastroni da vento frequenti\",\"quote\":\"il vento accumula spesso lastroni\"},{\"label\":\"Parte laterale alternativa\",\"quote\":\"Noi abbiamo scelto la parte laterale\"}],\"changes\":[]},{\"report\":4,\"points\":[{\"label\":\"Lastre dure nei tratti esposti\",\"quote\":\"Nei tratti esposti il vento aveva lasciato lastre dure\"}],\"changes\":[]},{\"report\":5,\"points\":[],\"changes\":[]},{\"report\":6,\"points\":[{\"label\":\"Passaggio tra le rocce migliorato\",\"quote\":\"Il passaggio tra le rocce si fa meglio che l'anno scorso\"},{\"label\":\"Restringimento da sciare piano\",\"quote\":\"Noi abbiamo sciato piano per sicurezza\"}],\"changes\":[{\"label\":\"Passaggio più largo aperto\",\"kind\":\"novita\",\"quote\":\"qualcuno ha aperto un passaggio più largo tra le rocce\"}]},{\"report\":7,\"points\":[{\"label\":\"Bollettino valanghe all'inizio\",\"quote\":\"hanno messo un pannello con il bollettino valanghe\"}],\"changes\":[{\"label\":\"Pannello bollettino valanghe\",\"kind\":\"novita\",\"quote\":\"hanno messo un pannello con il bollettino valanghe\"}]},{\"report\":8,\"points\":[{\"label\":\"Catino alto assestato\",\"quote\":\"Il catino alto con neve assestata\"}],\"changes\":[]},{\"report\":9,\"points\":[{\"label\":\"Bordo pendio invisibile con nebbia\",\"quote\":\"Con la nebbia non si vede il bordo del pendio\"}],\"changes\":[]},{\"report\":10,\"points\":[{\"label\":\"Salita breve\",\"quote\":\"La salita è breve e poco faticosa\"}],\"changes\":[]},{\"report\":11,\"points\":[{\"label\":\"Ultimi duecento metri senza sci\",\"quote\":\"negli ultimi duecento metri ci siamo dovuti togliere gli sci\"}],\"changes\":[]},{\"report\":12,\"points\":[],\"changes\":[]},{\"report\":13,\"points\":[{\"label\":\"Discesa lunga circa tre chilometri\",\"quote\":\"Tre chilometri di curve\"},{\"label\":\"Rocce affioranti al restringimento\",\"quote\":\"All'altezza del restringimento ci sono delle rocce affioranti che richiedono di stare attenti\"}],\"changes\":[]},{\"report\":14,\"points\":[],\"changes\":[]},{\"report\":15,\"points\":[],\"changes\":[]},{\"report\":16,\"points\":[{\"label\":\"Crosta da vento nel catino\",\"quote\":\"Il catino alto aveva una crosta di vento\"}],\"changes\":[]},{\"report\":17,\"points\":[{\"label\":\"Salita breve con pelli\",\"quote\":\"Dopo gli impianti breve salita con le pelli\"}],\"changes\":[]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2379,
+       "output_tokens": 4398,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "47994df7db1a2c6af071d80ab52a2b41",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 7770,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"label\":\"Ultimo tratto senza sci\",\"points\":[\"1.1\",\"11.1\"]},{\"label\":\"Vista sul Monte Rosa\",\"points\":[\"2.1\"]},{\"label\":\"Lastroni da vento\",\"points\":[\"3.1\",\"4.1\"]},{\"label\":\"Parte laterale alternativa\",\"points\":[\"3.2\"]},{\"label\":\"Passaggio tra le rocce migliorato\",\"points\":[\"6.1\"]},{\"label\":\"Restringimento da sciare piano\",\"points\":[\"6.2\"]},{\"label\":\"Bollettino valanghe all'inizio\",\"points\":[\"7.1\"]},{\"label\":\"Catino alto assestato\",\"points\":[\"8.1\"]},{\"label\":\"Bordo pendio invisibile con nebbia\",\"points\":[\"9.1\"]},{\"label\":\"Salita breve\",\"points\":[\"10.1\",\"17.1\"]},{\"label\":\"Discesa lunga circa tre chilometri\",\"points\":[\"13.1\"]},{\"label\":\"Rocce affioranti al restringimento\",\"points\":[\"13.2\"]},{\"label\":\"Crosta da vento nel catino\",\"points\":[\"16.1\"]}],\"flags\":[{\"label\":\"Passaggio più largo aperto\",\"kind\":\"novita\",\"changes\":[\"6.1\"]},{\"label\":\"Pannello bollettino valanghe\",\"kind\":\"novita\",\"changes\":[\"7.1\"]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 1740,
+       "output_tokens": 1903,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "d354bea3d86893870d913ef40bc6ee6b",
+     "step": "merge",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 4207,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"groups\":[]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 1663,
+       "output_tokens": 299,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "417d02e0f2c550a9c56acdfd0f3224b1",
+     "step": "check",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 12497,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"from\":1,\"label\":\"Ultimo tratto senza sci\",\"quotes\":[1,2]},{\"from\":2,\"label\":\"Vista sul Monte Rosa\",\"quotes\":[1]},{\"from\":3,\"label\":\"Lastroni da vento\",\"quotes\":[1,2]},{\"from\":4,\"label\":\"Parte laterale alternativa\",\"quotes\":[1]},{\"from\":5,\"label\":\"Passaggio tra le rocce migliorato\",\"quotes\":[1]},{\"from\":6,\"label\":\"Sciare piano\",\"quotes\":[1]},{\"from\":7,\"label\":\"Bollettino valanghe\",\"quotes\":[1]},{\"from\":8,\"label\":\"Catino alto assestato\",\"quotes\":[1]},{\"from\":9,\"label\":\"Bordo pendio invisibile con nebbia\",\"quotes\":[1]},{\"from\":10,\"label\":\"Salita breve\",\"quotes\":[1,2]},{\"from\":11,\"label\":\"Discesa lunga circa tre chilometri\",\"quotes\":[1]},{\"from\":12,\"label\":\"Rocce affioranti al restringimento\",\"quotes\":[1]},{\"from\":13,\"label\":\"Crosta da vento nel catino\",\"quotes\":[1]}],\"flags\":[{\"from\":1,\"label\":\"Passaggio più largo aperto\",\"kind\":\"novita\",\"quotes\":[1]},{\"from\":2,\"label\":\"Pannello bollettino valanghe\",\"kind\":\"novita\",\"quotes\":[1]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 1961,
+       "output_tokens": 1757,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    }
+   ],
+   "stepMs": {
+    "read": 25240,
+    "merge": 4207,
+    "check": 12497
+   },
+   "wallMs": 41945
+  }
+ ]
+}

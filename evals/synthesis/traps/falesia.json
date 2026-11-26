@@ -1,0 +1,105 @@
+{
+  "name": "Falesia del Truc Rosso",
+  "activity": "falesia",
+  "reports": [
+    {
+      "observedAt": "2026-10-12",
+      "words": "Giornata fresca e ventosa, eravamo in 4. Chiodatura generosissima... uno spit ogni tre metri, sui primi tiri ho tremato. Roccia ottima, compatta, mai un appiglio che si muove.",
+      "themes": [
+        { "label": "Chiodatura lunga", "quote": "uno spit ogni tre metri" },
+        { "label": "Roccia buona", "quote": "Roccia ottima, compatta" }
+      ],
+      "notThemes": ["Giornata fresca e ventosa, eravamo in 4."]
+    },
+    {
+      "observedAt": "2026-09-28",
+      "words": "roccia bellissma ma spit lontani, specie sul 6b in centro. avvicinamento 10 min dal parcheggio, comodo",
+      "themes": [
+        { "label": "Roccia buona", "quote": "roccia bellissma" },
+        { "label": "Chiodatura lunga", "quote": "spit lontani" },
+        { "label": "Avvicinamento breve", "quote": "avvicinamento 10 min dal parcheggio" }
+      ]
+    },
+    {
+      "observedAt": "2026-09-03",
+      "words": "Ci sono tornato dopo anni: hanno aggiunto quattro tiri nuovi nel settore di destra, tutti sul 6a. Il resto è sempre uguale, la placca a sinistra è sporca di terra come è sempre stata.",
+      "themes": [
+        { "label": "Placca sinistra sporca", "quote": "la placca a sinistra è sporca di terra" }
+      ],
+      "flags": [
+        { "label": "Nuovi tiri a destra", "kind": "novita", "quote": "hanno aggiunto quattro tiri nuovi nel settore di destra" }
+      ],
+      "notFlags": ["come è sempre stata"]
+    },
+    {
+      "observedAt": "2026-08-15",
+      "words": "Troppo caldo, al sole dalle 11 non si tiene niente. Tiri di media lunghezza, sui 20 metri, corda da 60 basta.",
+      "themes": [
+        { "label": "Al sole dalle 11", "quote": "al sole dalle 11" },
+        { "label": "Tiri di media lunghezza", "quote": "Tiri di media lunghezza, sui 20 metri" }
+      ],
+      "notThemes": ["Troppo caldo"]
+    },
+    {
+      "observedAt": "2026-07-20",
+      "words": "attenzione: sul terzo tiro da sinistra si è staccata una scaglia grossa, ora il passo chiave è più duro. Catena ok.",
+      "flags": [
+        { "label": "Scaglia staccata", "kind": "attenzione", "quote": "sul terzo tiro da sinistra si è staccata una scaglia grossa" }
+      ]
+    },
+    {
+      "observedAt": "2026-06-30",
+      "words": "Tiri corti, si fa presto a chiudere la giornata. Spit vicini solo sul primo tiro, poi lunghi.",
+      "themes": [
+        { "label": "Tiri corti", "quote": "Tiri corti" },
+        { "label": "Chiodatura lunga", "quote": "poi lunghi" }
+      ]
+    },
+    {
+      "observedAt": "2026-06-02",
+      "words": "Pioveva a tratti, abbiamo fatto solo due vie. Bel posto comunque, vista sulla valle.",
+      "themes": [
+        { "label": "Bel posto", "quote": "Bel posto comunque" },
+        { "label": "Vista sulla valle", "quote": "vista sulla valle" }
+      ],
+      "notThemes": ["Pioveva a tratti, abbiamo fatto solo due vie."]
+    },
+    {
+      "observedAt": "2026-05-11",
+      "words": "Il parcheggio è comodo, poi 10 minuti di sentiero facile. Posto bellissimo, roccia un po' unta sui tiri classici.",
+      "themes": [
+        { "label": "Avvicinamento breve", "quote": "10 minuti di sentiero facile" },
+        { "label": "Bel posto", "quote": "Posto bellissimo" },
+        { "label": "Roccia unta sui classici", "quote": "roccia un po' unta sui tiri classici" }
+      ]
+    },
+    {
+      "observedAt": "2026-04-19",
+      "words": "Gradi stretti, il 6a sembra un 6b. Pochi i tiri sotto il 6a, non adatta ai principianti.",
+      "themes": [
+        { "label": "Gradi stretti", "quote": "Gradi stretti, il 6a sembra un 6b" },
+        { "label": "Poco per principianti", "quote": "Pochi i tiri sotto il 6a, non adatta ai principianti" }
+      ]
+    },
+    {
+      "observedAt": "2026-03-08",
+      "words": "Neve alla base ancora a marzo, ma i tiri erano asciutti. I gradi mi sono sembrati stretti anche a me, rocca solida.",
+      "themes": [
+        { "label": "Gradi stretti", "quote": "I gradi mi sono sembrati stretti" },
+        { "label": "Roccia buona", "quote": "rocca solida" }
+      ],
+      "notThemes": ["Neve alla base ancora a marzo, ma i tiri erano asciutti."],
+      "notFlags": ["Neve alla base ancora a marzo"]
+    },
+    {
+      "observedAt": "2026-02-14",
+      "words": "Hanno richiodato il settore centrale, finalmente spit nuovi inox. Adesso la chiodatura è più corta.",
+      "themes": [
+        { "label": "Spit nuovi inox", "quote": "finalmente spit nuovi inox" }
+      ],
+      "flags": [
+        { "label": "Settore centrale richiodato", "kind": "novita", "quote": "Hanno richiodato il settore centrale" }
+      ]
+    }
+  ]
+}

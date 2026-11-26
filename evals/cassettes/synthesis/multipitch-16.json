@@ -1,0 +1,300 @@
+{
+ "case": "multipitch-16",
+ "recordedAt": "2026-11-26T14:39:27.392Z",
+ "runs": [
+  {
+   "calls": [
+    {
+     "key": "c84dbe601070cdc07cef4e81a260da4b",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 20809,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"reports\":[{\"report\":1,\"points\":[{\"label\":\"Discesa in doppia ordinata\",\"quote\":\"La discesa in doppia è ordinata e le corde non si incastrano mai\"},{\"label\":\"Granito d'alta quota\",\"quote\":\"al granito d'alta quota\"}],\"changes\":[]},{\"report\":2,\"points\":[{\"label\":\"Nevaio d'avvicinamento assente\",\"quote\":\"Il nevaio all'inizio non c'è più\"},{\"label\":\"Avvicinamento su pietraie\",\"quote\":\"l'avvicinamento è tutto su pietraie\"},{\"label\":\"Tratto franoso nell'avvicinamento\",\"quote\":\"un tratto franoso che sale a zig-zag\"}],\"changes\":[]},{\"report\":3,\"points\":[],\"changes\":[]},{\"report\":4,\"points\":[{\"label\":\"Catene di sosta nuove\",\"quote\":\"Le catene delle soste sono nuove\"},{\"label\":\"Ultimi tiri facili\",\"quote\":\"Gli ultimi tiri facili\"},{\"label\":\"Passo di aderenza\",\"quote\":\"il passaggio di aderenza\"}],\"changes\":[{\"label\":\"Catene di sosta nuove\",\"kind\":\"novita\",\"quote\":\"Le catene delle soste sono nuove\"}]},{\"report\":5,\"points\":[{\"label\":\"Spit aggiunti sulla placca\",\"quote\":\"Hanno aggiunto due spit nuovi nella placca\"},{\"label\":\"Passo di aderenza rassicurante\",\"quote\":\"ora il passo di aderenza è più rassicurante\"},{\"label\":\"Chiodatura apprezzata\",\"quote\":\"Bella mossa\"}],\"changes\":[{\"label\":\"Due spit nuovi sulla placca\",\"kind\":\"novita\",\"quote\":\"Hanno aggiunto due spit nuovi nella placca del terzo tiro\"}]},{\"report\":6,\"points\":[{\"label\":\"Quinto tiro esposto\",\"quote\":\"Il quinto tiro con l'esposizione sul vuoto\"},{\"label\":\"Protezione buona\",\"quote\":\"protetto bene\"},{\"label\":\"Arrampicata fluida\",\"quote\":\"arrampicata fluida\"}],\"changes\":[]},{\"report\":7,\"points\":[{\"label\":\"Caduta sassi dal canale\",\"quote\":\"Una scarica di sassi è passata dal canale a sinistra\"},{\"label\":\"Tratto da attraversare in fretta\",\"quote\":\"quel tratto va attraversato con rapidità\"}],\"changes\":[{\"label\":\"Pericolo di sassi dal canale\",\"kind\":\"attenzione\",\"quote\":\"quel tratto va attraversato con rapidità\"}]},{\"report\":8,\"points\":[{\"label\":\"Soste fredde\",\"quote\":\"Via assolutamente da non sottovalutare per il freddo\"}],\"changes\":[]},{\"report\":9,\"points\":[{\"label\":\"Sentiero innevato a luglio\",\"quote\":\"c'è ancora molta neve sul sentiero\"},{\"label\":\"Pietraia scivolosa\",\"quote\":\"il tratto di pietraia è scivoloso\"},{\"label\":\"Avvicinamento più lento\",\"quote\":\"Calcolare un'ora in più per l'avvicinamento\"}],\"changes\":[]},{\"report\":10,\"points\":[{\"label\":\"Vista sulle creste\",\"quote\":\"vista sulle creste di confine\"},{\"label\":\"Granito rosso a grana fine\",\"quote\":\"Il granito rosso ha una grana incredibile\"},{\"label\":\"Roccia abrasiva\",\"quote\":\"un po' abrasivo sulle dita\"}],\"changes\":[]},{\"report\":11,\"points\":[],\"changes\":[]},{\"report\":12,\"points\":[{\"label\":\"Via lunga\",\"quote\":\"abbiamo impiegato quasi otto ore tra attacco e discesa\"},{\"label\":\"Prima doppia lunga\",\"quote\":\"la prima doppia in particolare richiede tempo perché è lunga\"}],\"changes\":[]},{\"report\":13,\"points\":[{\"label\":\"Seracchi sopra la via\",\"quote\":\"Rumore di seracchi per tutto il giorno\"},{\"label\":\"Lontana dal ghiaccio\",\"quote\":\"la via è lontana dal ghiaccio vero\"}],\"changes\":[]},{\"report\":14,\"points\":[{\"label\":\"Ghiaccio intorno alla via\",\"quote\":\"solo ghiaccio che scricchiolava intorno\"},{\"label\":\"Placca liscia al terzo tiro\",\"quote\":\"Il terzo tiro con la placca liscia\"}],\"changes\":[]},{\"report\":15,\"points\":[{\"label\":\"Nevaio alla base\",\"quote\":\"Il nevaio alla base era ancora duro\"},{\"label\":\"Serve la piccozza\",\"quote\":\"ci è servita la piccozza\"},{\"label\":\"Via asciutta\",\"quote\":\"la via, asciutta\"},{\"label\":\"Parete al sole dalle undici\",\"quote\":\"sole sulla parete solo dalle undici\"}],\"changes\":[]},{\"report\":16,\"points\":[{\"label\":\"Ambiente che schiaccia\",\"quote\":\"Via che ti fa sentire piccolo\"},{\"label\":\"Tiri facili sulla carta\",\"quote\":\"tiri facili sulla carta\"},{\"label\":\"Quota impegnativa\",\"quote\":\"a quasi tremila metri\"},{\"label\":\"Grado 4c\",\"quote\":\"un 4c pesa nelle gambe\"},{\"label\":\"Granito rosso compatto\",\"quote\":\"Granito rosso compatto\"},{\"label\":\"Spit inox\",\"quote\":\"spit inox\"},{\"label\":\"Chiodatura in ordine\",\"quote\":\"tutto in ordine\"}],\"changes\":[]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2272,
+       "output_tokens": 5855,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "0decb838572f2133f0d53ae8f2b939ac",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 16868,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"label\":\"Discesa in doppia ordinata\",\"points\":[\"1.1\"]},{\"label\":\"Granito d'alta quota\",\"points\":[\"1.2\"]},{\"label\":\"Nevaio d'avvicinamento assente\",\"points\":[\"2.1\"]},{\"label\":\"Avvicinamento su pietraie\",\"points\":[\"2.2\"]},{\"label\":\"Tratto franoso nell'avvicinamento\",\"points\":[\"2.3\"]},{\"label\":\"Catene di sosta nuove\",\"points\":[\"4.1\"]},{\"label\":\"Ultimi tiri facili\",\"points\":[\"4.2\"]},{\"label\":\"Passo di aderenza\",\"points\":[\"4.3\"]},{\"label\":\"Spit nuovi sulla placca\",\"points\":[\"5.1\"]},{\"label\":\"Passo di aderenza rassicurante\",\"points\":[\"5.2\"]},{\"label\":\"Chiodatura apprezzata\",\"points\":[\"5.3\",\"16.7\"]},{\"label\":\"Quinto tiro esposto\",\"points\":[\"6.1\"]},{\"label\":\"Protezione buona\",\"points\":[\"6.2\"]},{\"label\":\"Arrampicata fluida\",\"points\":[\"6.3\"]},{\"label\":\"Caduta sassi dal canale\",\"points\":[\"7.1\"]},{\"label\":\"Tratto da attraversare in fretta\",\"points\":[\"7.2\"]},{\"label\":\"Soste fredde\",\"points\":[\"8.1\"]},{\"label\":\"Sentiero innevato a luglio\",\"points\":[\"9.1\"]},{\"label\":\"Pietraia scivolosa\",\"points\":[\"9.2\"]},{\"label\":\"Avvicinamento più lento\",\"points\":[\"9.3\"]},{\"label\":\"Vista sulle creste\",\"points\":[\"10.1\"]},{\"label\":\"Granito rosso\",\"points\":[\"10.2\",\"16.5\"]},{\"label\":\"Roccia abrasiva\",\"points\":[\"10.3\"]},{\"label\":\"Via lunga\",\"points\":[\"12.1\"]},{\"label\":\"Prima doppia lunga\",\"points\":[\"12.2\"]},{\"label\":\"Seracchi sopra la via\",\"points\":[\"13.1\"]},{\"label\":\"Lontana dal ghiaccio\",\"points\":[\"13.2\"]},{\"label\":\"Ghiaccio intorno alla via\",\"points\":[\"14.1\"]},{\"label\":\"Placca liscia al terzo tiro\",\"points\":[\"14.2\"]},{\"label\":\"Nevaio alla base\",\"points\":[\"15.1\"]},{\"label\":\"Serve la piccozza\",\"points\":[\"15.2\"]},{\"label\":\"Via asciutta\",\"points\":[\"15.3\"]},{\"label\":\"Parete al sole dalle undici\",\"points\":[\"15.4\"]},{\"label\":\"Ambiente che schiaccia\",\"points\":[\"16.1\"]},{\"label\":\"Tiri facili sulla carta\",\"points\":[\"16.2\"]},{\"label\":\"Quota impegnativa\",\"points\":[\"16.3\"]},{\"label\":\"Grado 4c\",\"points\":[\"16.4\"]},{\"label\":\"Spit inox\",\"points\":[\"16.6\"]}],\"flags\":[{\"label\":\"Catene di sosta nuove\",\"kind\":\"novita\",\"changes\":[\"4.1\"]},{\"label\":\"Due spit nuovi sulla placca\",\"kind\":\"novita\",\"changes\":[\"5.1\"]},{\"label\":\"Pericolo di sassi dal canale\",\"kind\":\"attenzione\",\"changes\":[\"7.1\"]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2444,
+       "output_tokens": 4700,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "84451f8139d103d6c1dea3fbbb603e63",
+     "step": "merge",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 2235,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"groups\":[{\"label\":\"Passo di aderenza\",\"themes\":[8,10]},{\"label\":\"Granito rosso\",\"themes\":[22,2]},{\"label\":\"Protezione buona\",\"themes\":[13,11]},{\"label\":\"Nevaio alla base\",\"themes\":[30,18]},{\"label\":\"Avvicinamento su pietraie\",\"themes\":[4,19]},{\"label\":\"Via lunga\",\"themes\":[24,25]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2301,
+       "output_tokens": 145,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "d6fcf7860b07d73857df9a32946987ab",
+     "step": "check",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 16075,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"from\":1,\"label\":\"Discesa in doppia ordinata\",\"quotes\":[1]},{\"from\":2,\"label\":\"Granito rosso\",\"quotes\":[2,3]},{\"from\":3,\"label\":\"Nevaio d'avvicinamento assente\",\"quotes\":[1]},{\"from\":4,\"label\":\"Avvicinamento su pietraie\",\"quotes\":[1]},{\"from\":5,\"label\":\"Tratto franoso nell'avvicinamento\",\"quotes\":[1]},{\"from\":6,\"label\":\"Catene di sosta nuove\",\"quotes\":[1]},{\"from\":7,\"label\":\"Ultimi tiri facili\",\"quotes\":[1]},{\"from\":8,\"label\":\"Passo di aderenza\",\"quotes\":[1,2]},{\"from\":9,\"label\":\"Spit nuovi sulla placca\",\"quotes\":[1]},{\"from\":10,\"label\":\"Protezione buona\",\"quotes\":[2]},{\"from\":11,\"label\":\"Quinto tiro esposto\",\"quotes\":[1]},{\"from\":12,\"label\":\"Arrampicata fluida\",\"quotes\":[1]},{\"from\":13,\"label\":\"Caduta sassi dal canale\",\"quotes\":[1]},{\"from\":14,\"label\":\"Tratto da attraversare in fretta\",\"quotes\":[1]},{\"from\":16,\"label\":\"Nevaio alla base\",\"quotes\":[2]},{\"from\":17,\"label\":\"Avvicinamento più lento\",\"quotes\":[1]},{\"from\":18,\"label\":\"Vista sulle creste\",\"quotes\":[1]},{\"from\":19,\"label\":\"Roccia abrasiva\",\"quotes\":[1]},{\"from\":20,\"label\":\"Via lunga\",\"quotes\":[1]},{\"from\":22,\"label\":\"Lontana dal ghiaccio\",\"quotes\":[1]},{\"from\":23,\"label\":\"Ghiaccio intorno alla via\",\"quotes\":[1]},{\"from\":24,\"label\":\"Placca liscia al terzo tiro\",\"quotes\":[1]},{\"from\":25,\"label\":\"Serve la piccozza\",\"quotes\":[1]},{\"from\":26,\"label\":\"Via asciutta\",\"quotes\":[1]},{\"from\":27,\"label\":\"Parete al sole dalle undici\",\"quotes\":[1]},{\"from\":28,\"label\":\"Ambiente che schiaccia\",\"quotes\":[1]},{\"from\":29,\"label\":\"Tiri facili sulla carta\",\"quotes\":[1]},{\"from\":31,\"label\":\"Grado 4c\",\"quotes\":[1]},{\"from\":32,\"label\":\"Spit inox\",\"quotes\":[1]}],\"flags\":[{\"from\":1,\"label\":\"Catene di sosta nuove\",\"kind\":\"novita\",\"quotes\":[1]},{\"from\":2,\"label\":\"Due spit nuovi sulla placca\",\"kind\":\"novita\",\"quotes\":[1]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2681,
+       "output_tokens": 2187,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    }
+   ],
+   "stepMs": {
+    "read": 37678,
+    "merge": 2235,
+    "check": 16075
+   },
+   "wallMs": 55988
+  },
+  {
+   "calls": [
+    {
+     "key": "c84dbe601070cdc07cef4e81a260da4b",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 19084,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"reports\":[{\"report\":1,\"points\":[{\"label\":\"Doppie scorrevoli\",\"quote\":\"le corde non si incastrano mai\"},{\"label\":\"Ingresso al granito d'alta quota\",\"quote\":\"Un ottimo ingresso al granito d'alta quota\"}],\"changes\":[]},{\"report\":2,\"points\":[{\"label\":\"Avvicinamento su pietraie\",\"quote\":\"l'avvicinamento è tutto su pietraie\"},{\"label\":\"Tratto franoso sull'avvicinamento\",\"quote\":\"tratto franoso che sale a zig-zag\"},{\"label\":\"Nevaio scomparso\",\"quote\":\"Il nevaio all'inizio non c'è più\"}],\"changes\":[]},{\"report\":3,\"points\":[],\"changes\":[]},{\"report\":4,\"points\":[{\"label\":\"Catene nuove\",\"quote\":\"Le catene delle soste sono nuove\"},{\"label\":\"Ultimi tiri facili\",\"quote\":\"Gli ultimi tiri facili sono perfetti per rilassarsi\"},{\"label\":\"Passo di aderenza\",\"quote\":\"dopo il passaggio di aderenza\"}],\"changes\":[{\"label\":\"Catene nuove alle soste\",\"kind\":\"novita\",\"quote\":\"Le catene delle soste sono nuove\"}]},{\"report\":5,\"points\":[{\"label\":\"Spit aggiunti in placca\",\"quote\":\"Hanno aggiunto due spit nuovi nella placca del terzo tiro\"},{\"label\":\"Passo di aderenza rassicurante\",\"quote\":\"ora il passo di aderenza è più rassicurante\"}],\"changes\":[{\"label\":\"Due spit nuovi\",\"kind\":\"novita\",\"quote\":\"Hanno aggiunto due spit nuovi nella placca del terzo tiro\"}]},{\"report\":6,\"points\":[{\"label\":\"Quinto tiro esposto\",\"quote\":\"Il quinto tiro con l'esposizione sul vuoto è il mio preferito\"},{\"label\":\"Protezioni buone\",\"quote\":\"protetto bene\"},{\"label\":\"Arrampicata fluida\",\"quote\":\"arrampicata fluida\"}],\"changes\":[]},{\"report\":7,\"points\":[{\"label\":\"Caduta sassi dal canale\",\"quote\":\"Una scarica di sassi è passata dal canale a sinistra\"},{\"label\":\"Attraversare rapidamente\",\"quote\":\"quel tratto va attraversato con rapidità\"}],\"changes\":[{\"label\":\"Caduta sassi dal canale\",\"kind\":\"attenzione\",\"quote\":\"Una scarica di sassi è passata dal canale a sinistra\"}]},{\"report\":8,\"points\":[{\"label\":\"Freddo alle soste\",\"quote\":\"Via assolutamente da non sottovalutare per il freddo\"},{\"label\":\"Portare i guanti\",\"quote\":\"Meglio portare i guanti\"}],\"changes\":[]},{\"report\":9,\"points\":[{\"label\":\"Neve sul sentiero a luglio\",\"quote\":\"A luglio c'è ancora molta neve sul sentiero\"},{\"label\":\"Pietraia scivolosa\",\"quote\":\"il tratto di pietraia è scivoloso\"},{\"label\":\"Avvicinamento lungo\",\"quote\":\"Calcolare un'ora in più per l'avvicinamento\"}],\"changes\":[]},{\"report\":10,\"points\":[{\"label\":\"Granito rosso a grana fine\",\"quote\":\"Il granito rosso ha una grana incredibile\"},{\"label\":\"Roccia abrasiva\",\"quote\":\"un po' abrasivo sulle dita\"},{\"label\":\"Vista sulle creste\",\"quote\":\"vista sulle creste di confine\"}],\"changes\":[]},{\"report\":11,\"points\":[{\"label\":\"Ombra nel pomeriggio\",\"quote\":\"Il sole se n'è andato alle due\"}],\"changes\":[]},{\"report\":12,\"points\":[{\"label\":\"Salita lunga\",\"quote\":\"abbiamo impiegato quasi otto ore tra attacco e discesa\"},{\"label\":\"Prima doppia lunga\",\"quote\":\"la prima doppia in particolare richiede tempo perché è lunga\"}],\"changes\":[]},{\"report\":13,\"points\":[{\"label\":\"Seracchi incombenti\",\"quote\":\"Rumore di seracchi per tutto il giorno\"},{\"label\":\"Via lontana dal ghiaccio\",\"quote\":\"la via è lontana dal ghiaccio vero\"}],\"changes\":[]},{\"report\":14,\"points\":[{\"label\":\"Terzo tiro in placca\",\"quote\":\"Il terzo tiro con la placca liscia è il pezzo da ricordare\"},{\"label\":\"Ghiaccio intorno alla via\",\"quote\":\"solo ghiaccio che scricchiolava intorno\"}],\"changes\":[]},{\"report\":15,\"points\":[{\"label\":\"Nevaio duro alla base\",\"quote\":\"Il nevaio alla base era ancora duro al mattino\"},{\"label\":\"Serve la piccozza\",\"quote\":\"ci è servita la piccozza\"},{\"label\":\"Sole tardivo sulla parete\",\"quote\":\"sole sulla parete solo dalle undici\"}],\"changes\":[]},{\"report\":16,\"points\":[{\"label\":\"Tiri facili sulla carta\",\"quote\":\"tiri facili sulla carta\"},{\"label\":\"Grado 4c impegnativo\",\"quote\":\"anche un 4c pesa nelle gambe\"},{\"label\":\"Quota quasi tremila metri\",\"quote\":\"a quasi tremila metri\"},{\"label\":\"Granito rosso compatto\",\"quote\":\"Granito rosso compatto\"},{\"label\":\"Spit inox\",\"quote\":\"spit inox\"},{\"label\":\"Chiodatura in ordine\",\"quote\":\"tutto in ordine\"}],\"changes\":[]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2272,
+       "output_tokens": 5142,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "6249347d55b4ab8fdb3fa449b84657ba",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 18191,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"label\":\"Doppie scorrevoli\",\"points\":[\"1.1\"]},{\"label\":\"Ingresso al granito d'alta quota\",\"points\":[\"1.2\"]},{\"label\":\"Avvicinamento su pietraie\",\"points\":[\"2.1\"]},{\"label\":\"Tratto franoso sull'avvicinamento\",\"points\":[\"2.2\"]},{\"label\":\"Nevaio scomparso\",\"points\":[\"2.3\"]},{\"label\":\"Catene nuove alle soste\",\"points\":[\"4.1\"]},{\"label\":\"Ultimi tiri facili\",\"points\":[\"4.2\"]},{\"label\":\"Passo di aderenza\",\"points\":[\"4.3\"]},{\"label\":\"Spit aggiunti in placca\",\"points\":[\"5.1\"]},{\"label\":\"Passo di aderenza rassicurante\",\"points\":[\"5.2\"]},{\"label\":\"Quinto tiro esposto\",\"points\":[\"6.1\"]},{\"label\":\"Protezioni buone\",\"points\":[\"6.2\",\"16.6\"]},{\"label\":\"Arrampicata fluida\",\"points\":[\"6.3\"]},{\"label\":\"Caduta sassi dal canale\",\"points\":[\"7.1\"]},{\"label\":\"Attraversare rapidamente\",\"points\":[\"7.2\"]},{\"label\":\"Freddo alle soste\",\"points\":[\"8.1\"]},{\"label\":\"Portare i guanti\",\"points\":[\"8.2\"]},{\"label\":\"Neve sul sentiero a luglio\",\"points\":[\"9.1\"]},{\"label\":\"Pietraia scivolosa\",\"points\":[\"9.2\"]},{\"label\":\"Avvicinamento lungo\",\"points\":[\"9.3\"]},{\"label\":\"Granito rosso\",\"points\":[\"10.1\",\"16.4\"]},{\"label\":\"Roccia abrasiva\",\"points\":[\"10.2\"]},{\"label\":\"Vista sulle creste\",\"points\":[\"10.3\"]},{\"label\":\"Esposizione al sole\",\"points\":[\"11.1\",\"15.3\"]},{\"label\":\"Salita lunga\",\"points\":[\"12.1\"]},{\"label\":\"Prima doppia lunga\",\"points\":[\"12.2\"]},{\"label\":\"Ghiaccio intorno alla via\",\"points\":[\"13.1\",\"14.2\"]},{\"label\":\"Via lontana dal ghiaccio\",\"points\":[\"13.2\"]},{\"label\":\"Terzo tiro in placca\",\"points\":[\"14.1\"]},{\"label\":\"Nevaio duro alla base\",\"points\":[\"15.1\"]},{\"label\":\"Serve la piccozza\",\"points\":[\"15.2\"]},{\"label\":\"Tiri facili sulla carta\",\"points\":[\"16.1\"]},{\"label\":\"Grado 4c impegnativo\",\"points\":[\"16.2\"]},{\"label\":\"Quota quasi tremila metri\",\"points\":[\"16.3\"]},{\"label\":\"Spit inox\",\"points\":[\"16.5\"]}],\"flags\":[{\"label\":\"Catene nuove alle soste\",\"kind\":\"novita\",\"changes\":[\"4.1\"]},{\"label\":\"Due spit nuovi\",\"kind\":\"novita\",\"changes\":[\"5.1\"]},{\"label\":\"Caduta sassi dal canale\",\"kind\":\"attenzione\",\"changes\":[\"7.1\"]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2468,
+       "output_tokens": 4811,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "d91837962a4ec47a8248b130bed94051",
+     "step": "merge",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 3989,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"groups\":[]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2302,
+       "output_tokens": 459,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "bf90daf4b5bd7a28707e9cfbac177cce",
+     "step": "check",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 17462,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"from\":1,\"label\":\"Doppie scorrevoli\",\"quotes\":[1]},{\"from\":2,\"label\":\"Ingresso al granito d'alta quota\",\"quotes\":[1]},{\"from\":3,\"label\":\"Avvicinamento su pietraie\",\"quotes\":[1]},{\"from\":4,\"label\":\"Tratto franoso sull'avvicinamento\",\"quotes\":[1]},{\"from\":5,\"label\":\"Nevaio scomparso\",\"quotes\":[1]},{\"from\":6,\"label\":\"Catene nuove alle soste\",\"quotes\":[1]},{\"from\":7,\"label\":\"Ultimi tiri facili\",\"quotes\":[1]},{\"from\":8,\"label\":\"Passo di aderenza\",\"quotes\":[1]},{\"from\":9,\"label\":\"Spit aggiunti in placca\",\"quotes\":[1]},{\"from\":10,\"label\":\"Passo di aderenza rassicurante\",\"quotes\":[1]},{\"from\":11,\"label\":\"Quinto tiro esposto\",\"quotes\":[1]},{\"from\":12,\"label\":\"Protezioni buone\",\"quotes\":[1,2]},{\"from\":13,\"label\":\"Arrampicata fluida\",\"quotes\":[1]},{\"from\":14,\"label\":\"Caduta sassi dal canale\",\"quotes\":[1]},{\"from\":15,\"label\":\"Attraversare rapidamente\",\"quotes\":[1]},{\"from\":16,\"label\":\"Freddo\",\"quotes\":[1]},{\"from\":17,\"label\":\"Portare i guanti\",\"quotes\":[1]},{\"from\":18,\"label\":\"Neve sul sentiero a luglio\",\"quotes\":[1]},{\"from\":19,\"label\":\"Pietraia scivolosa\",\"quotes\":[1]},{\"from\":20,\"label\":\"Avvicinamento lungo\",\"quotes\":[1]},{\"from\":21,\"label\":\"Granito rosso\",\"quotes\":[1,2]},{\"from\":22,\"label\":\"Roccia abrasiva\",\"quotes\":[1]},{\"from\":23,\"label\":\"Vista sulle creste\",\"quotes\":[1]},{\"from\":24,\"label\":\"Esposizione al sole\",\"quotes\":[1,2]},{\"from\":25,\"label\":\"Salita lunga\",\"quotes\":[1]},{\"from\":26,\"label\":\"Prima doppia lunga\",\"quotes\":[1]},{\"from\":27,\"label\":\"Ghiaccio intorno alla via\",\"quotes\":[1,2]},{\"from\":28,\"label\":\"Via lontana dal ghiaccio\",\"quotes\":[1]},{\"from\":29,\"label\":\"Terzo tiro in placca\",\"quotes\":[1]},{\"from\":30,\"label\":\"Nevaio duro alla base\",\"quotes\":[1]},{\"from\":31,\"label\":\"Serve la piccozza\",\"quotes\":[1]},{\"from\":32,\"label\":\"Tiri facili sulla carta\",\"quotes\":[1]},{\"from\":33,\"label\":\"Grado 4c impegnativo\",\"quotes\":[1]},{\"from\":34,\"label\":\"Quota quasi tremila metri\",\"quotes\":[1]},{\"from\":35,\"label\":\"Spit inox\",\"quotes\":[1]}],\"flags\":[{\"from\":1,\"label\":\"Catene nuove alle soste\",\"kind\":\"novita\",\"quotes\":[1]},{\"from\":2,\"label\":\"Due spit nuovi\",\"kind\":\"novita\",\"quotes\":[1]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2801,
+       "output_tokens": 2679,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    }
+   ],
+   "stepMs": {
+    "read": 37276,
+    "merge": 3990,
+    "check": 17462
+   },
+   "wallMs": 58728
+  },
+  {
+   "calls": [
+    {
+     "key": "c84dbe601070cdc07cef4e81a260da4b",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 18458,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"reports\":[{\"report\":1,\"points\":[{\"label\":\"Discesa in doppia ordinata\",\"quote\":\"La discesa in doppia è ordinata\"},{\"label\":\"Ingresso al granito d'alta quota\",\"quote\":\"Un ottimo ingresso al granito d'alta quota\"}],\"changes\":[]},{\"report\":2,\"points\":[{\"label\":\"Avvicinamento su pietraie\",\"quote\":\"l'avvicinamento è tutto su pietraie\"},{\"label\":\"Tratto franoso sul sentiero\",\"quote\":\"un tratto franoso che sale a zig-zag\"}],\"changes\":[]},{\"report\":3,\"points\":[],\"changes\":[]},{\"report\":4,\"points\":[{\"label\":\"Soste con catene nuove\",\"quote\":\"Le catene delle soste sono nuove\"},{\"label\":\"Ultimi tiri facili\",\"quote\":\"Gli ultimi tiri facili\"},{\"label\":\"Passo di aderenza\",\"quote\":\"dopo il passaggio di aderenza\"}],\"changes\":[{\"label\":\"Catene delle soste nuove\",\"kind\":\"novita\",\"quote\":\"Le catene delle soste sono nuove\"}]},{\"report\":5,\"points\":[{\"label\":\"Placca del terzo tiro\",\"quote\":\"nella placca del terzo tiro\"},{\"label\":\"Passo di aderenza più sicuro\",\"quote\":\"ora il passo di aderenza è più rassicurante\"}],\"changes\":[{\"label\":\"Due spit aggiunti sulla placca\",\"kind\":\"novita\",\"quote\":\"Hanno aggiunto due spit nuovi nella placca del terzo tiro\"}]},{\"report\":6,\"points\":[{\"label\":\"Quinto tiro esposto\",\"quote\":\"Il quinto tiro con l'esposizione sul vuoto\"},{\"label\":\"Protezione buona\",\"quote\":\"protetto bene\"},{\"label\":\"Arrampicata fluida\",\"quote\":\"arrampicata fluida\"}],\"changes\":[]},{\"report\":7,\"points\":[{\"label\":\"Tratto da attraversare in fretta\",\"quote\":\"quel tratto va attraversato con rapidità\"}],\"changes\":[{\"label\":\"Scarica di sassi dal canale\",\"kind\":\"attenzione\",\"quote\":\"Una scarica di sassi è passata dal canale a sinistra\"}]},{\"report\":8,\"points\":[{\"label\":\"Via fredda alle soste\",\"quote\":\"Via assolutamente da non sottovalutare per il freddo\"}],\"changes\":[]},{\"report\":9,\"points\":[{\"label\":\"Pietraia scivolosa\",\"quote\":\"il tratto di pietraia è scivoloso\"},{\"label\":\"Avvicinamento lungo\",\"quote\":\"Calcolare un'ora in più per l'avvicinamento\"}],\"changes\":[]},{\"report\":10,\"points\":[{\"label\":\"Granito a grana fine\",\"quote\":\"Il granito rosso ha una grana incredibile\"},{\"label\":\"Roccia abrasiva\",\"quote\":\"un po' abrasivo sulle dita\"},{\"label\":\"Vista sulle creste\",\"quote\":\"vista sulle creste di confine\"}],\"changes\":[]},{\"report\":11,\"points\":[{\"label\":\"Sole fino alle due\",\"quote\":\"Il sole se n'è andato alle due\"}],\"changes\":[]},{\"report\":12,\"points\":[{\"label\":\"Via lunga, circa otto ore\",\"quote\":\"quasi otto ore tra attacco e discesa\"},{\"label\":\"Prima doppia lunga\",\"quote\":\"la prima doppia in particolare richiede tempo perché è lunga\"}],\"changes\":[]},{\"report\":13,\"points\":[{\"label\":\"Rumore di seracchi\",\"quote\":\"Rumore di seracchi per tutto il giorno\"},{\"label\":\"Via lontana dal ghiaccio\",\"quote\":\"la via è lontana dal ghiaccio vero\"}],\"changes\":[]},{\"report\":14,\"points\":[{\"label\":\"Ghiaccio intorno alla via\",\"quote\":\"solo ghiaccio che scricchiolava intorno\"},{\"label\":\"Placca liscia al terzo tiro\",\"quote\":\"Il terzo tiro con la placca liscia è il pezzo da ricordare\"}],\"changes\":[]},{\"report\":15,\"points\":[{\"label\":\"Nevaio alla base\",\"quote\":\"Il nevaio alla base era ancora duro al mattino\"},{\"label\":\"Serve la piccozza\",\"quote\":\"ci è servita la piccozza\"},{\"label\":\"Via asciutta\",\"quote\":\"la via, asciutta\"},{\"label\":\"Sole sulla parete dalle undici\",\"quote\":\"sole sulla parete solo dalle undici\"}],\"changes\":[]},{\"report\":16,\"points\":[{\"label\":\"Tiri facili sulla carta\",\"quote\":\"tiri facili sulla carta\"},{\"label\":\"Quota elevata, fatica\",\"quote\":\"a quasi tremila metri anche un 4c pesa nelle gambe\"},{\"label\":\"Granito compatto\",\"quote\":\"Granito rosso compatto\"},{\"label\":\"Spit in acciaio inox\",\"quote\":\"spit inox\"},{\"label\":\"Via ben attrezzata\",\"quote\":\"tutto in ordine\"}],\"changes\":[]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2272,
+       "output_tokens": 4687,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "c64f6a9e992ffc90da1fd3ba99086f62",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 17861,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"label\":\"Discesa in doppia ordinata\",\"points\":[\"1.1\"]},{\"label\":\"Ingresso al granito d'alta quota\",\"points\":[\"1.2\"]},{\"label\":\"Avvicinamento su pietraie\",\"points\":[\"2.1\"]},{\"label\":\"Tratto franoso sul sentiero\",\"points\":[\"2.2\"]},{\"label\":\"Soste con catene nuove\",\"points\":[\"4.1\"]},{\"label\":\"Ultimi tiri facili\",\"points\":[\"4.2\"]},{\"label\":\"Passo di aderenza\",\"points\":[\"4.3\"]},{\"label\":\"Placca del terzo tiro\",\"points\":[\"5.1\"]},{\"label\":\"Passo di aderenza più sicuro\",\"points\":[\"5.2\"]},{\"label\":\"Quinto tiro esposto\",\"points\":[\"6.1\"]},{\"label\":\"Protezione buona\",\"points\":[\"6.2\"]},{\"label\":\"Arrampicata fluida\",\"points\":[\"6.3\"]},{\"label\":\"Tratto da attraversare in fretta\",\"points\":[\"7.1\"]},{\"label\":\"Via fredda alle soste\",\"points\":[\"8.1\"]},{\"label\":\"Pietraia scivolosa\",\"points\":[\"9.1\"]},{\"label\":\"Avvicinamento lungo\",\"points\":[\"9.2\"]},{\"label\":\"Granito a grana fine\",\"points\":[\"10.1\"]},{\"label\":\"Roccia abrasiva\",\"points\":[\"10.2\"]},{\"label\":\"Vista sulle creste\",\"points\":[\"10.3\"]},{\"label\":\"Orario del sole sulla parete\",\"points\":[\"11.1\",\"15.4\"]},{\"label\":\"Via lunga, circa otto ore\",\"points\":[\"12.1\"]},{\"label\":\"Prima doppia lunga\",\"points\":[\"12.2\"]},{\"label\":\"Rumore di seracchi\",\"points\":[\"13.1\"]},{\"label\":\"Via lontana dal ghiaccio\",\"points\":[\"13.2\"]},{\"label\":\"Ghiaccio intorno alla via\",\"points\":[\"14.1\"]},{\"label\":\"Placca liscia al terzo tiro\",\"points\":[\"14.2\"]},{\"label\":\"Nevaio alla base\",\"points\":[\"15.1\"]},{\"label\":\"Serve la piccozza\",\"points\":[\"15.2\"]},{\"label\":\"Via asciutta\",\"points\":[\"15.3\"]},{\"label\":\"Tiri facili sulla carta\",\"points\":[\"16.1\"]},{\"label\":\"Quota elevata, fatica\",\"points\":[\"16.2\"]},{\"label\":\"Granito compatto\",\"points\":[\"16.3\"]},{\"label\":\"Spit in acciaio inox\",\"points\":[\"16.4\"]},{\"label\":\"Via ben attrezzata\",\"points\":[\"16.5\"]}],\"flags\":[{\"label\":\"Catene delle soste nuove\",\"kind\":\"novita\",\"changes\":[\"4.1\"]},{\"label\":\"Due spit aggiunti sulla placca\",\"kind\":\"novita\",\"changes\":[\"5.1\"]},{\"label\":\"Scarica di sassi dal canale\",\"kind\":\"attenzione\",\"changes\":[\"7.1\"]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2297,
+       "output_tokens": 4538,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "37d068c63ff9d46c085cda34588649fe",
+     "step": "merge",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 2436,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"groups\":[{\"label\":\"Passo di aderenza\",\"themes\":[7,9]},{\"label\":\"Placca del terzo tiro\",\"themes\":[8,26]},{\"label\":\"Granito a grana fine\",\"themes\":[17,32]},{\"label\":\"Avvicinamento lungo\",\"themes\":[3,16]},{\"label\":\"Soste con catene nuove\",\"themes\":[5,33]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2176,
+       "output_tokens": 130,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "2fe3d723b986e8fef2564f8db2fbd245",
+     "step": "check",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 15596,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"from\":1,\"label\":\"Discesa in doppia ordinata\",\"quotes\":[1]},{\"from\":2,\"label\":\"Ingresso al granito d'alta quota\",\"quotes\":[1]},{\"from\":3,\"label\":\"Avvicinamento lungo\",\"quotes\":[2]},{\"from\":4,\"label\":\"Tratto franoso sul sentiero\",\"quotes\":[1]},{\"from\":5,\"label\":\"Soste con catene nuove\",\"quotes\":[1]},{\"from\":6,\"label\":\"Ultimi tiri facili\",\"quotes\":[1]},{\"from\":7,\"label\":\"Passo di aderenza\",\"quotes\":[1,2]},{\"from\":8,\"label\":\"Placca del terzo tiro\",\"quotes\":[1,2]},{\"from\":9,\"label\":\"Quinto tiro esposto\",\"quotes\":[1]},{\"from\":10,\"label\":\"Protezione buona\",\"quotes\":[1]},{\"from\":11,\"label\":\"Arrampicata fluida\",\"quotes\":[1]},{\"from\":12,\"label\":\"Tratto da attraversare in fretta\",\"quotes\":[1]},{\"from\":13,\"label\":\"Via fredda\",\"quotes\":[1]},{\"from\":14,\"label\":\"Pietraia scivolosa\",\"quotes\":[1]},{\"from\":15,\"label\":\"Granito a grana fine\",\"quotes\":[1]},{\"from\":16,\"label\":\"Roccia abrasiva\",\"quotes\":[1]},{\"from\":17,\"label\":\"Vista sulle creste\",\"quotes\":[1]},{\"from\":18,\"label\":\"Orario del sole sulla parete\",\"quotes\":[1,2]},{\"from\":19,\"label\":\"Via lunga, circa otto ore\",\"quotes\":[1]},{\"from\":20,\"label\":\"Prima doppia lunga\",\"quotes\":[1]},{\"from\":21,\"label\":\"Rumore di seracchi\",\"quotes\":[1]},{\"from\":22,\"label\":\"Via lontana dal ghiaccio\",\"quotes\":[1]},{\"from\":23,\"label\":\"Ghiaccio intorno alla via\",\"quotes\":[1]},{\"from\":24,\"label\":\"Nevaio alla base\",\"quotes\":[1]},{\"from\":25,\"label\":\"Serve la piccozza\",\"quotes\":[1]},{\"from\":26,\"label\":\"Via asciutta\",\"quotes\":[1]},{\"from\":27,\"label\":\"Tiri facili sulla carta\",\"quotes\":[1]},{\"from\":28,\"label\":\"Quota elevata, fatica\",\"quotes\":[1]},{\"from\":29,\"label\":\"Via ben attrezzata\",\"quotes\":[1]}],\"flags\":[{\"from\":1,\"label\":\"Catene delle soste nuove\",\"kind\":\"novita\",\"quotes\":[1]},{\"from\":2,\"label\":\"Due spit aggiunti sulla placca\",\"kind\":\"novita\",\"quotes\":[1]},{\"from\":3,\"label\":\"Scarica di sassi dal canale\",\"kind\":\"attenzione\",\"quotes\":[1]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2577,
+       "output_tokens": 2311,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    }
+   ],
+   "stepMs": {
+    "read": 36319,
+    "merge": 2436,
+    "check": 15596
+   },
+   "wallMs": 54352
+  }
+ ]
+}

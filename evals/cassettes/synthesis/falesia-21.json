@@ -1,0 +1,300 @@
+{
+ "case": "falesia-21",
+ "recordedAt": "2026-11-26T14:32:19.886Z",
+ "runs": [
+  {
+   "calls": [
+    {
+     "key": "39826e46a16a58218d3ebf014826971e",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 24710,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"reports\":[{\"report\":1,\"points\":[{\"label\":\"Parete in ottime condizioni\",\"quote\":\"Parete in condizioni ottime\"},{\"label\":\"Sole nel pomeriggio\",\"quote\":\"sole forte dalle due\"}],\"changes\":[{\"label\":\"Sentiero franato\",\"kind\":\"attenzione\",\"quote\":\"il sentiero era franato in un punto, segnalato con un cordino\"}]},{\"report\":2,\"points\":[{\"label\":\"Parete al sole\",\"quote\":\"tutta la parete in sole\"},{\"label\":\"Parcheggio limitato\",\"quote\":\"Chi arriva dopo le dieci non trova posto per l'auto\"},{\"label\":\"Piazzola più in basso\",\"quote\":\"la seconda piazzola più in basso, dieci minuti a piedi in più\"}],\"changes\":[]},{\"report\":3,\"points\":[{\"label\":\"Parcheggio spesso libero\",\"quote\":\"Il parcheggio era libero a metà giornata.\"},{\"label\":\"Vento nel pomeriggio\",\"quote\":\"il vento diventa fresco dalle tre\"}],\"changes\":[]},{\"report\":4,\"points\":[{\"label\":\"Settore Centrale\",\"quote\":\"abbiamo girato su tutto il Centrale\"},{\"label\":\"Dolce Attesa molto bella\",\"quote\":\"Il 6b della Dolce Attesa vale la giornata\"},{\"label\":\"Movimenti di incastro dei piedi\",\"quote\":\"spaccato dai movimenti a incastro dei piedi\"}],\"changes\":[]},{\"report\":5,\"points\":[{\"label\":\"Roccia con lichene\",\"quote\":\"la roccia era un po' sporca di lichene dopo l'inverno\"}],\"changes\":[]},{\"report\":6,\"points\":[{\"label\":\"Due vie nuove\",\"quote\":\"sono comparse due vie nuove alla destra dei Tetti\"}],\"changes\":[{\"label\":\"Due vie nuove a destra dei Tetti\",\"kind\":\"novita\",\"quote\":\"sono comparse due vie nuove alla destra dei Tetti\"}]},{\"report\":7,\"points\":[{\"label\":\"Adatta ai principianti\",\"quote\":\"Per i principianti questa falesia è l'ideale\"},{\"label\":\"Avvicinamento corto\",\"quote\":\"avvicinamento corto e gradi bassi\"},{\"label\":\"Gradi bassi\",\"quote\":\"gradi bassi\"},{\"label\":\"Soste con catena\",\"quote\":\"le soste con catena evitano i dubbi\"}],\"changes\":[]},{\"report\":8,\"points\":[{\"label\":\"Placche a sinistra facili\",\"quote\":\"Facili ma divertenti le placche a sinistra\"}],\"changes\":[]},{\"report\":9,\"points\":[{\"label\":\"Vie ben spittate\",\"quote\":\"Le vie sono ben spittate\"},{\"label\":\"Adatta a chi inizia\",\"quote\":\"ottimo sia per chi inizia\"},{\"label\":\"Adatta anche al 6c\",\"quote\":\"chi vuole fare un 6c senza ansia\"}],\"changes\":[]},{\"report\":10,\"points\":[{\"label\":\"Tetti richiedono forza\",\"quote\":\"Per fare le vie dei Tetti serve forza nelle dita\"},{\"label\":\"Mezzaluna dura\",\"quote\":\"la Mezzaluna fa male\"}],\"changes\":[]},{\"report\":11,\"points\":[{\"label\":\"Sosta sotto i Tetti pericolosa\",\"quote\":\"meglio non sostare lì sotto\"}],\"changes\":[{\"label\":\"Masso caduto alla base dei Tetti\",\"kind\":\"attenzione\",\"quote\":\"Alla base dei Tetti è caduto un grosso masso dal bordo\"}]},{\"report\":12,\"points\":[{\"label\":\"Sole fino al tramonto\",\"quote\":\"la parete prende il sole fino al tramonto\"},{\"label\":\"Quota che si sente\",\"quote\":\"la quota si sente\"}],\"changes\":[]},{\"report\":13,\"points\":[{\"label\":\"Il Gabbiano 7a\",\"quote\":\"Il Gabbiano, 7a corto ma molto bello\"},{\"label\":\"Tetto finale fisico\",\"quote\":\"con un tetto fisico finale\"},{\"label\":\"Soste con anello di calata\",\"quote\":\"Soste ottime con anello di calata\"}],\"changes\":[]},{\"report\":14,\"points\":[{\"label\":\"Ombra al mattino\",\"quote\":\"La mattina il pendio è in ombra\"},{\"label\":\"Sole pieno nel pomeriggio\",\"quote\":\"poi dalle due torna il sole pieno\"}],\"changes\":[]},{\"report\":15,\"points\":[{\"label\":\"Vista sulle valli\",\"quote\":\"vista sulle valli\"},{\"label\":\"Erba e fiori\",\"quote\":\"erba, fiori\"},{\"label\":\"Parcheggio lungo la strada\",\"quote\":\"Il parcheggio ormai è lungo la strada\"}],\"changes\":[]},{\"report\":16,\"points\":[{\"label\":\"Sole dal pomeriggio\",\"quote\":\"Il sole picchia dalle due\"},{\"label\":\"Ombra al mattino sui tetti\",\"quote\":\"meglio l'ombra del mattino sui tetti\"},{\"label\":\"Placche dure per il grado\",\"quote\":\"Le vie di placca sono dure per il grado\"},{\"label\":\"Placche 6a+ dure\",\"quote\":\"soprattutto la 6a+\"}],\"changes\":[]},{\"report\":17,\"points\":[{\"label\":\"Soste con maillon nuovi\",\"quote\":\"adesso ci sono maillon nuovi lucidi\"}],\"changes\":[{\"label\":\"Catene di sosta cambiate\",\"kind\":\"novita\",\"quote\":\"sulla sosta del Centrale hanno cambiato le catene\"}]},{\"report\":18,\"points\":[{\"label\":\"Zitto e Tira 6c\",\"quote\":\"Ho provato Zitto e Tira, 6c\"},{\"label\":\"Passo di blocco\",\"quote\":\"un passo di blocco al terzo rinvio\"},{\"label\":\"Quarzite bella\",\"quote\":\"Bella la quarzite quando è fredda\"}],\"changes\":[]},{\"report\":19,\"points\":[{\"label\":\"Settore Principianti\",\"quote\":\"siamo restati sul settore Principianti\"},{\"label\":\"Gradi 4a e 4b per iniziare\",\"quote\":\"il 4a e il 4b sono perfetti per iniziare\"},{\"label\":\"Piazzola piena presto\",\"quote\":\"La piazzola per l'auto era già piena alle dieci\"}],\"changes\":[]},{\"report\":20,\"points\":[{\"label\":\"Avvicinamento di dieci minuti\",\"quote\":\"Salita in una decina di minuti\"},{\"label\":\"Sole nel primo pomeriggio\",\"quote\":\"Il sole gira nel primo pomeriggio\"}],\"changes\":[]},{\"report\":21,\"points\":[{\"label\":\"Quota 1700 metri\",\"quote\":\"A 1700 metri\"},{\"label\":\"Quarzite piacevole\",\"quote\":\"la quarzite è un piacere\"},{\"label\":\"Aderenza e piccole tacche\",\"quote\":\"aderenza e piccole tacche\"},{\"label\":\"Vie del Centrale ben protette\",\"quote\":\"tutte ben protette\"}],\"changes\":[]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2953,
+       "output_tokens": 7110,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "33cb1e876698449610430200e057e348",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 16262,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"label\":\"Parete in ottime condizioni\",\"points\":[\"1.1\"]},{\"label\":\"Sole nel pomeriggio\",\"points\":[\"1.2\",\"14.2\",\"16.1\",\"20.2\"]},{\"label\":\"Parete al sole\",\"points\":[\"2.1\",\"12.1\"]},{\"label\":\"Parcheggio limitato\",\"points\":[\"2.2\",\"19.3\"]},{\"label\":\"Piazzola più in basso\",\"points\":[\"2.3\"]},{\"label\":\"Parcheggio spesso libero\",\"points\":[\"3.1\"]},{\"label\":\"Vento nel pomeriggio\",\"points\":[\"3.2\"]},{\"label\":\"Settore Centrale\",\"points\":[\"4.1\"]},{\"label\":\"Dolce Attesa molto bella\",\"points\":[\"4.2\"]},{\"label\":\"Movimenti di incastro dei piedi\",\"points\":[\"4.3\"]},{\"label\":\"Roccia con lichene\",\"points\":[\"5.1\"]},{\"label\":\"Due vie nuove a destra dei Tetti\",\"points\":[\"6.1\"]},{\"label\":\"Adatta ai principianti\",\"points\":[\"7.1\",\"9.2\"]},{\"label\":\"Avvicinamento corto\",\"points\":[\"7.2\",\"20.1\"]},{\"label\":\"Gradi bassi\",\"points\":[\"7.3\",\"19.2\"]},{\"label\":\"Soste con catena\",\"points\":[\"7.4\"]},{\"label\":\"Placche a sinistra facili\",\"points\":[\"8.1\"]},{\"label\":\"Vie ben spittate\",\"points\":[\"9.1\",\"21.4\"]},{\"label\":\"Adatta anche al 6c\",\"points\":[\"9.3\"]},{\"label\":\"Tetti richiedono forza\",\"points\":[\"10.1\"]},{\"label\":\"Mezzaluna dura\",\"points\":[\"10.2\"]},{\"label\":\"Sosta sotto i Tetti pericolosa\",\"points\":[\"11.1\"]},{\"label\":\"Quota che si sente\",\"points\":[\"12.2\",\"21.1\"]},{\"label\":\"Il Gabbiano 7a\",\"points\":[\"13.1\"]},{\"label\":\"Tetto finale fisico\",\"points\":[\"13.2\"]},{\"label\":\"Soste con anello di calata\",\"points\":[\"13.3\"]},{\"label\":\"Ombra al mattino\",\"points\":[\"14.1\",\"16.2\"]},{\"label\":\"Vista sulle valli\",\"points\":[\"15.1\"]},{\"label\":\"Erba e fiori\",\"points\":[\"15.2\"]},{\"label\":\"Parcheggio lungo la strada\",\"points\":[\"15.3\"]},{\"label\":\"Placche dure per il grado\",\"points\":[\"16.3\",\"16.4\"]},{\"label\":\"Soste con maillon nuovi\",\"points\":[\"17.1\"]},{\"label\":\"Zitto e Tira 6c\",\"points\":[\"18.1\"]},{\"label\":\"Passo di blocco\",\"points\":[\"18.2\"]},{\"label\":\"Quarzite piacevole\",\"points\":[\"18.3\",\"21.2\"]},{\"label\":\"Settore Principianti\",\"points\":[\"19.1\"]},{\"label\":\"Aderenza e piccole tacche\",\"points\":[\"21.3\"]}],\"flags\":[{\"label\":\"Sentiero franato\",\"kind\":\"attenzione\",\"changes\":[\"1.1\"]},{\"label\":\"Due vie nuove a destra dei Tetti\",\"kind\":\"novita\",\"changes\":[\"6.1\"]},{\"label\":\"Masso caduto alla base dei Tetti\",\"kind\":\"attenzione\",\"changes\":[\"11.1\"]},{\"label\":\"Catene di sosta cambiate\",\"kind\":\"novita\",\"changes\":[\"17.1\"]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2842,
+       "output_tokens": 4380,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "6d4583722250683413af29139e115a61",
+     "step": "merge",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 1429,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"groups\":[{\"label\":\"Parete al sole\",\"themes\":[2,3]},{\"label\":\"Soste con catena\",\"themes\":[16,26,32]},{\"label\":\"Adatta ai principianti\",\"themes\":[13,36]},{\"label\":\"Gradi bassi\",\"themes\":[15,17]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2435,
+       "output_tokens": 100,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "baeb107089988a73c71f6554cac251de",
+     "step": "check",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 15265,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"from\":1,\"label\":\"Parete in ottime condizioni\",\"quotes\":[1]},{\"from\":2,\"label\":\"Parete al sole\",\"quotes\":[1,2,3,4,5,6]},{\"from\":3,\"label\":\"Parcheggio limitato\",\"quotes\":[1,2]},{\"from\":4,\"label\":\"Piazzola più in basso\",\"quotes\":[1]},{\"from\":5,\"label\":\"Parcheggio spesso libero\",\"quotes\":[1]},{\"from\":6,\"label\":\"Vento nel pomeriggio\",\"quotes\":[1]},{\"from\":7,\"label\":\"Settore Centrale\",\"quotes\":[1]},{\"from\":8,\"label\":\"Dolce Attesa molto bella\",\"quotes\":[1]},{\"from\":9,\"label\":\"Movimenti di incastro dei piedi\",\"quotes\":[1]},{\"from\":10,\"label\":\"Roccia con lichene\",\"quotes\":[1]},{\"from\":11,\"label\":\"Due vie nuove a destra dei Tetti\",\"quotes\":[1]},{\"from\":12,\"label\":\"Adatta ai principianti\",\"quotes\":[1,2]},{\"from\":13,\"label\":\"Avvicinamento corto\",\"quotes\":[1,2]},{\"from\":14,\"label\":\"Gradi bassi\",\"quotes\":[1,2,3]},{\"from\":15,\"label\":\"Soste con catena\",\"quotes\":[1]},{\"from\":16,\"label\":\"Vie ben spittate\",\"quotes\":[1,2]},{\"from\":17,\"label\":\"Adatta anche al 6c\",\"quotes\":[1]},{\"from\":18,\"label\":\"Tetti richiedono forza\",\"quotes\":[1]},{\"from\":19,\"label\":\"Mezzaluna dura\",\"quotes\":[1]},{\"from\":20,\"label\":\"Sosta sotto i Tetti pericolosa\",\"quotes\":[1]},{\"from\":21,\"label\":\"Quota che si sente\",\"quotes\":[1]},{\"from\":22,\"label\":\"Il Gabbiano 7a\",\"quotes\":[1]},{\"from\":23,\"label\":\"Tetto finale fisico\",\"quotes\":[1]},{\"from\":24,\"label\":\"Ombra al mattino\",\"quotes\":[1,2]},{\"from\":25,\"label\":\"Vista sulle valli\",\"quotes\":[1]},{\"from\":26,\"label\":\"Erba e fiori\",\"quotes\":[1]},{\"from\":27,\"label\":\"Parcheggio lungo la strada\",\"quotes\":[1]},{\"from\":28,\"label\":\"Placche dure per il grado\",\"quotes\":[1]},{\"from\":29,\"label\":\"Zitto e Tira 6c\",\"quotes\":[1]},{\"from\":30,\"label\":\"Passo di blocco\",\"quotes\":[1]},{\"from\":31,\"label\":\"Quarzite piacevole\",\"quotes\":[1,2]},{\"from\":32,\"label\":\"Aderenza e piccole tacche\",\"quotes\":[1]}],\"flags\":[{\"from\":1,\"label\":\"Sentiero franato\",\"kind\":\"attenzione\",\"quotes\":[1]},{\"from\":2,\"label\":\"Due vie nuove a destra dei Tetti\",\"kind\":\"novita\",\"quotes\":[1]},{\"from\":3,\"label\":\"Masso caduto alla base dei Tetti\",\"kind\":\"attenzione\",\"quotes\":[1]},{\"from\":4,\"label\":\"Catene di sosta cambiate\",\"kind\":\"novita\",\"quotes\":[1]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2978,
+       "output_tokens": 2423,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    }
+   ],
+   "stepMs": {
+    "read": 40973,
+    "merge": 1430,
+    "check": 15265
+   },
+   "wallMs": 57668
+  },
+  {
+   "calls": [
+    {
+     "key": "39826e46a16a58218d3ebf014826971e",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 28166,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"reports\":[{\"report\":1,\"points\":[{\"label\":\"Sentiero franato in un punto\",\"quote\":\"il sentiero era franato in un punto, segnalato con un cordino\"},{\"label\":\"Parete in ottime condizioni\",\"quote\":\"Parete in condizioni ottime\"},{\"label\":\"Sole forte nel pomeriggio\",\"quote\":\"sole forte dalle due\"}],\"changes\":[{\"label\":\"Sentiero franato\",\"kind\":\"attenzione\",\"quote\":\"il sentiero era franato in un punto, segnalato con un cordino\"}]},{\"report\":2,\"points\":[{\"label\":\"Parete tutta al sole\",\"quote\":\"tutta la parete in sole\"},{\"label\":\"Parcheggio limitato\",\"quote\":\"Chi arriva dopo le dieci non trova posto per l'auto\"},{\"label\":\"Piazzola bassa a dieci minuti\",\"quote\":\"la seconda piazzola più in basso, dieci minuti a piedi in più\"}],\"changes\":[]},{\"report\":3,\"points\":[{\"label\":\"Vento fresco nel pomeriggio\",\"quote\":\"il vento diventa fresco dalle tre\"}],\"changes\":[]},{\"report\":4,\"points\":[{\"label\":\"Settore Centrale ricco di vie\",\"quote\":\"abbiamo girato su tutto il Centrale\"},{\"label\":\"Dolce Attesa 6b bella\",\"quote\":\"Il 6b della Dolce Attesa vale la giornata\"},{\"label\":\"Movimenti di incastro dei piedi\",\"quote\":\"spaccato dai movimenti a incastro dei piedi\"}],\"changes\":[]},{\"report\":5,\"points\":[{\"label\":\"Roccia con lichene\",\"quote\":\"la roccia era un po' sporca di lichene dopo l'inverno\"},{\"label\":\"Vie La Sorgente e Pane e Salame\",\"quote\":\"Ho fatto La Sorgente e Pane e Salame\"}],\"changes\":[]},{\"report\":6,\"points\":[{\"label\":\"Vie nuove a destra dei Tetti\",\"quote\":\"sono comparse due vie nuove alla destra dei Tetti\"},{\"label\":\"Fix ancora lucidi\",\"quote\":\"ancora con i fix lucidi\"}],\"changes\":[{\"label\":\"Due vie nuove\",\"kind\":\"novita\",\"quote\":\"sono comparse due vie nuove alla destra dei Tetti\"}]},{\"report\":7,\"points\":[{\"label\":\"Ideale per principianti\",\"quote\":\"per i principianti questa falesia è l'ideale\"},{\"label\":\"Avvicinamento corto\",\"quote\":\"avvicinamento corto\"},{\"label\":\"Gradi bassi\",\"quote\":\"gradi bassi\"},{\"label\":\"Soste a catena\",\"quote\":\"le soste con catena evitano i dubbi\"}],\"changes\":[]},{\"report\":8,\"points\":[{\"label\":\"Placche facili e divertenti\",\"quote\":\"Facili ma divertenti le placche a sinistra\"}],\"changes\":[]},{\"report\":9,\"points\":[{\"label\":\"Spittatura ben fatta\",\"quote\":\"Le vie sono ben spittate\"},{\"label\":\"Adatta a tutti i livelli\",\"quote\":\"ottimo sia per chi inizia sia per chi vuole fare un 6c\"}],\"changes\":[]},{\"report\":10,\"points\":[{\"label\":\"Tetti richiedono forza nelle dita\",\"quote\":\"Per fare le vie dei Tetti serve forza nelle dita\"},{\"label\":\"Mezzaluna dura\",\"quote\":\"la Mezzaluna fa male\"}],\"changes\":[]},{\"report\":11,\"points\":[{\"label\":\"Pericolo caduta massi ai Tetti\",\"quote\":\"Alla base dei Tetti è caduto un grosso masso dal bordo\"},{\"label\":\"Non sostare sotto i Tetti\",\"quote\":\"meglio non sostare lì sotto\"}],\"changes\":[{\"label\":\"Masso caduto alla base dei Tetti\",\"kind\":\"attenzione\",\"quote\":\"Alla base dei Tetti è caduto un grosso masso dal bordo\"}]},{\"report\":12,\"points\":[{\"label\":\"Parete al sole fino al tramonto\",\"quote\":\"la parete prende il sole fino al tramonto\"}],\"changes\":[]},{\"report\":13,\"points\":[{\"label\":\"Il Gabbiano 7a bello\",\"quote\":\"Abbiamo fatto Il Gabbiano, 7a corto ma molto bello\"},{\"label\":\"Tetto finale impegnativo\",\"quote\":\"con un tetto fisico finale\"},{\"label\":\"Soste con anello di calata\",\"quote\":\"Soste ottime con anello di calata\"}],\"changes\":[]},{\"report\":14,\"points\":[{\"label\":\"Pendio in ombra al mattino\",\"quote\":\"La mattina il pendio è in ombra\"},{\"label\":\"Sole pieno dal pomeriggio\",\"quote\":\"poi dalle due torna il sole pieno\"}],\"changes\":[]},{\"report\":15,\"points\":[{\"label\":\"Bella cornice con vista\",\"quote\":\"erba, fiori e vista sulle valli\"},{\"label\":\"Parcheggio lungo la strada\",\"quote\":\"Il parcheggio ormai è lungo la strada\"}],\"changes\":[]},{\"report\":16,\"points\":[{\"label\":\"Sole dalle due\",\"quote\":\"Il sole picchia dalle due\"},{\"label\":\"Tetti in ombra al mattino\",\"quote\":\"meglio l'ombra del mattino sui tetti quando c'è\"},{\"label\":\"Placche dure per il grado\",\"quote\":\"Le vie di placca sono dure per il grado, soprattutto la 6a+\"}],\"changes\":[]},{\"report\":17,\"points\":[{\"label\":\"Soste con catene nuove\",\"quote\":\"sulla sosta del Centrale hanno cambiato le catene, adesso ci sono maillon nuovi lucidi\"}],\"changes\":[{\"label\":\"Catene nuove sul Centrale\",\"kind\":\"novita\",\"quote\":\"sulla sosta del Centrale hanno cambiato le catene, adesso ci sono maillon nuovi lucidi\"}]},{\"report\":18,\"points\":[{\"label\":\"Zitto e Tira 6c\",\"quote\":\"Ho provato Zitto e Tira, 6c\"},{\"label\":\"Passo di blocco\",\"quote\":\"6c con un passo di blocco al terzo rinvio\"},{\"label\":\"Quarzite piacevole al freddo\",\"quote\":\"Bella la quarzite quando è fredda\"}],\"changes\":[]},{\"report\":19,\"points\":[{\"label\":\"Settore Principianti\",\"quote\":\"siamo restati sul settore Principianti\"},{\"label\":\"Gradi 4a-4b per iniziare\",\"quote\":\"il 4a e il 4b sono perfetti per iniziare\"},{\"label\":\"Piazzola piena presto\",\"quote\":\"La piazzola per l'auto era già piena alle dieci\"}],\"changes\":[]},{\"report\":20,\"points\":[{\"label\":\"Avvicinamento breve\",\"quote\":\"Salita in una decina di minuti\"},{\"label\":\"Sole gira nel primo pomeriggio\",\"quote\":\"Il sole gira nel primo pomeriggio\"}],\"changes\":[]},{\"report\":21,\"points\":[{\"label\":\"Quota fresca e piacevole\",\"quote\":\"A 1700 metri si stava benissimo\"},{\"label\":\"Quarzite piacevole\",\"quote\":\"la quarzite è un piacere\"},{\"label\":\"Aderenza e piccole tacche\",\"quote\":\"aderenza e piccole tacche\"},{\"label\":\"Vie del Centrale ben protette\",\"quote\":\"tutte ben protette\"}],\"changes\":[]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2953,
+       "output_tokens": 7277,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "35ea9f1b31287c88cb0b8d975d308483",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 18776,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"label\":\"Parete in ottime condizioni\",\"points\":[\"1.2\"]},{\"label\":\"Sentiero franato\",\"points\":[\"1.1\"]},{\"label\":\"Sole nel pomeriggio\",\"points\":[\"1.3\",\"14.2\",\"16.1\",\"20.2\"]},{\"label\":\"Parete al sole tutto il giorno\",\"points\":[\"2.1\",\"12.1\"]},{\"label\":\"Parcheggio limitato\",\"points\":[\"2.2\",\"19.3\"]},{\"label\":\"Piazzola bassa a dieci minuti\",\"points\":[\"2.3\"]},{\"label\":\"Vento fresco nel pomeriggio\",\"points\":[\"3.1\"]},{\"label\":\"Settore Centrale ricco di vie\",\"points\":[\"4.1\"]},{\"label\":\"Dolce Attesa 6b bella\",\"points\":[\"4.2\"]},{\"label\":\"Movimenti a incastro dei piedi\",\"points\":[\"4.3\"]},{\"label\":\"Roccia con lichene\",\"points\":[\"5.1\"]},{\"label\":\"Vie La Sorgente e Pane e Salame\",\"points\":[\"5.2\"]},{\"label\":\"Vie nuove a destra dei Tetti\",\"points\":[\"6.1\"]},{\"label\":\"Fix ancora lucidi\",\"points\":[\"6.2\"]},{\"label\":\"Ideale per principianti\",\"points\":[\"7.1\",\"19.2\"]},{\"label\":\"Avvicinamento corto\",\"points\":[\"7.2\",\"20.1\"]},{\"label\":\"Gradi bassi\",\"points\":[\"7.3\"]},{\"label\":\"Soste a catena\",\"points\":[\"7.4\",\"17.1\"]},{\"label\":\"Placche facili e divertenti\",\"points\":[\"8.1\"]},{\"label\":\"Spittatura ben fatta\",\"points\":[\"9.1\",\"21.4\"]},{\"label\":\"Adatta a tutti i livelli\",\"points\":[\"9.2\"]},{\"label\":\"Tetti richiedono forza nelle dita\",\"points\":[\"10.1\"]},{\"label\":\"Mezzaluna dura\",\"points\":[\"10.2\"]},{\"label\":\"Caduta massi ai Tetti\",\"points\":[\"11.1\",\"11.2\"]},{\"label\":\"Il Gabbiano 7a bello\",\"points\":[\"13.1\"]},{\"label\":\"Tetto finale impegnativo\",\"points\":[\"13.2\"]},{\"label\":\"Soste con anello di calata\",\"points\":[\"13.3\"]},{\"label\":\"Ombra al mattino\",\"points\":[\"14.1\",\"16.2\"]},{\"label\":\"Bella cornice con vista\",\"points\":[\"15.1\"]},{\"label\":\"Parcheggio lungo la strada\",\"points\":[\"15.2\"]},{\"label\":\"Placche dure per il grado\",\"points\":[\"16.3\"]},{\"label\":\"Zitto e Tira 6c\",\"points\":[\"18.1\"]},{\"label\":\"Passo di blocco\",\"points\":[\"18.2\"]},{\"label\":\"Quarzite piacevole\",\"points\":[\"18.3\",\"21.2\"]},{\"label\":\"Settore Principianti\",\"points\":[\"19.1\"]},{\"label\":\"Quota fresca e piacevole\",\"points\":[\"21.1\"]},{\"label\":\"Aderenza e piccole tacche\",\"points\":[\"21.3\"]}],\"flags\":[{\"label\":\"Sentiero franato\",\"kind\":\"attenzione\",\"changes\":[\"1.1\"]},{\"label\":\"Due vie nuove\",\"kind\":\"novita\",\"changes\":[\"6.1\"]},{\"label\":\"Masso caduto alla base dei Tetti\",\"kind\":\"attenzione\",\"changes\":[\"11.1\"]},{\"label\":\"Catene nuove sul Centrale\",\"kind\":\"novita\",\"changes\":[\"17.1\"]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2988,
+       "output_tokens": 5144,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "ded9fd40e682d88241d33ac3538ba7ab",
+     "step": "merge",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 6005,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"groups\":[{\"label\":\"Sole nel pomeriggio\",\"themes\":[3]},{\"label\":\"Parcheggio limitato\",\"themes\":[5,30]},{\"label\":\"Ideale per principianti\",\"themes\":[15,21]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2542,
+       "output_tokens": 415,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "6499ad21007f90dace5b9dcc51f13cee",
+     "step": "check",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 17676,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"from\":1,\"label\":\"Parete in ottime condizioni\",\"quotes\":[1]},{\"from\":2,\"label\":\"Sentiero franato\",\"quotes\":[1]},{\"from\":3,\"label\":\"Sole nel pomeriggio\",\"quotes\":[1,2,3,4]},{\"from\":4,\"label\":\"Parete al sole tutto il giorno\",\"quotes\":[1]},{\"from\":5,\"label\":\"Parcheggio limitato\",\"quotes\":[1,3]},{\"from\":6,\"label\":\"Piazzola bassa a dieci minuti\",\"quotes\":[1]},{\"from\":7,\"label\":\"Vento fresco nel pomeriggio\",\"quotes\":[1]},{\"from\":9,\"label\":\"Dolce Attesa 6b bella\",\"quotes\":[1]},{\"from\":10,\"label\":\"Movimenti a incastro dei piedi\",\"quotes\":[1]},{\"from\":11,\"label\":\"Roccia con lichene\",\"quotes\":[1]},{\"from\":12,\"label\":\"La Sorgente\",\"quotes\":[1]},{\"from\":12,\"label\":\"Pane e Salame\",\"quotes\":[1]},{\"from\":13,\"label\":\"Vie nuove a destra dei Tetti\",\"quotes\":[1]},{\"from\":14,\"label\":\"Fix ancora lucidi\",\"quotes\":[1]},{\"from\":15,\"label\":\"Ideale per principianti\",\"quotes\":[1,2]},{\"from\":16,\"label\":\"Avvicinamento corto\",\"quotes\":[1,2]},{\"from\":17,\"label\":\"Gradi bassi\",\"quotes\":[1]},{\"from\":18,\"label\":\"Soste a catena\",\"quotes\":[1,2]},{\"from\":19,\"label\":\"Placche facili e divertenti\",\"quotes\":[1]},{\"from\":20,\"label\":\"Spittatura ben fatta\",\"quotes\":[1,2]},{\"from\":21,\"label\":\"Tetti richiedono forza nelle dita\",\"quotes\":[1]},{\"from\":22,\"label\":\"Mezzaluna dura\",\"quotes\":[1]},{\"from\":23,\"label\":\"Caduta massi ai Tetti\",\"quotes\":[1]},{\"from\":24,\"label\":\"Il Gabbiano 7a bello\",\"quotes\":[1]},{\"from\":25,\"label\":\"Tetto finale impegnativo\",\"quotes\":[1]},{\"from\":26,\"label\":\"Soste con anello di calata\",\"quotes\":[1]},{\"from\":27,\"label\":\"Ombra al mattino\",\"quotes\":[1,2]},{\"from\":28,\"label\":\"Bella cornice con vista\",\"quotes\":[1]},{\"from\":29,\"label\":\"Placche dure per il grado\",\"quotes\":[1]},{\"from\":30,\"label\":\"Zitto e Tira 6c\",\"quotes\":[1]},{\"from\":31,\"label\":\"Passo di blocco\",\"quotes\":[1]},{\"from\":32,\"label\":\"Quarzite piacevole\",\"quotes\":[1,2]},{\"from\":33,\"label\":\"Settore Principianti\",\"quotes\":[1]},{\"from\":35,\"label\":\"Aderenza e piccole tacche\",\"quotes\":[1]}],\"flags\":[{\"from\":1,\"label\":\"Sentiero franato\",\"kind\":\"attenzione\",\"quotes\":[1]},{\"from\":2,\"label\":\"Due vie nuove\",\"kind\":\"novita\",\"quotes\":[1]},{\"from\":3,\"label\":\"Masso caduto alla base dei Tetti\",\"kind\":\"attenzione\",\"quotes\":[1]},{\"from\":4,\"label\":\"Catene nuove sul Centrale\",\"kind\":\"novita\",\"quotes\":[1]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 3135,
+       "output_tokens": 2705,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    }
+   ],
+   "stepMs": {
+    "read": 46943,
+    "merge": 6005,
+    "check": 17676
+   },
+   "wallMs": 70625
+  },
+  {
+   "calls": [
+    {
+     "key": "39826e46a16a58218d3ebf014826971e",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 24240,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"reports\":[{\"report\":1,\"points\":[{\"label\":\"Parete in ottime condizioni\",\"quote\":\"Parete in condizioni ottime\"},{\"label\":\"Sole forte dal pomeriggio\",\"quote\":\"sole forte dalle due\"}],\"changes\":[{\"label\":\"Sentiero franato\",\"kind\":\"attenzione\",\"quote\":\"il sentiero era franato in un punto, segnalato con un cordino\"}]},{\"report\":2,\"points\":[{\"label\":\"Parete tutta al sole\",\"quote\":\"tutta la parete in sole\"},{\"label\":\"Parcheggio scarso al mattino\",\"quote\":\"Chi arriva dopo le dieci non trova posto per l'auto\"},{\"label\":\"Piazzola bassa a dieci minuti\",\"quote\":\"la seconda piazzola più in basso, dieci minuti a piedi in più\"}],\"changes\":[]},{\"report\":3,\"points\":[{\"label\":\"Vento fresco dal pomeriggio\",\"quote\":\"il vento diventa fresco dalle tre\"},{\"label\":\"Parcheggio libero\",\"quote\":\"Il parcheggio era libero a metà giornata\"}],\"changes\":[]},{\"report\":4,\"points\":[{\"label\":\"Dolce Attesa 6b bella\",\"quote\":\"Il 6b della Dolce Attesa vale la giornata\"},{\"label\":\"Movimenti di incastro dei piedi\",\"quote\":\"spaccato dai movimenti a incastro dei piedi\"}],\"changes\":[]},{\"report\":5,\"points\":[{\"label\":\"Lichene sul Centrale\",\"quote\":\"la roccia era un po' sporca di lichene\"}],\"changes\":[]},{\"report\":6,\"points\":[{\"label\":\"Vie nuove a destra dei Tetti\",\"quote\":\"sono comparse due vie nuove alla destra dei Tetti\"}],\"changes\":[{\"label\":\"Due vie nuove\",\"kind\":\"novita\",\"quote\":\"sono comparse due vie nuove alla destra dei Tetti\"}]},{\"report\":7,\"points\":[{\"label\":\"Adatta ai principianti\",\"quote\":\"Per i principianti questa falesia è l'ideale\"},{\"label\":\"Avvicinamento corto\",\"quote\":\"avvicinamento corto e gradi bassi\"},{\"label\":\"Gradi bassi\",\"quote\":\"gradi bassi\"},{\"label\":\"Soste con catena\",\"quote\":\"le soste con catena evitano i dubbi\"}],\"changes\":[]},{\"report\":8,\"points\":[{\"label\":\"Placche a sinistra facili\",\"quote\":\"Facili ma divertenti le placche a sinistra\"}],\"changes\":[]},{\"report\":9,\"points\":[{\"label\":\"Vie ben spittate\",\"quote\":\"Le vie sono ben spittate\"},{\"label\":\"Adatta a vari livelli\",\"quote\":\"ottimo sia per chi inizia sia per chi vuole fare un 6c senza ansia\"}],\"changes\":[]},{\"report\":10,\"points\":[{\"label\":\"Tetti richiedono forza\",\"quote\":\"Per fare le vie dei Tetti serve forza nelle dita\"},{\"label\":\"Mezzaluna dura\",\"quote\":\"la Mezzaluna fa male\"}],\"changes\":[]},{\"report\":11,\"points\":[{\"label\":\"Pericolo caduta sassi\",\"quote\":\"meglio non sostare lì sotto\"}],\"changes\":[{\"label\":\"Masso caduto ai Tetti\",\"kind\":\"attenzione\",\"quote\":\"Alla base dei Tetti è caduto un grosso masso dal bordo\"}]},{\"report\":12,\"points\":[{\"label\":\"Sole fino al tramonto\",\"quote\":\"la parete prende il sole fino al tramonto\"},{\"label\":\"Quota fredda\",\"quote\":\"la quota si sente\"}],\"changes\":[]},{\"report\":13,\"points\":[{\"label\":\"Il Gabbiano 7a bello\",\"quote\":\"Il Gabbiano, 7a corto ma molto bello\"},{\"label\":\"Tiro corto\",\"quote\":\"7a corto\"},{\"label\":\"Tetto fisico finale\",\"quote\":\"con un tetto fisico finale\"},{\"label\":\"Soste ottime\",\"quote\":\"Soste ottime\"},{\"label\":\"Anelli di calata\",\"quote\":\"anello di calata\"}],\"changes\":[]},{\"report\":14,\"points\":[{\"label\":\"Ombra al mattino\",\"quote\":\"La mattina il pendio è in ombra\"},{\"label\":\"Sole pieno dalle due\",\"quote\":\"dalle due torna il sole pieno\"}],\"changes\":[]},{\"report\":15,\"points\":[{\"label\":\"Erba, fiori e vista\",\"quote\":\"erba, fiori e vista sulle valli\"},{\"label\":\"Parcheggio lungo la strada\",\"quote\":\"Il parcheggio ormai è lungo la strada\"}],\"changes\":[]},{\"report\":16,\"points\":[{\"label\":\"Sole dalle due\",\"quote\":\"Il sole picchia dalle due\"},{\"label\":\"Ombra al mattino sui tetti\",\"quote\":\"meglio l'ombra del mattino sui tetti\"},{\"label\":\"Placche dure per il grado\",\"quote\":\"Le vie di placca sono dure per il grado\"}],\"changes\":[]},{\"report\":17,\"points\":[{\"label\":\"Catene nuove al Centrale\",\"quote\":\"hanno cambiato le catene, adesso ci sono maillon nuovi lucidi\"}],\"changes\":[{\"label\":\"Catene rinnovate al Centrale\",\"kind\":\"novita\",\"quote\":\"hanno cambiato le catene, adesso ci sono maillon nuovi lucidi\"}]},{\"report\":18,\"points\":[{\"label\":\"Zitto e Tira 6c\",\"quote\":\"Ho provato Zitto e Tira, 6c\"},{\"label\":\"Passo di blocco\",\"quote\":\"un passo di blocco al terzo rinvio\"},{\"label\":\"Quarzite bella\",\"quote\":\"Bella la quarzite quando è fredda\"}],\"changes\":[]},{\"report\":19,\"points\":[{\"label\":\"Settore principianti\",\"quote\":\"siamo restati sul settore Principianti\"},{\"label\":\"Gradi 4a e 4b per iniziare\",\"quote\":\"il 4a e il 4b sono perfetti per iniziare\"},{\"label\":\"Piazzola piena alle dieci\",\"quote\":\"La piazzola per l'auto era già piena alle dieci\"}],\"changes\":[]},{\"report\":20,\"points\":[{\"label\":\"Avvicinamento di dieci minuti\",\"quote\":\"Salita in una decina di minuti\"},{\"label\":\"Sole nel primo pomeriggio\",\"quote\":\"Il sole gira nel primo pomeriggio\"}],\"changes\":[]},{\"report\":21,\"points\":[{\"label\":\"Quota 1700 metri\",\"quote\":\"A 1700 metri\"},{\"label\":\"Quarzite con aderenza\",\"quote\":\"aderenza e piccole tacche\"},{\"label\":\"Piccole tacche\",\"quote\":\"piccole tacche\"},{\"label\":\"Centrale ben protetto\",\"quote\":\"tutte ben protette\"}],\"changes\":[]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2953,
+       "output_tokens": 6888,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "da19b7946aa256c06c97bfb82a2535d6",
+     "step": "read",
+     "model": "claude-haiku-5-5",
+     "latencyMs": 19903,
+     "message": {
+      "model": "claude-haiku-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"label\":\"Parete in ottime condizioni\",\"points\":[\"1.1\"]},{\"label\":\"Sole dal pomeriggio\",\"points\":[\"1.2\",\"14.2\",\"16.1\",\"20.2\"]},{\"label\":\"Parete tutta al sole\",\"points\":[\"2.1\"]},{\"label\":\"Parcheggio scarso al mattino\",\"points\":[\"2.2\",\"19.3\"]},{\"label\":\"Piazzola bassa a dieci minuti\",\"points\":[\"2.3\"]},{\"label\":\"Vento fresco dal pomeriggio\",\"points\":[\"3.1\"]},{\"label\":\"Parcheggio libero a metà giornata\",\"points\":[\"3.2\"]},{\"label\":\"Dolce Attesa 6b bella\",\"points\":[\"4.1\"]},{\"label\":\"Movimenti a incastro dei piedi\",\"points\":[\"4.2\"]},{\"label\":\"Roccia sporca di lichene\",\"points\":[\"5.1\"]},{\"label\":\"Vie nuove a destra dei Tetti\",\"points\":[\"6.1\"]},{\"label\":\"Adatta ai principianti\",\"points\":[\"7.1\",\"19.1\",\"19.2\"]},{\"label\":\"Avvicinamento corto\",\"points\":[\"7.2\",\"20.1\"]},{\"label\":\"Gradi bassi\",\"points\":[\"7.3\"]},{\"label\":\"Soste ottime\",\"points\":[\"7.4\",\"13.4\"]},{\"label\":\"Placche a sinistra facili\",\"points\":[\"8.1\"]},{\"label\":\"Vie ben protette\",\"points\":[\"9.1\",\"21.4\"]},{\"label\":\"Adatta a vari livelli\",\"points\":[\"9.2\"]},{\"label\":\"Tetti richiedono forza\",\"points\":[\"10.1\"]},{\"label\":\"Mezzaluna dura\",\"points\":[\"10.2\"]},{\"label\":\"Pericolo caduta sassi\",\"points\":[\"11.1\"]},{\"label\":\"Sole fino al tramonto\",\"points\":[\"12.1\"]},{\"label\":\"Quota elevata\",\"points\":[\"12.2\",\"21.1\"]},{\"label\":\"Tiro corto 7a\",\"points\":[\"13.1\",\"13.2\"]},{\"label\":\"Tetto fisico finale\",\"points\":[\"13.3\"]},{\"label\":\"Anelli di calata\",\"points\":[\"13.5\"]},{\"label\":\"Ombra al mattino\",\"points\":[\"14.1\",\"16.2\"]},{\"label\":\"Erba, fiori e vista\",\"points\":[\"15.1\"]},{\"label\":\"Parcheggio lungo la strada\",\"points\":[\"15.2\"]},{\"label\":\"Placche dure per il grado\",\"points\":[\"16.3\"]},{\"label\":\"Catene nuove al Centrale\",\"points\":[\"17.1\"]},{\"label\":\"Zitto e Tira 6c\",\"points\":[\"18.1\"]},{\"label\":\"Passo di blocco\",\"points\":[\"18.2\"]},{\"label\":\"Quarzite bella\",\"points\":[\"18.3\"]},{\"label\":\"Piccole tacche\",\"points\":[\"21.2\",\"21.3\"]}],\"flags\":[{\"label\":\"Sentiero franato\",\"kind\":\"attenzione\",\"changes\":[\"1.1\"]},{\"label\":\"Due vie nuove\",\"kind\":\"novita\",\"changes\":[\"6.1\"]},{\"label\":\"Masso caduto ai Tetti\",\"kind\":\"attenzione\",\"changes\":[\"11.1\"]},{\"label\":\"Catene rinnovate al Centrale\",\"kind\":\"novita\",\"changes\":[\"17.1\"]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2785,
+       "output_tokens": 5226,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "6e945b869609e1089b7284dffe1dc246",
+     "step": "merge",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 2113,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"groups\":[{\"label\":\"Sole dal pomeriggio\",\"themes\":[2,22]},{\"label\":\"Avvicinamento corto\",\"themes\":[13]},{\"label\":\"Vie ben protette\",\"themes\":[17]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2365,
+       "output_tokens": 78,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    },
+    {
+     "key": "5121008fa84d3f600b9052c6f3fc846b",
+     "step": "check",
+     "model": "claude-sonnet-5-5",
+     "latencyMs": 17006,
+     "message": {
+      "model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "content": [
+       {
+        "type": "text",
+        "text": "{\"themes\":[{\"from\":1,\"label\":\"Parete in ottime condizioni\",\"quotes\":[1]},{\"from\":2,\"label\":\"Sole dal pomeriggio\",\"quotes\":[1,3,4,5]},{\"from\":3,\"label\":\"Parete tutta al sole\",\"quotes\":[1]},{\"from\":4,\"label\":\"Parcheggio scarso al mattino\",\"quotes\":[1,2]},{\"from\":5,\"label\":\"Piazzola bassa a dieci minuti\",\"quotes\":[1]},{\"from\":6,\"label\":\"Vento fresco dal pomeriggio\",\"quotes\":[1]},{\"from\":7,\"label\":\"Parcheggio libero a metà giornata\",\"quotes\":[1]},{\"from\":8,\"label\":\"Dolce Attesa 6b bella\",\"quotes\":[1]},{\"from\":9,\"label\":\"Movimenti a incastro dei piedi\",\"quotes\":[1]},{\"from\":10,\"label\":\"Roccia sporca di lichene\",\"quotes\":[1]},{\"from\":11,\"label\":\"Vie nuove a destra dei Tetti\",\"quotes\":[1]},{\"from\":12,\"label\":\"Adatta ai principianti\",\"quotes\":[1]},{\"from\":13,\"label\":\"Avvicinamento corto\",\"quotes\":[1,2]},{\"from\":14,\"label\":\"Gradi bassi\",\"quotes\":[1]},{\"from\":15,\"label\":\"Soste ottime\",\"quotes\":[1,2]},{\"from\":16,\"label\":\"Placche a sinistra facili\",\"quotes\":[1]},{\"from\":17,\"label\":\"Vie ben protette\",\"quotes\":[1,2]},{\"from\":18,\"label\":\"Adatta a vari livelli\",\"quotes\":[1]},{\"from\":19,\"label\":\"Tetti richiedono forza\",\"quotes\":[1]},{\"from\":20,\"label\":\"Mezzaluna dura\",\"quotes\":[1]},{\"from\":21,\"label\":\"Pericolo caduta sassi\",\"quotes\":[1]},{\"from\":22,\"label\":\"Quota elevata\",\"quotes\":[1,2]},{\"from\":23,\"label\":\"Tiro corto 7a\",\"quotes\":[1]},{\"from\":24,\"label\":\"Tetto fisico finale\",\"quotes\":[1]},{\"from\":25,\"label\":\"Anelli di calata\",\"quotes\":[1]},{\"from\":26,\"label\":\"Ombra al mattino\",\"quotes\":[1,2]},{\"from\":27,\"label\":\"Erba, fiori e vista\",\"quotes\":[1]},{\"from\":28,\"label\":\"Parcheggio lungo la strada\",\"quotes\":[1]},{\"from\":29,\"label\":\"Placche dure per il grado\",\"quotes\":[1]},{\"from\":30,\"label\":\"Catene nuove al Centrale\",\"quotes\":[1]},{\"from\":31,\"label\":\"Zitto e Tira 6c\",\"quotes\":[1]},{\"from\":32,\"label\":\"Passo di blocco\",\"quotes\":[1]},{\"from\":33,\"label\":\"Quarzite bella\",\"quotes\":[1]},{\"from\":34,\"label\":\"Piccole tacche\",\"quotes\":[1]}],\"flags\":[{\"from\":1,\"label\":\"Sentiero franato\",\"kind\":\"attenzione\",\"quotes\":[1]},{\"from\":2,\"label\":\"Due vie nuove\",\"kind\":\"novita\",\"quotes\":[1]},{\"from\":3,\"label\":\"Masso caduto ai Tetti\",\"kind\":\"attenzione\",\"quotes\":[1]},{\"from\":4,\"label\":\"Catene rinnovate al Centrale\",\"kind\":\"novita\",\"quotes\":[1]}]}"
+       }
+      ],
+      "usage": {
+       "input_tokens": 2951,
+       "output_tokens": 2659,
+       "cache_creation_input_tokens": 0,
+       "cache_read_input_tokens": 0
+      }
+     }
+    }
+   ],
+   "stepMs": {
+    "read": 44144,
+    "merge": 2113,
+    "check": 17006
+   },
+   "wallMs": 63264
+  }
+ ]
+}

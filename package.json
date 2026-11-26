@@ -11,6 +11,7 @@
     "guard": "node --disable-warning=ExperimentalWarning scripts/guard/check.ts --tree",
     "test": "node --test --disable-warning=ExperimentalWarning 'tests/**/*.test.ts'",
     "typecheck": "tsc --noEmit",
+    "eval": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning evals/run.ts",
     "db:migrate": "node --disable-warning=ExperimentalWarning db/migrate.ts",
     "seed": "node --disable-warning=ExperimentalWarning src/seed/seed.ts",
     "start": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning src/app/server.ts",

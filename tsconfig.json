@@ -16,5 +16,5 @@
     // This only skips checking .d.ts files, never this project's own source.
     "skipLibCheck": true
   },
-  "include": ["src/**/*.ts", "db/**/*.ts", "tests/**/*.ts"]
+  "include": ["src/**/*.ts", "db/**/*.ts", "tests/**/*.ts", "evals/**/*.ts"]
 }

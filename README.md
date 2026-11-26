@@ -108,6 +108,35 @@ Every database test builds its own SQLite database in memory. The suite includes
 deploy itself: it builds the demo, serves it, visits every page a visitor can reach and checks
 what comes back.
 
+## Evals
+
+The tests check the code around the model; the evals check what the model reads. For now they
+cover one task, the one every route page shows: reading a route's reports into shared themes
+and lasting changes.
+
+```bash
+npm run eval                         # replays recorded answers: no key, no network, nothing installed
+npm run eval -- --live --repeat 3    # asks the API three times a case, records, prints the cost
+npm run eval -- --save-baseline      # keeps this run as the one later runs are compared with
+```
+
+Each case is a route's reports with what a careful reader draws from them, quote by quote:
+six places of the demo, whose writer planted a reading beside every report, and two routes
+written to be hard (typos, dialect, irony, opposites, the weather of the day, a change that
+is not one). The reports go through the app's own reading, and each step — the first
+reading, the merge, the check — is scored on what it found: shared themes found, themes
+matching an expected one, how far the count of reports is off, themes split or bundled,
+quotes taken from the weather, changes found and of the right kind, with the cost and time
+of every call. A found theme is matched to an expected one by the words it quotes, never by
+its name. The report, `evals/out/synthesis.md`, compares every measure with the baseline in
+`evals/synthesis/baseline.json`.
+
+Replay checks the scoring and everything the app does after the model, for free. Only a live
+run measures the model: a recorded answer is found again by a hash of the whole request, so
+after a prompt is edited the cases it touches are reported stale, never scored on an older
+prompt's answers. Record them again with `--live`, which is also the way to compare two
+prompts or two models.
+
 ## Layout
 
 ```
@@ -121,6 +150,7 @@ src/seed/      the seed data sets and the shared gazetteer
 db/migrations/ numbered .sql files, applied once, in order
 public/        the stylesheet, the browser scripts, the self-hosted map library
 tests/         one file per module
+evals/         the model's work scored on fixed cases, with recorded answers to replay
 ```
 
 ## Licence

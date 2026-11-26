@@ -1,0 +1,10 @@
+[
+  { "id": "falesia-55", "demo": "n8090536385" },
+  { "id": "falesia-21", "demo": "w709669781" },
+  { "id": "via-ferrata-18", "demo": "w1414715334" },
+  { "id": "sci-alpinismo-17", "demo": "w914671399" },
+  { "id": "multipitch-16", "demo": "n11035643613" },
+  { "id": "escursionismo-16", "demo": "r11993823" },
+  { "id": "trap-falesia", "trap": "traps/falesia.json" },
+  { "id": "trap-multipitch", "trap": "traps/multipitch.json" }
+]
